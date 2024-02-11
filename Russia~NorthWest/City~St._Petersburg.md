@@ -14,6 +14,8 @@ tags:
 - geo/Country/Region
 aliases:
 - City~St._Petersburg
+- Petrograd 
+- Leningrad 
 
 Languages:
 - de

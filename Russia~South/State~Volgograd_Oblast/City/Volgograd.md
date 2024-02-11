@@ -5,7 +5,8 @@ mapmarker: city
 type: City
 tags:
 - geo/City
-
+aliases: 
+- Stalingrad 
 
 SpocWebEntityId: 37123
 isDeleted: false
