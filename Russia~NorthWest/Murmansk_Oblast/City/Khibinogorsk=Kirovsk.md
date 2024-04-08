@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::33.65] 
-[geo-lat::67.57] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::33.65] 
+[has_place_latitude::67.57] 
 [name::Khibinogorsk=Kirovsk] 
 State ::  
 Country :: [[Russia]]  

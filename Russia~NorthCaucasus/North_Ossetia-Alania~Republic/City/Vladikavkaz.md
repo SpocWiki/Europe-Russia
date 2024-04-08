@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::44.65] 
-[geo-lat::43.01667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::44.65] 
+[has_place_latitude::43.01667] 
 [name::Vladikavkaz] 
 State ::  
 Country :: [[Russia]]  

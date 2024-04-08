@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::45.4] 
-[geo-lat::50.08] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::45.4] 
+[has_place_latitude::50.08] 
 [name::Kamyschin] 
 State ::  
 Country :: [[Russia]]  

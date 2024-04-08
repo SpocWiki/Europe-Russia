@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::37.83] 
-[geo-lat::44.73] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::37.83] 
+[has_place_latitude::44.73] 
 [name::Noworossijsk] 
 State ::  
 Country :: [[Russia]]  

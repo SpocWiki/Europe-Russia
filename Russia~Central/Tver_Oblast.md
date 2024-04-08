@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Twer=Kalinin]]  
-[geo-lon::36] 
-[geo-lat::56.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::36] 
+[has_place_latitude::56.87] 
 [Population::] 
 
 

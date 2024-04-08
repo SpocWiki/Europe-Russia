@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::36.55] 
-[geo-lat::66.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::36.55] 
+[has_place_latitude::66.75] 
 [name::Umba] 
 State ::  
 Country :: [[Russia]]  

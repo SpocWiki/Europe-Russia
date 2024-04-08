@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::43.2] 
-[geo-lat::54.63] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::43.2] 
+[has_place_latitude::54.63] 
 [name::Temmikof] 
 State ::  
 Country :: [[Russia]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::21.28] 
-[geo-lat::55.2] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::21.28] 
+[has_place_latitude::55.2] 
 [name::Karkeln] 
 State ::  
 Country :: [[Russia]]  

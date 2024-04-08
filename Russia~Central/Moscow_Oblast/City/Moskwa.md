@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::37.57] 
-[geo-lat::55.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::37.57] 
+[has_place_latitude::55.75] 
 [name::Moskwa] 
 State ::  
 Country :: [[Russia]]  

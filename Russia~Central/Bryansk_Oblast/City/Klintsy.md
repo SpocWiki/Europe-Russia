@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::32.27] 
-[geo-lat::52.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::32.27] 
+[has_place_latitude::52.75] 
 [name::Klintsy] 
 State ::  
 Country :: [[Russia]]  

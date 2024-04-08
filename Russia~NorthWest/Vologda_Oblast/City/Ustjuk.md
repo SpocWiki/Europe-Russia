@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::46.3] 
-[geo-lat::60.77] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::46.3] 
+[has_place_latitude::60.77] 
 [name::Ustjuk] 
 State ::  
 Country :: [[Russia]]  

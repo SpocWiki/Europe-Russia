@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Stavropol]]  
-[geo-lon::41.9833] 
-[geo-lat::45.05] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::41.9833] 
+[has_place_latitude::45.05] 
 [Population::] 
 
 

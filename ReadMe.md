@@ -150,8 +150,10 @@ Capital :: [[Moskwa]]
 ![[Flag_of_Russia.svg|350]] 
 [Alcohol-l::15.8] 
 [Language-Id::469] 
-[geo-lon::47.4574] 
-[geo-lat::52.6418] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::47.4574] 
+[has_place_latitude::52.6418] 
 
 
 

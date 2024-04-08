@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::29.9] 
-[geo-lat::59.88] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::29.9] 
+[has_place_latitude::59.88] 
 [name::Petrovorets] 
 State ::  
 Country :: [[Russia]]  

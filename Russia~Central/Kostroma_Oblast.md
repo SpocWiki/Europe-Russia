@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Kostroma]]  
-[geo-lon::40.93] 
-[geo-lat::57.77] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::40.93] 
+[has_place_latitude::57.77] 
 [Population::] 
 
 

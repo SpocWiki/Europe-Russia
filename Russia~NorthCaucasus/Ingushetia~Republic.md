@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Magas]]  
-[geo-lon::44.8167] 
-[geo-lat::43.1667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::44.8167] 
+[has_place_latitude::43.1667] 
 [Population::] 
 
 

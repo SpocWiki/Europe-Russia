@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.2] 
-[geo-lat::54.58] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::22.2] 
+[has_place_latitude::54.58] 
 [name::Gumbinnen] 
 State ::  
 Country :: [[Russia]]  

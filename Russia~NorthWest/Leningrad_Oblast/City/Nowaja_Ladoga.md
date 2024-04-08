@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::32.32] 
-[geo-lat::60.12] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::32.32] 
+[has_place_latitude::60.12] 
 [name::Nowaja Ladoga] 
 State ::  
 Country :: [[Russia]]  

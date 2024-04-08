@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Nizhny_Novgorod]]  
-[geo-lon::44] 
-[geo-lat::56.3333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::44] 
+[has_place_latitude::56.3333] 
 [Population::] 
 
 

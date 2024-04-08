@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Archangelsk]]  
-[geo-lon::40.57] 
-[geo-lat::64.53] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::40.57] 
+[has_place_latitude::64.53] 
 [Population::] 
 
 

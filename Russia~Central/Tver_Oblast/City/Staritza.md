@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::34.93] 
-[geo-lat::56.52] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::34.93] 
+[has_place_latitude::56.52] 
 [name::Staritza] 
 State ::  
 Country :: [[Russia]]  

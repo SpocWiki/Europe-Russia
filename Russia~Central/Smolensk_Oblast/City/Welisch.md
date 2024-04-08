@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::31.2] 
-[geo-lat::55.62] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::31.2] 
+[has_place_latitude::55.62] 
 [name::Welisch] 
 State ::  
 Country :: [[Russia]]  

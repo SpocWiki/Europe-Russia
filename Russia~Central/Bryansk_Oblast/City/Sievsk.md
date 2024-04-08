@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::34.5] 
-[geo-lat::52.15] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::34.5] 
+[has_place_latitude::52.15] 
 [name::Sievsk] 
 State ::  
 Country :: [[Russia]]  

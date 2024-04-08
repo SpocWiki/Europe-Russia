@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Oryol]]  
-[geo-lon::36.0667] 
-[geo-lat::52.9667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::36.0667] 
+[has_place_latitude::52.9667] 
 [Population::] 
 
 

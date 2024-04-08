@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::40.47] 
-[geo-lat::64.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::40.47] 
+[has_place_latitude::64.87] 
 [name::Novadoniskaia] 
 State ::  
 Country :: [[Russia]]  

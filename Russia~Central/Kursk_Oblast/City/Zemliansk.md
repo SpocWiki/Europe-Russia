@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::38.4] 
-[geo-lat::51.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::38.4] 
+[has_place_latitude::51.9] 
 [name::Zemliansk] 
 State ::  
 Country :: [[Russia]]  

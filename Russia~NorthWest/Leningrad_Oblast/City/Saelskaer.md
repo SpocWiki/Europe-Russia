@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::35] 
-[geo-lat::60.42] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::35] 
+[has_place_latitude::60.42] 
 [name::Saelskaer] 
 State ::  
 Country :: [[Finland]]  

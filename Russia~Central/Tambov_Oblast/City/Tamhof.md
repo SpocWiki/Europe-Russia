@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::41.47] 
-[geo-lat::52.73] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::41.47] 
+[has_place_latitude::52.73] 
 [name::Tamhof] 
 State ::  
 Country :: [[Russia]]  

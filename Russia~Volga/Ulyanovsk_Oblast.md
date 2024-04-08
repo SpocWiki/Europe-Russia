@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Ulyanowsk]]  
-[geo-lon::48.48] 
-[geo-lat::54.33] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::48.48] 
+[has_place_latitude::54.33] 
 [Population::] 
 
 

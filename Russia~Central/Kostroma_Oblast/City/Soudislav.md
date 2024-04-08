@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::41.7] 
-[geo-lat::57.88] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::41.7] 
+[has_place_latitude::57.88] 
 [name::Soudislav] 
 State ::  
 Country :: [[Russia]]  

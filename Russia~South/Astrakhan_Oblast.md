@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Astrachan]]  
-[geo-lon::48.05] 
-[geo-lat::46.35] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::48.05] 
+[has_place_latitude::46.35] 
 [Population::] 
 
 

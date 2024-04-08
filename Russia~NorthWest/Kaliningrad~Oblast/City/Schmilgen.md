@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.43] 
-[geo-lat::54.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::22.43] 
+[has_place_latitude::54.87] 
 [name::Schmilgen] 
 State ::  
 Country :: [[Russia]]  

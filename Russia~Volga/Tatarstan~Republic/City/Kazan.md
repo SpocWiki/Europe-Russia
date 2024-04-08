@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::49.16667] 
-[geo-lat::55.78333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::49.16667] 
+[has_place_latitude::55.78333] 
 [name::Kazan] 
 State ::  
 Country :: [[Russia]]  

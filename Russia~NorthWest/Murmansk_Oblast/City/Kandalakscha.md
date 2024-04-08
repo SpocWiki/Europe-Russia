@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::32.43] 
-[geo-lat::67.13] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::32.43] 
+[has_place_latitude::67.13] 
 [name::Kandalakscha] 
 State ::  
 Country :: [[Russia]]  

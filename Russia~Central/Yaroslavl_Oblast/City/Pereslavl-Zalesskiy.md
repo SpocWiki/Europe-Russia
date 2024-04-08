@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::38.87] 
-[geo-lat::56.73] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::38.87] 
+[has_place_latitude::56.73] 
 [name::Pereslavl-Zalesskiy] 
 State ::  
 Country :: [[Russia]]  

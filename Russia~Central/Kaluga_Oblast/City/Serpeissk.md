@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::34.98] 
-[geo-lat::54.33] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::34.98] 
+[has_place_latitude::54.33] 
 [name::Serpeissk] 
 State ::  
 Country :: [[Russia]]  

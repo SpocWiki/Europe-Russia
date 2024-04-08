@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::29.23] 
-[geo-lat::66.97] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::29.23] 
+[has_place_latitude::66.97] 
 [name::Kuolajaervi] 
 State ::  
 Country :: [[Finland]]  

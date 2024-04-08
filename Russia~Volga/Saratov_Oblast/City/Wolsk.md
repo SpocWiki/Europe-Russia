@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::47.75] 
-[geo-lat::52.05] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::47.75] 
+[has_place_latitude::52.05] 
 [name::Wolsk] 
 State ::  
 Country :: [[Russia]]  

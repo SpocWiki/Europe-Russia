@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::39.88] 
-[geo-lat::47.25] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::39.88] 
+[has_place_latitude::47.25] 
 [name::Rostow=Rostov-na-Donu] 
 State ::  
 Country :: [[Russia]]  

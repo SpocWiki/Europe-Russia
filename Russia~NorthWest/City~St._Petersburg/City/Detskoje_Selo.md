@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::30.42] 
-[geo-lat::59.7] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::30.42] 
+[has_place_latitude::59.7] 
 [name::Detskoje Selo] 
 State ::  
 Country :: [[Russia]]  

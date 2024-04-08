@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::20.02] 
-[geo-lat::54.73] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::20.02] 
+[has_place_latitude::54.73] 
 [name::Fischhausen] 
 State ::  
 Country :: [[Russia]]  

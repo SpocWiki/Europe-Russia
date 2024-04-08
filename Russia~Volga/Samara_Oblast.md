@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Samara]]  
-[geo-lon::52.43] 
-[geo-lat::53.18] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::52.43] 
+[has_place_latitude::53.18] 
 [Population::] 
 
 

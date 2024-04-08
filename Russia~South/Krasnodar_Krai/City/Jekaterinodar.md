@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::38.97] 
-[geo-lat::45.02] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::38.97] 
+[has_place_latitude::45.02] 
 [name::Jekaterinodar] 
 State ::  
 Country :: [[Russia]]  

@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Nowgorod]]  
-[geo-lon::31.27] 
-[geo-lat::56.52] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::31.27] 
+[has_place_latitude::56.52] 
 [Population::] 
 
 

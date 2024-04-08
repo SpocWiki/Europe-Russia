@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::39] 
-[geo-lat::45.03] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::39] 
+[has_place_latitude::45.03] 
 [name::Krasnodar] 
 State ::  
 Country :: [[Russia]]  

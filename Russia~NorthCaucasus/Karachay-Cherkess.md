@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Cherkessk]]  
-[geo-lon::42.05] 
-[geo-lat::44.23] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::42.05] 
+[has_place_latitude::44.23] 
 [Population::] 
 
 

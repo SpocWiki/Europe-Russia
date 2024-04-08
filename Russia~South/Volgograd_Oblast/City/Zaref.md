@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::45.37] 
-[geo-lat::48.67] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::45.37] 
+[has_place_latitude::48.67] 
 [name::Zaref] 
 State ::  
 Country :: [[Russia]]  

@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Kaliningrad]]  
-[geo-lon::20.8889] 
-[geo-lat::54.6432] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::20.8889] 
+[has_place_latitude::54.6432] 
 [Population::] 
 
 

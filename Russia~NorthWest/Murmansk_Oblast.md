@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Murmansk]]  
-[geo-lon::33.08] 
-[geo-lat::68.97] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::33.08] 
+[has_place_latitude::68.97] 
 [Population::] 
 
 

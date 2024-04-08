@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.58] 
-[geo-lat::54.65] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::22.58] 
+[has_place_latitude::54.65] 
 [name::Stallupoenen] 
 State ::  
 Country :: [[Russia]]  

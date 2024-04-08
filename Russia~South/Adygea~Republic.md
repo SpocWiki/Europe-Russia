@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Maykop]]  
-[geo-lon::40.17] 
-[geo-lat::44.58] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::40.17] 
+[has_place_latitude::44.58] 
 [Population::] 
 
 

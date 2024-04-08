@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::37.85] 
-[geo-lat::56.02] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::37.85] 
+[has_place_latitude::56.02] 
 [name::Pushkino] 
 State ::  
 Country :: [[Russia]]  

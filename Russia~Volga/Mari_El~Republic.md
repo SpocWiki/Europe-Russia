@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Yoshkar-Ola]]  
-[geo-lon::47.92] 
-[geo-lat::56.67] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::47.92] 
+[has_place_latitude::56.67] 
 [Population::] 
 
 

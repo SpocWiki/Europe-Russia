@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::36] 
-[geo-lat::56.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::36] 
+[has_place_latitude::56.87] 
 [name::Twer=Kalinin] 
 State ::  
 Country :: [[Russia]]  

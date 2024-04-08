@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Vladikavkaz]]  
-[geo-lon::44.65] 
-[geo-lat::43.0167] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::44.65] 
+[has_place_latitude::43.0167] 
 [Population::] 
 
 

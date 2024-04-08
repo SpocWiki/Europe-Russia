@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::36.72] 
-[geo-lat::45.22] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::36.72] 
+[has_place_latitude::45.22] 
 [name::Taman] 
 State ::  
 Country :: [[Russia]]  

@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Ivanovo]]  
-[geo-lon::40.9819] 
-[geo-lat::56.9967] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::40.9819] 
+[has_place_latitude::56.9967] 
 [Population::] 
 
 

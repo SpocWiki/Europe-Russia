@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Wologda]]  
-[geo-lon::40] 
-[geo-lat::59.23] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::40] 
+[has_place_latitude::59.23] 
 [Population::] 
 
 

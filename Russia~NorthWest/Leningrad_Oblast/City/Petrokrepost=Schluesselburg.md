@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::31.05] 
-[geo-lat::59.95] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::31.05] 
+[has_place_latitude::59.95] 
 [name::Petrokrepost=Schluesselburg] 
 State ::  
 Country :: [[Russia]]  

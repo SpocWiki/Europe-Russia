@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Kirov=Jvanov]]  
-[geo-lon::49.7] 
-[geo-lat::58.55] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::49.7] 
+[has_place_latitude::58.55] 
 [Population::] 
 
 

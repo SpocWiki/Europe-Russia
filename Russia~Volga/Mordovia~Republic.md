@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Saransk]]  
-[geo-lon::45.1833] 
-[geo-lat::54.18] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::45.1833] 
+[has_place_latitude::54.18] 
 [Population::] 
 
 

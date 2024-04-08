@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::37.12] 
-[geo-lat::51.62] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::37.12] 
+[has_place_latitude::51.62] 
 [name::Tim] 
 State ::  
 Country :: [[Russia]]  

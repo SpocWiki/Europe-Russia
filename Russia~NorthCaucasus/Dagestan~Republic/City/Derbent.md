@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::48.22] 
-[geo-lat::42.03] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::48.22] 
+[has_place_latitude::42.03] 
 [name::Derbent] 
 State ::  
 Country :: [[Russia]]  

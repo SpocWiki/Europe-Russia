@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::40.1] 
-[geo-lat::47.4] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::40.1] 
+[has_place_latitude::47.4] 
 [name::Nowocherkassk] 
 State ::  
 Country :: [[Russia]]  

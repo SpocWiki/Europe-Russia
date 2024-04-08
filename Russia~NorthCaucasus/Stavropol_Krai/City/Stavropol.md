@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::41.98333] 
-[geo-lat::45.05] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::41.98333] 
+[has_place_latitude::45.05] 
 [name::Stavropol] 
 State ::  
 Country :: [[Russia]]  

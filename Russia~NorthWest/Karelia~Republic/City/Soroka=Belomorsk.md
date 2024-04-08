@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::34.8] 
-[geo-lat::64.53] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::34.8] 
+[has_place_latitude::64.53] 
 [name::Soroka=Belomorsk] 
 State ::  
 Country :: [[Russia]]  

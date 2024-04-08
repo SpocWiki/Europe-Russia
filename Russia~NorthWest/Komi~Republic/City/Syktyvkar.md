@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::50.81667] 
-[geo-lat::61.66667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::50.81667] 
+[has_place_latitude::61.66667] 
 [name::Syktyvkar] 
 State ::  
 Country :: [[Russia]]  

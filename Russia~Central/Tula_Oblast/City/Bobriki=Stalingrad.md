@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::38.25] 
-[geo-lat::54.07] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::38.25] 
+[has_place_latitude::54.07] 
 [name::Bobriki=Stalingrad] 
 State ::  
 Country :: [[Russia]]  

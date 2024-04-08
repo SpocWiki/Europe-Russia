@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::31.73] 
-[geo-lat::61.98] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::31.73] 
+[has_place_latitude::61.98] 
 [name::Sustamo] 
 State ::  
 Country :: [[Finland]]  

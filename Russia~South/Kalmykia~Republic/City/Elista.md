@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::44.26667] 
-[geo-lat::46.31667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::44.26667] 
+[has_place_latitude::46.31667] 
 [name::Elista] 
 State ::  
 Country :: [[Russia]]  

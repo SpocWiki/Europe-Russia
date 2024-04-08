@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::27.93] 
-[geo-lat::57.07] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::27.93] 
+[has_place_latitude::57.07] 
 [name::Jaunlatgale] 
 State ::  
 Country :: [[Russia]]  

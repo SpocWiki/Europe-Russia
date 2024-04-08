@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::38.07] 
-[geo-lat::44.55] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::38.07] 
+[has_place_latitude::44.55] 
 [name::Gelentschik] 
 State ::  
 Country :: [[Russia]]  

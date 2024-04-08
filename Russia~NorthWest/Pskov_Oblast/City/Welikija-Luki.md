@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::30.52] 
-[geo-lat::56.35] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::30.52] 
+[has_place_latitude::56.35] 
 [name::Welikija-Luki] 
 State ::  
 Country :: [[Russia]]  

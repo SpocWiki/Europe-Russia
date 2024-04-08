@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::49.37] 
-[geo-lat::55.05] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::49.37] 
+[has_place_latitude::55.05] 
 [name::Spassk~Wjaetka] 
 State ::  
 Country :: [[Russia]]  

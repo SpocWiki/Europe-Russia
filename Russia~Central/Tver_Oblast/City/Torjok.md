@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::34.97] 
-[geo-lat::57.03] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::34.97] 
+[has_place_latitude::57.03] 
 [name::Torjok] 
 State ::  
 Country :: [[Russia]]  

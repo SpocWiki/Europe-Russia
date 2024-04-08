@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::29.82] 
-[geo-lat::60.95] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::29.82] 
+[has_place_latitude::60.95] 
 [name::Raisaelae] 
 State ::  
 Country :: [[Finland]]  

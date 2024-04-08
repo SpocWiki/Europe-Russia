@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Orenburg=Chkalov]]  
-[geo-lon::55.1] 
-[geo-lat::51.77] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::55.1] 
+[has_place_latitude::51.77] 
 [Population::] 
 
 

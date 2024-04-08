@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.12] 
-[geo-lat::55.02] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::22.12] 
+[has_place_latitude::55.02] 
 [name::Ober-Eisseln] 
 State ::  
 Country :: [[Russia]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::32.42] 
-[geo-lat::62.23] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::32.42] 
+[has_place_latitude::62.23] 
 [name::Suojaervi] 
 State ::  
 Country :: [[Finland]]  

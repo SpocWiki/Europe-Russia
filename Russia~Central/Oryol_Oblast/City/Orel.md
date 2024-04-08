@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::36.08] 
-[geo-lat::52.95] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::36.08] 
+[has_place_latitude::52.95] 
 [name::Orel] 
 State ::  
 Country :: [[Russia]]  

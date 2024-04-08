@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::20.85] 
-[geo-lat::55.15] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::20.85] 
+[has_place_latitude::55.15] 
 [name::Rossitten] 
 State ::  
 Country :: [[Russia]]  

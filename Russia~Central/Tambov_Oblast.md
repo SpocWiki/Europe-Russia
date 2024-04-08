@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Tambow]]  
-[geo-lon::43.33] 
-[geo-lat::52.7167] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::43.33] 
+[has_place_latitude::52.7167] 
 [Population::] 
 
 

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::43.08] 
-[geo-lat::44.02] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::43.08] 
+[has_place_latitude::44.02] 
 [name::Pyatigorsk] 
 State ::  
 Country :: [[Russia]]  

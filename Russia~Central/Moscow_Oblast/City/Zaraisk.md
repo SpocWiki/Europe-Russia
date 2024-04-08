@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::38.88] 
-[geo-lat::54.77] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::38.88] 
+[has_place_latitude::54.77] 
 [name::Zaraisk] 
 State ::  
 Country :: [[Russia]]  

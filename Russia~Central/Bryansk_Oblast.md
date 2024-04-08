@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Bryansk]]  
-[geo-lon::34.33] 
-[geo-lat::53.25] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::34.33] 
+[has_place_latitude::53.25] 
 [Population::] 
 
 

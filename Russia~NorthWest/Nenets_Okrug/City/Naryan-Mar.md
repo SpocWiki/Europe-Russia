@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::53.05] 
-[geo-lat::67.63333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::53.05] 
+[has_place_latitude::67.63333] 
 [name::Naryan-Mar] 
 State ::  
 Country :: [[Russia]]  

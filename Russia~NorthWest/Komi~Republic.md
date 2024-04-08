@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Syktyvkar]]  
-[geo-lon::50.8167] 
-[geo-lat::61.6667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::50.8167] 
+[has_place_latitude::61.6667] 
 [Population::] 
 
 

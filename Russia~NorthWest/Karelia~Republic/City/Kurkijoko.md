@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::29.88] 
-[geo-lat::61.3] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::29.88] 
+[has_place_latitude::61.3] 
 [name::Kurkijoko] 
 State ::  
 Country :: [[Finland]]  

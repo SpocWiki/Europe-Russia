@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::44.57] 
-[geo-lat::48.5] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::44.57] 
+[has_place_latitude::48.5] 
 [name::Sarepta] 
 State ::  
 Country :: [[Russia]]  

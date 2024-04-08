@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::36.06667] 
-[geo-lat::52.96667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::36.06667] 
+[has_place_latitude::52.96667] 
 [name::Oryol] 
 State ::  
 Country :: [[Russia]]  

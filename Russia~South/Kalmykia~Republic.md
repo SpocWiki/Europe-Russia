@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Elista]]  
-[geo-lon::44.2667] 
-[geo-lat::46.3167] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::44.2667] 
+[has_place_latitude::46.3167] 
 [Population::] 
 
 

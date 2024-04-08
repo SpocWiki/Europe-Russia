@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::38.92] 
-[geo-lat::52.38] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::38.92] 
+[has_place_latitude::52.38] 
 [name::Zadowsk] 
 State ::  
 Country :: [[Russia]]  

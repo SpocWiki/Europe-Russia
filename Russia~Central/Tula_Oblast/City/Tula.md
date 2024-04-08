@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::37.62] 
-[geo-lat::54.2] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::37.62] 
+[has_place_latitude::54.2] 
 [name::Tula] 
 State ::  
 Country :: [[Russia]]  

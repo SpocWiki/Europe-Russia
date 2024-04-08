@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::43.62] 
-[geo-lat::43.5] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::43.62] 
+[has_place_latitude::43.5] 
 [name::Nalchik] 
 State ::  
 Country :: [[Russia]]  

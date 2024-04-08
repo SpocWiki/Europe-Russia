@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Leningrad]]  
-[geo-lon::30.25] 
-[geo-lat::59.92] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::30.25] 
+[has_place_latitude::59.92] 
 [Population::] 
 
 

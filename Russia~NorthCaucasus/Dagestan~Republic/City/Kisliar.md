@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::46.72] 
-[geo-lat::43.85] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::46.72] 
+[has_place_latitude::43.85] 
 [name::Kisliar] 
 State ::  
 Country :: [[Russia]]  

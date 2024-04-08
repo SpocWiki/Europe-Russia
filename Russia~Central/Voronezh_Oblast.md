@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Woronez]]  
-[geo-lon::39.2] 
-[geo-lat::51.67] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::39.2] 
+[has_place_latitude::51.67] 
 [Population::] 
 
 

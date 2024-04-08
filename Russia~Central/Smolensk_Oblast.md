@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Smolensk]]  
-[geo-lon::32.05] 
-[geo-lat::54.78] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::32.05] 
+[has_place_latitude::54.78] 
 [Population::] 
 
 

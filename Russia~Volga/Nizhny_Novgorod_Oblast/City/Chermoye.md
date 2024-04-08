@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::43.42] 
-[geo-lat::56.25] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::43.42] 
+[has_place_latitude::56.25] 
 [name::Chermoye] 
 State ::  
 Country :: [[Russia]]  

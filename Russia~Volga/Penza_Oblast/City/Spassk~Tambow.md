@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::43.18] 
-[geo-lat::53.93] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::43.18] 
+[has_place_latitude::53.93] 
 [name::Spassk~Tambow] 
 State ::  
 Country :: [[Russia]]  

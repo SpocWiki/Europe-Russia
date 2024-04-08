@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::39.67] 
-[geo-lat::54.67] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::39.67] 
+[has_place_latitude::54.67] 
 [name::Ryazan] 
 State ::  
 Country :: [[Russia]]  

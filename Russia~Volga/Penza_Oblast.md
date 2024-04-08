@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Penza]]  
-[geo-lon::45.02] 
-[geo-lat::53.18] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::45.02] 
+[has_place_latitude::53.18] 
 [Population::] 
 
 

@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Grozny]]  
-[geo-lon::45.7] 
-[geo-lat::43.33] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::45.7] 
+[has_place_latitude::43.33] 
 [Population::] 
 
 

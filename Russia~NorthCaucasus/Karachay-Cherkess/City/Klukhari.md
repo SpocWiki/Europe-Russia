@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::41.9] 
-[geo-lat::43.78] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::41.9] 
+[has_place_latitude::43.78] 
 [name::Klukhari] 
 State ::  
 Country :: [[Russia]]  

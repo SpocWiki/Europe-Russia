@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::40.98195] 
-[geo-lat::56.99667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::40.98195] 
+[has_place_latitude::56.99667] 
 [name::Ivanovo] 
 State ::  
 Country :: [[Russia]]  

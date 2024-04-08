@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Volgograd]]  
-[geo-lon::44.5167] 
-[geo-lat::48.7] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::44.5167] 
+[has_place_latitude::48.7] 
 [Population::] 
 
 

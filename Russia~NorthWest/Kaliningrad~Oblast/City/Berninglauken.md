@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.57] 
-[geo-lat::54.62] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::22.57] 
+[has_place_latitude::54.62] 
 [name::Berninglauken] 
 State ::  
 Country :: [[Russia]]  
