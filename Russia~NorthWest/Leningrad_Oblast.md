@@ -13,7 +13,7 @@ confidential: public
 [name::Leningrad Oblast] 
 [name-abbr::] 
 Country :: [[Russia]]  
-Capital :: [[Leningrad]]  
+Capital :: [[City~St.Petersburg/City/Leningrad]]  
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::30.25] 
