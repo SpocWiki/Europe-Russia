@@ -1,14 +1,16 @@
 ---
-location: [58.55,49.7] 
+location:
+  - 58.55
+  - 49.7
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37131
 isDeleted: false
 confidential: public
-
+aliases:
+  - Kirov Oblast
+  - Kirov 
 ---
 [name::Kirov Oblast] 
 [name-abbr::] 

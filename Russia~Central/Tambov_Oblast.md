@@ -1,14 +1,15 @@
 ---
-location: [52.7167,43.33] 
+location:
+  - 52.7167
+  - 43.33
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37190
 isDeleted: false
 confidential: public
-
+aliases:
+  - Tambov Oblast
 ---
 [name::Tambov Oblast] 
 [name-abbr::] 

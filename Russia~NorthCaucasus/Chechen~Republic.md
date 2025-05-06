@@ -1,14 +1,16 @@
 ---
-location: [43.33,45.7] 
+location:
+  - 43.33
+  - 45.7
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37056
 isDeleted: false
 confidential: public
-
+aliases:
+  - Chechen Republic
+  - Republic of Chechen 
 ---
 [name::Chechen~Republic] 
 [name-abbr::] 

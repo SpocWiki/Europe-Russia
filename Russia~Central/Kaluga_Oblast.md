@@ -1,14 +1,16 @@
 ---
-location: [54.52,36.3] 
+location:
+  - 54.52
+  - 36.3
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37129
 isDeleted: false
 confidential: public
-
+aliases:
+  - Kaluga Oblast
+  - Kaluga 
 ---
 [name::Kaluga Oblast] 
 [name-abbr::] 

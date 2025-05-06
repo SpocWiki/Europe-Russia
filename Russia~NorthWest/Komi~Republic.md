@@ -1,14 +1,16 @@
 ---
-location: [61.6667,50.8167] 
+location:
+  - 61.6667
+  - 50.8167
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37047
 isDeleted: false
 confidential: public
-
+aliases:
+  - Komi Republic
+  - Republic of Komi 
 ---
 [name::Komi~Republic] 
 [name-abbr::] 

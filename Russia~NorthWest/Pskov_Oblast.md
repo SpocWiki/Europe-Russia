@@ -1,14 +1,16 @@
 ---
-location: [57.83,28.33] 
+location:
+  - 57.83
+  - 28.33
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37150
 isDeleted: false
 confidential: public
-
+aliases:
+  - Pskov Oblast
+  - Pskov
 ---
 [name::Pskov Oblast] 
 [name-abbr::] 

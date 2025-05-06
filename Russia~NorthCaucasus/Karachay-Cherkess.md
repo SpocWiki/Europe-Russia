@@ -1,14 +1,15 @@
 ---
-location: [44.23,42.05] 
+location:
+  - 44.23
+  - 42.05
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37045
 isDeleted: false
 confidential: public
-
+aliases:
+  - Karachay-Cherkess
 ---
 [name::Karachay-Cherkess] 
 [name-abbr::] 

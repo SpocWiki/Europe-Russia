@@ -1,14 +1,15 @@
 ---
-location: [54.2,37.62] 
+location:
+  - 54.2
+  - 37.62
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37193
 isDeleted: false
 confidential: public
-
+aliases:
+  - Tula Oblast
 ---
 [name::Tula Oblast] 
 [name-abbr::] 

@@ -1,14 +1,16 @@
 ---
-location: [64.53,40.57] 
+location:
+  - 64.53
+  - 40.57
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37117
 isDeleted: false
 confidential: public
-
+aliases:
+  - Arkhangelsk Oblast
+  - Arkhangelsk
 ---
 [name::Arkhangelsk Oblast] 
 [name-abbr::] 

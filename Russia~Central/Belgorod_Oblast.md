@@ -1,14 +1,15 @@
 ---
-location: [50.6,36.57] 
+location:
+  - 50.6
+  - 36.57
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37119
 isDeleted: false
 confidential: public
-
+aliases:
+  - Belgorod Oblast
 ---
 [name::Belgorod Oblast] 
 [name-abbr::] 

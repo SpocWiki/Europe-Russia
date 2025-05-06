@@ -1,14 +1,16 @@
 ---
-location: [54.33,48.48] 
+location:
+  - 54.33
+  - 48.48
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37195
 isDeleted: false
 confidential: public
-
+aliases:
+  - Ulyanovsk Oblast
+  - Ulyanovsk 
 ---
 [name::Ulyanovsk Oblast] 
 [name-abbr::] 

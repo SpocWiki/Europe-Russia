@@ -1,14 +1,16 @@
 ---
-location: [53.18,52.43] 
+location:
+  - 53.18
+  - 52.43
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37184
 isDeleted: false
 confidential: public
-
+aliases:
+  - Samara Oblast
+  - Samara 
 ---
 [name::Samara Oblast] 
 [name-abbr::] 

@@ -1,14 +1,15 @@
 ---
-location: [54.78,32.05] 
+location:
+  - 54.78
+  - 32.05
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37189
 isDeleted: false
 confidential: public
-
+aliases:
+  - Smolensk Oblast
 ---
 [name::Smolensk Oblast] 
 [name-abbr::] 

@@ -1,14 +1,16 @@
 ---
-location: [47.5,42.97] 
+location:
+  - 47.5
+  - 42.97
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37041
 isDeleted: false
 confidential: public
-
+aliases:
+  - Dagestan Republic
+  - Republic of Dagestan 
 ---
 [name::Dagestan~Republic] 
 [name-abbr::] 

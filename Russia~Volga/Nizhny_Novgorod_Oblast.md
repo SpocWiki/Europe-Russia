@@ -1,14 +1,16 @@
 ---
-location: [56.3333,44] 
+location:
+  - 56.3333
+  - 44
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37142
 isDeleted: false
 confidential: public
-
+aliases:
+  - Nizhny Novgorod Oblast
+  - Nizhny Novgorod
 ---
 [name::Nizhny Novgorod Oblast] 
 [name-abbr::] 

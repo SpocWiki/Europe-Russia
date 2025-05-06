@@ -1,14 +1,15 @@
 ---
-location: [45.05,41.9833] 
+location:
+  - 45.05
+  - 41.9833
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37104
 isDeleted: false
 confidential: public
-
+aliases:
+  - Stavropol Krai
 ---
 [name::Stavropol Krai] 
 [name-abbr::] 

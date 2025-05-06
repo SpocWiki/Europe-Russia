@@ -1,14 +1,16 @@
 ---
-location: [53.18,45.02] 
+location:
+  - 53.18
+  - 45.02
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37149
 isDeleted: false
 confidential: public
-
+aliases:
+  - Penza Oblast
+  - Penza 
 ---
 [name::Penza Oblast] 
 [name-abbr::] 

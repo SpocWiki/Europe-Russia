@@ -1,14 +1,15 @@
 ---
-location: [54.6432,20.8889] 
+location:
+  - 54.6432
+  - 20.8889
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 36942
 isDeleted: false
 confidential: public
-
+aliases:
+  - Kaliningrad Oblast
 ---
 [name::Oblast Kaliningrad] 
 [name-abbr::] 

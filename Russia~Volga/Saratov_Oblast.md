@@ -1,14 +1,16 @@
 ---
-location: [46.2,51.57] 
+location:
+  - 46.2
+  - 51.57
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37185
 isDeleted: false
 confidential: public
-
+aliases:
+  - Saratov Oblast
+  - Saratov 
 ---
 [name::Saratov Oblast] 
 [name-abbr::] 

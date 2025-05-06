@@ -1,14 +1,16 @@
 ---
-location: [68.97,33.08] 
+location:
+  - 68.97
+  - 33.08
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37141
 isDeleted: false
 confidential: public
-
+aliases:
+  - Murmansk Oblast
+  - Murmansk 
 ---
 [name::Murmansk Oblast] 
 [name-abbr::] 

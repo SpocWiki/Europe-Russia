@@ -1,14 +1,15 @@
 ---
-location: [56.87,36] 
+location:
+  - 56.87
+  - 36
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37191
 isDeleted: false
 confidential: public
-
+aliases:
+  - Tver Oblast
 ---
 [name::Tver Oblast] 
 [name-abbr::] 

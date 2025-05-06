@@ -1,14 +1,16 @@
 ---
-location: [56.67,47.92] 
+location:
+  - 56.67
+  - 47.92
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37048
 isDeleted: false
 confidential: public
-
+aliases:
+  - Mari El Republic
+  - Republic of Mari El 
 ---
 [name::Mari El~Republic] 
 [name-abbr::] 

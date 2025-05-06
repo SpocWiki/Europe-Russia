@@ -1,15 +1,16 @@
 ---
-location: [ 48.1 , 40.9 ] 
-
+location:
+  - 48.1
+  - 40.9
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37151
 isDeleted: false
 confidential: public
-
+aliases:
+  - Rostov Oblast
+  - Rostov 
 ---
 [name::Rostov Oblast] 
 [name-abbr::] 

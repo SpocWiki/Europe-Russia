@@ -1,14 +1,16 @@
 ---
-location: [48.7,44.5167] 
+location:
+  - 48.7
+  - 44.5167
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37122
 isDeleted: false
 confidential: public
-
+aliases:
+  - Volgograd Oblast
+  - Volgograd 
 ---
 [name::Volgograd Oblast] 
 [name-abbr::] 

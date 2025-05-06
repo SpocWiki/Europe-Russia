@@ -1,14 +1,15 @@
 ---
-location: [53.25,34.33] 
+location:
+  - 53.25
+  - 34.33
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37120
 isDeleted: false
 confidential: public
-
+aliases:
+  - Bryansk Oblast
 ---
 [name::Bryansk Oblast] 
 [name-abbr::] 

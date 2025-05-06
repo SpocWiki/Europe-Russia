@@ -1,14 +1,16 @@
 ---
-location: [61.78,34.4] 
+location:
+  - 61.78
+  - 34.4
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37046
 isDeleted: false
 confidential: public
-
+aliases:
+  - Karelia Republic
+  - Republic of Karelia 
 ---
 [name::Karelia~Republic] 
 [name-abbr::] 

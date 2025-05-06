@@ -1,14 +1,16 @@
 ---
-location: [51.73,36.22] 
+location:
+  - 51.73
+  - 36.22
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37134
 isDeleted: false
 confidential: public
-
+aliases:
+  - Kursk Oblast
+  - Kursk 
 ---
 [name::Kursk Oblast] 
 [name-abbr::] 

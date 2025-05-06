@@ -1,14 +1,16 @@
 ---
-location: [44.58,40.17] 
+location:
+  - 44.58
+  - 40.17
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37037
 isDeleted: false
 confidential: public
-
+aliases:
+  - Adygea Republic
+  - Republic of Adygea 
 ---
 [name::Adygea~Republic] 
 [name-abbr::] 

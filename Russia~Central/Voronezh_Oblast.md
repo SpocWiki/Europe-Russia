@@ -1,14 +1,16 @@
 ---
-location: [51.67,39.2] 
+location:
+  - 51.67
+  - 39.2
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37125
 isDeleted: false
 confidential: public
-
+aliases:
+  - Voronezh Oblast
+  - Voronezh 
 ---
 [name::Voronezh Oblast] 
 [name-abbr::] 

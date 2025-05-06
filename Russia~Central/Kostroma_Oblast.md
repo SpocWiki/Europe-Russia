@@ -1,14 +1,16 @@
 ---
-location: [57.77,40.93] 
+location:
+  - 57.77
+  - 40.93
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37132
 isDeleted: false
 confidential: public
-
+aliases:
+  - Kostroma Oblast
+  - Kostroma 
 ---
 [name::Kostroma Oblast] 
 [name-abbr::] 

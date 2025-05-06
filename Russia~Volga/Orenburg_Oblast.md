@@ -1,14 +1,16 @@
 ---
-location: [51.77,55.1] 
+location:
+  - 51.77
+  - 55.1
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37146
 isDeleted: false
 confidential: public
-
+aliases:
+  - Orenburg Oblast
+  - Orenburg 
 ---
 [name::Orenburg Oblast] 
 [name-abbr::] 

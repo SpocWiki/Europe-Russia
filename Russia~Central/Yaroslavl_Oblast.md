@@ -1,14 +1,16 @@
 ---
-location: [57.62,39.87] 
+location:
+  - 57.62
+  - 39.87
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37197
 isDeleted: false
 confidential: public
-
+aliases:
+  - Yaroslavl Oblast
+  - Yaroslavl 
 ---
 [name::Yaroslavl Oblast] 
 [name-abbr::] 

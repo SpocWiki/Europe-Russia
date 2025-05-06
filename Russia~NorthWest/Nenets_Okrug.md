@@ -1,14 +1,16 @@
 ---
-location: [67.6333,53.05] 
+location:
+  - 67.6333
+  - 53.05
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37034
 isDeleted: false
 confidential: public
-
+aliases:
+  - Nenets Okrug
+  - Nenets Autonomous Okrug
 ---
 [name::Nenets Okrug] 
 [name-abbr::] 

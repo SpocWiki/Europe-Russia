@@ -1,14 +1,16 @@
 ---
-location: [56.52,31.27] 
+location:
+  - 56.52
+  - 31.27
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37143
 isDeleted: false
 confidential: public
-
+aliases:
+  - Novgorod Oblast
+  - Novgorod
 ---
 [name::Novgorod Oblast] 
 [name-abbr::] 

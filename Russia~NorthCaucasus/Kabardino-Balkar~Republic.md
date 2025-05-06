@@ -1,14 +1,16 @@
 ---
-location: [43.5,43.62] 
+location:
+  - 43.5
+  - 43.62
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37043
 isDeleted: false
 confidential: public
-
+aliases:
+  - Kabardino-Balkar Republic
+  - Republic of Kabardino-Balkar 
 ---
 [name::Kabardino-Balkar~Republic] 
 [name-abbr::] 

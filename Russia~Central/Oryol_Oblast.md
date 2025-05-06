@@ -1,14 +1,15 @@
 ---
-location: [52.9667,36.0667] 
+location:
+  - 52.9667
+  - 36.0667
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37147
 isDeleted: false
 confidential: public
-
+aliases:
+  - Oryol Oblast
 ---
 [name::Oryol Oblast] 
 [name-abbr::] 

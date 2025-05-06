@@ -1,14 +1,16 @@
 ---
-location: [55.75,37.57] 
+location:
+  - 55.75
+  - 37.57
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37140
 isDeleted: false
 confidential: public
-
+aliases:
+  - Moscow Oblast
+  - Moscow 
 ---
 [name::Moscow Oblast] 
 [name-abbr::] 

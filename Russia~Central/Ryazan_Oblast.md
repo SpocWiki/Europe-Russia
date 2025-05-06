@@ -1,14 +1,15 @@
 ---
-location: [54.67,39.67] 
+location:
+  - 54.67
+  - 39.67
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37182
 isDeleted: false
 confidential: public
-
+aliases:
+  - Ryazan Oblast
 ---
 [name::Ryazan Oblast] 
 [name-abbr::] 

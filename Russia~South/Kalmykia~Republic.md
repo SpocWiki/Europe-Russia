@@ -1,14 +1,16 @@
 ---
-location: [46.3167,44.2667] 
+location:
+  - 46.3167
+  - 44.2667
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37044
 isDeleted: false
 confidential: public
-
+aliases:
+  - Kalmykia Republic
+  - Republic of Kalmykia 
 ---
 [name::Kalmykia~Republic] 
 [name-abbr::] 

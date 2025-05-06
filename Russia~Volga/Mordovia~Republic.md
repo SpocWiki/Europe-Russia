@@ -1,14 +1,17 @@
 ---
-location: [54.18,45.1833] 
+location:
+  - 54.18
+  - 45.1833
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37049
 isDeleted: false
 confidential: public
-
+aliases:
+  - Mordovia Republic
+  - Republic of Mordovia 
+  - Mordovia 
 ---
 [name::Mordovia~Republic] 
 [name-abbr::] 

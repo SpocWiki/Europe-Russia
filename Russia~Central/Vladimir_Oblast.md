@@ -1,14 +1,15 @@
 ---
-location: [56.13,40.42] 
+location:
+  - 56.13
+  - 40.42
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37121
 isDeleted: false
 confidential: public
-
+aliases:
+  - Vladimir Oblast
 ---
 [name::Vladimir Oblast] 
 [name-abbr::] 

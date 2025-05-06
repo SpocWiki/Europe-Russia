@@ -1,14 +1,16 @@
 ---
-location: [46.35,48.05] 
+location:
+  - 46.35
+  - 48.05
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37118
 isDeleted: false
 confidential: public
-
+aliases:
+  - Astrakhan Oblast
+  - Astrakhan 
 ---
 [name::Astrakhan Oblast] 
 [name-abbr::] 

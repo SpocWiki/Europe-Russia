@@ -1,14 +1,16 @@
 ---
-location: [43.1667,44.8167] 
+location:
+  - 43.1667
+  - 44.8167
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37042
 isDeleted: false
 confidential: public
-
+aliases:
+  - Ingushetia Republic
+  - Republic of Ingushetia 
 ---
 [name::Ingushetia~Republic] 
 [name-abbr::] 

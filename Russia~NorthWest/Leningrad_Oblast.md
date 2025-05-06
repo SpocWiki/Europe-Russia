@@ -1,19 +1,20 @@
 ---
-location: [59.92,30.25] 
+location:
+  - 59.92
+  - 30.25
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37135
 isDeleted: false
 confidential: public
-
+aliases:
+  - Leningrad Oblast
 ---
 [name::Leningrad Oblast] 
 [name-abbr::] 
 Country :: [[Russia]]  
-Capital :: [[City~St.Petersburg/City/Leningrad]]  
+Capital :: [[St.Petersburg,City/City/Leningrad]]  
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::30.25] 

@@ -1,14 +1,16 @@
 ---
-location: [59.23,40] 
+location:
+  - 59.23
+  - 40
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37124
 isDeleted: false
 confidential: public
-
+aliases:
+  - Vologda Oblast
+  - Vologda
 ---
 [name::Vologda Oblast] 
 [name-abbr::] 

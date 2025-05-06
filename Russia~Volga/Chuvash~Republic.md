@@ -1,14 +1,16 @@
 ---
-location: [56.15,47.25] 
+location:
+  - 56.15
+  - 47.25
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37057
 isDeleted: false
 confidential: public
-
+aliases:
+  - Chuvash Republic
+  - Republic of Chuvash 
 ---
 [name::Chuvash~Republic] 
 [name-abbr::] 

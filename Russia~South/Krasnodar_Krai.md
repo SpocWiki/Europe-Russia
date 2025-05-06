@@ -1,14 +1,15 @@
 ---
-location: [45.03,39] 
+location:
+  - 45.03
+  - 39
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37100
 isDeleted: false
 confidential: public
-
+aliases:
+  - Krasnodar Krai
 ---
 [name::Krasnodar Krai] 
 [name-abbr::] 

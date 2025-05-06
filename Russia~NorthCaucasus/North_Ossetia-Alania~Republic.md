@@ -1,14 +1,16 @@
 ---
-location: [43.0167,44.65] 
+location:
+  - 43.0167
+  - 44.65
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37051
 isDeleted: false
 confidential: public
-
+aliases:
+  - North Ossetia-Alania Republic
+  - Republic of North Ossetia-Alania 
 ---
 [name::North Ossetia-Alania~Republic] 
 [name-abbr::] 

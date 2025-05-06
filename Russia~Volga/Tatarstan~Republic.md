@@ -1,14 +1,17 @@
 ---
-location: [55.7833,49.1667] 
+location:
+  - 55.7833
+  - 49.1667
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37052
 isDeleted: false
 confidential: public
-
+aliases:
+  - Tatarstan Republic
+  - Republic of Tatarstan 
+  - Tatarstan 
 ---
 [name::Tatarstan~Republic] 
 [name-abbr::] 

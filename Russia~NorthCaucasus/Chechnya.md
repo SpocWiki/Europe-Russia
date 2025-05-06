@@ -14,6 +14,7 @@ tags:
 - geo/Country/Region
 aliases:
 - State~Chechnya
+- Chechnya
 
 Languages:
 - de
