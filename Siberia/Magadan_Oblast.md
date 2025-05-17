@@ -76,7 +76,7 @@ aliases:
 > The coastline has a less severe climate than the interiors, although both are very cold for its latitude.
 >
 > It borders [[Chukotka_Autonomous_Okrug|Chukotka Autonomous Okrug]] in the north, [[Kamchatka_Krai]] in the east, 
-> [[Khabarovsk Krai]] in the south and the [[Republic_of_Sakha]] in the west. 
+> [[Khabarovsk_Krai]] in the south and the [[Republic_of_Sakha]] in the west. 
 > The economy is primarily based on mining, particularly gold, silver and other non-ferrous metals.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Magadan%20Oblast) 

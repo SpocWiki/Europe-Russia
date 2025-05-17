@@ -68,7 +68,7 @@ aliases:
 > Sakhalin Oblast is rich in natural gas and oil, 
 > and is Russia's second wealthiest federal subject after the [[Tyumen_Oblast|Tyumen Oblast]]. 
 > 
-> It borders by sea [[Khabarovsk Krai]] to the west and [[Kamchatka_Krai|Kamchatka Krai]] to the north, 
+> It borders by sea [[Khabarovsk_Krai]] to the west and [[Kamchatka_Krai|Kamchatka Krai]] to the north, 
 > along with Hokkaido, Japan to the south.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sakhalin%20Oblast) 
