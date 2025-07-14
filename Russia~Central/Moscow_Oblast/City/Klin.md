@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Klin|Klin]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Klin.public|Klin.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Klin.internal|Klin.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Klin.protect|Klin.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Klin.private|Klin.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Klin.personal|Klin.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Klin.secret|Klin.secret]] 
+
+### [Klin.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityKlin.public.md) 
+
+### [Klin.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityKlin.internal.md) 
+
+### [Klin.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityKlin.protect.md) 
+
+### [Klin.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityKlin.private.md) 
+
+### [Klin.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityKlin.personal.md) 
+
+### [Klin.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityKlin.secret.md)
+

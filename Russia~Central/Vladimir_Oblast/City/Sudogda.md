@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Sudogda|Sudogda]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Sudogda.public|Sudogda.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Sudogda.internal|Sudogda.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Sudogda.protect|Sudogda.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Sudogda.private|Sudogda.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Sudogda.personal|Sudogda.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Sudogda.secret|Sudogda.secret]] 
+
+### [Sudogda.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Vladimir_Oblast\CitySudogda.public.md) 
+
+### [Sudogda.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Vladimir_Oblast\CitySudogda.internal.md) 
+
+### [Sudogda.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Vladimir_Oblast\CitySudogda.protect.md) 
+
+### [Sudogda.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Vladimir_Oblast\CitySudogda.private.md) 
+
+### [Sudogda.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Vladimir_Oblast\CitySudogda.personal.md) 
+
+### [Sudogda.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Vladimir_Oblast\CitySudogda.secret.md)
+

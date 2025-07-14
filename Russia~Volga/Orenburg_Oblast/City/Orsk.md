@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Orsk|Orsk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Orsk.public|Orsk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Orsk.internal|Orsk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Orsk.protect|Orsk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Orsk.private|Orsk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Orsk.personal|Orsk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Orsk.secret|Orsk.secret]] 
+
+### [Orsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CityOrsk.public.md) 
+
+### [Orsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CityOrsk.internal.md) 
+
+### [Orsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CityOrsk.protect.md) 
+
+### [Orsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CityOrsk.private.md) 
+
+### [Orsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CityOrsk.personal.md) 
+
+### [Orsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CityOrsk.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Kalinino|Kalinino]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Kalinino.public|Kalinino.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Kalinino.internal|Kalinino.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Kalinino.protect|Kalinino.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Kalinino.private|Kalinino.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Kalinino.personal|Kalinino.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Kalinino.secret|Kalinino.secret]] 
+
+### [Kalinino.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityKalinino.public.md) 
+
+### [Kalinino.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityKalinino.internal.md) 
+
+### [Kalinino.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityKalinino.protect.md) 
+
+### [Kalinino.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityKalinino.private.md) 
+
+### [Kalinino.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityKalinino.personal.md) 
+
+### [Kalinino.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityKalinino.secret.md)
+

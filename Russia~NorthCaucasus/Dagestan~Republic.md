@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Dagestan~Republic|State~Dagestan~Republic]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Dagestan~Republic.internal|State~Dagestan~Republic.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Dagestan~Republic.protect|State~Dagestan~Republic.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Dagestan~Republic.private|State~Dagestan~Republic.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Dagestan~Republic.personal|State~Dagestan~Republic.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Dagestan~Republic.secret|State~Dagestan~Republic.secret]] 
+
+### [Dagestan~Republic.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusDagestan~Republic.public.md) 
+
+### [Dagestan~Republic.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusDagestan~Republic.internal.md) 
+
+### [Dagestan~Republic.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusDagestan~Republic.protect.md) 
+
+### [Dagestan~Republic.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusDagestan~Republic.private.md) 
+
+### [Dagestan~Republic.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusDagestan~Republic.personal.md) 
+
+### [Dagestan~Republic.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusDagestan~Republic.secret.md)
+

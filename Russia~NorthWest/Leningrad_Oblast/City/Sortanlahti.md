@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Finland/City/Sortanlahti|Sortanlahti]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Finland/City/Sortanlahti.public|Sortanlahti.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Finland/City/Sortanlahti.internal|Sortanlahti.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Finland/City/Sortanlahti.protect|Sortanlahti.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Finland/City/Sortanlahti.private|Sortanlahti.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Finland/City/Sortanlahti.personal|Sortanlahti.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Finland/City/Sortanlahti.secret|Sortanlahti.secret]] 
+
+### [Sortanlahti.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CitySortanlahti.public.md) 
+
+### [Sortanlahti.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CitySortanlahti.internal.md) 
+
+### [Sortanlahti.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CitySortanlahti.protect.md) 
+
+### [Sortanlahti.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CitySortanlahti.private.md) 
+
+### [Sortanlahti.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CitySortanlahti.personal.md) 
+
+### [Sortanlahti.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CitySortanlahti.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Darkehmen|Darkehmen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Darkehmen.public|Darkehmen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Darkehmen.internal|Darkehmen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Darkehmen.protect|Darkehmen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Darkehmen.private|Darkehmen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Darkehmen.personal|Darkehmen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Darkehmen.secret|Darkehmen.secret]] 
+
+### [Darkehmen.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityDarkehmen.public.md) 
+
+### [Darkehmen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityDarkehmen.internal.md) 
+
+### [Darkehmen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityDarkehmen.protect.md) 
+
+### [Darkehmen.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityDarkehmen.private.md) 
+
+### [Darkehmen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityDarkehmen.personal.md) 
+
+### [Darkehmen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityDarkehmen.secret.md)
+

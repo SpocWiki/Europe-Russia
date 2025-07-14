@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Stalingrad|Stalingrad]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Stalingrad.public|Stalingrad.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Stalingrad.internal|Stalingrad.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Stalingrad.protect|Stalingrad.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Stalingrad.private|Stalingrad.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Stalingrad.personal|Stalingrad.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Stalingrad.secret|Stalingrad.secret]] 
+
+### [Stalingrad.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CityStalingrad.public.md) 
+
+### [Stalingrad.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CityStalingrad.internal.md) 
+
+### [Stalingrad.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CityStalingrad.protect.md) 
+
+### [Stalingrad.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CityStalingrad.private.md) 
+
+### [Stalingrad.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CityStalingrad.personal.md) 
+
+### [Stalingrad.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CityStalingrad.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Stavropol|Stavropol]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Stavropol.public|Stavropol.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Stavropol.internal|Stavropol.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Stavropol.protect|Stavropol.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Stavropol.private|Stavropol.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Stavropol.personal|Stavropol.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Stavropol.secret|Stavropol.secret]] 
+
+### [Stavropol.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityStavropol.public.md) 
+
+### [Stavropol.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityStavropol.internal.md) 
+
+### [Stavropol.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityStavropol.protect.md) 
+
+### [Stavropol.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityStavropol.private.md) 
+
+### [Stavropol.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityStavropol.personal.md) 
+
+### [Stavropol.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityStavropol.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Elista|Elista]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Elista.public|Elista.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Elista.internal|Elista.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Elista.protect|Elista.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Elista.private|Elista.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Elista.personal|Elista.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Elista.secret|Elista.secret]] 
+
+### [Elista.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Kalmykia~Republic\CityElista.public.md) 
+
+### [Elista.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Kalmykia~Republic\CityElista.internal.md) 
+
+### [Elista.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Kalmykia~Republic\CityElista.protect.md) 
+
+### [Elista.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Kalmykia~Republic\CityElista.private.md) 
+
+### [Elista.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Kalmykia~Republic\CityElista.personal.md) 
+
+### [Elista.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Kalmykia~Republic\CityElista.secret.md)
+

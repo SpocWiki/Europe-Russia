@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Ingushetia~Republic|State~Ingushetia~Republic]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Ingushetia~Republic.internal|State~Ingushetia~Republic.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Ingushetia~Republic.protect|State~Ingushetia~Republic.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Ingushetia~Republic.private|State~Ingushetia~Republic.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Ingushetia~Republic.personal|State~Ingushetia~Republic.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Ingushetia~Republic.secret|State~Ingushetia~Republic.secret]] 
+
+### [Ingushetia~Republic.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusIngushetia~Republic.public.md) 
+
+### [Ingushetia~Republic.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusIngushetia~Republic.internal.md) 
+
+### [Ingushetia~Republic.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusIngushetia~Republic.protect.md) 
+
+### [Ingushetia~Republic.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusIngushetia~Republic.private.md) 
+
+### [Ingushetia~Republic.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusIngushetia~Republic.personal.md) 
+
+### [Ingushetia~Republic.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusIngushetia~Republic.secret.md)
+

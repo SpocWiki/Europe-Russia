@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Finland/City/Halila|Halila]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Finland/City/Halila.public|Halila.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Finland/City/Halila.internal|Halila.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Finland/City/Halila.protect|Halila.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Finland/City/Halila.private|Halila.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Finland/City/Halila.personal|Halila.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Finland/City/Halila.secret|Halila.secret]] 
+
+### [Halila.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityHalila.public.md) 
+
+### [Halila.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityHalila.internal.md) 
+
+### [Halila.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityHalila.protect.md) 
+
+### [Halila.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityHalila.private.md) 
+
+### [Halila.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityHalila.personal.md) 
+
+### [Halila.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityHalila.secret.md)
+

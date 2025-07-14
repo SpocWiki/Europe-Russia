@@ -112,3 +112,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bashkortostan) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Republic_of_Bashkortostan.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\SiberiaRepublic_of_Bashkortostan.public.md) 
+
+### [Republic_of_Bashkortostan.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaRepublic_of_Bashkortostan.internal.md) 
+
+### [Republic_of_Bashkortostan.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\SiberiaRepublic_of_Bashkortostan.protect.md) 
+
+### [Republic_of_Bashkortostan.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\SiberiaRepublic_of_Bashkortostan.private.md) 
+
+### [Republic_of_Bashkortostan.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaRepublic_of_Bashkortostan.personal.md) 
+
+### [Republic_of_Bashkortostan.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\SiberiaRepublic_of_Bashkortostan.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Kobbelbude|Kobbelbude]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Kobbelbude.public|Kobbelbude.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Kobbelbude.internal|Kobbelbude.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Kobbelbude.protect|Kobbelbude.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Kobbelbude.private|Kobbelbude.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Kobbelbude.personal|Kobbelbude.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Kobbelbude.secret|Kobbelbude.secret]] 
+
+### [Kobbelbude.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityKobbelbude.public.md) 
+
+### [Kobbelbude.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityKobbelbude.internal.md) 
+
+### [Kobbelbude.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityKobbelbude.protect.md) 
+
+### [Kobbelbude.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityKobbelbude.private.md) 
+
+### [Kobbelbude.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityKobbelbude.personal.md) 
+
+### [Kobbelbude.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityKobbelbude.secret.md)
+

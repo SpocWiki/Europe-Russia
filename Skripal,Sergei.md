@@ -29,3 +29,20 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Skripal,Sergei.public](/_public/\Earth\Continent\Europe\Europe~East\RussiaSkripal,Sergei.public.md) 
+
+### [Skripal,Sergei.internal](/_internal/\Earth\Continent\Europe\Europe~East\RussiaSkripal,Sergei.internal.md) 
+
+### [Skripal,Sergei.protect](/_protect/\Earth\Continent\Europe\Europe~East\RussiaSkripal,Sergei.protect.md) 
+
+### [Skripal,Sergei.private](/_private/\Earth\Continent\Europe\Europe~East\RussiaSkripal,Sergei.private.md) 
+
+### [Skripal,Sergei.personal](/_personal/\Earth\Continent\Europe\Europe~East\RussiaSkripal,Sergei.personal.md) 
+
+### [Skripal,Sergei.secret](/_secret/\Earth\Continent\Europe\Europe~East\RussiaSkripal,Sergei.secret.md)
+

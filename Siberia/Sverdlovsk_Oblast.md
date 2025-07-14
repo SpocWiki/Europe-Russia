@@ -71,3 +71,20 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Sverdlovsk%20Oblast) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Sverdlovsk_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\SiberiaSverdlovsk_Oblast.public.md) 
+
+### [Sverdlovsk_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaSverdlovsk_Oblast.internal.md) 
+
+### [Sverdlovsk_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\SiberiaSverdlovsk_Oblast.protect.md) 
+
+### [Sverdlovsk_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\SiberiaSverdlovsk_Oblast.private.md) 
+
+### [Sverdlovsk_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaSverdlovsk_Oblast.personal.md) 
+
+### [Sverdlovsk_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\SiberiaSverdlovsk_Oblast.secret.md)
+

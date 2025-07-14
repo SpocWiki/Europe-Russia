@@ -81,3 +81,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Magadan%20Oblast) 
 > 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Magadan_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\SiberiaMagadan_Oblast.public.md) 
+
+### [Magadan_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaMagadan_Oblast.internal.md) 
+
+### [Magadan_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\SiberiaMagadan_Oblast.protect.md) 
+
+### [Magadan_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\SiberiaMagadan_Oblast.private.md) 
+
+### [Magadan_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaMagadan_Oblast.personal.md) 
+
+### [Magadan_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\SiberiaMagadan_Oblast.secret.md)
+

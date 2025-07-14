@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Pulkowa|Pulkowa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Pulkowa.public|Pulkowa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Pulkowa.internal|Pulkowa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Pulkowa.protect|Pulkowa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Pulkowa.private|Pulkowa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Pulkowa.personal|Pulkowa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Pulkowa.secret|Pulkowa.secret]] 
+
+### [Pulkowa.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityPulkowa.public.md) 
+
+### [Pulkowa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityPulkowa.internal.md) 
+
+### [Pulkowa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityPulkowa.protect.md) 
+
+### [Pulkowa.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityPulkowa.private.md) 
+
+### [Pulkowa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityPulkowa.personal.md) 
+
+### [Pulkowa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityPulkowa.secret.md)
+

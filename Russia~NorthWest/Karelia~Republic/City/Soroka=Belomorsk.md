@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Soroka=Belomorsk|Soroka=Belomorsk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Soroka=Belomorsk.public|Soroka=Belomorsk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Soroka=Belomorsk.internal|Soroka=Belomorsk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Soroka=Belomorsk.protect|Soroka=Belomorsk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Soroka=Belomorsk.private|Soroka=Belomorsk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Soroka=Belomorsk.personal|Soroka=Belomorsk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Soroka=Belomorsk.secret|Soroka=Belomorsk.secret]] 
+
+### [Soroka=Belomorsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySoroka=Belomorsk.public.md) 
+
+### [Soroka=Belomorsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySoroka=Belomorsk.internal.md) 
+
+### [Soroka=Belomorsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySoroka=Belomorsk.protect.md) 
+
+### [Soroka=Belomorsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySoroka=Belomorsk.private.md) 
+
+### [Soroka=Belomorsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySoroka=Belomorsk.personal.md) 
+
+### [Soroka=Belomorsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySoroka=Belomorsk.secret.md)
+

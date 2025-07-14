@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Tver_Oblast|State~Tver_Oblast]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Tver_Oblast.internal|State~Tver_Oblast.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Tver_Oblast.protect|State~Tver_Oblast.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Tver_Oblast.private|State~Tver_Oblast.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Tver_Oblast.personal|State~Tver_Oblast.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Tver_Oblast.secret|State~Tver_Oblast.secret]] 
+
+### [Tver_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralTver_Oblast.public.md) 
+
+### [Tver_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralTver_Oblast.internal.md) 
+
+### [Tver_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralTver_Oblast.protect.md) 
+
+### [Tver_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralTver_Oblast.private.md) 
+
+### [Tver_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralTver_Oblast.personal.md) 
+
+### [Tver_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralTver_Oblast.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Makhachkala|Makhachkala]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Makhachkala.public|Makhachkala.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Makhachkala.internal|Makhachkala.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Makhachkala.protect|Makhachkala.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Makhachkala.private|Makhachkala.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Makhachkala.personal|Makhachkala.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Makhachkala.secret|Makhachkala.secret]] 
+
+### [Makhachkala.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityMakhachkala.public.md) 
+
+### [Makhachkala.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityMakhachkala.internal.md) 
+
+### [Makhachkala.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityMakhachkala.protect.md) 
+
+### [Makhachkala.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityMakhachkala.private.md) 
+
+### [Makhachkala.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityMakhachkala.personal.md) 
+
+### [Makhachkala.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityMakhachkala.secret.md)
+

@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Mari_El~Republic|State~Mari_El~Republic]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Mari_El~Republic.internal|State~Mari_El~Republic.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Mari_El~Republic.protect|State~Mari_El~Republic.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Mari_El~Republic.private|State~Mari_El~Republic.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Mari_El~Republic.personal|State~Mari_El~Republic.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Mari_El~Republic.secret|State~Mari_El~Republic.secret]] 
+
+### [Mari_El~Republic.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaMari_El~Republic.public.md) 
+
+### [Mari_El~Republic.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaMari_El~Republic.internal.md) 
+
+### [Mari_El~Republic.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaMari_El~Republic.protect.md) 
+
+### [Mari_El~Republic.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaMari_El~Republic.private.md) 
+
+### [Mari_El~Republic.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaMari_El~Republic.personal.md) 
+
+### [Mari_El~Republic.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaMari_El~Republic.secret.md)
+

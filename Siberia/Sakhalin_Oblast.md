@@ -73,3 +73,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sakhalin%20Oblast) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Sakhalin_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\SiberiaSakhalin_Oblast.public.md) 
+
+### [Sakhalin_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaSakhalin_Oblast.internal.md) 
+
+### [Sakhalin_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\SiberiaSakhalin_Oblast.protect.md) 
+
+### [Sakhalin_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\SiberiaSakhalin_Oblast.private.md) 
+
+### [Sakhalin_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaSakhalin_Oblast.personal.md) 
+
+### [Sakhalin_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\SiberiaSakhalin_Oblast.secret.md)
+

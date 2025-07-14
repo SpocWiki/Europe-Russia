@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Welsk|Welsk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Welsk.public|Welsk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Welsk.internal|Welsk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Welsk.protect|Welsk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Welsk.private|Welsk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Welsk.personal|Welsk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Welsk.secret|Welsk.secret]] 
+
+### [Welsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CityWelsk.public.md) 
+
+### [Welsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CityWelsk.internal.md) 
+
+### [Welsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CityWelsk.protect.md) 
+
+### [Welsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CityWelsk.private.md) 
+
+### [Welsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CityWelsk.personal.md) 
+
+### [Welsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CityWelsk.secret.md)
+

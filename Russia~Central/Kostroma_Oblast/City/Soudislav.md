@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Soudislav|Soudislav]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Soudislav.public|Soudislav.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Soudislav.internal|Soudislav.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Soudislav.protect|Soudislav.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Soudislav.private|Soudislav.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Soudislav.personal|Soudislav.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Soudislav.secret|Soudislav.secret]] 
+
+### [Soudislav.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kostroma_Oblast\CitySoudislav.public.md) 
+
+### [Soudislav.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kostroma_Oblast\CitySoudislav.internal.md) 
+
+### [Soudislav.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kostroma_Oblast\CitySoudislav.protect.md) 
+
+### [Soudislav.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kostroma_Oblast\CitySoudislav.private.md) 
+
+### [Soudislav.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kostroma_Oblast\CitySoudislav.personal.md) 
+
+### [Soudislav.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kostroma_Oblast\CitySoudislav.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Fischhausen|Fischhausen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Fischhausen.public|Fischhausen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Fischhausen.internal|Fischhausen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Fischhausen.protect|Fischhausen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Fischhausen.private|Fischhausen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Fischhausen.personal|Fischhausen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Fischhausen.secret|Fischhausen.secret]] 
+
+### [Fischhausen.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityFischhausen.public.md) 
+
+### [Fischhausen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityFischhausen.internal.md) 
+
+### [Fischhausen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityFischhausen.protect.md) 
+
+### [Fischhausen.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityFischhausen.private.md) 
+
+### [Fischhausen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityFischhausen.personal.md) 
+
+### [Fischhausen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityFischhausen.secret.md)
+

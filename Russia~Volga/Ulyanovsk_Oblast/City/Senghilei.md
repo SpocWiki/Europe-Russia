@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Senghilei|Senghilei]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Senghilei.public|Senghilei.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Senghilei.internal|Senghilei.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Senghilei.protect|Senghilei.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Senghilei.private|Senghilei.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Senghilei.personal|Senghilei.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Senghilei.secret|Senghilei.secret]] 
+
+### [Senghilei.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Ulyanovsk_Oblast\CitySenghilei.public.md) 
+
+### [Senghilei.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Ulyanovsk_Oblast\CitySenghilei.internal.md) 
+
+### [Senghilei.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Ulyanovsk_Oblast\CitySenghilei.protect.md) 
+
+### [Senghilei.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Ulyanovsk_Oblast\CitySenghilei.private.md) 
+
+### [Senghilei.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Ulyanovsk_Oblast\CitySenghilei.personal.md) 
+
+### [Senghilei.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Ulyanovsk_Oblast\CitySenghilei.secret.md)
+

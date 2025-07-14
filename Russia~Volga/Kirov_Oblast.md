@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Kirov_Oblast|State~Kirov_Oblast]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Kirov_Oblast.internal|State~Kirov_Oblast.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Kirov_Oblast.protect|State~Kirov_Oblast.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Kirov_Oblast.private|State~Kirov_Oblast.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Kirov_Oblast.personal|State~Kirov_Oblast.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Kirov_Oblast.secret|State~Kirov_Oblast.secret]] 
+
+### [Kirov_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaKirov_Oblast.public.md) 
+
+### [Kirov_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaKirov_Oblast.internal.md) 
+
+### [Kirov_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaKirov_Oblast.protect.md) 
+
+### [Kirov_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaKirov_Oblast.private.md) 
+
+### [Kirov_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaKirov_Oblast.personal.md) 
+
+### [Kirov_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaKirov_Oblast.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Kasan|Kasan]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Kasan.public|Kasan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Kasan.internal|Kasan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Kasan.protect|Kasan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Kasan.private|Kasan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Kasan.personal|Kasan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Kasan.secret|Kasan.secret]] 
+
+### [Kasan.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Tatarstan~Republic\CityKasan.public.md) 
+
+### [Kasan.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Tatarstan~Republic\CityKasan.internal.md) 
+
+### [Kasan.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Tatarstan~Republic\CityKasan.protect.md) 
+
+### [Kasan.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Tatarstan~Republic\CityKasan.private.md) 
+
+### [Kasan.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Tatarstan~Republic\CityKasan.personal.md) 
+
+### [Kasan.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Tatarstan~Republic\CityKasan.secret.md)
+

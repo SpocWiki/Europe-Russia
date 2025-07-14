@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Spassk~Tambow|Spassk~Tambow]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Spassk~Tambow.public|Spassk~Tambow.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Spassk~Tambow.internal|Spassk~Tambow.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Spassk~Tambow.protect|Spassk~Tambow.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Spassk~Tambow.private|Spassk~Tambow.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Spassk~Tambow.personal|Spassk~Tambow.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Spassk~Tambow.secret|Spassk~Tambow.secret]] 
+
+### [Spassk~Tambow.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Penza_Oblast\CitySpassk~Tambow.public.md) 
+
+### [Spassk~Tambow.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Penza_Oblast\CitySpassk~Tambow.internal.md) 
+
+### [Spassk~Tambow.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Penza_Oblast\CitySpassk~Tambow.protect.md) 
+
+### [Spassk~Tambow.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Penza_Oblast\CitySpassk~Tambow.private.md) 
+
+### [Spassk~Tambow.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Penza_Oblast\CitySpassk~Tambow.personal.md) 
+
+### [Spassk~Tambow.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Penza_Oblast\CitySpassk~Tambow.secret.md)
+

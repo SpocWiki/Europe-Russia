@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Kamyschin|Kamyschin]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Kamyschin.public|Kamyschin.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Kamyschin.internal|Kamyschin.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Kamyschin.protect|Kamyschin.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Kamyschin.private|Kamyschin.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Kamyschin.personal|Kamyschin.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Kamyschin.secret|Kamyschin.secret]] 
+
+### [Kamyschin.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CityKamyschin.public.md) 
+
+### [Kamyschin.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CityKamyschin.internal.md) 
+
+### [Kamyschin.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CityKamyschin.protect.md) 
+
+### [Kamyschin.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CityKamyschin.private.md) 
+
+### [Kamyschin.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CityKamyschin.personal.md) 
+
+### [Kamyschin.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CityKamyschin.secret.md)
+

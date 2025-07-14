@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Cranz|Cranz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Cranz.public|Cranz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Cranz.internal|Cranz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Cranz.protect|Cranz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Cranz.private|Cranz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Cranz.personal|Cranz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Cranz.secret|Cranz.secret]] 
+
+### [Cranz.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityCranz.public.md) 
+
+### [Cranz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityCranz.internal.md) 
+
+### [Cranz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityCranz.protect.md) 
+
+### [Cranz.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityCranz.private.md) 
+
+### [Cranz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityCranz.personal.md) 
+
+### [Cranz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityCranz.secret.md)
+

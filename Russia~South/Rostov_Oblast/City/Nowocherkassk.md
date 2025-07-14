@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Nowocherkassk|Nowocherkassk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Nowocherkassk.public|Nowocherkassk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Nowocherkassk.internal|Nowocherkassk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Nowocherkassk.protect|Nowocherkassk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Nowocherkassk.private|Nowocherkassk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Nowocherkassk.personal|Nowocherkassk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Nowocherkassk.secret|Nowocherkassk.secret]] 
+
+### [Nowocherkassk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityNowocherkassk.public.md) 
+
+### [Nowocherkassk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityNowocherkassk.internal.md) 
+
+### [Nowocherkassk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityNowocherkassk.protect.md) 
+
+### [Nowocherkassk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityNowocherkassk.private.md) 
+
+### [Nowocherkassk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityNowocherkassk.personal.md) 
+
+### [Nowocherkassk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityNowocherkassk.secret.md)
+

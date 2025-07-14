@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Tschernyi-Sar|Tschernyi-Sar]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Tschernyi-Sar.public|Tschernyi-Sar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Tschernyi-Sar.internal|Tschernyi-Sar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Tschernyi-Sar.protect|Tschernyi-Sar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Tschernyi-Sar.private|Tschernyi-Sar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Tschernyi-Sar.personal|Tschernyi-Sar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Tschernyi-Sar.secret|Tschernyi-Sar.secret]] 
+
+### [Tschernyi-Sar.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Astrakhan_Oblast\CityTschernyi-Sar.public.md) 
+
+### [Tschernyi-Sar.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Astrakhan_Oblast\CityTschernyi-Sar.internal.md) 
+
+### [Tschernyi-Sar.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Astrakhan_Oblast\CityTschernyi-Sar.protect.md) 
+
+### [Tschernyi-Sar.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Astrakhan_Oblast\CityTschernyi-Sar.private.md) 
+
+### [Tschernyi-Sar.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Astrakhan_Oblast\CityTschernyi-Sar.personal.md) 
+
+### [Tschernyi-Sar.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Astrakhan_Oblast\CityTschernyi-Sar.secret.md)
+

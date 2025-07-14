@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Finland/City/Kaekisalmi|Kaekisalmi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Finland/City/Kaekisalmi.public|Kaekisalmi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Finland/City/Kaekisalmi.internal|Kaekisalmi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Finland/City/Kaekisalmi.protect|Kaekisalmi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Finland/City/Kaekisalmi.private|Kaekisalmi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Finland/City/Kaekisalmi.personal|Kaekisalmi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Finland/City/Kaekisalmi.secret|Kaekisalmi.secret]] 
+
+### [Kaekisalmi.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityKaekisalmi.public.md) 
+
+### [Kaekisalmi.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityKaekisalmi.internal.md) 
+
+### [Kaekisalmi.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityKaekisalmi.protect.md) 
+
+### [Kaekisalmi.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityKaekisalmi.private.md) 
+
+### [Kaekisalmi.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityKaekisalmi.personal.md) 
+
+### [Kaekisalmi.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityKaekisalmi.secret.md)
+

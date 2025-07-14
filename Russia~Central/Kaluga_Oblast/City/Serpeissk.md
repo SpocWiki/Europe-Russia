@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Serpeissk|Serpeissk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Serpeissk.public|Serpeissk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Serpeissk.internal|Serpeissk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Serpeissk.protect|Serpeissk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Serpeissk.private|Serpeissk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Serpeissk.personal|Serpeissk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Serpeissk.secret|Serpeissk.secret]] 
+
+### [Serpeissk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CitySerpeissk.public.md) 
+
+### [Serpeissk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CitySerpeissk.internal.md) 
+
+### [Serpeissk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CitySerpeissk.protect.md) 
+
+### [Serpeissk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CitySerpeissk.private.md) 
+
+### [Serpeissk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CitySerpeissk.personal.md) 
+
+### [Serpeissk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CitySerpeissk.secret.md)
+

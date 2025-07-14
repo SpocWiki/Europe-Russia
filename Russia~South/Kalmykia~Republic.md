@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Kalmykia~Republic|State~Kalmykia~Republic]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Kalmykia~Republic.internal|State~Kalmykia~Republic.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Kalmykia~Republic.protect|State~Kalmykia~Republic.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Kalmykia~Republic.private|State~Kalmykia~Republic.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Kalmykia~Republic.personal|State~Kalmykia~Republic.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Kalmykia~Republic.secret|State~Kalmykia~Republic.secret]] 
+
+### [Kalmykia~Republic.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthKalmykia~Republic.public.md) 
+
+### [Kalmykia~Republic.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthKalmykia~Republic.internal.md) 
+
+### [Kalmykia~Republic.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthKalmykia~Republic.protect.md) 
+
+### [Kalmykia~Republic.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthKalmykia~Republic.private.md) 
+
+### [Kalmykia~Republic.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthKalmykia~Republic.personal.md) 
+
+### [Kalmykia~Republic.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthKalmykia~Republic.secret.md)
+

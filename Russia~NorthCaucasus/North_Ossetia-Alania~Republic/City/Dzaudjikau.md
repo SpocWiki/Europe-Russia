@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Dzaudjikau|Dzaudjikau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Dzaudjikau.public|Dzaudjikau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Dzaudjikau.internal|Dzaudjikau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Dzaudjikau.protect|Dzaudjikau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Dzaudjikau.private|Dzaudjikau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Dzaudjikau.personal|Dzaudjikau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Dzaudjikau.secret|Dzaudjikau.secret]] 
+
+### [Dzaudjikau.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\North_Ossetia-Alania~Republic\CityDzaudjikau.public.md) 
+
+### [Dzaudjikau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\North_Ossetia-Alania~Republic\CityDzaudjikau.internal.md) 
+
+### [Dzaudjikau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\North_Ossetia-Alania~Republic\CityDzaudjikau.protect.md) 
+
+### [Dzaudjikau.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\North_Ossetia-Alania~Republic\CityDzaudjikau.private.md) 
+
+### [Dzaudjikau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\North_Ossetia-Alania~Republic\CityDzaudjikau.personal.md) 
+
+### [Dzaudjikau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\North_Ossetia-Alania~Republic\CityDzaudjikau.secret.md)
+

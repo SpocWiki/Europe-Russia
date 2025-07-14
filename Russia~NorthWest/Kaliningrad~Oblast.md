@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Oblast_Kaliningrad|State~Oblast_Kaliningrad]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Oblast_Kaliningrad.internal|State~Oblast_Kaliningrad.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Oblast_Kaliningrad.protect|State~Oblast_Kaliningrad.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Oblast_Kaliningrad.private|State~Oblast_Kaliningrad.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Oblast_Kaliningrad.personal|State~Oblast_Kaliningrad.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Oblast_Kaliningrad.secret|State~Oblast_Kaliningrad.secret]] 
+
+### [Kaliningrad~Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestKaliningrad~Oblast.public.md) 
+
+### [Kaliningrad~Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestKaliningrad~Oblast.internal.md) 
+
+### [Kaliningrad~Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestKaliningrad~Oblast.protect.md) 
+
+### [Kaliningrad~Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestKaliningrad~Oblast.private.md) 
+
+### [Kaliningrad~Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestKaliningrad~Oblast.personal.md) 
+
+### [Kaliningrad~Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestKaliningrad~Oblast.secret.md)
+

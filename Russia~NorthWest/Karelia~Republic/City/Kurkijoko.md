@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Finland/City/Kurkijoko|Kurkijoko]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Finland/City/Kurkijoko.public|Kurkijoko.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Finland/City/Kurkijoko.internal|Kurkijoko.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Finland/City/Kurkijoko.protect|Kurkijoko.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Finland/City/Kurkijoko.private|Kurkijoko.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Finland/City/Kurkijoko.personal|Kurkijoko.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Finland/City/Kurkijoko.secret|Kurkijoko.secret]] 
+
+### [Kurkijoko.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityKurkijoko.public.md) 
+
+### [Kurkijoko.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityKurkijoko.internal.md) 
+
+### [Kurkijoko.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityKurkijoko.protect.md) 
+
+### [Kurkijoko.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityKurkijoko.private.md) 
+
+### [Kurkijoko.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityKurkijoko.personal.md) 
+
+### [Kurkijoko.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityKurkijoko.secret.md)
+

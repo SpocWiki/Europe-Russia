@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Zaref|Zaref]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Zaref.public|Zaref.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Zaref.internal|Zaref.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Zaref.protect|Zaref.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Zaref.private|Zaref.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Zaref.personal|Zaref.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Zaref.secret|Zaref.secret]] 
+
+### [Zaref.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CityZaref.public.md) 
+
+### [Zaref.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CityZaref.internal.md) 
+
+### [Zaref.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CityZaref.protect.md) 
+
+### [Zaref.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CityZaref.private.md) 
+
+### [Zaref.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CityZaref.personal.md) 
+
+### [Zaref.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CityZaref.secret.md)
+

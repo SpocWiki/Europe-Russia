@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Stalinogorsk|Stalinogorsk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Stalinogorsk.public|Stalinogorsk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Stalinogorsk.internal|Stalinogorsk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Stalinogorsk.protect|Stalinogorsk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Stalinogorsk.private|Stalinogorsk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Stalinogorsk.personal|Stalinogorsk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Stalinogorsk.secret|Stalinogorsk.secret]] 
+
+### [Stalinogorsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityStalinogorsk.public.md) 
+
+### [Stalinogorsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityStalinogorsk.internal.md) 
+
+### [Stalinogorsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityStalinogorsk.protect.md) 
+
+### [Stalinogorsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityStalinogorsk.private.md) 
+
+### [Stalinogorsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityStalinogorsk.personal.md) 
+
+### [Stalinogorsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityStalinogorsk.secret.md)
+

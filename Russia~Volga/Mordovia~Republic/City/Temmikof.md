@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Temmikof|Temmikof]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Temmikof.public|Temmikof.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Temmikof.internal|Temmikof.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Temmikof.protect|Temmikof.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Temmikof.private|Temmikof.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Temmikof.personal|Temmikof.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Temmikof.secret|Temmikof.secret]] 
+
+### [Temmikof.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mordovia~Republic\CityTemmikof.public.md) 
+
+### [Temmikof.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mordovia~Republic\CityTemmikof.internal.md) 
+
+### [Temmikof.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mordovia~Republic\CityTemmikof.protect.md) 
+
+### [Temmikof.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mordovia~Republic\CityTemmikof.private.md) 
+
+### [Temmikof.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mordovia~Republic\CityTemmikof.personal.md) 
+
+### [Temmikof.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mordovia~Republic\CityTemmikof.secret.md)
+

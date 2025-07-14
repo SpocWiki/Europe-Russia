@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Karelia~Republic|State~Karelia~Republic]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Karelia~Republic.internal|State~Karelia~Republic.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Karelia~Republic.protect|State~Karelia~Republic.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Karelia~Republic.private|State~Karelia~Republic.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Karelia~Republic.personal|State~Karelia~Republic.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Karelia~Republic.secret|State~Karelia~Republic.secret]] 
+
+### [Karelia~Republic.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestKarelia~Republic.public.md) 
+
+### [Karelia~Republic.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestKarelia~Republic.internal.md) 
+
+### [Karelia~Republic.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestKarelia~Republic.protect.md) 
+
+### [Karelia~Republic.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestKarelia~Republic.private.md) 
+
+### [Karelia~Republic.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestKarelia~Republic.personal.md) 
+
+### [Karelia~Republic.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestKarelia~Republic.secret.md)
+

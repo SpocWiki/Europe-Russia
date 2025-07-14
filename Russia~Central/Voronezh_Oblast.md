@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Voronezh_Oblast|State~Voronezh_Oblast]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Voronezh_Oblast.internal|State~Voronezh_Oblast.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Voronezh_Oblast.protect|State~Voronezh_Oblast.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Voronezh_Oblast.private|State~Voronezh_Oblast.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Voronezh_Oblast.personal|State~Voronezh_Oblast.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Voronezh_Oblast.secret|State~Voronezh_Oblast.secret]] 
+
+### [Voronezh_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralVoronezh_Oblast.public.md) 
+
+### [Voronezh_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralVoronezh_Oblast.internal.md) 
+
+### [Voronezh_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralVoronezh_Oblast.protect.md) 
+
+### [Voronezh_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralVoronezh_Oblast.private.md) 
+
+### [Voronezh_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralVoronezh_Oblast.personal.md) 
+
+### [Voronezh_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralVoronezh_Oblast.secret.md)
+

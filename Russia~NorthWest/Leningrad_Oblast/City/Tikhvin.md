@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Tikhvin|Tikhvin]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Tikhvin.public|Tikhvin.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Tikhvin.internal|Tikhvin.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Tikhvin.protect|Tikhvin.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Tikhvin.private|Tikhvin.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Tikhvin.personal|Tikhvin.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Tikhvin.secret|Tikhvin.secret]] 
+
+### [Tikhvin.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityTikhvin.public.md) 
+
+### [Tikhvin.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityTikhvin.internal.md) 
+
+### [Tikhvin.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityTikhvin.protect.md) 
+
+### [Tikhvin.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityTikhvin.private.md) 
+
+### [Tikhvin.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityTikhvin.personal.md) 
+
+### [Tikhvin.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityTikhvin.secret.md)
+

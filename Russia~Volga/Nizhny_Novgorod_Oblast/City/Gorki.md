@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Gorki|Gorki]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Gorki.public|Gorki.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Gorki.internal|Gorki.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Gorki.protect|Gorki.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Gorki.private|Gorki.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Gorki.personal|Gorki.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Gorki.secret|Gorki.secret]] 
+
+### [Gorki.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityGorki.public.md) 
+
+### [Gorki.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityGorki.internal.md) 
+
+### [Gorki.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityGorki.protect.md) 
+
+### [Gorki.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityGorki.private.md) 
+
+### [Gorki.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityGorki.personal.md) 
+
+### [Gorki.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityGorki.secret.md)
+

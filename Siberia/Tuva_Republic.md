@@ -90,3 +90,20 @@ native label: Тыва Республика
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tuva) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Tuva_Republic.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\SiberiaTuva_Republic.public.md) 
+
+### [Tuva_Republic.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaTuva_Republic.internal.md) 
+
+### [Tuva_Republic.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\SiberiaTuva_Republic.protect.md) 
+
+### [Tuva_Republic.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\SiberiaTuva_Republic.private.md) 
+
+### [Tuva_Republic.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaTuva_Republic.personal.md) 
+
+### [Tuva_Republic.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\SiberiaTuva_Republic.secret.md)
+

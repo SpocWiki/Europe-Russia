@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Pereslavl-Zalesskiy|Pereslavl-Zalesskiy]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Pereslavl-Zalesskiy.public|Pereslavl-Zalesskiy.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Pereslavl-Zalesskiy.internal|Pereslavl-Zalesskiy.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Pereslavl-Zalesskiy.protect|Pereslavl-Zalesskiy.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Pereslavl-Zalesskiy.private|Pereslavl-Zalesskiy.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Pereslavl-Zalesskiy.personal|Pereslavl-Zalesskiy.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Pereslavl-Zalesskiy.secret|Pereslavl-Zalesskiy.secret]] 
+
+### [Pereslavl-Zalesskiy.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Yaroslavl_Oblast\CityPereslavl-Zalesskiy.public.md) 
+
+### [Pereslavl-Zalesskiy.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Yaroslavl_Oblast\CityPereslavl-Zalesskiy.internal.md) 
+
+### [Pereslavl-Zalesskiy.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Yaroslavl_Oblast\CityPereslavl-Zalesskiy.protect.md) 
+
+### [Pereslavl-Zalesskiy.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Yaroslavl_Oblast\CityPereslavl-Zalesskiy.private.md) 
+
+### [Pereslavl-Zalesskiy.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Yaroslavl_Oblast\CityPereslavl-Zalesskiy.personal.md) 
+
+### [Pereslavl-Zalesskiy.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Yaroslavl_Oblast\CityPereslavl-Zalesskiy.secret.md)
+

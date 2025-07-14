@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Schaaken|Schaaken]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Schaaken.public|Schaaken.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Schaaken.internal|Schaaken.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Schaaken.protect|Schaaken.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Schaaken.private|Schaaken.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Schaaken.personal|Schaaken.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Schaaken.secret|Schaaken.secret]] 
+
+### [Schaaken.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CitySchaaken.public.md) 
+
+### [Schaaken.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CitySchaaken.internal.md) 
+
+### [Schaaken.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CitySchaaken.protect.md) 
+
+### [Schaaken.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CitySchaaken.private.md) 
+
+### [Schaaken.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CitySchaaken.personal.md) 
+
+### [Schaaken.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CitySchaaken.secret.md)
+

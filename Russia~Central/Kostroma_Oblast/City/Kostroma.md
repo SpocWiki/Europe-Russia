@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Kostroma|Kostroma]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Kostroma.public|Kostroma.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Kostroma.internal|Kostroma.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Kostroma.protect|Kostroma.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Kostroma.private|Kostroma.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Kostroma.personal|Kostroma.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Kostroma.secret|Kostroma.secret]] 
+
+### [Kostroma.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kostroma_Oblast\CityKostroma.public.md) 
+
+### [Kostroma.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kostroma_Oblast\CityKostroma.internal.md) 
+
+### [Kostroma.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kostroma_Oblast\CityKostroma.protect.md) 
+
+### [Kostroma.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kostroma_Oblast\CityKostroma.private.md) 
+
+### [Kostroma.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kostroma_Oblast\CityKostroma.personal.md) 
+
+### [Kostroma.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kostroma_Oblast\CityKostroma.secret.md)
+

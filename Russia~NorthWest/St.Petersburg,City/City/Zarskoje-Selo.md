@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Zarskoje-Selo|Zarskoje-Selo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Zarskoje-Selo.public|Zarskoje-Selo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Zarskoje-Selo.internal|Zarskoje-Selo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Zarskoje-Selo.protect|Zarskoje-Selo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Zarskoje-Selo.private|Zarskoje-Selo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Zarskoje-Selo.personal|Zarskoje-Selo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Zarskoje-Selo.secret|Zarskoje-Selo.secret]] 
+
+### [Zarskoje-Selo.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityZarskoje-Selo.public.md) 
+
+### [Zarskoje-Selo.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityZarskoje-Selo.internal.md) 
+
+### [Zarskoje-Selo.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityZarskoje-Selo.protect.md) 
+
+### [Zarskoje-Selo.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityZarskoje-Selo.private.md) 
+
+### [Zarskoje-Selo.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityZarskoje-Selo.personal.md) 
+
+### [Zarskoje-Selo.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityZarskoje-Selo.secret.md)
+

@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Kabardino-Balkar~Republic|State~Kabardino-Balkar~Republic]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Kabardino-Balkar~Republic.internal|State~Kabardino-Balkar~Republic.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Kabardino-Balkar~Republic.protect|State~Kabardino-Balkar~Republic.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Kabardino-Balkar~Republic.private|State~Kabardino-Balkar~Republic.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Kabardino-Balkar~Republic.personal|State~Kabardino-Balkar~Republic.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Kabardino-Balkar~Republic.secret|State~Kabardino-Balkar~Republic.secret]] 
+
+### [Kabardino-Balkar~Republic.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusKabardino-Balkar~Republic.public.md) 
+
+### [Kabardino-Balkar~Republic.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusKabardino-Balkar~Republic.internal.md) 
+
+### [Kabardino-Balkar~Republic.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusKabardino-Balkar~Republic.protect.md) 
+
+### [Kabardino-Balkar~Republic.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusKabardino-Balkar~Republic.private.md) 
+
+### [Kabardino-Balkar~Republic.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusKabardino-Balkar~Republic.personal.md) 
+
+### [Kabardino-Balkar~Republic.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusKabardino-Balkar~Republic.secret.md)
+

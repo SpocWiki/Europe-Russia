@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Zemliansk|Zemliansk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Zemliansk.public|Zemliansk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Zemliansk.internal|Zemliansk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Zemliansk.protect|Zemliansk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Zemliansk.private|Zemliansk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Zemliansk.personal|Zemliansk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Zemliansk.secret|Zemliansk.secret]] 
+
+### [Zemliansk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kursk_Oblast\CityZemliansk.public.md) 
+
+### [Zemliansk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kursk_Oblast\CityZemliansk.internal.md) 
+
+### [Zemliansk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kursk_Oblast\CityZemliansk.protect.md) 
+
+### [Zemliansk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kursk_Oblast\CityZemliansk.private.md) 
+
+### [Zemliansk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kursk_Oblast\CityZemliansk.personal.md) 
+
+### [Zemliansk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kursk_Oblast\CityZemliansk.secret.md)
+

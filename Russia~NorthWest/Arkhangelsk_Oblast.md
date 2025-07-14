@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Arkhangelsk_Oblast|State~Arkhangelsk_Oblast]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Arkhangelsk_Oblast.internal|State~Arkhangelsk_Oblast.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Arkhangelsk_Oblast.protect|State~Arkhangelsk_Oblast.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Arkhangelsk_Oblast.private|State~Arkhangelsk_Oblast.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Arkhangelsk_Oblast.personal|State~Arkhangelsk_Oblast.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Arkhangelsk_Oblast.secret|State~Arkhangelsk_Oblast.secret]] 
+
+### [Arkhangelsk_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestArkhangelsk_Oblast.public.md) 
+
+### [Arkhangelsk_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestArkhangelsk_Oblast.internal.md) 
+
+### [Arkhangelsk_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestArkhangelsk_Oblast.protect.md) 
+
+### [Arkhangelsk_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestArkhangelsk_Oblast.private.md) 
+
+### [Arkhangelsk_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestArkhangelsk_Oblast.personal.md) 
+
+### [Arkhangelsk_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestArkhangelsk_Oblast.secret.md)
+

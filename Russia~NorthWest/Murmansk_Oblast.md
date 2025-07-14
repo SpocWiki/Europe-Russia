@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Murmansk_Oblast|State~Murmansk_Oblast]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Murmansk_Oblast.internal|State~Murmansk_Oblast.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Murmansk_Oblast.protect|State~Murmansk_Oblast.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Murmansk_Oblast.private|State~Murmansk_Oblast.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Murmansk_Oblast.personal|State~Murmansk_Oblast.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Murmansk_Oblast.secret|State~Murmansk_Oblast.secret]] 
+
+### [Murmansk_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestMurmansk_Oblast.public.md) 
+
+### [Murmansk_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestMurmansk_Oblast.internal.md) 
+
+### [Murmansk_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestMurmansk_Oblast.protect.md) 
+
+### [Murmansk_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestMurmansk_Oblast.private.md) 
+
+### [Murmansk_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestMurmansk_Oblast.personal.md) 
+
+### [Murmansk_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestMurmansk_Oblast.secret.md)
+

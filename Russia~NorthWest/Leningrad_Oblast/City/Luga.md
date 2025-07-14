@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Luga|Luga]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Luga.public|Luga.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Luga.internal|Luga.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Luga.protect|Luga.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Luga.private|Luga.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Luga.personal|Luga.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Luga.secret|Luga.secret]] 
+
+### [Luga.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityLuga.public.md) 
+
+### [Luga.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityLuga.internal.md) 
+
+### [Luga.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityLuga.protect.md) 
+
+### [Luga.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityLuga.private.md) 
+
+### [Luga.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityLuga.personal.md) 
+
+### [Luga.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityLuga.secret.md)
+

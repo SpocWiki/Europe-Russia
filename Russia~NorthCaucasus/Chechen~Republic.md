@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Chechen~Republic|State~Chechen~Republic]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Chechen~Republic.internal|State~Chechen~Republic.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Chechen~Republic.protect|State~Chechen~Republic.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Chechen~Republic.private|State~Chechen~Republic.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Chechen~Republic.personal|State~Chechen~Republic.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Chechen~Republic.secret|State~Chechen~Republic.secret]] 
+
+### [Chechen~Republic.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusChechen~Republic.public.md) 
+
+### [Chechen~Republic.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusChechen~Republic.internal.md) 
+
+### [Chechen~Republic.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusChechen~Republic.protect.md) 
+
+### [Chechen~Republic.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusChechen~Republic.private.md) 
+
+### [Chechen~Republic.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusChechen~Republic.personal.md) 
+
+### [Chechen~Republic.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusChechen~Republic.secret.md)
+

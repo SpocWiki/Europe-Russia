@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Welisch|Welisch]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Welisch.public|Welisch.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Welisch.internal|Welisch.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Welisch.protect|Welisch.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Welisch.private|Welisch.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Welisch.personal|Welisch.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Welisch.secret|Welisch.secret]] 
+
+### [Welisch.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Smolensk_Oblast\CityWelisch.public.md) 
+
+### [Welisch.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Smolensk_Oblast\CityWelisch.internal.md) 
+
+### [Welisch.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Smolensk_Oblast\CityWelisch.protect.md) 
+
+### [Welisch.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Smolensk_Oblast\CityWelisch.private.md) 
+
+### [Welisch.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Smolensk_Oblast\CityWelisch.personal.md) 
+
+### [Welisch.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Smolensk_Oblast\CityWelisch.secret.md)
+

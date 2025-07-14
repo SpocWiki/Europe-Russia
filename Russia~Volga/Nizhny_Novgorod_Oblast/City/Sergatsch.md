@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Sergatsch|Sergatsch]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Sergatsch.public|Sergatsch.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Sergatsch.internal|Sergatsch.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Sergatsch.protect|Sergatsch.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Sergatsch.private|Sergatsch.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Sergatsch.personal|Sergatsch.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Sergatsch.secret|Sergatsch.secret]] 
+
+### [Sergatsch.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CitySergatsch.public.md) 
+
+### [Sergatsch.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CitySergatsch.internal.md) 
+
+### [Sergatsch.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CitySergatsch.protect.md) 
+
+### [Sergatsch.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CitySergatsch.private.md) 
+
+### [Sergatsch.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CitySergatsch.personal.md) 
+
+### [Sergatsch.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CitySergatsch.secret.md)
+

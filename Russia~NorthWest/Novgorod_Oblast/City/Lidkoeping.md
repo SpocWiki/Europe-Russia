@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Sweden/City/Lidkoeping|Lidkoeping]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Sweden/City/Lidkoeping.public|Lidkoeping.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Sweden/City/Lidkoeping.internal|Lidkoeping.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Sweden/City/Lidkoeping.protect|Lidkoeping.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Sweden/City/Lidkoeping.private|Lidkoeping.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Sweden/City/Lidkoeping.personal|Lidkoeping.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Sweden/City/Lidkoeping.secret|Lidkoeping.secret]] 
+
+### [Lidkoeping.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Novgorod_Oblast\CityLidkoeping.public.md) 
+
+### [Lidkoeping.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Novgorod_Oblast\CityLidkoeping.internal.md) 
+
+### [Lidkoeping.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Novgorod_Oblast\CityLidkoeping.protect.md) 
+
+### [Lidkoeping.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Novgorod_Oblast\CityLidkoeping.private.md) 
+
+### [Lidkoeping.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Novgorod_Oblast\CityLidkoeping.personal.md) 
+
+### [Lidkoeping.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Novgorod_Oblast\CityLidkoeping.secret.md)
+

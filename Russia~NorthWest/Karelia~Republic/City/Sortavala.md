@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Finland/City/Sortavala|Sortavala]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Finland/City/Sortavala.public|Sortavala.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Finland/City/Sortavala.internal|Sortavala.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Finland/City/Sortavala.protect|Sortavala.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Finland/City/Sortavala.private|Sortavala.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Finland/City/Sortavala.personal|Sortavala.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Finland/City/Sortavala.secret|Sortavala.secret]] 
+
+### [Sortavala.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySortavala.public.md) 
+
+### [Sortavala.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySortavala.internal.md) 
+
+### [Sortavala.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySortavala.protect.md) 
+
+### [Sortavala.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySortavala.private.md) 
+
+### [Sortavala.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySortavala.personal.md) 
+
+### [Sortavala.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySortavala.secret.md)
+

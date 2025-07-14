@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Wassil|Wassil]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Wassil.public|Wassil.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Wassil.internal|Wassil.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Wassil.protect|Wassil.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Wassil.private|Wassil.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Wassil.personal|Wassil.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Wassil.secret|Wassil.secret]] 
+
+### [Wassil.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityWassil.public.md) 
+
+### [Wassil.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityWassil.internal.md) 
+
+### [Wassil.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityWassil.protect.md) 
+
+### [Wassil.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityWassil.private.md) 
+
+### [Wassil.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityWassil.personal.md) 
+
+### [Wassil.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityWassil.secret.md)
+

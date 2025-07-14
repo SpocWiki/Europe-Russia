@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Novgorod_Oblast|State~Novgorod_Oblast]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Novgorod_Oblast.internal|State~Novgorod_Oblast.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Novgorod_Oblast.protect|State~Novgorod_Oblast.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Novgorod_Oblast.private|State~Novgorod_Oblast.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Novgorod_Oblast.personal|State~Novgorod_Oblast.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Novgorod_Oblast.secret|State~Novgorod_Oblast.secret]] 
+
+### [Novgorod_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestNovgorod_Oblast.public.md) 
+
+### [Novgorod_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestNovgorod_Oblast.internal.md) 
+
+### [Novgorod_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestNovgorod_Oblast.protect.md) 
+
+### [Novgorod_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestNovgorod_Oblast.private.md) 
+
+### [Novgorod_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestNovgorod_Oblast.personal.md) 
+
+### [Novgorod_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestNovgorod_Oblast.secret.md)
+

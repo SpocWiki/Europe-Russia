@@ -18,3 +18,20 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Krasnoyarsk_Krai.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKrasnoyarsk_Krai.public.md) 
+
+### [Krasnoyarsk_Krai.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKrasnoyarsk_Krai.internal.md) 
+
+### [Krasnoyarsk_Krai.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKrasnoyarsk_Krai.protect.md) 
+
+### [Krasnoyarsk_Krai.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKrasnoyarsk_Krai.private.md) 
+
+### [Krasnoyarsk_Krai.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKrasnoyarsk_Krai.personal.md) 
+
+### [Krasnoyarsk_Krai.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKrasnoyarsk_Krai.secret.md)
+

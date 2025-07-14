@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Vladikavkaz|Vladikavkaz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Vladikavkaz.public|Vladikavkaz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Vladikavkaz.internal|Vladikavkaz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Vladikavkaz.protect|Vladikavkaz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Vladikavkaz.private|Vladikavkaz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Vladikavkaz.personal|Vladikavkaz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Vladikavkaz.secret|Vladikavkaz.secret]] 
+
+### [Vladikavkaz.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\North_Ossetia-Alania~Republic\CityVladikavkaz.public.md) 
+
+### [Vladikavkaz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\North_Ossetia-Alania~Republic\CityVladikavkaz.internal.md) 
+
+### [Vladikavkaz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\North_Ossetia-Alania~Republic\CityVladikavkaz.protect.md) 
+
+### [Vladikavkaz.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\North_Ossetia-Alania~Republic\CityVladikavkaz.private.md) 
+
+### [Vladikavkaz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\North_Ossetia-Alania~Republic\CityVladikavkaz.personal.md) 
+
+### [Vladikavkaz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\North_Ossetia-Alania~Republic\CityVladikavkaz.secret.md)
+

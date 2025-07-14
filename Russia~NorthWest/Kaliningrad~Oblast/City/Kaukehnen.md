@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Kaukehnen|Kaukehnen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Kaukehnen.public|Kaukehnen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Kaukehnen.internal|Kaukehnen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Kaukehnen.protect|Kaukehnen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Kaukehnen.private|Kaukehnen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Kaukehnen.personal|Kaukehnen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Kaukehnen.secret|Kaukehnen.secret]] 
+
+### [Kaukehnen.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityKaukehnen.public.md) 
+
+### [Kaukehnen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityKaukehnen.internal.md) 
+
+### [Kaukehnen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityKaukehnen.protect.md) 
+
+### [Kaukehnen.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityKaukehnen.private.md) 
+
+### [Kaukehnen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityKaukehnen.personal.md) 
+
+### [Kaukehnen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityKaukehnen.secret.md)
+

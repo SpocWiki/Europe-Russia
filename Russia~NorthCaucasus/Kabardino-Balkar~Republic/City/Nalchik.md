@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Nalchik|Nalchik]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Nalchik.public|Nalchik.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Nalchik.internal|Nalchik.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Nalchik.protect|Nalchik.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Nalchik.private|Nalchik.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Nalchik.personal|Nalchik.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Nalchik.secret|Nalchik.secret]] 
+
+### [Nalchik.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Kabardino-Balkar~Republic\CityNalchik.public.md) 
+
+### [Nalchik.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Kabardino-Balkar~Republic\CityNalchik.internal.md) 
+
+### [Nalchik.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Kabardino-Balkar~Republic\CityNalchik.protect.md) 
+
+### [Nalchik.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Kabardino-Balkar~Republic\CityNalchik.private.md) 
+
+### [Nalchik.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Kabardino-Balkar~Republic\CityNalchik.personal.md) 
+
+### [Nalchik.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Kabardino-Balkar~Republic\CityNalchik.secret.md)
+

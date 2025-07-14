@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Totma|Totma]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Totma.public|Totma.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Totma.internal|Totma.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Totma.protect|Totma.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Totma.private|Totma.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Totma.personal|Totma.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Totma.secret|Totma.secret]] 
+
+### [Totma.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityTotma.public.md) 
+
+### [Totma.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityTotma.internal.md) 
+
+### [Totma.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityTotma.protect.md) 
+
+### [Totma.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityTotma.private.md) 
+
+### [Totma.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityTotma.personal.md) 
+
+### [Totma.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityTotma.secret.md)
+

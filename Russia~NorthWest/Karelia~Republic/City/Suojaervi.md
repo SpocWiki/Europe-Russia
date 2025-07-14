@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Finland/City/Suojaervi|Suojaervi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Finland/City/Suojaervi.public|Suojaervi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Finland/City/Suojaervi.internal|Suojaervi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Finland/City/Suojaervi.protect|Suojaervi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Finland/City/Suojaervi.private|Suojaervi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Finland/City/Suojaervi.personal|Suojaervi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Finland/City/Suojaervi.secret|Suojaervi.secret]] 
+
+### [Suojaervi.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySuojaervi.public.md) 
+
+### [Suojaervi.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySuojaervi.internal.md) 
+
+### [Suojaervi.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySuojaervi.protect.md) 
+
+### [Suojaervi.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySuojaervi.private.md) 
+
+### [Suojaervi.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySuojaervi.personal.md) 
+
+### [Suojaervi.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySuojaervi.secret.md)
+

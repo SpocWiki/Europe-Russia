@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Volgograd_Oblast|State~Volgograd_Oblast]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Volgograd_Oblast.internal|State~Volgograd_Oblast.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Volgograd_Oblast.protect|State~Volgograd_Oblast.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Volgograd_Oblast.private|State~Volgograd_Oblast.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Volgograd_Oblast.personal|State~Volgograd_Oblast.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Volgograd_Oblast.secret|State~Volgograd_Oblast.secret]] 
+
+### [Volgograd_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthVolgograd_Oblast.public.md) 
+
+### [Volgograd_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthVolgograd_Oblast.internal.md) 
+
+### [Volgograd_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthVolgograd_Oblast.protect.md) 
+
+### [Volgograd_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthVolgograd_Oblast.private.md) 
+
+### [Volgograd_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthVolgograd_Oblast.personal.md) 
+
+### [Volgograd_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthVolgograd_Oblast.secret.md)
+

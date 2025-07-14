@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Soligalitsch|Soligalitsch]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Soligalitsch.public|Soligalitsch.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Soligalitsch.internal|Soligalitsch.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Soligalitsch.protect|Soligalitsch.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Soligalitsch.private|Soligalitsch.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Soligalitsch.personal|Soligalitsch.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Soligalitsch.secret|Soligalitsch.secret]] 
+
+### [Soligalitsch.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kostroma_Oblast\CitySoligalitsch.public.md) 
+
+### [Soligalitsch.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kostroma_Oblast\CitySoligalitsch.internal.md) 
+
+### [Soligalitsch.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kostroma_Oblast\CitySoligalitsch.protect.md) 
+
+### [Soligalitsch.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kostroma_Oblast\CitySoligalitsch.private.md) 
+
+### [Soligalitsch.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kostroma_Oblast\CitySoligalitsch.personal.md) 
+
+### [Soligalitsch.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kostroma_Oblast\CitySoligalitsch.secret.md)
+

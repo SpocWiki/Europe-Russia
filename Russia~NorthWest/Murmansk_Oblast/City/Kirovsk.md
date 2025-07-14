@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Kirovsk|Kirovsk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Kirovsk.public|Kirovsk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Kirovsk.internal|Kirovsk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Kirovsk.protect|Kirovsk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Kirovsk.private|Kirovsk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Kirovsk.personal|Kirovsk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Kirovsk.secret|Kirovsk.secret]] 
+
+### [Kirovsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKirovsk.public.md) 
+
+### [Kirovsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKirovsk.internal.md) 
+
+### [Kirovsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKirovsk.protect.md) 
+
+### [Kirovsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKirovsk.private.md) 
+
+### [Kirovsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKirovsk.personal.md) 
+
+### [Kirovsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKirovsk.secret.md)
+

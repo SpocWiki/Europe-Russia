@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Wologda|Wologda]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Wologda.public|Wologda.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Wologda.internal|Wologda.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Wologda.protect|Wologda.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Wologda.private|Wologda.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Wologda.personal|Wologda.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Wologda.secret|Wologda.secret]] 
+
+### [Wologda.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityWologda.public.md) 
+
+### [Wologda.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityWologda.internal.md) 
+
+### [Wologda.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityWologda.protect.md) 
+
+### [Wologda.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityWologda.private.md) 
+
+### [Wologda.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityWologda.personal.md) 
+
+### [Wologda.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityWologda.secret.md)
+

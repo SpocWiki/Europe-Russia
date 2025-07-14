@@ -36,9 +36,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Mordovia~Republic|State~Mordovia~Republic]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Mordovia~Republic.internal|State~Mordovia~Republic.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Mordovia~Republic.protect|State~Mordovia~Republic.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Mordovia~Republic.private|State~Mordovia~Republic.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Mordovia~Republic.personal|State~Mordovia~Republic.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Mordovia~Republic.secret|State~Mordovia~Republic.secret]] 
+
+### [Mordovia~Republic.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaMordovia~Republic.public.md) 
+
+### [Mordovia~Republic.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaMordovia~Republic.internal.md) 
+
+### [Mordovia~Republic.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaMordovia~Republic.protect.md) 
+
+### [Mordovia~Republic.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaMordovia~Republic.private.md) 
+
+### [Mordovia~Republic.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaMordovia~Republic.personal.md) 
+
+### [Mordovia~Republic.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaMordovia~Republic.secret.md)
+

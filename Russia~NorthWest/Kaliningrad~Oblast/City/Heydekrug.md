@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Heydekrug|Heydekrug]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Heydekrug.public|Heydekrug.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Heydekrug.internal|Heydekrug.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Heydekrug.protect|Heydekrug.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Heydekrug.private|Heydekrug.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Heydekrug.personal|Heydekrug.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Heydekrug.secret|Heydekrug.secret]] 
+
+### [Heydekrug.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityHeydekrug.public.md) 
+
+### [Heydekrug.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityHeydekrug.internal.md) 
+
+### [Heydekrug.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityHeydekrug.protect.md) 
+
+### [Heydekrug.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityHeydekrug.private.md) 
+
+### [Heydekrug.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityHeydekrug.personal.md) 
+
+### [Heydekrug.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityHeydekrug.secret.md)
+

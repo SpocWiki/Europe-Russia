@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Penza_Oblast|State~Penza_Oblast]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Penza_Oblast.internal|State~Penza_Oblast.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Penza_Oblast.protect|State~Penza_Oblast.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Penza_Oblast.private|State~Penza_Oblast.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Penza_Oblast.personal|State~Penza_Oblast.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Penza_Oblast.secret|State~Penza_Oblast.secret]] 
+
+### [Penza_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaPenza_Oblast.public.md) 
+
+### [Penza_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaPenza_Oblast.internal.md) 
+
+### [Penza_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaPenza_Oblast.protect.md) 
+
+### [Penza_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaPenza_Oblast.private.md) 
+
+### [Penza_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaPenza_Oblast.personal.md) 
+
+### [Penza_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaPenza_Oblast.secret.md)
+

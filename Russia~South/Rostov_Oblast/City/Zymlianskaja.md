@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Zymlianskaja|Zymlianskaja]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Zymlianskaja.public|Zymlianskaja.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Zymlianskaja.internal|Zymlianskaja.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Zymlianskaja.protect|Zymlianskaja.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Zymlianskaja.private|Zymlianskaja.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Zymlianskaja.personal|Zymlianskaja.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Zymlianskaja.secret|Zymlianskaja.secret]] 
+
+### [Zymlianskaja.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityZymlianskaja.public.md) 
+
+### [Zymlianskaja.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityZymlianskaja.internal.md) 
+
+### [Zymlianskaja.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityZymlianskaja.protect.md) 
+
+### [Zymlianskaja.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityZymlianskaja.private.md) 
+
+### [Zymlianskaja.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityZymlianskaja.personal.md) 
+
+### [Zymlianskaja.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityZymlianskaja.secret.md)
+

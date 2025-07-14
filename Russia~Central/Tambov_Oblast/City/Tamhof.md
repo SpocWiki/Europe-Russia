@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Tamhof|Tamhof]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Tamhof.public|Tamhof.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Tamhof.internal|Tamhof.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Tamhof.protect|Tamhof.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Tamhof.private|Tamhof.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Tamhof.personal|Tamhof.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Tamhof.secret|Tamhof.secret]] 
+
+### [Tamhof.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tambov_Oblast\CityTamhof.public.md) 
+
+### [Tamhof.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tambov_Oblast\CityTamhof.internal.md) 
+
+### [Tamhof.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tambov_Oblast\CityTamhof.protect.md) 
+
+### [Tamhof.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tambov_Oblast\CityTamhof.private.md) 
+
+### [Tamhof.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tambov_Oblast\CityTamhof.personal.md) 
+
+### [Tamhof.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tambov_Oblast\CityTamhof.secret.md)
+

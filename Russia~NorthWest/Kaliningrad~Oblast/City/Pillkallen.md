@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Pillkallen|Pillkallen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Pillkallen.public|Pillkallen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Pillkallen.internal|Pillkallen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Pillkallen.protect|Pillkallen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Pillkallen.private|Pillkallen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Pillkallen.personal|Pillkallen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Pillkallen.secret|Pillkallen.secret]] 
+
+### [Pillkallen.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityPillkallen.public.md) 
+
+### [Pillkallen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityPillkallen.internal.md) 
+
+### [Pillkallen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityPillkallen.protect.md) 
+
+### [Pillkallen.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityPillkallen.private.md) 
+
+### [Pillkallen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityPillkallen.personal.md) 
+
+### [Pillkallen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityPillkallen.secret.md)
+

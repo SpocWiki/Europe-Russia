@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Cherkessk|Cherkessk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Cherkessk.public|Cherkessk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Cherkessk.internal|Cherkessk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Cherkessk.protect|Cherkessk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Cherkessk.private|Cherkessk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Cherkessk.personal|Cherkessk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Cherkessk.secret|Cherkessk.secret]] 
+
+### [Cherkessk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Karachay-Cherkess\CityCherkessk.public.md) 
+
+### [Cherkessk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Karachay-Cherkess\CityCherkessk.internal.md) 
+
+### [Cherkessk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Karachay-Cherkess\CityCherkessk.protect.md) 
+
+### [Cherkessk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Karachay-Cherkess\CityCherkessk.private.md) 
+
+### [Cherkessk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Karachay-Cherkess\CityCherkessk.personal.md) 
+
+### [Cherkessk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Karachay-Cherkess\CityCherkessk.secret.md)
+

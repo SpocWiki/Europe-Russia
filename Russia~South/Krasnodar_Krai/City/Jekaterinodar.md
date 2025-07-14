@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Jekaterinodar|Jekaterinodar]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Jekaterinodar.public|Jekaterinodar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Jekaterinodar.internal|Jekaterinodar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Jekaterinodar.protect|Jekaterinodar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Jekaterinodar.private|Jekaterinodar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Jekaterinodar.personal|Jekaterinodar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Jekaterinodar.secret|Jekaterinodar.secret]] 
+
+### [Jekaterinodar.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityJekaterinodar.public.md) 
+
+### [Jekaterinodar.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityJekaterinodar.internal.md) 
+
+### [Jekaterinodar.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityJekaterinodar.protect.md) 
+
+### [Jekaterinodar.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityJekaterinodar.private.md) 
+
+### [Jekaterinodar.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityJekaterinodar.personal.md) 
+
+### [Jekaterinodar.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityJekaterinodar.secret.md)
+

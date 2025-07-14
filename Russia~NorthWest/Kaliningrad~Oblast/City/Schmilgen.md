@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Schmilgen|Schmilgen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Schmilgen.public|Schmilgen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Schmilgen.internal|Schmilgen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Schmilgen.protect|Schmilgen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Schmilgen.private|Schmilgen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Schmilgen.personal|Schmilgen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Schmilgen.secret|Schmilgen.secret]] 
+
+### [Schmilgen.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CitySchmilgen.public.md) 
+
+### [Schmilgen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CitySchmilgen.internal.md) 
+
+### [Schmilgen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CitySchmilgen.protect.md) 
+
+### [Schmilgen.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CitySchmilgen.private.md) 
+
+### [Schmilgen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CitySchmilgen.personal.md) 
+
+### [Schmilgen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CitySchmilgen.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Taganrog|Taganrog]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Taganrog.public|Taganrog.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Taganrog.internal|Taganrog.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Taganrog.protect|Taganrog.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Taganrog.private|Taganrog.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Taganrog.personal|Taganrog.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Taganrog.secret|Taganrog.secret]] 
+
+### [Taganrog.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityTaganrog.public.md) 
+
+### [Taganrog.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityTaganrog.internal.md) 
+
+### [Taganrog.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityTaganrog.protect.md) 
+
+### [Taganrog.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityTaganrog.private.md) 
+
+### [Taganrog.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityTaganrog.personal.md) 
+
+### [Taganrog.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityTaganrog.secret.md)
+

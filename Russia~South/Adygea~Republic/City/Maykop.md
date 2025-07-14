@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Maykop|Maykop]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Maykop.public|Maykop.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Maykop.internal|Maykop.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Maykop.protect|Maykop.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Maykop.private|Maykop.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Maykop.personal|Maykop.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Maykop.secret|Maykop.secret]] 
+
+### [Maykop.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Adygea~Republic\CityMaykop.public.md) 
+
+### [Maykop.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Adygea~Republic\CityMaykop.internal.md) 
+
+### [Maykop.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Adygea~Republic\CityMaykop.protect.md) 
+
+### [Maykop.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Adygea~Republic\CityMaykop.private.md) 
+
+### [Maykop.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Adygea~Republic\CityMaykop.personal.md) 
+
+### [Maykop.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Adygea~Republic\CityMaykop.secret.md)
+

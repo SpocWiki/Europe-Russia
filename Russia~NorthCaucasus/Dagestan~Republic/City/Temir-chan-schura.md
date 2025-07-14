@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Temir-chan-schura|Temir-chan-schura]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Temir-chan-schura.public|Temir-chan-schura.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Temir-chan-schura.internal|Temir-chan-schura.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Temir-chan-schura.protect|Temir-chan-schura.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Temir-chan-schura.private|Temir-chan-schura.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Temir-chan-schura.personal|Temir-chan-schura.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Temir-chan-schura.secret|Temir-chan-schura.secret]] 
+
+### [Temir-chan-schura.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~Republic\CityTemir-chan-schura.public.md) 
+
+### [Temir-chan-schura.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~Republic\CityTemir-chan-schura.internal.md) 
+
+### [Temir-chan-schura.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~Republic\CityTemir-chan-schura.protect.md) 
+
+### [Temir-chan-schura.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~Republic\CityTemir-chan-schura.private.md) 
+
+### [Temir-chan-schura.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~Republic\CityTemir-chan-schura.personal.md) 
+
+### [Temir-chan-schura.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~Republic\CityTemir-chan-schura.secret.md)
+

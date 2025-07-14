@@ -85,3 +85,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Khanty-Mansi%20Autonomous%20Okrug) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Khanty-Mansi_Autonomous_Okrug.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKhanty-Mansi_Autonomous_Okrug.public.md) 
+
+### [Khanty-Mansi_Autonomous_Okrug.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKhanty-Mansi_Autonomous_Okrug.internal.md) 
+
+### [Khanty-Mansi_Autonomous_Okrug.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKhanty-Mansi_Autonomous_Okrug.protect.md) 
+
+### [Khanty-Mansi_Autonomous_Okrug.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKhanty-Mansi_Autonomous_Okrug.private.md) 
+
+### [Khanty-Mansi_Autonomous_Okrug.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKhanty-Mansi_Autonomous_Okrug.personal.md) 
+
+### [Khanty-Mansi_Autonomous_Okrug.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKhanty-Mansi_Autonomous_Okrug.secret.md)
+

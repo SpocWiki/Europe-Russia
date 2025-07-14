@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Solnytschégodsk|Solnytschégodsk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Solnytschégodsk.public|Solnytschégodsk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Solnytschégodsk.internal|Solnytschégodsk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Solnytschégodsk.protect|Solnytschégodsk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Solnytschégodsk.private|Solnytschégodsk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Solnytschégodsk.personal|Solnytschégodsk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Solnytschégodsk.secret|Solnytschégodsk.secret]] 
+
+### [Solnytschégodsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CitySolnytschégodsk.public.md) 
+
+### [Solnytschégodsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CitySolnytschégodsk.internal.md) 
+
+### [Solnytschégodsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CitySolnytschégodsk.protect.md) 
+
+### [Solnytschégodsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CitySolnytschégodsk.private.md) 
+
+### [Solnytschégodsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CitySolnytschégodsk.personal.md) 
+
+### [Solnytschégodsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CitySolnytschégodsk.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Krasnodar|Krasnodar]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Krasnodar.public|Krasnodar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Krasnodar.internal|Krasnodar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Krasnodar.protect|Krasnodar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Krasnodar.private|Krasnodar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Krasnodar.personal|Krasnodar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Krasnodar.secret|Krasnodar.secret]] 
+
+### [Krasnodar.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityKrasnodar.public.md) 
+
+### [Krasnodar.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityKrasnodar.internal.md) 
+
+### [Krasnodar.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityKrasnodar.protect.md) 
+
+### [Krasnodar.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityKrasnodar.private.md) 
+
+### [Krasnodar.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityKrasnodar.personal.md) 
+
+### [Krasnodar.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityKrasnodar.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Naoutskaya|Naoutskaya]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Naoutskaya.public|Naoutskaya.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Naoutskaya.internal|Naoutskaya.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Naoutskaya.protect|Naoutskaya.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Naoutskaya.private|Naoutskaya.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Naoutskaya.personal|Naoutskaya.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Naoutskaya.secret|Naoutskaya.secret]] 
+
+### [Naoutskaya.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityNaoutskaya.public.md) 
+
+### [Naoutskaya.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityNaoutskaya.internal.md) 
+
+### [Naoutskaya.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityNaoutskaya.protect.md) 
+
+### [Naoutskaya.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityNaoutskaya.private.md) 
+
+### [Naoutskaya.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityNaoutskaya.personal.md) 
+
+### [Naoutskaya.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityNaoutskaya.secret.md)
+

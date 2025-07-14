@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Kalkstein|Kalkstein]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Kalkstein.public|Kalkstein.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Kalkstein.internal|Kalkstein.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Kalkstein.protect|Kalkstein.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Kalkstein.private|Kalkstein.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Kalkstein.personal|Kalkstein.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Kalkstein.secret|Kalkstein.secret]] 
+
+### [Kalkstein.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityKalkstein.public.md) 
+
+### [Kalkstein.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityKalkstein.internal.md) 
+
+### [Kalkstein.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityKalkstein.protect.md) 
+
+### [Kalkstein.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityKalkstein.private.md) 
+
+### [Kalkstein.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityKalkstein.personal.md) 
+
+### [Kalkstein.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityKalkstein.secret.md)
+

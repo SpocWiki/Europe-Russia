@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Finland/City/Kuolajaervi|Kuolajaervi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Finland/City/Kuolajaervi.public|Kuolajaervi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Finland/City/Kuolajaervi.internal|Kuolajaervi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Finland/City/Kuolajaervi.protect|Kuolajaervi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Finland/City/Kuolajaervi.private|Kuolajaervi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Finland/City/Kuolajaervi.personal|Kuolajaervi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Finland/City/Kuolajaervi.secret|Kuolajaervi.secret]] 
+
+### [Kuolajaervi.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKuolajaervi.public.md) 
+
+### [Kuolajaervi.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKuolajaervi.internal.md) 
+
+### [Kuolajaervi.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKuolajaervi.protect.md) 
+
+### [Kuolajaervi.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKuolajaervi.private.md) 
+
+### [Kuolajaervi.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKuolajaervi.personal.md) 
+
+### [Kuolajaervi.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKuolajaervi.secret.md)
+

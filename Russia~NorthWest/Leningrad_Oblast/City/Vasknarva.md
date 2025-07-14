@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Vasknarva|Vasknarva]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Vasknarva.public|Vasknarva.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Vasknarva.internal|Vasknarva.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Vasknarva.protect|Vasknarva.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Vasknarva.private|Vasknarva.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Vasknarva.personal|Vasknarva.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Vasknarva.secret|Vasknarva.secret]] 
+
+### [Vasknarva.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityVasknarva.public.md) 
+
+### [Vasknarva.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityVasknarva.internal.md) 
+
+### [Vasknarva.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityVasknarva.protect.md) 
+
+### [Vasknarva.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityVasknarva.private.md) 
+
+### [Vasknarva.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityVasknarva.personal.md) 
+
+### [Vasknarva.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityVasknarva.secret.md)
+

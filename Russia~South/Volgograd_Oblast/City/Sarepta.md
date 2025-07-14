@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Sarepta|Sarepta]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Sarepta.public|Sarepta.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Sarepta.internal|Sarepta.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Sarepta.protect|Sarepta.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Sarepta.private|Sarepta.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Sarepta.personal|Sarepta.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Sarepta.secret|Sarepta.secret]] 
+
+### [Sarepta.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CitySarepta.public.md) 
+
+### [Sarepta.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CitySarepta.internal.md) 
+
+### [Sarepta.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CitySarepta.protect.md) 
+
+### [Sarepta.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CitySarepta.private.md) 
+
+### [Sarepta.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CitySarepta.personal.md) 
+
+### [Sarepta.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CitySarepta.secret.md)
+

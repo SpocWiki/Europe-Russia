@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Petrovorets|Petrovorets]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Petrovorets.public|Petrovorets.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Petrovorets.internal|Petrovorets.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Petrovorets.protect|Petrovorets.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Petrovorets.private|Petrovorets.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Petrovorets.personal|Petrovorets.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Petrovorets.secret|Petrovorets.secret]] 
+
+### [Petrovorets.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityPetrovorets.public.md) 
+
+### [Petrovorets.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityPetrovorets.internal.md) 
+
+### [Petrovorets.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityPetrovorets.protect.md) 
+
+### [Petrovorets.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityPetrovorets.private.md) 
+
+### [Petrovorets.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityPetrovorets.personal.md) 
+
+### [Petrovorets.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityPetrovorets.secret.md)
+

@@ -94,3 +94,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Amur%20Oblast) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Amur_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\SiberiaAmur_Oblast.public.md) 
+
+### [Amur_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaAmur_Oblast.internal.md) 
+
+### [Amur_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\SiberiaAmur_Oblast.protect.md) 
+
+### [Amur_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\SiberiaAmur_Oblast.private.md) 
+
+### [Amur_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaAmur_Oblast.personal.md) 
+
+### [Amur_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\SiberiaAmur_Oblast.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Friedland~OstPommern|Friedland~OstPommern]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Friedland~OstPommern.public|Friedland~OstPommern.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Friedland~OstPommern.internal|Friedland~OstPommern.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Friedland~OstPommern.protect|Friedland~OstPommern.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Friedland~OstPommern.private|Friedland~OstPommern.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Friedland~OstPommern.personal|Friedland~OstPommern.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Friedland~OstPommern.secret|Friedland~OstPommern.secret]] 
+
+### [Friedland~OstPommern.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityFriedland~OstPommern.public.md) 
+
+### [Friedland~OstPommern.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityFriedland~OstPommern.internal.md) 
+
+### [Friedland~OstPommern.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityFriedland~OstPommern.protect.md) 
+
+### [Friedland~OstPommern.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityFriedland~OstPommern.private.md) 
+
+### [Friedland~OstPommern.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityFriedland~OstPommern.personal.md) 
+
+### [Friedland~OstPommern.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityFriedland~OstPommern.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Staritza|Staritza]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Staritza.public|Staritza.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Staritza.internal|Staritza.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Staritza.protect|Staritza.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Staritza.private|Staritza.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Staritza.personal|Staritza.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Staritza.secret|Staritza.secret]] 
+
+### [Staritza.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityStaritza.public.md) 
+
+### [Staritza.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityStaritza.internal.md) 
+
+### [Staritza.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityStaritza.protect.md) 
+
+### [Staritza.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityStaritza.private.md) 
+
+### [Staritza.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityStaritza.personal.md) 
+
+### [Staritza.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityStaritza.secret.md)
+

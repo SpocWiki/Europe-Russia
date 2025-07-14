@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Samara_Oblast|State~Samara_Oblast]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Samara_Oblast.internal|State~Samara_Oblast.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Samara_Oblast.protect|State~Samara_Oblast.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Samara_Oblast.private|State~Samara_Oblast.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Samara_Oblast.personal|State~Samara_Oblast.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Samara_Oblast.secret|State~Samara_Oblast.secret]] 
+
+### [Samara_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaSamara_Oblast.public.md) 
+
+### [Samara_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaSamara_Oblast.internal.md) 
+
+### [Samara_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaSamara_Oblast.protect.md) 
+
+### [Samara_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaSamara_Oblast.private.md) 
+
+### [Samara_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaSamara_Oblast.personal.md) 
+
+### [Samara_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaSamara_Oblast.secret.md)
+

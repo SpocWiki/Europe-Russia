@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Mehlauken|Mehlauken]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Mehlauken.public|Mehlauken.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Mehlauken.internal|Mehlauken.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Mehlauken.protect|Mehlauken.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Mehlauken.private|Mehlauken.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Mehlauken.personal|Mehlauken.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Mehlauken.secret|Mehlauken.secret]] 
+
+### [Mehlauken.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityMehlauken.public.md) 
+
+### [Mehlauken.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityMehlauken.internal.md) 
+
+### [Mehlauken.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityMehlauken.protect.md) 
+
+### [Mehlauken.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityMehlauken.private.md) 
+
+### [Mehlauken.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityMehlauken.personal.md) 
+
+### [Mehlauken.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityMehlauken.secret.md)
+

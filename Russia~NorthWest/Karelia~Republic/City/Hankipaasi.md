@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Finland/City/Hankipaasi|Hankipaasi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Finland/City/Hankipaasi.public|Hankipaasi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Finland/City/Hankipaasi.internal|Hankipaasi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Finland/City/Hankipaasi.protect|Hankipaasi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Finland/City/Hankipaasi.private|Hankipaasi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Finland/City/Hankipaasi.personal|Hankipaasi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Finland/City/Hankipaasi.secret|Hankipaasi.secret]] 
+
+### [Hankipaasi.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityHankipaasi.public.md) 
+
+### [Hankipaasi.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityHankipaasi.internal.md) 
+
+### [Hankipaasi.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityHankipaasi.protect.md) 
+
+### [Hankipaasi.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityHankipaasi.private.md) 
+
+### [Hankipaasi.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityHankipaasi.personal.md) 
+
+### [Hankipaasi.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityHankipaasi.secret.md)
+

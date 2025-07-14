@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Kaluga_Oblast|State~Kaluga_Oblast]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Kaluga_Oblast.internal|State~Kaluga_Oblast.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Kaluga_Oblast.protect|State~Kaluga_Oblast.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Kaluga_Oblast.private|State~Kaluga_Oblast.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Kaluga_Oblast.personal|State~Kaluga_Oblast.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Kaluga_Oblast.secret|State~Kaluga_Oblast.secret]] 
+
+### [Kaluga_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralKaluga_Oblast.public.md) 
+
+### [Kaluga_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralKaluga_Oblast.internal.md) 
+
+### [Kaluga_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralKaluga_Oblast.protect.md) 
+
+### [Kaluga_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralKaluga_Oblast.private.md) 
+
+### [Kaluga_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralKaluga_Oblast.personal.md) 
+
+### [Kaluga_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralKaluga_Oblast.secret.md)
+

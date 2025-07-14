@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Cherepovets|Cherepovets]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Cherepovets.public|Cherepovets.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Cherepovets.internal|Cherepovets.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Cherepovets.protect|Cherepovets.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Cherepovets.private|Cherepovets.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Cherepovets.personal|Cherepovets.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Cherepovets.secret|Cherepovets.secret]] 
+
+### [Cherepovets.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityCherepovets.public.md) 
+
+### [Cherepovets.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityCherepovets.internal.md) 
+
+### [Cherepovets.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityCherepovets.protect.md) 
+
+### [Cherepovets.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityCherepovets.private.md) 
+
+### [Cherepovets.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityCherepovets.personal.md) 
+
+### [Cherepovets.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityCherepovets.secret.md)
+

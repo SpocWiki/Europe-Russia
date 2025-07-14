@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Nowaja_Ladoga|Nowaja_Ladoga]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Nowaja_Ladoga.public|Nowaja_Ladoga.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Nowaja_Ladoga.internal|Nowaja_Ladoga.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Nowaja_Ladoga.protect|Nowaja_Ladoga.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Nowaja_Ladoga.private|Nowaja_Ladoga.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Nowaja_Ladoga.personal|Nowaja_Ladoga.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Nowaja_Ladoga.secret|Nowaja_Ladoga.secret]] 
+
+### [Nowaja_Ladoga.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityNowaja_Ladoga.public.md) 
+
+### [Nowaja_Ladoga.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityNowaja_Ladoga.internal.md) 
+
+### [Nowaja_Ladoga.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityNowaja_Ladoga.protect.md) 
+
+### [Nowaja_Ladoga.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityNowaja_Ladoga.private.md) 
+
+### [Nowaja_Ladoga.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityNowaja_Ladoga.personal.md) 
+
+### [Nowaja_Ladoga.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityNowaja_Ladoga.secret.md)
+

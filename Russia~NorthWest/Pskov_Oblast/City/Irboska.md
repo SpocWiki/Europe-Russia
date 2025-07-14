@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Irboska|Irboska]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Irboska.public|Irboska.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Irboska.internal|Irboska.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Irboska.protect|Irboska.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Irboska.private|Irboska.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Irboska.personal|Irboska.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Irboska.secret|Irboska.secret]] 
+
+### [Irboska.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Pskov_Oblast\CityIrboska.public.md) 
+
+### [Irboska.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Pskov_Oblast\CityIrboska.internal.md) 
+
+### [Irboska.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Pskov_Oblast\CityIrboska.protect.md) 
+
+### [Irboska.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Pskov_Oblast\CityIrboska.private.md) 
+
+### [Irboska.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Pskov_Oblast\CityIrboska.personal.md) 
+
+### [Irboska.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Pskov_Oblast\CityIrboska.secret.md)
+

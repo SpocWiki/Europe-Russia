@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Kursk|Kursk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Kursk.public|Kursk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Kursk.internal|Kursk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Kursk.protect|Kursk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Kursk.private|Kursk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Kursk.personal|Kursk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Kursk.secret|Kursk.secret]] 
+
+### [Kursk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kursk_Oblast\CityKursk.public.md) 
+
+### [Kursk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kursk_Oblast\CityKursk.internal.md) 
+
+### [Kursk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kursk_Oblast\CityKursk.protect.md) 
+
+### [Kursk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kursk_Oblast\CityKursk.private.md) 
+
+### [Kursk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kursk_Oblast\CityKursk.personal.md) 
+
+### [Kursk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kursk_Oblast\CityKursk.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Gumbinnen|Gumbinnen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Gumbinnen.public|Gumbinnen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Gumbinnen.internal|Gumbinnen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Gumbinnen.protect|Gumbinnen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Gumbinnen.private|Gumbinnen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Gumbinnen.personal|Gumbinnen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Gumbinnen.secret|Gumbinnen.secret]] 
+
+### [Gumbinnen.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityGumbinnen.public.md) 
+
+### [Gumbinnen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityGumbinnen.internal.md) 
+
+### [Gumbinnen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityGumbinnen.protect.md) 
+
+### [Gumbinnen.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityGumbinnen.private.md) 
+
+### [Gumbinnen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityGumbinnen.personal.md) 
+
+### [Gumbinnen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityGumbinnen.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Sievsk|Sievsk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Sievsk.public|Sievsk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Sievsk.internal|Sievsk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Sievsk.protect|Sievsk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Sievsk.private|Sievsk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Sievsk.personal|Sievsk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Sievsk.secret|Sievsk.secret]] 
+
+### [Sievsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Bryansk_Oblast\CitySievsk.public.md) 
+
+### [Sievsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Bryansk_Oblast\CitySievsk.internal.md) 
+
+### [Sievsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Bryansk_Oblast\CitySievsk.protect.md) 
+
+### [Sievsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Bryansk_Oblast\CitySievsk.private.md) 
+
+### [Sievsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Bryansk_Oblast\CitySievsk.personal.md) 
+
+### [Sievsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Bryansk_Oblast\CitySievsk.secret.md)
+

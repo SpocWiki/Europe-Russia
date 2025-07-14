@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Woroschilowsk|Woroschilowsk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Woroschilowsk.public|Woroschilowsk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Woroschilowsk.internal|Woroschilowsk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Woroschilowsk.protect|Woroschilowsk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Woroschilowsk.private|Woroschilowsk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Woroschilowsk.personal|Woroschilowsk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Woroschilowsk.secret|Woroschilowsk.secret]] 
+
+### [Woroschilowsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityWoroschilowsk.public.md) 
+
+### [Woroschilowsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityWoroschilowsk.internal.md) 
+
+### [Woroschilowsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityWoroschilowsk.protect.md) 
+
+### [Woroschilowsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityWoroschilowsk.private.md) 
+
+### [Woroschilowsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityWoroschilowsk.personal.md) 
+
+### [Woroschilowsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityWoroschilowsk.secret.md)
+

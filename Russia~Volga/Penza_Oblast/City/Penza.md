@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Penza|Penza]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Penza.public|Penza.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Penza.internal|Penza.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Penza.protect|Penza.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Penza.private|Penza.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Penza.personal|Penza.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Penza.secret|Penza.secret]] 
+
+### [Penza.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Penza_Oblast\CityPenza.public.md) 
+
+### [Penza.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Penza_Oblast\CityPenza.internal.md) 
+
+### [Penza.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Penza_Oblast\CityPenza.protect.md) 
+
+### [Penza.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Penza_Oblast\CityPenza.private.md) 
+
+### [Penza.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Penza_Oblast\CityPenza.personal.md) 
+
+### [Penza.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Penza_Oblast\CityPenza.secret.md)
+

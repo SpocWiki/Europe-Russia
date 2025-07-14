@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Berninglauken|Berninglauken]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Berninglauken.public|Berninglauken.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Berninglauken.internal|Berninglauken.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Berninglauken.protect|Berninglauken.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Berninglauken.private|Berninglauken.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Berninglauken.personal|Berninglauken.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Berninglauken.secret|Berninglauken.secret]] 
+
+### [Berninglauken.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityBerninglauken.public.md) 
+
+### [Berninglauken.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityBerninglauken.internal.md) 
+
+### [Berninglauken.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityBerninglauken.protect.md) 
+
+### [Berninglauken.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityBerninglauken.private.md) 
+
+### [Berninglauken.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityBerninglauken.personal.md) 
+
+### [Berninglauken.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityBerninglauken.secret.md)
+

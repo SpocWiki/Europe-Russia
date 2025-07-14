@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Zadowsk|Zadowsk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Zadowsk.public|Zadowsk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Zadowsk.internal|Zadowsk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Zadowsk.protect|Zadowsk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Zadowsk.private|Zadowsk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Zadowsk.personal|Zadowsk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Zadowsk.secret|Zadowsk.secret]] 
+
+### [Zadowsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Lipetsk_Oblast\CityZadowsk.public.md) 
+
+### [Zadowsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Lipetsk_Oblast\CityZadowsk.internal.md) 
+
+### [Zadowsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Lipetsk_Oblast\CityZadowsk.protect.md) 
+
+### [Zadowsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Lipetsk_Oblast\CityZadowsk.private.md) 
+
+### [Zadowsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Lipetsk_Oblast\CityZadowsk.personal.md) 
+
+### [Zadowsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Lipetsk_Oblast\CityZadowsk.secret.md)
+

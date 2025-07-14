@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Serpuchow|Serpuchow]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Serpuchow.public|Serpuchow.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Serpuchow.internal|Serpuchow.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Serpuchow.protect|Serpuchow.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Serpuchow.private|Serpuchow.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Serpuchow.personal|Serpuchow.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Serpuchow.secret|Serpuchow.secret]] 
+
+### [Serpuchow.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CitySerpuchow.public.md) 
+
+### [Serpuchow.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CitySerpuchow.internal.md) 
+
+### [Serpuchow.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CitySerpuchow.protect.md) 
+
+### [Serpuchow.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CitySerpuchow.private.md) 
+
+### [Serpuchow.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CitySerpuchow.personal.md) 
+
+### [Serpuchow.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CitySerpuchow.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Nischnij-Nowgorod=Gorki|Nischnij-Nowgorod=Gorki]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Nischnij-Nowgorod=Gorki.public|Nischnij-Nowgorod=Gorki.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Nischnij-Nowgorod=Gorki.internal|Nischnij-Nowgorod=Gorki.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Nischnij-Nowgorod=Gorki.protect|Nischnij-Nowgorod=Gorki.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Nischnij-Nowgorod=Gorki.private|Nischnij-Nowgorod=Gorki.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Nischnij-Nowgorod=Gorki.personal|Nischnij-Nowgorod=Gorki.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Nischnij-Nowgorod=Gorki.secret|Nischnij-Nowgorod=Gorki.secret]] 
+
+### [Nischnij-Nowgorod=Gorki.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityNischnij-Nowgorod=Gorki.public.md) 
+
+### [Nischnij-Nowgorod=Gorki.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityNischnij-Nowgorod=Gorki.internal.md) 
+
+### [Nischnij-Nowgorod=Gorki.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityNischnij-Nowgorod=Gorki.protect.md) 
+
+### [Nischnij-Nowgorod=Gorki.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityNischnij-Nowgorod=Gorki.private.md) 
+
+### [Nischnij-Nowgorod=Gorki.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityNischnij-Nowgorod=Gorki.personal.md) 
+
+### [Nischnij-Nowgorod=Gorki.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityNischnij-Nowgorod=Gorki.secret.md)
+

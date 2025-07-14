@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Wenew|Wenew]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Wenew.public|Wenew.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Wenew.internal|Wenew.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Wenew.protect|Wenew.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Wenew.private|Wenew.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Wenew.personal|Wenew.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Wenew.secret|Wenew.secret]] 
+
+### [Wenew.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityWenew.public.md) 
+
+### [Wenew.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityWenew.internal.md) 
+
+### [Wenew.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityWenew.protect.md) 
+
+### [Wenew.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityWenew.private.md) 
+
+### [Wenew.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityWenew.personal.md) 
+
+### [Wenew.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityWenew.secret.md)
+

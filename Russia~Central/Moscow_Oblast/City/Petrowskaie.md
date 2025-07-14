@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Petrowskaie|Petrowskaie]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Petrowskaie.public|Petrowskaie.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Petrowskaie.internal|Petrowskaie.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Petrowskaie.protect|Petrowskaie.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Petrowskaie.private|Petrowskaie.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Petrowskaie.personal|Petrowskaie.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Petrowskaie.secret|Petrowskaie.secret]] 
+
+### [Petrowskaie.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityPetrowskaie.public.md) 
+
+### [Petrowskaie.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityPetrowskaie.internal.md) 
+
+### [Petrowskaie.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityPetrowskaie.protect.md) 
+
+### [Petrowskaie.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityPetrowskaie.private.md) 
+
+### [Petrowskaie.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityPetrowskaie.personal.md) 
+
+### [Petrowskaie.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityPetrowskaie.secret.md)
+

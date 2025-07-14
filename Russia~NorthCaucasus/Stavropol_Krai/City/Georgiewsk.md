@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Georgiewsk|Georgiewsk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Georgiewsk.public|Georgiewsk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Georgiewsk.internal|Georgiewsk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Georgiewsk.protect|Georgiewsk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Georgiewsk.private|Georgiewsk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Georgiewsk.personal|Georgiewsk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Georgiewsk.secret|Georgiewsk.secret]] 
+
+### [Georgiewsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityGeorgiewsk.public.md) 
+
+### [Georgiewsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityGeorgiewsk.internal.md) 
+
+### [Georgiewsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityGeorgiewsk.protect.md) 
+
+### [Georgiewsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityGeorgiewsk.private.md) 
+
+### [Georgiewsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityGeorgiewsk.personal.md) 
+
+### [Georgiewsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityGeorgiewsk.secret.md)
+

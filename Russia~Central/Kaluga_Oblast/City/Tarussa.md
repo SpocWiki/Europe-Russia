@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Tarussa|Tarussa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Tarussa.public|Tarussa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Tarussa.internal|Tarussa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Tarussa.protect|Tarussa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Tarussa.private|Tarussa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Tarussa.personal|Tarussa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Tarussa.secret|Tarussa.secret]] 
+
+### [Tarussa.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CityTarussa.public.md) 
+
+### [Tarussa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CityTarussa.internal.md) 
+
+### [Tarussa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CityTarussa.protect.md) 
+
+### [Tarussa.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CityTarussa.private.md) 
+
+### [Tarussa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CityTarussa.personal.md) 
+
+### [Tarussa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CityTarussa.secret.md)
+

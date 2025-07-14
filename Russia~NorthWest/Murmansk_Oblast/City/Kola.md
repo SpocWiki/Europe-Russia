@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Kola|Kola]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Kola.public|Kola.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Kola.internal|Kola.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Kola.protect|Kola.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Kola.private|Kola.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Kola.personal|Kola.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Kola.secret|Kola.secret]] 
+
+### [Kola.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKola.public.md) 
+
+### [Kola.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKola.internal.md) 
+
+### [Kola.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKola.protect.md) 
+
+### [Kola.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKola.private.md) 
+
+### [Kola.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKola.personal.md) 
+
+### [Kola.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKola.secret.md)
+

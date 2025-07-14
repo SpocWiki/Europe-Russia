@@ -82,3 +82,20 @@ inception: 1943-02-06T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Kurgan%20Oblast) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Kurgan_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKurgan_Oblast.public.md) 
+
+### [Kurgan_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKurgan_Oblast.internal.md) 
+
+### [Kurgan_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKurgan_Oblast.protect.md) 
+
+### [Kurgan_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKurgan_Oblast.private.md) 
+
+### [Kurgan_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKurgan_Oblast.personal.md) 
+
+### [Kurgan_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKurgan_Oblast.secret.md)
+

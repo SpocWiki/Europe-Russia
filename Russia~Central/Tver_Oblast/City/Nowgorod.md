@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Nowgorod|Nowgorod]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Nowgorod.public|Nowgorod.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Nowgorod.internal|Nowgorod.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Nowgorod.protect|Nowgorod.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Nowgorod.private|Nowgorod.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Nowgorod.personal|Nowgorod.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Nowgorod.secret|Nowgorod.secret]] 
+
+### [Nowgorod.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityNowgorod.public.md) 
+
+### [Nowgorod.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityNowgorod.internal.md) 
+
+### [Nowgorod.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityNowgorod.protect.md) 
+
+### [Nowgorod.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityNowgorod.private.md) 
+
+### [Nowgorod.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityNowgorod.personal.md) 
+
+### [Nowgorod.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityNowgorod.secret.md)
+

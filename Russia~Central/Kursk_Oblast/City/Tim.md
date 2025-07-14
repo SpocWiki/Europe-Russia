@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Tim|Tim]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Tim.public|Tim.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Tim.internal|Tim.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Tim.protect|Tim.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Tim.private|Tim.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Tim.personal|Tim.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Tim.secret|Tim.secret]] 
+
+### [Tim.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kursk_Oblast\CityTim.public.md) 
+
+### [Tim.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kursk_Oblast\CityTim.internal.md) 
+
+### [Tim.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kursk_Oblast\CityTim.protect.md) 
+
+### [Tim.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kursk_Oblast\CityTim.private.md) 
+
+### [Tim.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kursk_Oblast\CityTim.personal.md) 
+
+### [Tim.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kursk_Oblast\CityTim.secret.md)
+

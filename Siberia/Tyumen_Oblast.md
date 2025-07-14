@@ -103,3 +103,20 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Tyumen%20Oblast) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Tyumen_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\SiberiaTyumen_Oblast.public.md) 
+
+### [Tyumen_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaTyumen_Oblast.internal.md) 
+
+### [Tyumen_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\SiberiaTyumen_Oblast.protect.md) 
+
+### [Tyumen_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\SiberiaTyumen_Oblast.private.md) 
+
+### [Tyumen_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaTyumen_Oblast.personal.md) 
+
+### [Tyumen_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\SiberiaTyumen_Oblast.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Punduri|Punduri]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Punduri.public|Punduri.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Punduri.internal|Punduri.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Punduri.protect|Punduri.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Punduri.private|Punduri.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Punduri.personal|Punduri.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Punduri.secret|Punduri.secret]] 
+
+### [Punduri.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Pskov_Oblast\CityPunduri.public.md) 
+
+### [Punduri.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Pskov_Oblast\CityPunduri.internal.md) 
+
+### [Punduri.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Pskov_Oblast\CityPunduri.protect.md) 
+
+### [Punduri.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Pskov_Oblast\CityPunduri.private.md) 
+
+### [Punduri.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Pskov_Oblast\CityPunduri.personal.md) 
+
+### [Punduri.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Pskov_Oblast\CityPunduri.secret.md)
+

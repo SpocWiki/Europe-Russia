@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Taman|Taman]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Taman.public|Taman.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Taman.internal|Taman.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Taman.protect|Taman.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Taman.private|Taman.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Taman.personal|Taman.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Taman.secret|Taman.secret]] 
+
+### [Taman.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityTaman.public.md) 
+
+### [Taman.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityTaman.internal.md) 
+
+### [Taman.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityTaman.protect.md) 
+
+### [Taman.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityTaman.private.md) 
+
+### [Taman.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityTaman.personal.md) 
+
+### [Taman.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityTaman.secret.md)
+

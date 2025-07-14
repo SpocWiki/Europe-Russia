@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Waldei|Waldei]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Waldei.public|Waldei.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Waldei.internal|Waldei.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Waldei.protect|Waldei.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Waldei.private|Waldei.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Waldei.personal|Waldei.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Waldei.secret|Waldei.secret]] 
+
+### [Waldei.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Novgorod_Oblast\CityWaldei.public.md) 
+
+### [Waldei.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Novgorod_Oblast\CityWaldei.internal.md) 
+
+### [Waldei.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Novgorod_Oblast\CityWaldei.protect.md) 
+
+### [Waldei.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Novgorod_Oblast\CityWaldei.private.md) 
+
+### [Waldei.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Novgorod_Oblast\CityWaldei.personal.md) 
+
+### [Waldei.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Novgorod_Oblast\CityWaldei.secret.md)
+

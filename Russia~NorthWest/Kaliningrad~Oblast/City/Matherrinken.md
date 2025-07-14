@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Matherrinken|Matherrinken]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Matherrinken.public|Matherrinken.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Matherrinken.internal|Matherrinken.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Matherrinken.protect|Matherrinken.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Matherrinken.private|Matherrinken.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Matherrinken.personal|Matherrinken.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Matherrinken.secret|Matherrinken.secret]] 
+
+### [Matherrinken.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityMatherrinken.public.md) 
+
+### [Matherrinken.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityMatherrinken.internal.md) 
+
+### [Matherrinken.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityMatherrinken.protect.md) 
+
+### [Matherrinken.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityMatherrinken.private.md) 
+
+### [Matherrinken.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityMatherrinken.personal.md) 
+
+### [Matherrinken.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityMatherrinken.secret.md)
+

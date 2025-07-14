@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Spirikeln|Spirikeln]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Spirikeln.public|Spirikeln.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Spirikeln.internal|Spirikeln.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Spirikeln.protect|Spirikeln.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Spirikeln.private|Spirikeln.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Spirikeln.personal|Spirikeln.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Spirikeln.secret|Spirikeln.secret]] 
+
+### [Spirikeln.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CitySpirikeln.public.md) 
+
+### [Spirikeln.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CitySpirikeln.internal.md) 
+
+### [Spirikeln.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CitySpirikeln.protect.md) 
+
+### [Spirikeln.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CitySpirikeln.private.md) 
+
+### [Spirikeln.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CitySpirikeln.personal.md) 
+
+### [Spirikeln.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CitySpirikeln.secret.md)
+

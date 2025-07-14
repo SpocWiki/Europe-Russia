@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Finland/City/Heinaeluoto|Heinaeluoto]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Finland/City/Heinaeluoto.public|Heinaeluoto.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Finland/City/Heinaeluoto.internal|Heinaeluoto.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Finland/City/Heinaeluoto.protect|Heinaeluoto.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Finland/City/Heinaeluoto.private|Heinaeluoto.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Finland/City/Heinaeluoto.personal|Heinaeluoto.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Finland/City/Heinaeluoto.secret|Heinaeluoto.secret]] 
+
+### [Heinaeluoto.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityHeinaeluoto.public.md) 
+
+### [Heinaeluoto.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityHeinaeluoto.internal.md) 
+
+### [Heinaeluoto.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityHeinaeluoto.protect.md) 
+
+### [Heinaeluoto.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityHeinaeluoto.private.md) 
+
+### [Heinaeluoto.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityHeinaeluoto.personal.md) 
+
+### [Heinaeluoto.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityHeinaeluoto.secret.md)
+

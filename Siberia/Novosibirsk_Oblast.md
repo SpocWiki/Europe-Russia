@@ -20,3 +20,20 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Novosibirsk%20Oblast) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Novosibirsk_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\SiberiaNovosibirsk_Oblast.public.md) 
+
+### [Novosibirsk_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaNovosibirsk_Oblast.internal.md) 
+
+### [Novosibirsk_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\SiberiaNovosibirsk_Oblast.protect.md) 
+
+### [Novosibirsk_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\SiberiaNovosibirsk_Oblast.private.md) 
+
+### [Novosibirsk_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaNovosibirsk_Oblast.personal.md) 
+
+### [Novosibirsk_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\SiberiaNovosibirsk_Oblast.secret.md)
+

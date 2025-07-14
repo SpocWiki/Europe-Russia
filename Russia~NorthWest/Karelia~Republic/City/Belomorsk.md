@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Belomorsk|Belomorsk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Belomorsk.public|Belomorsk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Belomorsk.internal|Belomorsk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Belomorsk.protect|Belomorsk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Belomorsk.private|Belomorsk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Belomorsk.personal|Belomorsk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Belomorsk.secret|Belomorsk.secret]] 
+
+### [Belomorsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityBelomorsk.public.md) 
+
+### [Belomorsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityBelomorsk.internal.md) 
+
+### [Belomorsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityBelomorsk.protect.md) 
+
+### [Belomorsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityBelomorsk.private.md) 
+
+### [Belomorsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityBelomorsk.personal.md) 
+
+### [Belomorsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityBelomorsk.secret.md)
+

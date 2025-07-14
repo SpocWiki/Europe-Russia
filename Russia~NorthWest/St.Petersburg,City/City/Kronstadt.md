@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Kronstadt|Kronstadt]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Kronstadt.public|Kronstadt.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Kronstadt.internal|Kronstadt.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Kronstadt.protect|Kronstadt.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Kronstadt.private|Kronstadt.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Kronstadt.personal|Kronstadt.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Kronstadt.secret|Kronstadt.secret]] 
+
+### [Kronstadt.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityKronstadt.public.md) 
+
+### [Kronstadt.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityKronstadt.internal.md) 
+
+### [Kronstadt.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityKronstadt.protect.md) 
+
+### [Kronstadt.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityKronstadt.private.md) 
+
+### [Kronstadt.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityKronstadt.personal.md) 
+
+### [Kronstadt.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityKronstadt.secret.md)
+

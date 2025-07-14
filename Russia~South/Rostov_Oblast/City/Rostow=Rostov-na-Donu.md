@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Rostow=Rostov-na-Donu|Rostow=Rostov-na-Donu]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Rostow=Rostov-na-Donu.public|Rostow=Rostov-na-Donu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Rostow=Rostov-na-Donu.internal|Rostow=Rostov-na-Donu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Rostow=Rostov-na-Donu.protect|Rostow=Rostov-na-Donu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Rostow=Rostov-na-Donu.private|Rostow=Rostov-na-Donu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Rostow=Rostov-na-Donu.personal|Rostow=Rostov-na-Donu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Rostow=Rostov-na-Donu.secret|Rostow=Rostov-na-Donu.secret]] 
+
+### [Rostow=Rostov-na-Donu.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityRostow=Rostov-na-Donu.public.md) 
+
+### [Rostow=Rostov-na-Donu.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityRostow=Rostov-na-Donu.internal.md) 
+
+### [Rostow=Rostov-na-Donu.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityRostow=Rostov-na-Donu.protect.md) 
+
+### [Rostow=Rostov-na-Donu.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityRostow=Rostov-na-Donu.private.md) 
+
+### [Rostow=Rostov-na-Donu.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityRostow=Rostov-na-Donu.personal.md) 
+
+### [Rostow=Rostov-na-Donu.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityRostow=Rostov-na-Donu.secret.md)
+

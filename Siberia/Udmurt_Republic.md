@@ -73,3 +73,20 @@ native label: Удмурт Элькун
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Udmurtia) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Udmurt_Republic.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\SiberiaUdmurt_Republic.public.md) 
+
+### [Udmurt_Republic.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaUdmurt_Republic.internal.md) 
+
+### [Udmurt_Republic.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\SiberiaUdmurt_Republic.protect.md) 
+
+### [Udmurt_Republic.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\SiberiaUdmurt_Republic.private.md) 
+
+### [Udmurt_Republic.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaUdmurt_Republic.personal.md) 
+
+### [Udmurt_Republic.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\SiberiaUdmurt_Republic.secret.md)
+

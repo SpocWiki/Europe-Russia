@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Sergijewsk|Sergijewsk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Sergijewsk.public|Sergijewsk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Sergijewsk.internal|Sergijewsk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Sergijewsk.protect|Sergijewsk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Sergijewsk.private|Sergijewsk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Sergijewsk.personal|Sergijewsk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Sergijewsk.secret|Sergijewsk.secret]] 
+
+### [Sergijewsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Samara_Oblast\CitySergijewsk.public.md) 
+
+### [Sergijewsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Samara_Oblast\CitySergijewsk.internal.md) 
+
+### [Sergijewsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Samara_Oblast\CitySergijewsk.protect.md) 
+
+### [Sergijewsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Samara_Oblast\CitySergijewsk.private.md) 
+
+### [Sergijewsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Samara_Oblast\CitySergijewsk.personal.md) 
+
+### [Sergijewsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Samara_Oblast\CitySergijewsk.secret.md)
+

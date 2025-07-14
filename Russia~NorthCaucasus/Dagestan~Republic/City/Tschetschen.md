@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Tschetschen|Tschetschen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Tschetschen.public|Tschetschen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Tschetschen.internal|Tschetschen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Tschetschen.protect|Tschetschen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Tschetschen.private|Tschetschen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Tschetschen.personal|Tschetschen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Tschetschen.secret|Tschetschen.secret]] 
+
+### [Tschetschen.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~Republic\CityTschetschen.public.md) 
+
+### [Tschetschen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~Republic\CityTschetschen.internal.md) 
+
+### [Tschetschen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~Republic\CityTschetschen.protect.md) 
+
+### [Tschetschen.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~Republic\CityTschetschen.private.md) 
+
+### [Tschetschen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~Republic\CityTschetschen.personal.md) 
+
+### [Tschetschen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~Republic\CityTschetschen.secret.md)
+

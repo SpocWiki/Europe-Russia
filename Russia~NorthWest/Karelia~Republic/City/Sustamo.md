@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Finland/City/Sustamo|Sustamo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Finland/City/Sustamo.public|Sustamo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Finland/City/Sustamo.internal|Sustamo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Finland/City/Sustamo.protect|Sustamo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Finland/City/Sustamo.private|Sustamo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Finland/City/Sustamo.personal|Sustamo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Finland/City/Sustamo.secret|Sustamo.secret]] 
+
+### [Sustamo.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySustamo.public.md) 
+
+### [Sustamo.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySustamo.internal.md) 
+
+### [Sustamo.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySustamo.protect.md) 
+
+### [Sustamo.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySustamo.private.md) 
+
+### [Sustamo.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySustamo.personal.md) 
+
+### [Sustamo.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySustamo.secret.md)
+

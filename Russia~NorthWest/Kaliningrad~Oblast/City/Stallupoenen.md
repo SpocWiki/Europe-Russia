@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Stallupoenen|Stallupoenen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Stallupoenen.public|Stallupoenen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Stallupoenen.internal|Stallupoenen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Stallupoenen.protect|Stallupoenen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Stallupoenen.private|Stallupoenen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Stallupoenen.personal|Stallupoenen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Stallupoenen.secret|Stallupoenen.secret]] 
+
+### [Stallupoenen.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityStallupoenen.public.md) 
+
+### [Stallupoenen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityStallupoenen.internal.md) 
+
+### [Stallupoenen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityStallupoenen.protect.md) 
+
+### [Stallupoenen.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityStallupoenen.private.md) 
+
+### [Stallupoenen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityStallupoenen.personal.md) 
+
+### [Stallupoenen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityStallupoenen.secret.md)
+

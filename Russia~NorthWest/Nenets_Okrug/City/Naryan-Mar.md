@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Naryan-Mar|Naryan-Mar]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Naryan-Mar.public|Naryan-Mar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Naryan-Mar.internal|Naryan-Mar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Naryan-Mar.protect|Naryan-Mar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Naryan-Mar.private|Naryan-Mar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Naryan-Mar.personal|Naryan-Mar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Naryan-Mar.secret|Naryan-Mar.secret]] 
+
+### [Naryan-Mar.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Nenets_Okrug\CityNaryan-Mar.public.md) 
+
+### [Naryan-Mar.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Nenets_Okrug\CityNaryan-Mar.internal.md) 
+
+### [Naryan-Mar.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Nenets_Okrug\CityNaryan-Mar.protect.md) 
+
+### [Naryan-Mar.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Nenets_Okrug\CityNaryan-Mar.private.md) 
+
+### [Naryan-Mar.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Nenets_Okrug\CityNaryan-Mar.personal.md) 
+
+### [Naryan-Mar.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Nenets_Okrug\CityNaryan-Mar.secret.md)
+

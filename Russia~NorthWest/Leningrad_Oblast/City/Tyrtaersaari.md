@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Finland/City/Tyrtaersaari|Tyrtaersaari]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Finland/City/Tyrtaersaari.public|Tyrtaersaari.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Finland/City/Tyrtaersaari.internal|Tyrtaersaari.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Finland/City/Tyrtaersaari.protect|Tyrtaersaari.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Finland/City/Tyrtaersaari.private|Tyrtaersaari.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Finland/City/Tyrtaersaari.personal|Tyrtaersaari.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Finland/City/Tyrtaersaari.secret|Tyrtaersaari.secret]] 
+
+### [Tyrtaersaari.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityTyrtaersaari.public.md) 
+
+### [Tyrtaersaari.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityTyrtaersaari.internal.md) 
+
+### [Tyrtaersaari.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityTyrtaersaari.protect.md) 
+
+### [Tyrtaersaari.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityTyrtaersaari.private.md) 
+
+### [Tyrtaersaari.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityTyrtaersaari.personal.md) 
+
+### [Tyrtaersaari.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityTyrtaersaari.secret.md)
+

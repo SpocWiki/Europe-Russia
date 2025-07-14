@@ -90,3 +90,20 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Altai%20Republic) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Altai_Republic.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\SiberiaAltai_Republic.public.md) 
+
+### [Altai_Republic.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaAltai_Republic.internal.md) 
+
+### [Altai_Republic.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\SiberiaAltai_Republic.protect.md) 
+
+### [Altai_Republic.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\SiberiaAltai_Republic.private.md) 
+
+### [Altai_Republic.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaAltai_Republic.personal.md) 
+
+### [Altai_Republic.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\SiberiaAltai_Republic.secret.md)
+

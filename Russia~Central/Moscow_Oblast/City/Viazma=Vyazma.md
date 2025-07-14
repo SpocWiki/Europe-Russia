@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Viazma=Vyazma|Viazma=Vyazma]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Viazma=Vyazma.public|Viazma=Vyazma.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Viazma=Vyazma.internal|Viazma=Vyazma.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Viazma=Vyazma.protect|Viazma=Vyazma.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Viazma=Vyazma.private|Viazma=Vyazma.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Viazma=Vyazma.personal|Viazma=Vyazma.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Viazma=Vyazma.secret|Viazma=Vyazma.secret]] 
+
+### [Viazma=Vyazma.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityViazma=Vyazma.public.md) 
+
+### [Viazma=Vyazma.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityViazma=Vyazma.internal.md) 
+
+### [Viazma=Vyazma.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityViazma=Vyazma.protect.md) 
+
+### [Viazma=Vyazma.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityViazma=Vyazma.private.md) 
+
+### [Viazma=Vyazma.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityViazma=Vyazma.personal.md) 
+
+### [Viazma=Vyazma.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityViazma=Vyazma.secret.md)
+

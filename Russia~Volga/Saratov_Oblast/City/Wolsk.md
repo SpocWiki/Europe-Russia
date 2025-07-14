@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Wolsk|Wolsk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Wolsk.public|Wolsk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Wolsk.internal|Wolsk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Wolsk.protect|Wolsk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Wolsk.private|Wolsk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Wolsk.personal|Wolsk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Wolsk.secret|Wolsk.secret]] 
+
+### [Wolsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Saratov_Oblast\CityWolsk.public.md) 
+
+### [Wolsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Saratov_Oblast\CityWolsk.internal.md) 
+
+### [Wolsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Saratov_Oblast\CityWolsk.protect.md) 
+
+### [Wolsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Saratov_Oblast\CityWolsk.private.md) 
+
+### [Wolsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Saratov_Oblast\CityWolsk.personal.md) 
+
+### [Wolsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Saratov_Oblast\CityWolsk.secret.md)
+

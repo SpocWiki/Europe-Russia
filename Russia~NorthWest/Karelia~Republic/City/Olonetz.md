@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Olonetz|Olonetz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Olonetz.public|Olonetz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Olonetz.internal|Olonetz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Olonetz.protect|Olonetz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Olonetz.private|Olonetz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Olonetz.personal|Olonetz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Olonetz.secret|Olonetz.secret]] 
+
+### [Olonetz.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityOlonetz.public.md) 
+
+### [Olonetz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityOlonetz.internal.md) 
+
+### [Olonetz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityOlonetz.protect.md) 
+
+### [Olonetz.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityOlonetz.private.md) 
+
+### [Olonetz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityOlonetz.personal.md) 
+
+### [Olonetz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityOlonetz.secret.md)
+

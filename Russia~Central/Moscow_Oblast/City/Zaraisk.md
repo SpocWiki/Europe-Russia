@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Zaraisk|Zaraisk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Zaraisk.public|Zaraisk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Zaraisk.internal|Zaraisk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Zaraisk.protect|Zaraisk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Zaraisk.private|Zaraisk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Zaraisk.personal|Zaraisk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Zaraisk.secret|Zaraisk.secret]] 
+
+### [Zaraisk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityZaraisk.public.md) 
+
+### [Zaraisk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityZaraisk.internal.md) 
+
+### [Zaraisk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityZaraisk.protect.md) 
+
+### [Zaraisk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityZaraisk.private.md) 
+
+### [Zaraisk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityZaraisk.personal.md) 
+
+### [Zaraisk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityZaraisk.secret.md)
+

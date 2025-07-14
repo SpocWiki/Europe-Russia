@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Oryol_Oblast|State~Oryol_Oblast]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Oryol_Oblast.internal|State~Oryol_Oblast.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Oryol_Oblast.protect|State~Oryol_Oblast.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Oryol_Oblast.private|State~Oryol_Oblast.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Oryol_Oblast.personal|State~Oryol_Oblast.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Oryol_Oblast.secret|State~Oryol_Oblast.secret]] 
+
+### [Oryol_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralOryol_Oblast.public.md) 
+
+### [Oryol_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralOryol_Oblast.internal.md) 
+
+### [Oryol_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralOryol_Oblast.protect.md) 
+
+### [Oryol_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralOryol_Oblast.private.md) 
+
+### [Oryol_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralOryol_Oblast.personal.md) 
+
+### [Oryol_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralOryol_Oblast.secret.md)
+

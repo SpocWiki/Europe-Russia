@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Smolensk|Smolensk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Smolensk.public|Smolensk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Smolensk.internal|Smolensk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Smolensk.protect|Smolensk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Smolensk.private|Smolensk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Smolensk.personal|Smolensk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Smolensk.secret|Smolensk.secret]] 
+
+### [Smolensk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Smolensk_Oblast\CitySmolensk.public.md) 
+
+### [Smolensk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Smolensk_Oblast\CitySmolensk.internal.md) 
+
+### [Smolensk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Smolensk_Oblast\CitySmolensk.protect.md) 
+
+### [Smolensk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Smolensk_Oblast\CitySmolensk.private.md) 
+
+### [Smolensk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Smolensk_Oblast\CitySmolensk.personal.md) 
+
+### [Smolensk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Smolensk_Oblast\CitySmolensk.secret.md)
+

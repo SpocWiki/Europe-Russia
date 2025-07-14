@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Pskov_Oblast|State~Pskov_Oblast]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Pskov_Oblast.internal|State~Pskov_Oblast.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Pskov_Oblast.protect|State~Pskov_Oblast.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Pskov_Oblast.private|State~Pskov_Oblast.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Pskov_Oblast.personal|State~Pskov_Oblast.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Pskov_Oblast.secret|State~Pskov_Oblast.secret]] 
+
+### [Pskov_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestPskov_Oblast.public.md) 
+
+### [Pskov_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestPskov_Oblast.internal.md) 
+
+### [Pskov_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestPskov_Oblast.protect.md) 
+
+### [Pskov_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestPskov_Oblast.private.md) 
+
+### [Pskov_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestPskov_Oblast.personal.md) 
+
+### [Pskov_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestPskov_Oblast.secret.md)
+

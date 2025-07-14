@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Zasy|Zasy]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Zasy.public|Zasy.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Zasy.internal|Zasy.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Zasy.protect|Zasy.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Zasy.private|Zasy.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Zasy.personal|Zasy.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Zasy.secret|Zasy.secret]] 
+
+### [Zasy.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CityZasy.public.md) 
+
+### [Zasy.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CityZasy.internal.md) 
+
+### [Zasy.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CityZasy.protect.md) 
+
+### [Zasy.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CityZasy.private.md) 
+
+### [Zasy.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CityZasy.personal.md) 
+
+### [Zasy.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Volgograd_Oblast\CityZasy.secret.md)
+

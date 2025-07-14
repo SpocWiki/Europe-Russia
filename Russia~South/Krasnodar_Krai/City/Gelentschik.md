@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Gelentschik|Gelentschik]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Gelentschik.public|Gelentschik.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Gelentschik.internal|Gelentschik.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Gelentschik.protect|Gelentschik.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Gelentschik.private|Gelentschik.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Gelentschik.personal|Gelentschik.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Gelentschik.secret|Gelentschik.secret]] 
+
+### [Gelentschik.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityGelentschik.public.md) 
+
+### [Gelentschik.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityGelentschik.internal.md) 
+
+### [Gelentschik.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityGelentschik.protect.md) 
+
+### [Gelentschik.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityGelentschik.private.md) 
+
+### [Gelentschik.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityGelentschik.personal.md) 
+
+### [Gelentschik.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityGelentschik.secret.md)
+

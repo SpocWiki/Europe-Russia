@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Yoshkar-Ola|Yoshkar-Ola]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Yoshkar-Ola.public|Yoshkar-Ola.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Yoshkar-Ola.internal|Yoshkar-Ola.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Yoshkar-Ola.protect|Yoshkar-Ola.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Yoshkar-Ola.private|Yoshkar-Ola.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Yoshkar-Ola.personal|Yoshkar-Ola.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Yoshkar-Ola.secret|Yoshkar-Ola.secret]] 
+
+### [Yoshkar-Ola.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityYoshkar-Ola.public.md) 
+
+### [Yoshkar-Ola.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityYoshkar-Ola.internal.md) 
+
+### [Yoshkar-Ola.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityYoshkar-Ola.protect.md) 
+
+### [Yoshkar-Ola.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityYoshkar-Ola.private.md) 
+
+### [Yoshkar-Ola.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityYoshkar-Ola.personal.md) 
+
+### [Yoshkar-Ola.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityYoshkar-Ola.secret.md)
+

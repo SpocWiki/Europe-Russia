@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Kalinin=Tver|Kalinin=Tver]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Kalinin=Tver.public|Kalinin=Tver.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Kalinin=Tver.internal|Kalinin=Tver.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Kalinin=Tver.protect|Kalinin=Tver.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Kalinin=Tver.private|Kalinin=Tver.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Kalinin=Tver.personal|Kalinin=Tver.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Kalinin=Tver.secret|Kalinin=Tver.secret]] 
+
+### [Kalinin=Tver.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ivanovo_Oblast\CityKalinin=Tver.public.md) 
+
+### [Kalinin=Tver.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ivanovo_Oblast\CityKalinin=Tver.internal.md) 
+
+### [Kalinin=Tver.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ivanovo_Oblast\CityKalinin=Tver.protect.md) 
+
+### [Kalinin=Tver.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ivanovo_Oblast\CityKalinin=Tver.private.md) 
+
+### [Kalinin=Tver.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ivanovo_Oblast\CityKalinin=Tver.personal.md) 
+
+### [Kalinin=Tver.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ivanovo_Oblast\CityKalinin=Tver.secret.md)
+

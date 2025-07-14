@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Heiligenbeil|Heiligenbeil]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Heiligenbeil.public|Heiligenbeil.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Heiligenbeil.internal|Heiligenbeil.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Heiligenbeil.protect|Heiligenbeil.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Heiligenbeil.private|Heiligenbeil.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Heiligenbeil.personal|Heiligenbeil.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Heiligenbeil.secret|Heiligenbeil.secret]] 
+
+### [Heiligenbeil.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityHeiligenbeil.public.md) 
+
+### [Heiligenbeil.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityHeiligenbeil.internal.md) 
+
+### [Heiligenbeil.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityHeiligenbeil.protect.md) 
+
+### [Heiligenbeil.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityHeiligenbeil.private.md) 
+
+### [Heiligenbeil.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityHeiligenbeil.personal.md) 
+
+### [Heiligenbeil.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityHeiligenbeil.secret.md)
+

@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Komi~Republic|State~Komi~Republic]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Komi~Republic.internal|State~Komi~Republic.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Komi~Republic.protect|State~Komi~Republic.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Komi~Republic.private|State~Komi~Republic.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Komi~Republic.personal|State~Komi~Republic.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Komi~Republic.secret|State~Komi~Republic.secret]] 
+
+### [Komi~Republic.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestKomi~Republic.public.md) 
+
+### [Komi~Republic.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestKomi~Republic.internal.md) 
+
+### [Komi~Republic.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestKomi~Republic.protect.md) 
+
+### [Komi~Republic.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestKomi~Republic.private.md) 
+
+### [Komi~Republic.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestKomi~Republic.personal.md) 
+
+### [Komi~Republic.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestKomi~Republic.secret.md)
+

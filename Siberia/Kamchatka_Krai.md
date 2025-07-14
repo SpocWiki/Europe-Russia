@@ -24,3 +24,20 @@ has_id_wikidata: Q7948
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kamchatka%20Krai) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Kamchatka_Krai.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKamchatka_Krai.public.md) 
+
+### [Kamchatka_Krai.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKamchatka_Krai.internal.md) 
+
+### [Kamchatka_Krai.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKamchatka_Krai.protect.md) 
+
+### [Kamchatka_Krai.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKamchatka_Krai.private.md) 
+
+### [Kamchatka_Krai.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKamchatka_Krai.personal.md) 
+
+### [Kamchatka_Krai.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKamchatka_Krai.secret.md)
+

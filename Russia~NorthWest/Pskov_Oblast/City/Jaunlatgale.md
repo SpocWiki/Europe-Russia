@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Jaunlatgale|Jaunlatgale]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Jaunlatgale.public|Jaunlatgale.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Jaunlatgale.internal|Jaunlatgale.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Jaunlatgale.protect|Jaunlatgale.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Jaunlatgale.private|Jaunlatgale.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Jaunlatgale.personal|Jaunlatgale.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Jaunlatgale.secret|Jaunlatgale.secret]] 
+
+### [Jaunlatgale.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Pskov_Oblast\CityJaunlatgale.public.md) 
+
+### [Jaunlatgale.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Pskov_Oblast\CityJaunlatgale.internal.md) 
+
+### [Jaunlatgale.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Pskov_Oblast\CityJaunlatgale.protect.md) 
+
+### [Jaunlatgale.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Pskov_Oblast\CityJaunlatgale.private.md) 
+
+### [Jaunlatgale.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Pskov_Oblast\CityJaunlatgale.personal.md) 
+
+### [Jaunlatgale.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Pskov_Oblast\CityJaunlatgale.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Finland/City/Raisaelae|Raisaelae]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Finland/City/Raisaelae.public|Raisaelae.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Finland/City/Raisaelae.internal|Raisaelae.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Finland/City/Raisaelae.protect|Raisaelae.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Finland/City/Raisaelae.private|Raisaelae.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Finland/City/Raisaelae.personal|Raisaelae.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Finland/City/Raisaelae.secret|Raisaelae.secret]] 
+
+### [Raisaelae.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityRaisaelae.public.md) 
+
+### [Raisaelae.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityRaisaelae.internal.md) 
+
+### [Raisaelae.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityRaisaelae.protect.md) 
+
+### [Raisaelae.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityRaisaelae.private.md) 
+
+### [Raisaelae.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityRaisaelae.personal.md) 
+
+### [Raisaelae.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityRaisaelae.secret.md)
+

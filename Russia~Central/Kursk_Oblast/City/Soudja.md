@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Soudja|Soudja]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Soudja.public|Soudja.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Soudja.internal|Soudja.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Soudja.protect|Soudja.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Soudja.private|Soudja.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Soudja.personal|Soudja.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Soudja.secret|Soudja.secret]] 
+
+### [Soudja.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kursk_Oblast\CitySoudja.public.md) 
+
+### [Soudja.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kursk_Oblast\CitySoudja.internal.md) 
+
+### [Soudja.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kursk_Oblast\CitySoudja.protect.md) 
+
+### [Soudja.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kursk_Oblast\CitySoudja.private.md) 
+
+### [Soudja.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kursk_Oblast\CitySoudja.personal.md) 
+
+### [Soudja.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kursk_Oblast\CitySoudja.secret.md)
+

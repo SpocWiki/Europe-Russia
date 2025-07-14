@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Finland/City/Uusikirko|Uusikirko]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Finland/City/Uusikirko.public|Uusikirko.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Finland/City/Uusikirko.internal|Uusikirko.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Finland/City/Uusikirko.protect|Uusikirko.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Finland/City/Uusikirko.private|Uusikirko.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Finland/City/Uusikirko.personal|Uusikirko.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Finland/City/Uusikirko.secret|Uusikirko.secret]] 
+
+### [Uusikirko.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityUusikirko.public.md) 
+
+### [Uusikirko.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityUusikirko.internal.md) 
+
+### [Uusikirko.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityUusikirko.protect.md) 
+
+### [Uusikirko.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityUusikirko.private.md) 
+
+### [Uusikirko.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityUusikirko.personal.md) 
+
+### [Uusikirko.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityUusikirko.secret.md)
+

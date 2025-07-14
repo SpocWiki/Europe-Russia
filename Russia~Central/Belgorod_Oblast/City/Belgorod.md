@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Belgorod|Belgorod]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Belgorod.public|Belgorod.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Belgorod.internal|Belgorod.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Belgorod.protect|Belgorod.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Belgorod.private|Belgorod.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Belgorod.personal|Belgorod.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Belgorod.secret|Belgorod.secret]] 
+
+### [Belgorod.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Belgorod_Oblast\CityBelgorod.public.md) 
+
+### [Belgorod.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Belgorod_Oblast\CityBelgorod.internal.md) 
+
+### [Belgorod.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Belgorod_Oblast\CityBelgorod.protect.md) 
+
+### [Belgorod.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Belgorod_Oblast\CityBelgorod.private.md) 
+
+### [Belgorod.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Belgorod_Oblast\CityBelgorod.personal.md) 
+
+### [Belgorod.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Belgorod_Oblast\CityBelgorod.secret.md)
+

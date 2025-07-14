@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Sukhinitchi|Sukhinitchi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Sukhinitchi.public|Sukhinitchi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Sukhinitchi.internal|Sukhinitchi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Sukhinitchi.protect|Sukhinitchi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Sukhinitchi.private|Sukhinitchi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Sukhinitchi.personal|Sukhinitchi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Sukhinitchi.secret|Sukhinitchi.secret]] 
+
+### [Sukhinitchi.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CitySukhinitchi.public.md) 
+
+### [Sukhinitchi.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CitySukhinitchi.internal.md) 
+
+### [Sukhinitchi.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CitySukhinitchi.protect.md) 
+
+### [Sukhinitchi.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CitySukhinitchi.private.md) 
+
+### [Sukhinitchi.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CitySukhinitchi.personal.md) 
+
+### [Sukhinitchi.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CitySukhinitchi.secret.md)
+

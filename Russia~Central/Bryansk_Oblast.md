@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Bryansk_Oblast|State~Bryansk_Oblast]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Bryansk_Oblast.internal|State~Bryansk_Oblast.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Bryansk_Oblast.protect|State~Bryansk_Oblast.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Bryansk_Oblast.private|State~Bryansk_Oblast.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Bryansk_Oblast.personal|State~Bryansk_Oblast.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Bryansk_Oblast.secret|State~Bryansk_Oblast.secret]] 
+
+### [Bryansk_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralBryansk_Oblast.public.md) 
+
+### [Bryansk_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralBryansk_Oblast.internal.md) 
+
+### [Bryansk_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralBryansk_Oblast.protect.md) 
+
+### [Bryansk_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralBryansk_Oblast.private.md) 
+
+### [Bryansk_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralBryansk_Oblast.personal.md) 
+
+### [Bryansk_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralBryansk_Oblast.secret.md)
+

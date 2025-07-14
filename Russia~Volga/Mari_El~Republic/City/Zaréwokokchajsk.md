@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Zaréwokokchajsk|Zaréwokokchajsk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Zaréwokokchajsk.public|Zaréwokokchajsk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Zaréwokokchajsk.internal|Zaréwokokchajsk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Zaréwokokchajsk.protect|Zaréwokokchajsk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Zaréwokokchajsk.private|Zaréwokokchajsk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Zaréwokokchajsk.personal|Zaréwokokchajsk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Zaréwokokchajsk.secret|Zaréwokokchajsk.secret]] 
+
+### [Zaréwokokchajsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityZaréwokokchajsk.public.md) 
+
+### [Zaréwokokchajsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityZaréwokokchajsk.internal.md) 
+
+### [Zaréwokokchajsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityZaréwokokchajsk.protect.md) 
+
+### [Zaréwokokchajsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityZaréwokokchajsk.private.md) 
+
+### [Zaréwokokchajsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityZaréwokokchajsk.personal.md) 
+
+### [Zaréwokokchajsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityZaréwokokchajsk.secret.md)
+

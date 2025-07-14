@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Spassk~Rjaesan|Spassk~Rjaesan]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Spassk~Rjaesan.public|Spassk~Rjaesan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Spassk~Rjaesan.internal|Spassk~Rjaesan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Spassk~Rjaesan.protect|Spassk~Rjaesan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Spassk~Rjaesan.private|Spassk~Rjaesan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Spassk~Rjaesan.personal|Spassk~Rjaesan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Spassk~Rjaesan.secret|Spassk~Rjaesan.secret]] 
+
+### [Spassk~Rjaesan.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ryazan_Oblast\CitySpassk~Rjaesan.public.md) 
+
+### [Spassk~Rjaesan.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ryazan_Oblast\CitySpassk~Rjaesan.internal.md) 
+
+### [Spassk~Rjaesan.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ryazan_Oblast\CitySpassk~Rjaesan.protect.md) 
+
+### [Spassk~Rjaesan.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ryazan_Oblast\CitySpassk~Rjaesan.private.md) 
+
+### [Spassk~Rjaesan.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ryazan_Oblast\CitySpassk~Rjaesan.personal.md) 
+
+### [Spassk~Rjaesan.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ryazan_Oblast\CitySpassk~Rjaesan.secret.md)
+

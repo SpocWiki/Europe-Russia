@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Samara|Samara]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Samara.public|Samara.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Samara.internal|Samara.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Samara.protect|Samara.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Samara.private|Samara.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Samara.personal|Samara.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Samara.secret|Samara.secret]] 
+
+### [Samara.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CitySamara.public.md) 
+
+### [Samara.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CitySamara.internal.md) 
+
+### [Samara.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CitySamara.protect.md) 
+
+### [Samara.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CitySamara.private.md) 
+
+### [Samara.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CitySamara.personal.md) 
+
+### [Samara.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CitySamara.secret.md)
+

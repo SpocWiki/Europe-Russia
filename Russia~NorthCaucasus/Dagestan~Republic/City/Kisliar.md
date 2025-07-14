@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Kisliar|Kisliar]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Kisliar.public|Kisliar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Kisliar.internal|Kisliar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Kisliar.protect|Kisliar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Kisliar.private|Kisliar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Kisliar.personal|Kisliar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Kisliar.secret|Kisliar.secret]] 
+
+### [Kisliar.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~Republic\CityKisliar.public.md) 
+
+### [Kisliar.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~Republic\CityKisliar.internal.md) 
+
+### [Kisliar.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~Republic\CityKisliar.protect.md) 
+
+### [Kisliar.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~Republic\CityKisliar.private.md) 
+
+### [Kisliar.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~Republic\CityKisliar.personal.md) 
+
+### [Kisliar.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~Republic\CityKisliar.secret.md)
+

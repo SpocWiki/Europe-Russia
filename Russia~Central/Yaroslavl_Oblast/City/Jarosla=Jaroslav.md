@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Jarosla=Jaroslav|Jarosla=Jaroslav]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Jarosla=Jaroslav.public|Jarosla=Jaroslav.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Jarosla=Jaroslav.internal|Jarosla=Jaroslav.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Jarosla=Jaroslav.protect|Jarosla=Jaroslav.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Jarosla=Jaroslav.private|Jarosla=Jaroslav.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Jarosla=Jaroslav.personal|Jarosla=Jaroslav.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Jarosla=Jaroslav.secret|Jarosla=Jaroslav.secret]] 
+
+### [Jarosla=Jaroslav.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Yaroslavl_Oblast\CityJarosla=Jaroslav.public.md) 
+
+### [Jarosla=Jaroslav.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Yaroslavl_Oblast\CityJarosla=Jaroslav.internal.md) 
+
+### [Jarosla=Jaroslav.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Yaroslavl_Oblast\CityJarosla=Jaroslav.protect.md) 
+
+### [Jarosla=Jaroslav.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Yaroslavl_Oblast\CityJarosla=Jaroslav.private.md) 
+
+### [Jarosla=Jaroslav.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Yaroslavl_Oblast\CityJarosla=Jaroslav.personal.md) 
+
+### [Jarosla=Jaroslav.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Yaroslavl_Oblast\CityJarosla=Jaroslav.secret.md)
+

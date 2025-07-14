@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Kuybyscev|Kuybyscev]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Kuybyscev.public|Kuybyscev.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Kuybyscev.internal|Kuybyscev.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Kuybyscev.protect|Kuybyscev.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Kuybyscev.private|Kuybyscev.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Kuybyscev.personal|Kuybyscev.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Kuybyscev.secret|Kuybyscev.secret]] 
+
+### [Kuybyscev.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Samara_Oblast\CityKuybyscev.public.md) 
+
+### [Kuybyscev.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Samara_Oblast\CityKuybyscev.internal.md) 
+
+### [Kuybyscev.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Samara_Oblast\CityKuybyscev.protect.md) 
+
+### [Kuybyscev.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Samara_Oblast\CityKuybyscev.private.md) 
+
+### [Kuybyscev.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Samara_Oblast\CityKuybyscev.personal.md) 
+
+### [Kuybyscev.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Samara_Oblast\CityKuybyscev.secret.md)
+

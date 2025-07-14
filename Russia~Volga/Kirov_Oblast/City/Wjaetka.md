@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Wjaetka|Wjaetka]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Wjaetka.public|Wjaetka.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Wjaetka.internal|Wjaetka.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Wjaetka.protect|Wjaetka.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Wjaetka.private|Wjaetka.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Wjaetka.personal|Wjaetka.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Wjaetka.secret|Wjaetka.secret]] 
+
+### [Wjaetka.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Kirov_Oblast\CityWjaetka.public.md) 
+
+### [Wjaetka.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Kirov_Oblast\CityWjaetka.internal.md) 
+
+### [Wjaetka.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Kirov_Oblast\CityWjaetka.protect.md) 
+
+### [Wjaetka.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Kirov_Oblast\CityWjaetka.private.md) 
+
+### [Wjaetka.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Kirov_Oblast\CityWjaetka.personal.md) 
+
+### [Wjaetka.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Kirov_Oblast\CityWjaetka.secret.md)
+

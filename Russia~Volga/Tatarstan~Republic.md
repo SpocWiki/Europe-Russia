@@ -36,9 +36,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Tatarstan~Republic|State~Tatarstan~Republic]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Tatarstan~Republic.internal|State~Tatarstan~Republic.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Tatarstan~Republic.protect|State~Tatarstan~Republic.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Tatarstan~Republic.private|State~Tatarstan~Republic.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Tatarstan~Republic.personal|State~Tatarstan~Republic.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Tatarstan~Republic.secret|State~Tatarstan~Republic.secret]] 
+
+### [Tatarstan~Republic.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaTatarstan~Republic.public.md) 
+
+### [Tatarstan~Republic.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaTatarstan~Republic.internal.md) 
+
+### [Tatarstan~Republic.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaTatarstan~Republic.protect.md) 
+
+### [Tatarstan~Republic.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaTatarstan~Republic.private.md) 
+
+### [Tatarstan~Republic.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaTatarstan~Republic.personal.md) 
+
+### [Tatarstan~Republic.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaTatarstan~Republic.secret.md)
+

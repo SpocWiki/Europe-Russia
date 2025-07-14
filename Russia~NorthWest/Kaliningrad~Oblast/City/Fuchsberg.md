@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Fuchsberg|Fuchsberg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Fuchsberg.public|Fuchsberg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Fuchsberg.internal|Fuchsberg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Fuchsberg.protect|Fuchsberg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Fuchsberg.private|Fuchsberg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Fuchsberg.personal|Fuchsberg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Fuchsberg.secret|Fuchsberg.secret]] 
+
+### [Fuchsberg.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityFuchsberg.public.md) 
+
+### [Fuchsberg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityFuchsberg.internal.md) 
+
+### [Fuchsberg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityFuchsberg.protect.md) 
+
+### [Fuchsberg.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityFuchsberg.private.md) 
+
+### [Fuchsberg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityFuchsberg.personal.md) 
+
+### [Fuchsberg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityFuchsberg.secret.md)
+

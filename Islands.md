@@ -40,11 +40,16 @@ markerFolder: ./Islands/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/Islands|Islands]] 
-- [[../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/Islands.public|Islands.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/Islands.internal|Islands.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/Islands.protect|Islands.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/Islands.private|Islands.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/Islands.personal|Islands.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/Islands.secret|Islands.secret]] 
+
+### [Islands.public](/_public/\Earth\Continent\Europe\Europe~East\RussiaIslands.public.md) 
+
+### [Islands.internal](/_internal/\Earth\Continent\Europe\Europe~East\RussiaIslands.internal.md) 
+
+### [Islands.protect](/_protect/\Earth\Continent\Europe\Europe~East\RussiaIslands.protect.md) 
+
+### [Islands.private](/_private/\Earth\Continent\Europe\Europe~East\RussiaIslands.private.md) 
+
+### [Islands.personal](/_personal/\Earth\Continent\Europe\Europe~East\RussiaIslands.personal.md) 
+
+### [Islands.secret](/_secret/\Earth\Continent\Europe\Europe~East\RussiaIslands.secret.md)
 

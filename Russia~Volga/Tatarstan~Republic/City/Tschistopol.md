@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Tschistopol|Tschistopol]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Tschistopol.public|Tschistopol.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Tschistopol.internal|Tschistopol.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Tschistopol.protect|Tschistopol.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Tschistopol.private|Tschistopol.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Tschistopol.personal|Tschistopol.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Tschistopol.secret|Tschistopol.secret]] 
+
+### [Tschistopol.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Tatarstan~Republic\CityTschistopol.public.md) 
+
+### [Tschistopol.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Tatarstan~Republic\CityTschistopol.internal.md) 
+
+### [Tschistopol.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Tatarstan~Republic\CityTschistopol.protect.md) 
+
+### [Tschistopol.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Tatarstan~Republic\CityTschistopol.private.md) 
+
+### [Tschistopol.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Tatarstan~Republic\CityTschistopol.personal.md) 
+
+### [Tschistopol.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Tatarstan~Republic\CityTschistopol.secret.md)
+

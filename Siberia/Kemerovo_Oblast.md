@@ -95,3 +95,20 @@ geoshape: http://commons.wikimedia.org/data/main/Data:Russia/Kemerovo+Oblast.map
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kemerovo%20Oblast) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Kemerovo_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKemerovo_Oblast.public.md) 
+
+### [Kemerovo_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKemerovo_Oblast.internal.md) 
+
+### [Kemerovo_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKemerovo_Oblast.protect.md) 
+
+### [Kemerovo_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKemerovo_Oblast.private.md) 
+
+### [Kemerovo_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKemerovo_Oblast.personal.md) 
+
+### [Kemerovo_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKemerovo_Oblast.secret.md)
+

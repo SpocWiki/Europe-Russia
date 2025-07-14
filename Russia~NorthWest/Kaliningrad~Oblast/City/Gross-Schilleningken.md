@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Gross-Schilleningken|Gross-Schilleningken]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Gross-Schilleningken.public|Gross-Schilleningken.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Gross-Schilleningken.internal|Gross-Schilleningken.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Gross-Schilleningken.protect|Gross-Schilleningken.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Gross-Schilleningken.private|Gross-Schilleningken.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Gross-Schilleningken.personal|Gross-Schilleningken.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Gross-Schilleningken.secret|Gross-Schilleningken.secret]] 
+
+### [Gross-Schilleningken.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityGross-Schilleningken.public.md) 
+
+### [Gross-Schilleningken.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityGross-Schilleningken.internal.md) 
+
+### [Gross-Schilleningken.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityGross-Schilleningken.protect.md) 
+
+### [Gross-Schilleningken.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityGross-Schilleningken.private.md) 
+
+### [Gross-Schilleningken.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityGross-Schilleningken.personal.md) 
+
+### [Gross-Schilleningken.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityGross-Schilleningken.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Kandalakscha|Kandalakscha]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Kandalakscha.public|Kandalakscha.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Kandalakscha.internal|Kandalakscha.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Kandalakscha.protect|Kandalakscha.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Kandalakscha.private|Kandalakscha.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Kandalakscha.personal|Kandalakscha.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Kandalakscha.secret|Kandalakscha.secret]] 
+
+### [Kandalakscha.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKandalakscha.public.md) 
+
+### [Kandalakscha.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKandalakscha.internal.md) 
+
+### [Kandalakscha.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKandalakscha.protect.md) 
+
+### [Kandalakscha.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKandalakscha.private.md) 
+
+### [Kandalakscha.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKandalakscha.personal.md) 
+
+### [Kandalakscha.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKandalakscha.secret.md)
+

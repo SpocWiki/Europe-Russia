@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Chuvash~Republic|State~Chuvash~Republic]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Chuvash~Republic.internal|State~Chuvash~Republic.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Chuvash~Republic.protect|State~Chuvash~Republic.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Chuvash~Republic.private|State~Chuvash~Republic.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Chuvash~Republic.personal|State~Chuvash~Republic.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Chuvash~Republic.secret|State~Chuvash~Republic.secret]] 
+
+### [Chuvash~Republic.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaChuvash~Republic.public.md) 
+
+### [Chuvash~Republic.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaChuvash~Republic.internal.md) 
+
+### [Chuvash~Republic.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaChuvash~Republic.protect.md) 
+
+### [Chuvash~Republic.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaChuvash~Republic.private.md) 
+
+### [Chuvash~Republic.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaChuvash~Republic.personal.md) 
+
+### [Chuvash~Republic.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaChuvash~Republic.secret.md)
+

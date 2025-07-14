@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Petrograd=Leningrad|Petrograd=Leningrad]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Petrograd=Leningrad.public|Petrograd=Leningrad.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Petrograd=Leningrad.internal|Petrograd=Leningrad.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Petrograd=Leningrad.protect|Petrograd=Leningrad.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Petrograd=Leningrad.private|Petrograd=Leningrad.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Petrograd=Leningrad.personal|Petrograd=Leningrad.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Petrograd=Leningrad.secret|Petrograd=Leningrad.secret]] 
+
+### [Petrograd=Leningrad.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityPetrograd=Leningrad.public.md) 
+
+### [Petrograd=Leningrad.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityPetrograd=Leningrad.internal.md) 
+
+### [Petrograd=Leningrad.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityPetrograd=Leningrad.protect.md) 
+
+### [Petrograd=Leningrad.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityPetrograd=Leningrad.private.md) 
+
+### [Petrograd=Leningrad.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityPetrograd=Leningrad.personal.md) 
+
+### [Petrograd=Leningrad.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityPetrograd=Leningrad.secret.md)
+

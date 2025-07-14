@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Syklyvkar=List_Sysolske|Syklyvkar=List_Sysolske]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Syklyvkar=List_Sysolske.public|Syklyvkar=List_Sysolske.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Syklyvkar=List_Sysolske.internal|Syklyvkar=List_Sysolske.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Syklyvkar=List_Sysolske.protect|Syklyvkar=List_Sysolske.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Syklyvkar=List_Sysolske.private|Syklyvkar=List_Sysolske.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Syklyvkar=List_Sysolske.personal|Syklyvkar=List_Sysolske.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Syklyvkar=List_Sysolske.secret|Syklyvkar=List_Sysolske.secret]] 
+
+### [Syklyvkar=List_Sysolske.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Komi~Republic\CitySyklyvkar=List_Sysolske.public.md) 
+
+### [Syklyvkar=List_Sysolske.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Komi~Republic\CitySyklyvkar=List_Sysolske.internal.md) 
+
+### [Syklyvkar=List_Sysolske.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Komi~Republic\CitySyklyvkar=List_Sysolske.protect.md) 
+
+### [Syklyvkar=List_Sysolske.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Komi~Republic\CitySyklyvkar=List_Sysolske.private.md) 
+
+### [Syklyvkar=List_Sysolske.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Komi~Republic\CitySyklyvkar=List_Sysolske.personal.md) 
+
+### [Syklyvkar=List_Sysolske.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Komi~Republic\CitySyklyvkar=List_Sysolske.secret.md)
+

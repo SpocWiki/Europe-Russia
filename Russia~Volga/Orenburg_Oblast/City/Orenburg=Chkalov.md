@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Orenburg=Chkalov|Orenburg=Chkalov]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Orenburg=Chkalov.public|Orenburg=Chkalov.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Orenburg=Chkalov.internal|Orenburg=Chkalov.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Orenburg=Chkalov.protect|Orenburg=Chkalov.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Orenburg=Chkalov.private|Orenburg=Chkalov.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Orenburg=Chkalov.personal|Orenburg=Chkalov.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Orenburg=Chkalov.secret|Orenburg=Chkalov.secret]] 
+
+### [Orenburg=Chkalov.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CityOrenburg=Chkalov.public.md) 
+
+### [Orenburg=Chkalov.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CityOrenburg=Chkalov.internal.md) 
+
+### [Orenburg=Chkalov.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CityOrenburg=Chkalov.protect.md) 
+
+### [Orenburg=Chkalov.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CityOrenburg=Chkalov.private.md) 
+
+### [Orenburg=Chkalov.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CityOrenburg=Chkalov.personal.md) 
+
+### [Orenburg=Chkalov.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CityOrenburg=Chkalov.secret.md)
+

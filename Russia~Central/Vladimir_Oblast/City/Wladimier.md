@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Wladimier|Wladimier]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Wladimier.public|Wladimier.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Wladimier.internal|Wladimier.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Wladimier.protect|Wladimier.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Wladimier.private|Wladimier.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Wladimier.personal|Wladimier.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Wladimier.secret|Wladimier.secret]] 
+
+### [Wladimier.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Vladimir_Oblast\CityWladimier.public.md) 
+
+### [Wladimier.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Vladimir_Oblast\CityWladimier.internal.md) 
+
+### [Wladimier.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Vladimir_Oblast\CityWladimier.protect.md) 
+
+### [Wladimier.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Vladimir_Oblast\CityWladimier.private.md) 
+
+### [Wladimier.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Vladimir_Oblast\CityWladimier.personal.md) 
+
+### [Wladimier.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Vladimir_Oblast\CityWladimier.secret.md)
+

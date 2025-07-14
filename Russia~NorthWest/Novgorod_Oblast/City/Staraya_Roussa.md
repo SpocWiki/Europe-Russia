@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Staraya_Roussa|Staraya_Roussa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Staraya_Roussa.public|Staraya_Roussa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Staraya_Roussa.internal|Staraya_Roussa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Staraya_Roussa.protect|Staraya_Roussa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Staraya_Roussa.private|Staraya_Roussa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Staraya_Roussa.personal|Staraya_Roussa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Staraya_Roussa.secret|Staraya_Roussa.secret]] 
+
+### [Staraya_Roussa.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Novgorod_Oblast\CityStaraya_Roussa.public.md) 
+
+### [Staraya_Roussa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Novgorod_Oblast\CityStaraya_Roussa.internal.md) 
+
+### [Staraya_Roussa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Novgorod_Oblast\CityStaraya_Roussa.protect.md) 
+
+### [Staraya_Roussa.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Novgorod_Oblast\CityStaraya_Roussa.private.md) 
+
+### [Staraya_Roussa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Novgorod_Oblast\CityStaraya_Roussa.personal.md) 
+
+### [Staraya_Roussa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Novgorod_Oblast\CityStaraya_Roussa.secret.md)
+

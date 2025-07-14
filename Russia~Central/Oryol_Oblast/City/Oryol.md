@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Oryol|Oryol]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Oryol.public|Oryol.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Oryol.internal|Oryol.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Oryol.protect|Oryol.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Oryol.private|Oryol.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Oryol.personal|Oryol.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Oryol.secret|Oryol.secret]] 
+
+### [Oryol.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Oryol_Oblast\CityOryol.public.md) 
+
+### [Oryol.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Oryol_Oblast\CityOryol.internal.md) 
+
+### [Oryol.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Oryol_Oblast\CityOryol.protect.md) 
+
+### [Oryol.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Oryol_Oblast\CityOryol.private.md) 
+
+### [Oryol.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Oryol_Oblast\CityOryol.personal.md) 
+
+### [Oryol.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Oryol_Oblast\CityOryol.secret.md)
+

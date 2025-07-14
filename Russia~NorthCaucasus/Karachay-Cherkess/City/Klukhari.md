@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Klukhari|Klukhari]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Klukhari.public|Klukhari.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Klukhari.internal|Klukhari.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Klukhari.protect|Klukhari.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Klukhari.private|Klukhari.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Klukhari.personal|Klukhari.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Klukhari.secret|Klukhari.secret]] 
+
+### [Klukhari.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Karachay-Cherkess\CityKlukhari.public.md) 
+
+### [Klukhari.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Karachay-Cherkess\CityKlukhari.internal.md) 
+
+### [Klukhari.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Karachay-Cherkess\CityKlukhari.protect.md) 
+
+### [Klukhari.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Karachay-Cherkess\CityKlukhari.private.md) 
+
+### [Klukhari.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Karachay-Cherkess\CityKlukhari.personal.md) 
+
+### [Klukhari.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Karachay-Cherkess\CityKlukhari.secret.md)
+

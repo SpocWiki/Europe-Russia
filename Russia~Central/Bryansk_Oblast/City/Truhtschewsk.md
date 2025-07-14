@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Truhtschewsk|Truhtschewsk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Truhtschewsk.public|Truhtschewsk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Truhtschewsk.internal|Truhtschewsk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Truhtschewsk.protect|Truhtschewsk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Truhtschewsk.private|Truhtschewsk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Truhtschewsk.personal|Truhtschewsk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Truhtschewsk.secret|Truhtschewsk.secret]] 
+
+### [Truhtschewsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Bryansk_Oblast\CityTruhtschewsk.public.md) 
+
+### [Truhtschewsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Bryansk_Oblast\CityTruhtschewsk.internal.md) 
+
+### [Truhtschewsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Bryansk_Oblast\CityTruhtschewsk.protect.md) 
+
+### [Truhtschewsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Bryansk_Oblast\CityTruhtschewsk.private.md) 
+
+### [Truhtschewsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Bryansk_Oblast\CityTruhtschewsk.personal.md) 
+
+### [Truhtschewsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Bryansk_Oblast\CityTruhtschewsk.secret.md)
+

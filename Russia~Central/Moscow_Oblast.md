@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Moscow_Oblast|State~Moscow_Oblast]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Moscow_Oblast.internal|State~Moscow_Oblast.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Moscow_Oblast.protect|State~Moscow_Oblast.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Moscow_Oblast.private|State~Moscow_Oblast.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Moscow_Oblast.personal|State~Moscow_Oblast.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Moscow_Oblast.secret|State~Moscow_Oblast.secret]] 
+
+### [Moscow_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralMoscow_Oblast.public.md) 
+
+### [Moscow_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralMoscow_Oblast.internal.md) 
+
+### [Moscow_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralMoscow_Oblast.protect.md) 
+
+### [Moscow_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralMoscow_Oblast.private.md) 
+
+### [Moscow_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralMoscow_Oblast.personal.md) 
+
+### [Moscow_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralMoscow_Oblast.secret.md)
+

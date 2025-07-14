@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Krasnokokoshaisk=Yoskav|Krasnokokoshaisk=Yoskav]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Krasnokokoshaisk=Yoskav.public|Krasnokokoshaisk=Yoskav.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Krasnokokoshaisk=Yoskav.internal|Krasnokokoshaisk=Yoskav.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Krasnokokoshaisk=Yoskav.protect|Krasnokokoshaisk=Yoskav.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Krasnokokoshaisk=Yoskav.private|Krasnokokoshaisk=Yoskav.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Krasnokokoshaisk=Yoskav.personal|Krasnokokoshaisk=Yoskav.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Krasnokokoshaisk=Yoskav.secret|Krasnokokoshaisk=Yoskav.secret]] 
+
+### [Krasnokokoshaisk=Yoskav.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityKrasnokokoshaisk=Yoskav.public.md) 
+
+### [Krasnokokoshaisk=Yoskav.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityKrasnokokoshaisk=Yoskav.internal.md) 
+
+### [Krasnokokoshaisk=Yoskav.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityKrasnokokoshaisk=Yoskav.protect.md) 
+
+### [Krasnokokoshaisk=Yoskav.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityKrasnokokoshaisk=Yoskav.private.md) 
+
+### [Krasnokokoshaisk=Yoskav.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityKrasnokokoshaisk=Yoskav.personal.md) 
+
+### [Krasnokokoshaisk=Yoskav.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityKrasnokokoshaisk=Yoskav.secret.md)
+

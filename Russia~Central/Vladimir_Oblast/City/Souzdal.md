@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Souzdal|Souzdal]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Souzdal.public|Souzdal.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Souzdal.internal|Souzdal.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Souzdal.protect|Souzdal.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Souzdal.private|Souzdal.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Souzdal.personal|Souzdal.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Souzdal.secret|Souzdal.secret]] 
+
+### [Souzdal.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Vladimir_Oblast\CitySouzdal.public.md) 
+
+### [Souzdal.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Vladimir_Oblast\CitySouzdal.internal.md) 
+
+### [Souzdal.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Vladimir_Oblast\CitySouzdal.protect.md) 
+
+### [Souzdal.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Vladimir_Oblast\CitySouzdal.private.md) 
+
+### [Souzdal.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Vladimir_Oblast\CitySouzdal.personal.md) 
+
+### [Souzdal.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Vladimir_Oblast\CitySouzdal.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Finland/City/Thomajaervi|Thomajaervi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Finland/City/Thomajaervi.public|Thomajaervi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Finland/City/Thomajaervi.internal|Thomajaervi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Finland/City/Thomajaervi.protect|Thomajaervi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Finland/City/Thomajaervi.private|Thomajaervi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Finland/City/Thomajaervi.personal|Thomajaervi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Finland/City/Thomajaervi.secret|Thomajaervi.secret]] 
+
+### [Thomajaervi.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityThomajaervi.public.md) 
+
+### [Thomajaervi.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityThomajaervi.internal.md) 
+
+### [Thomajaervi.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityThomajaervi.protect.md) 
+
+### [Thomajaervi.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityThomajaervi.private.md) 
+
+### [Thomajaervi.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityThomajaervi.personal.md) 
+
+### [Thomajaervi.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityThomajaervi.secret.md)
+

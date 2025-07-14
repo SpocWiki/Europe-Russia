@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Schrombehnen|Schrombehnen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Schrombehnen.public|Schrombehnen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Schrombehnen.internal|Schrombehnen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Schrombehnen.protect|Schrombehnen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Schrombehnen.private|Schrombehnen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Schrombehnen.personal|Schrombehnen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Schrombehnen.secret|Schrombehnen.secret]] 
+
+### [Schrombehnen.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CitySchrombehnen.public.md) 
+
+### [Schrombehnen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CitySchrombehnen.internal.md) 
+
+### [Schrombehnen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CitySchrombehnen.protect.md) 
+
+### [Schrombehnen.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CitySchrombehnen.private.md) 
+
+### [Schrombehnen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CitySchrombehnen.personal.md) 
+
+### [Schrombehnen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CitySchrombehnen.secret.md)
+

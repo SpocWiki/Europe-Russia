@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 55.75
 - 37.57
@@ -428,10 +428,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Moskwa|Moskwa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Moskwa.public|Moskwa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Moskwa.internal|Moskwa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Moskwa.protect|Moskwa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Moskwa.private|Moskwa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Moskwa.personal|Moskwa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Moskwa.secret|Moskwa.secret]] 
+
+### [Moskwa.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityMoskwa.public.md) 
+
+### [Moskwa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityMoskwa.internal.md) 
+
+### [Moskwa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityMoskwa.protect.md) 
+
+### [Moskwa.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityMoskwa.private.md) 
+
+### [Moskwa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityMoskwa.personal.md) 
+
+### [Moskwa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityMoskwa.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Kaluga|Kaluga]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Kaluga.public|Kaluga.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Kaluga.internal|Kaluga.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Kaluga.protect|Kaluga.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Kaluga.private|Kaluga.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Kaluga.personal|Kaluga.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Kaluga.secret|Kaluga.secret]] 
+
+### [Kaluga.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CityKaluga.public.md) 
+
+### [Kaluga.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CityKaluga.internal.md) 
+
+### [Kaluga.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CityKaluga.protect.md) 
+
+### [Kaluga.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CityKaluga.private.md) 
+
+### [Kaluga.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CityKaluga.personal.md) 
+
+### [Kaluga.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CityKaluga.secret.md)
+

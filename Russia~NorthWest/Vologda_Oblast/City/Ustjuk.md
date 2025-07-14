@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Ustjuk|Ustjuk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Ustjuk.public|Ustjuk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Ustjuk.internal|Ustjuk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Ustjuk.protect|Ustjuk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Ustjuk.private|Ustjuk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Ustjuk.personal|Ustjuk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Ustjuk.secret|Ustjuk.secret]] 
+
+### [Ustjuk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityUstjuk.public.md) 
+
+### [Ustjuk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityUstjuk.internal.md) 
+
+### [Ustjuk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityUstjuk.protect.md) 
+
+### [Ustjuk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityUstjuk.private.md) 
+
+### [Ustjuk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityUstjuk.personal.md) 
+
+### [Ustjuk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityUstjuk.secret.md)
+

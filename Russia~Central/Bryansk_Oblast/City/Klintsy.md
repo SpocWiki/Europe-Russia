@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Klintsy|Klintsy]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Klintsy.public|Klintsy.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Klintsy.internal|Klintsy.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Klintsy.protect|Klintsy.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Klintsy.private|Klintsy.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Klintsy.personal|Klintsy.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Klintsy.secret|Klintsy.secret]] 
+
+### [Klintsy.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Bryansk_Oblast\CityKlintsy.public.md) 
+
+### [Klintsy.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Bryansk_Oblast\CityKlintsy.internal.md) 
+
+### [Klintsy.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Bryansk_Oblast\CityKlintsy.protect.md) 
+
+### [Klintsy.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Bryansk_Oblast\CityKlintsy.private.md) 
+
+### [Klintsy.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Bryansk_Oblast\CityKlintsy.personal.md) 
+
+### [Klintsy.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Bryansk_Oblast\CityKlintsy.secret.md)
+

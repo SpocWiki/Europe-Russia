@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Stepnoy|Stepnoy]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Stepnoy.public|Stepnoy.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Stepnoy.internal|Stepnoy.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Stepnoy.protect|Stepnoy.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Stepnoy.private|Stepnoy.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Stepnoy.personal|Stepnoy.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Stepnoy.secret|Stepnoy.secret]] 
+
+### [Stepnoy.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Kalmykia~Republic\CityStepnoy.public.md) 
+
+### [Stepnoy.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Kalmykia~Republic\CityStepnoy.internal.md) 
+
+### [Stepnoy.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Kalmykia~Republic\CityStepnoy.protect.md) 
+
+### [Stepnoy.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Kalmykia~Republic\CityStepnoy.private.md) 
+
+### [Stepnoy.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Kalmykia~Republic\CityStepnoy.personal.md) 
+
+### [Stepnoy.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Kalmykia~Republic\CityStepnoy.secret.md)
+

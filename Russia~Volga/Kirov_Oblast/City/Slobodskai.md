@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Slobodskai|Slobodskai]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Slobodskai.public|Slobodskai.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Slobodskai.internal|Slobodskai.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Slobodskai.protect|Slobodskai.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Slobodskai.private|Slobodskai.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Slobodskai.personal|Slobodskai.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Slobodskai.secret|Slobodskai.secret]] 
+
+### [Slobodskai.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Kirov_Oblast\CitySlobodskai.public.md) 
+
+### [Slobodskai.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Kirov_Oblast\CitySlobodskai.internal.md) 
+
+### [Slobodskai.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Kirov_Oblast\CitySlobodskai.protect.md) 
+
+### [Slobodskai.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Kirov_Oblast\CitySlobodskai.private.md) 
+
+### [Slobodskai.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Kirov_Oblast\CitySlobodskai.personal.md) 
+
+### [Slobodskai.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Kirov_Oblast\CitySlobodskai.secret.md)
+

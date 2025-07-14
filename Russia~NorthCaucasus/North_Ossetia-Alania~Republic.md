@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~North_Ossetia-Alania~Republic|State~North_Ossetia-Alania~Republic]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~North_Ossetia-Alania~Republic.internal|State~North_Ossetia-Alania~Republic.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~North_Ossetia-Alania~Republic.protect|State~North_Ossetia-Alania~Republic.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~North_Ossetia-Alania~Republic.private|State~North_Ossetia-Alania~Republic.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~North_Ossetia-Alania~Republic.personal|State~North_Ossetia-Alania~Republic.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~North_Ossetia-Alania~Republic.secret|State~North_Ossetia-Alania~Republic.secret]] 
+
+### [North_Ossetia-Alania~Republic.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusNorth_Ossetia-Alania~Republic.public.md) 
+
+### [North_Ossetia-Alania~Republic.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusNorth_Ossetia-Alania~Republic.internal.md) 
+
+### [North_Ossetia-Alania~Republic.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusNorth_Ossetia-Alania~Republic.protect.md) 
+
+### [North_Ossetia-Alania~Republic.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusNorth_Ossetia-Alania~Republic.private.md) 
+
+### [North_Ossetia-Alania~Republic.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusNorth_Ossetia-Alania~Republic.personal.md) 
+
+### [North_Ossetia-Alania~Republic.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusNorth_Ossetia-Alania~Republic.secret.md)
+

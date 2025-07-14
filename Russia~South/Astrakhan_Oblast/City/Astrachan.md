@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Astrachan|Astrachan]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Astrachan.public|Astrachan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Astrachan.internal|Astrachan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Astrachan.protect|Astrachan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Astrachan.private|Astrachan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Astrachan.personal|Astrachan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Astrachan.secret|Astrachan.secret]] 
+
+### [Astrachan.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Astrakhan_Oblast\CityAstrachan.public.md) 
+
+### [Astrachan.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Astrakhan_Oblast\CityAstrachan.internal.md) 
+
+### [Astrachan.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Astrakhan_Oblast\CityAstrachan.protect.md) 
+
+### [Astrachan.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Astrakhan_Oblast\CityAstrachan.private.md) 
+
+### [Astrachan.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Astrakhan_Oblast\CityAstrachan.personal.md) 
+
+### [Astrachan.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Astrakhan_Oblast\CityAstrachan.secret.md)
+

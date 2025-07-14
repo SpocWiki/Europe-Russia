@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Finland/City/Saelskaer|Saelskaer]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Finland/City/Saelskaer.public|Saelskaer.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Finland/City/Saelskaer.internal|Saelskaer.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Finland/City/Saelskaer.protect|Saelskaer.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Finland/City/Saelskaer.private|Saelskaer.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Finland/City/Saelskaer.personal|Saelskaer.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Finland/City/Saelskaer.secret|Saelskaer.secret]] 
+
+### [Saelskaer.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CitySaelskaer.public.md) 
+
+### [Saelskaer.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CitySaelskaer.internal.md) 
+
+### [Saelskaer.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CitySaelskaer.protect.md) 
+
+### [Saelskaer.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CitySaelskaer.private.md) 
+
+### [Saelskaer.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CitySaelskaer.personal.md) 
+
+### [Saelskaer.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CitySaelskaer.secret.md)
+

@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Saratov_Oblast|State~Saratov_Oblast]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Saratov_Oblast.internal|State~Saratov_Oblast.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Saratov_Oblast.protect|State~Saratov_Oblast.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Saratov_Oblast.private|State~Saratov_Oblast.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Saratov_Oblast.personal|State~Saratov_Oblast.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Saratov_Oblast.secret|State~Saratov_Oblast.secret]] 
+
+### [Saratov_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaSaratov_Oblast.public.md) 
+
+### [Saratov_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaSaratov_Oblast.internal.md) 
+
+### [Saratov_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaSaratov_Oblast.protect.md) 
+
+### [Saratov_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaSaratov_Oblast.private.md) 
+
+### [Saratov_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaSaratov_Oblast.personal.md) 
+
+### [Saratov_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaSaratov_Oblast.secret.md)
+

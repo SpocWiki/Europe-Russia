@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Troitzk|Troitzk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Troitzk.public|Troitzk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Troitzk.internal|Troitzk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Troitzk.protect|Troitzk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Troitzk.private|Troitzk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Troitzk.personal|Troitzk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Troitzk.secret|Troitzk.secret]] 
+
+### [Troitzk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mordovia~Republic\CityTroitzk.public.md) 
+
+### [Troitzk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mordovia~Republic\CityTroitzk.internal.md) 
+
+### [Troitzk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mordovia~Republic\CityTroitzk.protect.md) 
+
+### [Troitzk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mordovia~Republic\CityTroitzk.private.md) 
+
+### [Troitzk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mordovia~Republic\CityTroitzk.personal.md) 
+
+### [Troitzk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mordovia~Republic\CityTroitzk.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Cheboksary|Cheboksary]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Cheboksary.public|Cheboksary.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Cheboksary.internal|Cheboksary.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Cheboksary.protect|Cheboksary.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Cheboksary.private|Cheboksary.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Cheboksary.personal|Cheboksary.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Cheboksary.secret|Cheboksary.secret]] 
+
+### [Cheboksary.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Chuvash~Republic\CityCheboksary.public.md) 
+
+### [Cheboksary.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Chuvash~Republic\CityCheboksary.internal.md) 
+
+### [Cheboksary.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Chuvash~Republic\CityCheboksary.protect.md) 
+
+### [Cheboksary.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Chuvash~Republic\CityCheboksary.private.md) 
+
+### [Cheboksary.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Chuvash~Republic\CityCheboksary.personal.md) 
+
+### [Cheboksary.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Chuvash~Republic\CityCheboksary.secret.md)
+

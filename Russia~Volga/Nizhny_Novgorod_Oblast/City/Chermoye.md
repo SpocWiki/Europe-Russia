@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Chermoye|Chermoye]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Chermoye.public|Chermoye.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Chermoye.internal|Chermoye.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Chermoye.protect|Chermoye.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Chermoye.private|Chermoye.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Chermoye.personal|Chermoye.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Chermoye.secret|Chermoye.secret]] 
+
+### [Chermoye.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityChermoye.public.md) 
+
+### [Chermoye.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityChermoye.internal.md) 
+
+### [Chermoye.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityChermoye.protect.md) 
+
+### [Chermoye.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityChermoye.private.md) 
+
+### [Chermoye.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityChermoye.personal.md) 
+
+### [Chermoye.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityChermoye.secret.md)
+

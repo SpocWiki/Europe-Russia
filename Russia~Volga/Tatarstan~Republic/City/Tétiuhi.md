@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Tétiuhi|Tétiuhi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Tétiuhi.public|Tétiuhi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Tétiuhi.internal|Tétiuhi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Tétiuhi.protect|Tétiuhi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Tétiuhi.private|Tétiuhi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Tétiuhi.personal|Tétiuhi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Tétiuhi.secret|Tétiuhi.secret]] 
+
+### [Tétiuhi.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Tatarstan~Republic\CityTétiuhi.public.md) 
+
+### [Tétiuhi.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Tatarstan~Republic\CityTétiuhi.internal.md) 
+
+### [Tétiuhi.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Tatarstan~Republic\CityTétiuhi.protect.md) 
+
+### [Tétiuhi.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Tatarstan~Republic\CityTétiuhi.private.md) 
+
+### [Tétiuhi.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Tatarstan~Republic\CityTétiuhi.personal.md) 
+
+### [Tétiuhi.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Tatarstan~Republic\CityTétiuhi.secret.md)
+

@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Ulyanovsk_Oblast|State~Ulyanovsk_Oblast]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Ulyanovsk_Oblast.internal|State~Ulyanovsk_Oblast.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Ulyanovsk_Oblast.protect|State~Ulyanovsk_Oblast.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Ulyanovsk_Oblast.private|State~Ulyanovsk_Oblast.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Ulyanovsk_Oblast.personal|State~Ulyanovsk_Oblast.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Ulyanovsk_Oblast.secret|State~Ulyanovsk_Oblast.secret]] 
+
+### [Ulyanovsk_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaUlyanovsk_Oblast.public.md) 
+
+### [Ulyanovsk_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaUlyanovsk_Oblast.internal.md) 
+
+### [Ulyanovsk_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaUlyanovsk_Oblast.protect.md) 
+
+### [Ulyanovsk_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaUlyanovsk_Oblast.private.md) 
+
+### [Ulyanovsk_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaUlyanovsk_Oblast.personal.md) 
+
+### [Ulyanovsk_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaUlyanovsk_Oblast.secret.md)
+
