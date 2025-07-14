@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ryazan.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ryazan_Oblast\CityRyazan.public.md) 
+### [Ryazan](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Ryazan.md) 
 
-### [Ryazan.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ryazan_Oblast\CityRyazan.internal.md) 
+### [Ryazan.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Ryazan.public.md) 
 
-### [Ryazan.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ryazan_Oblast\CityRyazan.protect.md) 
+### [Ryazan.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Ryazan.internal.md) 
 
-### [Ryazan.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ryazan_Oblast\CityRyazan.private.md) 
+### [Ryazan.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Ryazan.protect.md) 
 
-### [Ryazan.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ryazan_Oblast\CityRyazan.personal.md) 
+### [Ryazan.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Ryazan.private.md) 
 
-### [Ryazan.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ryazan_Oblast\CityRyazan.secret.md)
+### [Ryazan.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Ryazan.personal.md) 
+
+### [Ryazan.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Ryazan.secret.md)
 

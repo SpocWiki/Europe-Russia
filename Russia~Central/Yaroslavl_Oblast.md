@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Yaroslavl_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralYaroslavl_Oblast.public.md) 
+### [Yaroslavl_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast.md) 
 
-### [Yaroslavl_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralYaroslavl_Oblast.internal.md) 
+### [Yaroslavl_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast.public.md) 
 
-### [Yaroslavl_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralYaroslavl_Oblast.protect.md) 
+### [Yaroslavl_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast.internal.md) 
 
-### [Yaroslavl_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralYaroslavl_Oblast.private.md) 
+### [Yaroslavl_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast.protect.md) 
 
-### [Yaroslavl_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralYaroslavl_Oblast.personal.md) 
+### [Yaroslavl_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast.private.md) 
 
-### [Yaroslavl_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralYaroslavl_Oblast.secret.md)
+### [Yaroslavl_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast.personal.md) 
+
+### [Yaroslavl_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast.secret.md)
 

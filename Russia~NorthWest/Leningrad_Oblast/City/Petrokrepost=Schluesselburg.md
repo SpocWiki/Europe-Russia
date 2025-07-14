@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Petrokrepost=Schluesselburg.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityPetrokrepost=Schluesselburg.public.md) 
+### [Petrokrepost=Schluesselburg](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Petrokrepost=Schluesselburg.md) 
 
-### [Petrokrepost=Schluesselburg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityPetrokrepost=Schluesselburg.internal.md) 
+### [Petrokrepost=Schluesselburg.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Petrokrepost=Schluesselburg.public.md) 
 
-### [Petrokrepost=Schluesselburg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityPetrokrepost=Schluesselburg.protect.md) 
+### [Petrokrepost=Schluesselburg.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Petrokrepost=Schluesselburg.internal.md) 
 
-### [Petrokrepost=Schluesselburg.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityPetrokrepost=Schluesselburg.private.md) 
+### [Petrokrepost=Schluesselburg.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Petrokrepost=Schluesselburg.protect.md) 
 
-### [Petrokrepost=Schluesselburg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityPetrokrepost=Schluesselburg.personal.md) 
+### [Petrokrepost=Schluesselburg.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Petrokrepost=Schluesselburg.private.md) 
 
-### [Petrokrepost=Schluesselburg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityPetrokrepost=Schluesselburg.secret.md)
+### [Petrokrepost=Schluesselburg.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Petrokrepost=Schluesselburg.personal.md) 
+
+### [Petrokrepost=Schluesselburg.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Petrokrepost=Schluesselburg.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Skopin.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ryazan_Oblast\CitySkopin.public.md) 
+### [Skopin](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Skopin.md) 
 
-### [Skopin.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ryazan_Oblast\CitySkopin.internal.md) 
+### [Skopin.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Skopin.public.md) 
 
-### [Skopin.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ryazan_Oblast\CitySkopin.protect.md) 
+### [Skopin.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Skopin.internal.md) 
 
-### [Skopin.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ryazan_Oblast\CitySkopin.private.md) 
+### [Skopin.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Skopin.protect.md) 
 
-### [Skopin.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ryazan_Oblast\CitySkopin.personal.md) 
+### [Skopin.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Skopin.private.md) 
 
-### [Skopin.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ryazan_Oblast\CitySkopin.secret.md)
+### [Skopin.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Skopin.personal.md) 
+
+### [Skopin.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Skopin.secret.md)
 

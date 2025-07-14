@@ -71,15 +71,17 @@ inception: 1934-12-07T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### [Omsk_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\SiberiaOmsk_Oblast.public.md) 
+### [Omsk_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Omsk_Oblast.md) 
 
-### [Omsk_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaOmsk_Oblast.internal.md) 
+### [Omsk_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Omsk_Oblast.public.md) 
 
-### [Omsk_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\SiberiaOmsk_Oblast.protect.md) 
+### [Omsk_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Omsk_Oblast.internal.md) 
 
-### [Omsk_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\SiberiaOmsk_Oblast.private.md) 
+### [Omsk_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Omsk_Oblast.protect.md) 
 
-### [Omsk_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaOmsk_Oblast.personal.md) 
+### [Omsk_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Omsk_Oblast.private.md) 
 
-### [Omsk_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\SiberiaOmsk_Oblast.secret.md)
+### [Omsk_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Omsk_Oblast.personal.md) 
+
+### [Omsk_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Omsk_Oblast.secret.md)
 

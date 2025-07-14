@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nowocherkassk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityNowocherkassk.public.md) 
+### [Nowocherkassk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Nowocherkassk.md) 
 
-### [Nowocherkassk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityNowocherkassk.internal.md) 
+### [Nowocherkassk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Nowocherkassk.public.md) 
 
-### [Nowocherkassk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityNowocherkassk.protect.md) 
+### [Nowocherkassk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Nowocherkassk.internal.md) 
 
-### [Nowocherkassk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityNowocherkassk.private.md) 
+### [Nowocherkassk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Nowocherkassk.protect.md) 
 
-### [Nowocherkassk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityNowocherkassk.personal.md) 
+### [Nowocherkassk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Nowocherkassk.private.md) 
 
-### [Nowocherkassk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityNowocherkassk.secret.md)
+### [Nowocherkassk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Nowocherkassk.personal.md) 
+
+### [Nowocherkassk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Nowocherkassk.secret.md)
 

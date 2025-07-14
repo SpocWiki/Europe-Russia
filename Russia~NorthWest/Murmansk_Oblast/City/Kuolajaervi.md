@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kuolajaervi.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKuolajaervi.public.md) 
+### [Kuolajaervi](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kuolajaervi.md) 
 
-### [Kuolajaervi.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKuolajaervi.internal.md) 
+### [Kuolajaervi.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kuolajaervi.public.md) 
 
-### [Kuolajaervi.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKuolajaervi.protect.md) 
+### [Kuolajaervi.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kuolajaervi.internal.md) 
 
-### [Kuolajaervi.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKuolajaervi.private.md) 
+### [Kuolajaervi.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kuolajaervi.protect.md) 
 
-### [Kuolajaervi.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKuolajaervi.personal.md) 
+### [Kuolajaervi.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kuolajaervi.private.md) 
 
-### [Kuolajaervi.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKuolajaervi.secret.md)
+### [Kuolajaervi.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kuolajaervi.personal.md) 
+
+### [Kuolajaervi.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kuolajaervi.secret.md)
 

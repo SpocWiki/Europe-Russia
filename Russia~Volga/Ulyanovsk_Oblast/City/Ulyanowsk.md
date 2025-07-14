@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ulyanowsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Ulyanovsk_Oblast\CityUlyanowsk.public.md) 
+### [Ulyanowsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Ulyanowsk.md) 
 
-### [Ulyanowsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Ulyanovsk_Oblast\CityUlyanowsk.internal.md) 
+### [Ulyanowsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Ulyanowsk.public.md) 
 
-### [Ulyanowsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Ulyanovsk_Oblast\CityUlyanowsk.protect.md) 
+### [Ulyanowsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Ulyanowsk.internal.md) 
 
-### [Ulyanowsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Ulyanovsk_Oblast\CityUlyanowsk.private.md) 
+### [Ulyanowsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Ulyanowsk.protect.md) 
 
-### [Ulyanowsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Ulyanovsk_Oblast\CityUlyanowsk.personal.md) 
+### [Ulyanowsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Ulyanowsk.private.md) 
 
-### [Ulyanowsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Ulyanovsk_Oblast\CityUlyanowsk.secret.md)
+### [Ulyanowsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Ulyanowsk.personal.md) 
+
+### [Ulyanowsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Ulyanowsk.secret.md)
 

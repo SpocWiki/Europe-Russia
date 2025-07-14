@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pyatigorsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityPyatigorsk.public.md) 
+### [Pyatigorsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Pyatigorsk.md) 
 
-### [Pyatigorsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityPyatigorsk.internal.md) 
+### [Pyatigorsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Pyatigorsk.public.md) 
 
-### [Pyatigorsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityPyatigorsk.protect.md) 
+### [Pyatigorsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Pyatigorsk.internal.md) 
 
-### [Pyatigorsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityPyatigorsk.private.md) 
+### [Pyatigorsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Pyatigorsk.protect.md) 
 
-### [Pyatigorsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityPyatigorsk.personal.md) 
+### [Pyatigorsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Pyatigorsk.private.md) 
 
-### [Pyatigorsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Stavropol_Krai\CityPyatigorsk.secret.md)
+### [Pyatigorsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Pyatigorsk.personal.md) 
+
+### [Pyatigorsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Pyatigorsk.secret.md)
 

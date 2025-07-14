@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oryol_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralOryol_Oblast.public.md) 
+### [Oryol_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Oryol_Oblast.md) 
 
-### [Oryol_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralOryol_Oblast.internal.md) 
+### [Oryol_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Oryol_Oblast.public.md) 
 
-### [Oryol_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralOryol_Oblast.protect.md) 
+### [Oryol_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Oryol_Oblast.internal.md) 
 
-### [Oryol_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralOryol_Oblast.private.md) 
+### [Oryol_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Oryol_Oblast.protect.md) 
 
-### [Oryol_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralOryol_Oblast.personal.md) 
+### [Oryol_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Oryol_Oblast.private.md) 
 
-### [Oryol_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralOryol_Oblast.secret.md)
+### [Oryol_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Oryol_Oblast.personal.md) 
+
+### [Oryol_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Oryol_Oblast.secret.md)
 

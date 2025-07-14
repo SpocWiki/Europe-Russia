@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gross-Schilleningken.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityGross-Schilleningken.public.md) 
+### [Gross-Schilleningken](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Gross-Schilleningken.md) 
 
-### [Gross-Schilleningken.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityGross-Schilleningken.internal.md) 
+### [Gross-Schilleningken.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Gross-Schilleningken.public.md) 
 
-### [Gross-Schilleningken.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityGross-Schilleningken.protect.md) 
+### [Gross-Schilleningken.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Gross-Schilleningken.internal.md) 
 
-### [Gross-Schilleningken.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityGross-Schilleningken.private.md) 
+### [Gross-Schilleningken.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Gross-Schilleningken.protect.md) 
 
-### [Gross-Schilleningken.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityGross-Schilleningken.personal.md) 
+### [Gross-Schilleningken.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Gross-Schilleningken.private.md) 
 
-### [Gross-Schilleningken.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityGross-Schilleningken.secret.md)
+### [Gross-Schilleningken.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Gross-Schilleningken.personal.md) 
+
+### [Gross-Schilleningken.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Gross-Schilleningken.secret.md)
 

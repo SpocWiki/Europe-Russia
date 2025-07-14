@@ -112,19 +112,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Irkutsk%20Oblast) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Irkutsk_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\SiberiaIrkutsk_Oblast.public.md) 
+### [Irkutsk_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Irkutsk_Oblast.md) 
 
-### [Irkutsk_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaIrkutsk_Oblast.internal.md) 
+### [Irkutsk_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Irkutsk_Oblast.public.md) 
 
-### [Irkutsk_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\SiberiaIrkutsk_Oblast.protect.md) 
+### [Irkutsk_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Irkutsk_Oblast.internal.md) 
 
-### [Irkutsk_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\SiberiaIrkutsk_Oblast.private.md) 
+### [Irkutsk_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Irkutsk_Oblast.protect.md) 
 
-### [Irkutsk_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaIrkutsk_Oblast.personal.md) 
+### [Irkutsk_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Irkutsk_Oblast.private.md) 
 
-### [Irkutsk_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\SiberiaIrkutsk_Oblast.secret.md)
+### [Irkutsk_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Irkutsk_Oblast.personal.md) 
+
+### [Irkutsk_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Irkutsk_Oblast.secret.md)
 

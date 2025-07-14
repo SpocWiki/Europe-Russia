@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Taman.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityTaman.public.md) 
+### [Taman](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Taman.md) 
 
-### [Taman.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityTaman.internal.md) 
+### [Taman.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Taman.public.md) 
 
-### [Taman.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityTaman.protect.md) 
+### [Taman.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Taman.internal.md) 
 
-### [Taman.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityTaman.private.md) 
+### [Taman.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Taman.protect.md) 
 
-### [Taman.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityTaman.personal.md) 
+### [Taman.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Taman.private.md) 
 
-### [Taman.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityTaman.secret.md)
+### [Taman.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Taman.personal.md) 
+
+### [Taman.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Taman.secret.md)
 

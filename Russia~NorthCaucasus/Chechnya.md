@@ -42,15 +42,17 @@ markerFolder: ./State~Chechnya/
 
 ## Confidential Links & Embeds: 
 
-### [Chechnya.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusChechnya.public.md) 
+### [Chechnya](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya.md) 
 
-### [Chechnya.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusChechnya.internal.md) 
+### [Chechnya.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya.public.md) 
 
-### [Chechnya.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusChechnya.protect.md) 
+### [Chechnya.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya.internal.md) 
 
-### [Chechnya.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusChechnya.private.md) 
+### [Chechnya.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya.protect.md) 
 
-### [Chechnya.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusChechnya.personal.md) 
+### [Chechnya.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya.private.md) 
 
-### [Chechnya.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusChechnya.secret.md)
+### [Chechnya.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya.personal.md) 
+
+### [Chechnya.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ivanovo.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ivanovo_Oblast\CityIvanovo.public.md) 
+### [Ivanovo](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ivanovo_Oblast/City/Ivanovo.md) 
 
-### [Ivanovo.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ivanovo_Oblast\CityIvanovo.internal.md) 
+### [Ivanovo.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ivanovo_Oblast/City/Ivanovo.public.md) 
 
-### [Ivanovo.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ivanovo_Oblast\CityIvanovo.protect.md) 
+### [Ivanovo.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ivanovo_Oblast/City/Ivanovo.internal.md) 
 
-### [Ivanovo.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ivanovo_Oblast\CityIvanovo.private.md) 
+### [Ivanovo.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ivanovo_Oblast/City/Ivanovo.protect.md) 
 
-### [Ivanovo.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ivanovo_Oblast\CityIvanovo.personal.md) 
+### [Ivanovo.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ivanovo_Oblast/City/Ivanovo.private.md) 
 
-### [Ivanovo.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Ivanovo_Oblast\CityIvanovo.secret.md)
+### [Ivanovo.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ivanovo_Oblast/City/Ivanovo.personal.md) 
+
+### [Ivanovo.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ivanovo_Oblast/City/Ivanovo.secret.md)
 

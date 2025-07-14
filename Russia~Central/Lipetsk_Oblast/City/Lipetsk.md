@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lipetsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Lipetsk_Oblast\CityLipetsk.public.md) 
+### [Lipetsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Lipetsk.md) 
 
-### [Lipetsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Lipetsk_Oblast\CityLipetsk.internal.md) 
+### [Lipetsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Lipetsk.public.md) 
 
-### [Lipetsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Lipetsk_Oblast\CityLipetsk.protect.md) 
+### [Lipetsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Lipetsk.internal.md) 
 
-### [Lipetsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Lipetsk_Oblast\CityLipetsk.private.md) 
+### [Lipetsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Lipetsk.protect.md) 
 
-### [Lipetsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Lipetsk_Oblast\CityLipetsk.personal.md) 
+### [Lipetsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Lipetsk.private.md) 
 
-### [Lipetsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Lipetsk_Oblast\CityLipetsk.secret.md)
+### [Lipetsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Lipetsk.personal.md) 
+
+### [Lipetsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Lipetsk.secret.md)
 

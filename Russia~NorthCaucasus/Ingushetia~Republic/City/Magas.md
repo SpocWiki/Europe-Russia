@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Magas.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Ingushetia~Republic\CityMagas.public.md) 
+### [Magas](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Magas.md) 
 
-### [Magas.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Ingushetia~Republic\CityMagas.internal.md) 
+### [Magas.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Magas.public.md) 
 
-### [Magas.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Ingushetia~Republic\CityMagas.protect.md) 
+### [Magas.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Magas.internal.md) 
 
-### [Magas.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Ingushetia~Republic\CityMagas.private.md) 
+### [Magas.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Magas.protect.md) 
 
-### [Magas.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Ingushetia~Republic\CityMagas.personal.md) 
+### [Magas.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Magas.private.md) 
 
-### [Magas.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Ingushetia~Republic\CityMagas.secret.md)
+### [Magas.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Magas.personal.md) 
+
+### [Magas.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Magas.secret.md)
 

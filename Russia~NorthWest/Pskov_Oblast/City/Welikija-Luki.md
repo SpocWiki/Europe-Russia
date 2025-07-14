@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Welikija-Luki.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Pskov_Oblast\CityWelikija-Luki.public.md) 
+### [Welikija-Luki](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Welikija-Luki.md) 
 
-### [Welikija-Luki.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Pskov_Oblast\CityWelikija-Luki.internal.md) 
+### [Welikija-Luki.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Welikija-Luki.public.md) 
 
-### [Welikija-Luki.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Pskov_Oblast\CityWelikija-Luki.protect.md) 
+### [Welikija-Luki.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Welikija-Luki.internal.md) 
 
-### [Welikija-Luki.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Pskov_Oblast\CityWelikija-Luki.private.md) 
+### [Welikija-Luki.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Welikija-Luki.protect.md) 
 
-### [Welikija-Luki.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Pskov_Oblast\CityWelikija-Luki.personal.md) 
+### [Welikija-Luki.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Welikija-Luki.private.md) 
 
-### [Welikija-Luki.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Pskov_Oblast\CityWelikija-Luki.secret.md)
+### [Welikija-Luki.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Welikija-Luki.personal.md) 
+
+### [Welikija-Luki.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Welikija-Luki.secret.md)
 

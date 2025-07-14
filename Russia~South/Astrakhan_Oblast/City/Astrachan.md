@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Astrachan.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Astrakhan_Oblast\CityAstrachan.public.md) 
+### [Astrachan](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Astrachan.md) 
 
-### [Astrachan.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Astrakhan_Oblast\CityAstrachan.internal.md) 
+### [Astrachan.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Astrachan.public.md) 
 
-### [Astrachan.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Astrakhan_Oblast\CityAstrachan.protect.md) 
+### [Astrachan.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Astrachan.internal.md) 
 
-### [Astrachan.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Astrakhan_Oblast\CityAstrachan.private.md) 
+### [Astrachan.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Astrachan.protect.md) 
 
-### [Astrachan.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Astrakhan_Oblast\CityAstrachan.personal.md) 
+### [Astrachan.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Astrachan.private.md) 
 
-### [Astrachan.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Astrakhan_Oblast\CityAstrachan.secret.md)
+### [Astrachan.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Astrachan.personal.md) 
+
+### [Astrachan.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Astrachan.secret.md)
 

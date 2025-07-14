@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sukhinitchi.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CitySukhinitchi.public.md) 
+### [Sukhinitchi](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Sukhinitchi.md) 
 
-### [Sukhinitchi.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CitySukhinitchi.internal.md) 
+### [Sukhinitchi.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Sukhinitchi.public.md) 
 
-### [Sukhinitchi.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CitySukhinitchi.protect.md) 
+### [Sukhinitchi.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Sukhinitchi.internal.md) 
 
-### [Sukhinitchi.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CitySukhinitchi.private.md) 
+### [Sukhinitchi.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Sukhinitchi.protect.md) 
 
-### [Sukhinitchi.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CitySukhinitchi.personal.md) 
+### [Sukhinitchi.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Sukhinitchi.private.md) 
 
-### [Sukhinitchi.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kaluga_Oblast\CitySukhinitchi.secret.md)
+### [Sukhinitchi.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Sukhinitchi.personal.md) 
+
+### [Sukhinitchi.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Sukhinitchi.secret.md)
 

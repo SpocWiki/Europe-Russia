@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kastona.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kostroma_Oblast\CityKastona.public.md) 
+### [Kastona](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Kastona.md) 
 
-### [Kastona.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kostroma_Oblast\CityKastona.internal.md) 
+### [Kastona.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Kastona.public.md) 
 
-### [Kastona.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kostroma_Oblast\CityKastona.protect.md) 
+### [Kastona.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Kastona.internal.md) 
 
-### [Kastona.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kostroma_Oblast\CityKastona.private.md) 
+### [Kastona.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Kastona.protect.md) 
 
-### [Kastona.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kostroma_Oblast\CityKastona.personal.md) 
+### [Kastona.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Kastona.private.md) 
 
-### [Kastona.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Kostroma_Oblast\CityKastona.secret.md)
+### [Kastona.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Kastona.personal.md) 
+
+### [Kastona.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Kastona.secret.md)
 

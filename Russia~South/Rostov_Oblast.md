@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rostov_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthRostov_Oblast.public.md) 
+### [Rostov_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast.md) 
 
-### [Rostov_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthRostov_Oblast.internal.md) 
+### [Rostov_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast.public.md) 
 
-### [Rostov_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthRostov_Oblast.protect.md) 
+### [Rostov_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast.internal.md) 
 
-### [Rostov_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthRostov_Oblast.private.md) 
+### [Rostov_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast.protect.md) 
 
-### [Rostov_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthRostov_Oblast.personal.md) 
+### [Rostov_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast.private.md) 
 
-### [Rostov_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthRostov_Oblast.secret.md)
+### [Rostov_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast.personal.md) 
+
+### [Rostov_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast.secret.md)
 

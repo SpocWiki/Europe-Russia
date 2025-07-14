@@ -10,19 +10,19 @@ markerFolder: ./Russia~NorthWest/
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Russia~NorthWest.public](/_public/\Earth\Continent\Europe\Europe~East\RussiaRussia~NorthWest.public.md) 
+### [Russia~NorthWest](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest.md) 
 
-### [Russia~NorthWest.internal](/_internal/\Earth\Continent\Europe\Europe~East\RussiaRussia~NorthWest.internal.md) 
+### [Russia~NorthWest.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest.public.md) 
 
-### [Russia~NorthWest.protect](/_protect/\Earth\Continent\Europe\Europe~East\RussiaRussia~NorthWest.protect.md) 
+### [Russia~NorthWest.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest.internal.md) 
 
-### [Russia~NorthWest.private](/_private/\Earth\Continent\Europe\Europe~East\RussiaRussia~NorthWest.private.md) 
+### [Russia~NorthWest.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest.protect.md) 
 
-### [Russia~NorthWest.personal](/_personal/\Earth\Continent\Europe\Europe~East\RussiaRussia~NorthWest.personal.md) 
+### [Russia~NorthWest.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest.private.md) 
 
-### [Russia~NorthWest.secret](/_secret/\Earth\Continent\Europe\Europe~East\RussiaRussia~NorthWest.secret.md)
+### [Russia~NorthWest.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest.personal.md) 
+
+### [Russia~NorthWest.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest.secret.md)
 

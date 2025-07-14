@@ -26,23 +26,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Sergei%20Skripal)
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Skripal,Sergei.public](/_public/\Earth\Continent\Europe\Europe~East\RussiaSkripal,Sergei.public.md) 
+### [Skripal,Sergei](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Skripal,Sergei.md) 
 
-### [Skripal,Sergei.internal](/_internal/\Earth\Continent\Europe\Europe~East\RussiaSkripal,Sergei.internal.md) 
+### [Skripal,Sergei.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Skripal,Sergei.public.md) 
 
-### [Skripal,Sergei.protect](/_protect/\Earth\Continent\Europe\Europe~East\RussiaSkripal,Sergei.protect.md) 
+### [Skripal,Sergei.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Skripal,Sergei.internal.md) 
 
-### [Skripal,Sergei.private](/_private/\Earth\Continent\Europe\Europe~East\RussiaSkripal,Sergei.private.md) 
+### [Skripal,Sergei.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Skripal,Sergei.protect.md) 
 
-### [Skripal,Sergei.personal](/_personal/\Earth\Continent\Europe\Europe~East\RussiaSkripal,Sergei.personal.md) 
+### [Skripal,Sergei.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Skripal,Sergei.private.md) 
 
-### [Skripal,Sergei.secret](/_secret/\Earth\Continent\Europe\Europe~East\RussiaSkripal,Sergei.secret.md)
+### [Skripal,Sergei.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Skripal,Sergei.personal.md) 
+
+### [Skripal,Sergei.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Skripal,Sergei.secret.md)
 

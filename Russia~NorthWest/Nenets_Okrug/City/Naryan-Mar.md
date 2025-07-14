@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Naryan-Mar.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Nenets_Okrug\CityNaryan-Mar.public.md) 
+### [Naryan-Mar](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug/City/Naryan-Mar.md) 
 
-### [Naryan-Mar.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Nenets_Okrug\CityNaryan-Mar.internal.md) 
+### [Naryan-Mar.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug/City/Naryan-Mar.public.md) 
 
-### [Naryan-Mar.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Nenets_Okrug\CityNaryan-Mar.protect.md) 
+### [Naryan-Mar.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug/City/Naryan-Mar.internal.md) 
 
-### [Naryan-Mar.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Nenets_Okrug\CityNaryan-Mar.private.md) 
+### [Naryan-Mar.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug/City/Naryan-Mar.protect.md) 
 
-### [Naryan-Mar.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Nenets_Okrug\CityNaryan-Mar.personal.md) 
+### [Naryan-Mar.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug/City/Naryan-Mar.private.md) 
 
-### [Naryan-Mar.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Nenets_Okrug\CityNaryan-Mar.secret.md)
+### [Naryan-Mar.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug/City/Naryan-Mar.personal.md) 
+
+### [Naryan-Mar.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug/City/Naryan-Mar.secret.md)
 

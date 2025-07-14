@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Heinrichswalde.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityHeinrichswalde.public.md) 
+### [Heinrichswalde](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Heinrichswalde.md) 
 
-### [Heinrichswalde.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityHeinrichswalde.internal.md) 
+### [Heinrichswalde.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Heinrichswalde.public.md) 
 
-### [Heinrichswalde.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityHeinrichswalde.protect.md) 
+### [Heinrichswalde.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Heinrichswalde.internal.md) 
 
-### [Heinrichswalde.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityHeinrichswalde.private.md) 
+### [Heinrichswalde.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Heinrichswalde.protect.md) 
 
-### [Heinrichswalde.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityHeinrichswalde.personal.md) 
+### [Heinrichswalde.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Heinrichswalde.private.md) 
 
-### [Heinrichswalde.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityHeinrichswalde.secret.md)
+### [Heinrichswalde.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Heinrichswalde.personal.md) 
+
+### [Heinrichswalde.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Heinrichswalde.secret.md)
 

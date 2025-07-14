@@ -424,15 +424,17 @@ markerFolder: ./City~St._Petersburg/
 
 ## Confidential Links & Embeds: 
 
-### [St.Petersburg,City.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestSt.Petersburg,City.public.md) 
+### [St.Petersburg,City](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City.md) 
 
-### [St.Petersburg,City.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestSt.Petersburg,City.internal.md) 
+### [St.Petersburg,City.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City.public.md) 
 
-### [St.Petersburg,City.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestSt.Petersburg,City.protect.md) 
+### [St.Petersburg,City.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City.internal.md) 
 
-### [St.Petersburg,City.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestSt.Petersburg,City.private.md) 
+### [St.Petersburg,City.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City.protect.md) 
 
-### [St.Petersburg,City.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestSt.Petersburg,City.personal.md) 
+### [St.Petersburg,City.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City.private.md) 
 
-### [St.Petersburg,City.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestSt.Petersburg,City.secret.md)
+### [St.Petersburg,City.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City.personal.md) 
+
+### [St.Petersburg,City.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City.secret.md)
 

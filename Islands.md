@@ -41,15 +41,17 @@ markerFolder: ./Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Islands.public](/_public/\Earth\Continent\Europe\Europe~East\RussiaIslands.public.md) 
+### [Islands](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Islands.md) 
 
-### [Islands.internal](/_internal/\Earth\Continent\Europe\Europe~East\RussiaIslands.internal.md) 
+### [Islands.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Islands.public.md) 
 
-### [Islands.protect](/_protect/\Earth\Continent\Europe\Europe~East\RussiaIslands.protect.md) 
+### [Islands.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Islands.internal.md) 
 
-### [Islands.private](/_private/\Earth\Continent\Europe\Europe~East\RussiaIslands.private.md) 
+### [Islands.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Islands.protect.md) 
 
-### [Islands.personal](/_personal/\Earth\Continent\Europe\Europe~East\RussiaIslands.personal.md) 
+### [Islands.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Islands.private.md) 
 
-### [Islands.secret](/_secret/\Earth\Continent\Europe\Europe~East\RussiaIslands.secret.md)
+### [Islands.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Islands.personal.md) 
+
+### [Islands.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Islands.secret.md)
 

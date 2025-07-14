@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ober-Eisseln.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityOber-Eisseln.public.md) 
+### [Ober-Eisseln](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Ober-Eisseln.md) 
 
-### [Ober-Eisseln.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityOber-Eisseln.internal.md) 
+### [Ober-Eisseln.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Ober-Eisseln.public.md) 
 
-### [Ober-Eisseln.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityOber-Eisseln.protect.md) 
+### [Ober-Eisseln.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Ober-Eisseln.internal.md) 
 
-### [Ober-Eisseln.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityOber-Eisseln.private.md) 
+### [Ober-Eisseln.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Ober-Eisseln.protect.md) 
 
-### [Ober-Eisseln.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityOber-Eisseln.personal.md) 
+### [Ober-Eisseln.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Ober-Eisseln.private.md) 
 
-### [Ober-Eisseln.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Kaliningrad~Oblast\CityOber-Eisseln.secret.md)
+### [Ober-Eisseln.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Ober-Eisseln.personal.md) 
+
+### [Ober-Eisseln.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Ober-Eisseln.secret.md)
 

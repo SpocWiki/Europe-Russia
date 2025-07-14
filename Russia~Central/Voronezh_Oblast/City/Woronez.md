@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Woronez.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Voronezh_Oblast\CityWoronez.public.md) 
+### [Woronez](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Voronezh_Oblast/City/Woronez.md) 
 
-### [Woronez.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Voronezh_Oblast\CityWoronez.internal.md) 
+### [Woronez.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Voronezh_Oblast/City/Woronez.public.md) 
 
-### [Woronez.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Voronezh_Oblast\CityWoronez.protect.md) 
+### [Woronez.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Voronezh_Oblast/City/Woronez.internal.md) 
 
-### [Woronez.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Voronezh_Oblast\CityWoronez.private.md) 
+### [Woronez.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Voronezh_Oblast/City/Woronez.protect.md) 
 
-### [Woronez.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Voronezh_Oblast\CityWoronez.personal.md) 
+### [Woronez.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Voronezh_Oblast/City/Woronez.private.md) 
 
-### [Woronez.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Voronezh_Oblast\CityWoronez.secret.md)
+### [Woronez.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Voronezh_Oblast/City/Woronez.personal.md) 
+
+### [Woronez.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Voronezh_Oblast/City/Woronez.secret.md)
 

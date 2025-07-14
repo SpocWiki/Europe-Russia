@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tambow.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Penza_Oblast\CityTambow.public.md) 
+### [Tambow](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Tambow.md) 
 
-### [Tambow.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Penza_Oblast\CityTambow.internal.md) 
+### [Tambow.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Tambow.public.md) 
 
-### [Tambow.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Penza_Oblast\CityTambow.protect.md) 
+### [Tambow.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Tambow.internal.md) 
 
-### [Tambow.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Penza_Oblast\CityTambow.private.md) 
+### [Tambow.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Tambow.protect.md) 
 
-### [Tambow.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Penza_Oblast\CityTambow.personal.md) 
+### [Tambow.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Tambow.private.md) 
 
-### [Tambow.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Penza_Oblast\CityTambow.secret.md)
+### [Tambow.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Tambow.personal.md) 
+
+### [Tambow.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Tambow.secret.md)
 

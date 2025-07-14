@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cherkessk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Karachay-Cherkess\CityCherkessk.public.md) 
+### [Cherkessk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess/City/Cherkessk.md) 
 
-### [Cherkessk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Karachay-Cherkess\CityCherkessk.internal.md) 
+### [Cherkessk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess/City/Cherkessk.public.md) 
 
-### [Cherkessk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Karachay-Cherkess\CityCherkessk.protect.md) 
+### [Cherkessk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess/City/Cherkessk.internal.md) 
 
-### [Cherkessk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Karachay-Cherkess\CityCherkessk.private.md) 
+### [Cherkessk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess/City/Cherkessk.protect.md) 
 
-### [Cherkessk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Karachay-Cherkess\CityCherkessk.personal.md) 
+### [Cherkessk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess/City/Cherkessk.private.md) 
 
-### [Cherkessk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Karachay-Cherkess\CityCherkessk.secret.md)
+### [Cherkessk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess/City/Cherkessk.personal.md) 
+
+### [Cherkessk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess/City/Cherkessk.secret.md)
 

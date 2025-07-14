@@ -83,18 +83,19 @@ aliases:
 > 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Magadan_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\SiberiaMagadan_Oblast.public.md) 
+### [Magadan_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Magadan_Oblast.md) 
 
-### [Magadan_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaMagadan_Oblast.internal.md) 
+### [Magadan_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Magadan_Oblast.public.md) 
 
-### [Magadan_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\SiberiaMagadan_Oblast.protect.md) 
+### [Magadan_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Magadan_Oblast.internal.md) 
 
-### [Magadan_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\SiberiaMagadan_Oblast.private.md) 
+### [Magadan_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Magadan_Oblast.protect.md) 
 
-### [Magadan_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaMagadan_Oblast.personal.md) 
+### [Magadan_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Magadan_Oblast.private.md) 
 
-### [Magadan_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\SiberiaMagadan_Oblast.secret.md)
+### [Magadan_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Magadan_Oblast.personal.md) 
+
+### [Magadan_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Magadan_Oblast.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vessiégousk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityVessiégousk.public.md) 
+### [Vessiégousk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Vessiégousk.md) 
 
-### [Vessiégousk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityVessiégousk.internal.md) 
+### [Vessiégousk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Vessiégousk.public.md) 
 
-### [Vessiégousk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityVessiégousk.protect.md) 
+### [Vessiégousk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Vessiégousk.internal.md) 
 
-### [Vessiégousk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityVessiégousk.private.md) 
+### [Vessiégousk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Vessiégousk.protect.md) 
 
-### [Vessiégousk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityVessiégousk.personal.md) 
+### [Vessiégousk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Vessiégousk.private.md) 
 
-### [Vessiégousk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityVessiégousk.secret.md)
+### [Vessiégousk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Vessiégousk.personal.md) 
+
+### [Vessiégousk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Vessiégousk.secret.md)
 

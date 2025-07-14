@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tamhof.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tambov_Oblast\CityTamhof.public.md) 
+### [Tamhof](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tambov_Oblast/City/Tamhof.md) 
 
-### [Tamhof.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tambov_Oblast\CityTamhof.internal.md) 
+### [Tamhof.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tambov_Oblast/City/Tamhof.public.md) 
 
-### [Tamhof.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tambov_Oblast\CityTamhof.protect.md) 
+### [Tamhof.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tambov_Oblast/City/Tamhof.internal.md) 
 
-### [Tamhof.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tambov_Oblast\CityTamhof.private.md) 
+### [Tamhof.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tambov_Oblast/City/Tamhof.protect.md) 
 
-### [Tamhof.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tambov_Oblast\CityTamhof.personal.md) 
+### [Tamhof.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tambov_Oblast/City/Tamhof.private.md) 
 
-### [Tamhof.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tambov_Oblast\CityTamhof.secret.md)
+### [Tamhof.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tambov_Oblast/City/Tamhof.personal.md) 
+
+### [Tamhof.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tambov_Oblast/City/Tamhof.secret.md)
 

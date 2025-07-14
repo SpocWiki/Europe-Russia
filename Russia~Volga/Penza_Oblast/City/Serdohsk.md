@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Serdohsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Penza_Oblast\CitySerdohsk.public.md) 
+### [Serdohsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Serdohsk.md) 
 
-### [Serdohsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Penza_Oblast\CitySerdohsk.internal.md) 
+### [Serdohsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Serdohsk.public.md) 
 
-### [Serdohsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Penza_Oblast\CitySerdohsk.protect.md) 
+### [Serdohsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Serdohsk.internal.md) 
 
-### [Serdohsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Penza_Oblast\CitySerdohsk.private.md) 
+### [Serdohsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Serdohsk.protect.md) 
 
-### [Serdohsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Penza_Oblast\CitySerdohsk.personal.md) 
+### [Serdohsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Serdohsk.private.md) 
 
-### [Serdohsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Penza_Oblast\CitySerdohsk.secret.md)
+### [Serdohsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Serdohsk.personal.md) 
+
+### [Serdohsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Serdohsk.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Khibinogorsk=Kirovsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKhibinogorsk=Kirovsk.public.md) 
+### [Khibinogorsk=Kirovsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Khibinogorsk=Kirovsk.md) 
 
-### [Khibinogorsk=Kirovsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKhibinogorsk=Kirovsk.internal.md) 
+### [Khibinogorsk=Kirovsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Khibinogorsk=Kirovsk.public.md) 
 
-### [Khibinogorsk=Kirovsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKhibinogorsk=Kirovsk.protect.md) 
+### [Khibinogorsk=Kirovsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Khibinogorsk=Kirovsk.internal.md) 
 
-### [Khibinogorsk=Kirovsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKhibinogorsk=Kirovsk.private.md) 
+### [Khibinogorsk=Kirovsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Khibinogorsk=Kirovsk.protect.md) 
 
-### [Khibinogorsk=Kirovsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKhibinogorsk=Kirovsk.personal.md) 
+### [Khibinogorsk=Kirovsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Khibinogorsk=Kirovsk.private.md) 
 
-### [Khibinogorsk=Kirovsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Murmansk_Oblast\CityKhibinogorsk=Kirovsk.secret.md)
+### [Khibinogorsk=Kirovsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Khibinogorsk=Kirovsk.personal.md) 
+
+### [Khibinogorsk=Kirovsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Khibinogorsk=Kirovsk.secret.md)
 

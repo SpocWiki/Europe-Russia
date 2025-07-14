@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Adygea~Republic.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthAdygea~Republic.public.md) 
+### [Adygea~Republic](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic.md) 
 
-### [Adygea~Republic.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthAdygea~Republic.internal.md) 
+### [Adygea~Republic.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic.public.md) 
 
-### [Adygea~Republic.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthAdygea~Republic.protect.md) 
+### [Adygea~Republic.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic.internal.md) 
 
-### [Adygea~Republic.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthAdygea~Republic.private.md) 
+### [Adygea~Republic.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic.protect.md) 
 
-### [Adygea~Republic.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthAdygea~Republic.personal.md) 
+### [Adygea~Republic.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic.private.md) 
 
-### [Adygea~Republic.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthAdygea~Republic.secret.md)
+### [Adygea~Republic.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic.personal.md) 
+
+### [Adygea~Republic.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic.secret.md)
 

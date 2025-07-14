@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Syzzan.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Samara_Oblast\CitySyzzan.public.md) 
+### [Syzzan](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Syzzan.md) 
 
-### [Syzzan.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Samara_Oblast\CitySyzzan.internal.md) 
+### [Syzzan.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Syzzan.public.md) 
 
-### [Syzzan.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Samara_Oblast\CitySyzzan.protect.md) 
+### [Syzzan.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Syzzan.internal.md) 
 
-### [Syzzan.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Samara_Oblast\CitySyzzan.private.md) 
+### [Syzzan.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Syzzan.protect.md) 
 
-### [Syzzan.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Samara_Oblast\CitySyzzan.personal.md) 
+### [Syzzan.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Syzzan.private.md) 
 
-### [Syzzan.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Samara_Oblast\CitySyzzan.secret.md)
+### [Syzzan.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Syzzan.personal.md) 
+
+### [Syzzan.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Syzzan.secret.md)
 

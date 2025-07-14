@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vladikavkaz.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\North_Ossetia-Alania~Republic\CityVladikavkaz.public.md) 
+### [Vladikavkaz](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Vladikavkaz.md) 
 
-### [Vladikavkaz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\North_Ossetia-Alania~Republic\CityVladikavkaz.internal.md) 
+### [Vladikavkaz.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Vladikavkaz.public.md) 
 
-### [Vladikavkaz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\North_Ossetia-Alania~Republic\CityVladikavkaz.protect.md) 
+### [Vladikavkaz.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Vladikavkaz.internal.md) 
 
-### [Vladikavkaz.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\North_Ossetia-Alania~Republic\CityVladikavkaz.private.md) 
+### [Vladikavkaz.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Vladikavkaz.protect.md) 
 
-### [Vladikavkaz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\North_Ossetia-Alania~Republic\CityVladikavkaz.personal.md) 
+### [Vladikavkaz.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Vladikavkaz.private.md) 
 
-### [Vladikavkaz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\North_Ossetia-Alania~Republic\CityVladikavkaz.secret.md)
+### [Vladikavkaz.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Vladikavkaz.personal.md) 
+
+### [Vladikavkaz.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Vladikavkaz.secret.md)
 

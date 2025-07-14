@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Orsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CityOrsk.public.md) 
+### [Orsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Orsk.md) 
 
-### [Orsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CityOrsk.internal.md) 
+### [Orsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Orsk.public.md) 
 
-### [Orsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CityOrsk.protect.md) 
+### [Orsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Orsk.internal.md) 
 
-### [Orsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CityOrsk.private.md) 
+### [Orsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Orsk.protect.md) 
 
-### [Orsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CityOrsk.personal.md) 
+### [Orsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Orsk.private.md) 
 
-### [Orsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CityOrsk.secret.md)
+### [Orsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Orsk.personal.md) 
+
+### [Orsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Orsk.secret.md)
 

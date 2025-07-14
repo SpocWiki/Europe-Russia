@@ -429,15 +429,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Moskwa.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityMoskwa.public.md) 
+### [Moskwa](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moskwa.md) 
 
-### [Moskwa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityMoskwa.internal.md) 
+### [Moskwa.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moskwa.public.md) 
 
-### [Moskwa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityMoskwa.protect.md) 
+### [Moskwa.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moskwa.internal.md) 
 
-### [Moskwa.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityMoskwa.private.md) 
+### [Moskwa.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moskwa.protect.md) 
 
-### [Moskwa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityMoskwa.personal.md) 
+### [Moskwa.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moskwa.private.md) 
 
-### [Moskwa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityMoskwa.secret.md)
+### [Moskwa.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moskwa.personal.md) 
+
+### [Moskwa.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moskwa.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dariel.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Ingushetia~Republic\CityDariel.public.md) 
+### [Dariel](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Dariel.md) 
 
-### [Dariel.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Ingushetia~Republic\CityDariel.internal.md) 
+### [Dariel.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Dariel.public.md) 
 
-### [Dariel.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Ingushetia~Republic\CityDariel.protect.md) 
+### [Dariel.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Dariel.internal.md) 
 
-### [Dariel.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Ingushetia~Republic\CityDariel.private.md) 
+### [Dariel.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Dariel.protect.md) 
 
-### [Dariel.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Ingushetia~Republic\CityDariel.personal.md) 
+### [Dariel.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Dariel.private.md) 
 
-### [Dariel.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Ingushetia~Republic\CityDariel.secret.md)
+### [Dariel.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Dariel.personal.md) 
+
+### [Dariel.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Dariel.secret.md)
 

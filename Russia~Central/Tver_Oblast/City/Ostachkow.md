@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ostachkow.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityOstachkow.public.md) 
+### [Ostachkow](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Ostachkow.md) 
 
-### [Ostachkow.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityOstachkow.internal.md) 
+### [Ostachkow.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Ostachkow.public.md) 
 
-### [Ostachkow.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityOstachkow.protect.md) 
+### [Ostachkow.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Ostachkow.internal.md) 
 
-### [Ostachkow.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityOstachkow.private.md) 
+### [Ostachkow.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Ostachkow.protect.md) 
 
-### [Ostachkow.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityOstachkow.personal.md) 
+### [Ostachkow.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Ostachkow.private.md) 
 
-### [Ostachkow.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityOstachkow.secret.md)
+### [Ostachkow.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Ostachkow.personal.md) 
+
+### [Ostachkow.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Ostachkow.secret.md)
 

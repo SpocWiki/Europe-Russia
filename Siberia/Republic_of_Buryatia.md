@@ -78,19 +78,19 @@ native label:
 > [Wikipedia](https://en.wikipedia.org/wiki/Buryatia) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Republic_of_Buryatia.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\SiberiaRepublic_of_Buryatia.public.md) 
+### [Republic_of_Buryatia](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Buryatia.md) 
 
-### [Republic_of_Buryatia.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaRepublic_of_Buryatia.internal.md) 
+### [Republic_of_Buryatia.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Buryatia.public.md) 
 
-### [Republic_of_Buryatia.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\SiberiaRepublic_of_Buryatia.protect.md) 
+### [Republic_of_Buryatia.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Buryatia.internal.md) 
 
-### [Republic_of_Buryatia.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\SiberiaRepublic_of_Buryatia.private.md) 
+### [Republic_of_Buryatia.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Buryatia.protect.md) 
 
-### [Republic_of_Buryatia.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaRepublic_of_Buryatia.personal.md) 
+### [Republic_of_Buryatia.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Buryatia.private.md) 
 
-### [Republic_of_Buryatia.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\SiberiaRepublic_of_Buryatia.secret.md)
+### [Republic_of_Buryatia.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Buryatia.personal.md) 
+
+### [Republic_of_Buryatia.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Buryatia.secret.md)
 

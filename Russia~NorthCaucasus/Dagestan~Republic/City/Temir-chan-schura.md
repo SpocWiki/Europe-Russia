@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Temir-chan-schura.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~Republic\CityTemir-chan-schura.public.md) 
+### [Temir-chan-schura](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Temir-chan-schura.md) 
 
-### [Temir-chan-schura.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~Republic\CityTemir-chan-schura.internal.md) 
+### [Temir-chan-schura.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Temir-chan-schura.public.md) 
 
-### [Temir-chan-schura.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~Republic\CityTemir-chan-schura.protect.md) 
+### [Temir-chan-schura.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Temir-chan-schura.internal.md) 
 
-### [Temir-chan-schura.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~Republic\CityTemir-chan-schura.private.md) 
+### [Temir-chan-schura.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Temir-chan-schura.protect.md) 
 
-### [Temir-chan-schura.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~Republic\CityTemir-chan-schura.personal.md) 
+### [Temir-chan-schura.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Temir-chan-schura.private.md) 
 
-### [Temir-chan-schura.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~Republic\CityTemir-chan-schura.secret.md)
+### [Temir-chan-schura.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Temir-chan-schura.personal.md) 
+
+### [Temir-chan-schura.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Temir-chan-schura.secret.md)
 

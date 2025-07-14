@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Penza_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaPenza_Oblast.public.md) 
+### [Penza_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast.md) 
 
-### [Penza_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaPenza_Oblast.internal.md) 
+### [Penza_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast.public.md) 
 
-### [Penza_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaPenza_Oblast.protect.md) 
+### [Penza_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast.internal.md) 
 
-### [Penza_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaPenza_Oblast.private.md) 
+### [Penza_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast.protect.md) 
 
-### [Penza_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaPenza_Oblast.personal.md) 
+### [Penza_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast.private.md) 
 
-### [Penza_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaPenza_Oblast.secret.md)
+### [Penza_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast.personal.md) 
+
+### [Penza_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast.secret.md)
 

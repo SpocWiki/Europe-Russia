@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mikoyan.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Smolensk_Oblast\CityMikoyan.public.md) 
+### [Mikoyan](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Smolensk_Oblast/City/Mikoyan.md) 
 
-### [Mikoyan.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Smolensk_Oblast\CityMikoyan.internal.md) 
+### [Mikoyan.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Smolensk_Oblast/City/Mikoyan.public.md) 
 
-### [Mikoyan.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Smolensk_Oblast\CityMikoyan.protect.md) 
+### [Mikoyan.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Smolensk_Oblast/City/Mikoyan.internal.md) 
 
-### [Mikoyan.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Smolensk_Oblast\CityMikoyan.private.md) 
+### [Mikoyan.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Smolensk_Oblast/City/Mikoyan.protect.md) 
 
-### [Mikoyan.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Smolensk_Oblast\CityMikoyan.personal.md) 
+### [Mikoyan.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Smolensk_Oblast/City/Mikoyan.private.md) 
 
-### [Mikoyan.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Smolensk_Oblast\CityMikoyan.secret.md)
+### [Mikoyan.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Smolensk_Oblast/City/Mikoyan.personal.md) 
+
+### [Mikoyan.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Smolensk_Oblast/City/Mikoyan.secret.md)
 

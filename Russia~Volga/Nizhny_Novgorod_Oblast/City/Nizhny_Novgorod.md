@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nizhny_Novgorod.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityNizhny_Novgorod.public.md) 
+### [Nizhny_Novgorod](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Nizhny_Novgorod.md) 
 
-### [Nizhny_Novgorod.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityNizhny_Novgorod.internal.md) 
+### [Nizhny_Novgorod.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Nizhny_Novgorod.public.md) 
 
-### [Nizhny_Novgorod.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityNizhny_Novgorod.protect.md) 
+### [Nizhny_Novgorod.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Nizhny_Novgorod.internal.md) 
 
-### [Nizhny_Novgorod.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityNizhny_Novgorod.private.md) 
+### [Nizhny_Novgorod.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Nizhny_Novgorod.protect.md) 
 
-### [Nizhny_Novgorod.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityNizhny_Novgorod.personal.md) 
+### [Nizhny_Novgorod.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Nizhny_Novgorod.private.md) 
 
-### [Nizhny_Novgorod.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Nizhny_Novgorod_Oblast\CityNizhny_Novgorod.secret.md)
+### [Nizhny_Novgorod.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Nizhny_Novgorod.personal.md) 
+
+### [Nizhny_Novgorod.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Nizhny_Novgorod.secret.md)
 

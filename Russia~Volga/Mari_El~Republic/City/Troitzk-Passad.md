@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Troitzk-Passad.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityTroitzk-Passad.public.md) 
+### [Troitzk-Passad](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Troitzk-Passad.md) 
 
-### [Troitzk-Passad.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityTroitzk-Passad.internal.md) 
+### [Troitzk-Passad.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Troitzk-Passad.public.md) 
 
-### [Troitzk-Passad.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityTroitzk-Passad.protect.md) 
+### [Troitzk-Passad.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Troitzk-Passad.internal.md) 
 
-### [Troitzk-Passad.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityTroitzk-Passad.private.md) 
+### [Troitzk-Passad.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Troitzk-Passad.protect.md) 
 
-### [Troitzk-Passad.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityTroitzk-Passad.personal.md) 
+### [Troitzk-Passad.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Troitzk-Passad.private.md) 
 
-### [Troitzk-Passad.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityTroitzk-Passad.secret.md)
+### [Troitzk-Passad.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Troitzk-Passad.personal.md) 
+
+### [Troitzk-Passad.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Troitzk-Passad.secret.md)
 

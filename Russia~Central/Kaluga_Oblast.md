@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kaluga_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralKaluga_Oblast.public.md) 
+### [Kaluga_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast.md) 
 
-### [Kaluga_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralKaluga_Oblast.internal.md) 
+### [Kaluga_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast.public.md) 
 
-### [Kaluga_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralKaluga_Oblast.protect.md) 
+### [Kaluga_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast.internal.md) 
 
-### [Kaluga_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralKaluga_Oblast.private.md) 
+### [Kaluga_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast.protect.md) 
 
-### [Kaluga_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralKaluga_Oblast.personal.md) 
+### [Kaluga_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast.private.md) 
 
-### [Kaluga_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralKaluga_Oblast.secret.md)
+### [Kaluga_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast.personal.md) 
+
+### [Kaluga_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Spassk~Wjaetka.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Tatarstan~Republic\CitySpassk~Wjaetka.public.md) 
+### [Spassk~Wjaetka](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic/City/Spassk~Wjaetka.md) 
 
-### [Spassk~Wjaetka.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Tatarstan~Republic\CitySpassk~Wjaetka.internal.md) 
+### [Spassk~Wjaetka.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic/City/Spassk~Wjaetka.public.md) 
 
-### [Spassk~Wjaetka.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Tatarstan~Republic\CitySpassk~Wjaetka.protect.md) 
+### [Spassk~Wjaetka.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic/City/Spassk~Wjaetka.internal.md) 
 
-### [Spassk~Wjaetka.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Tatarstan~Republic\CitySpassk~Wjaetka.private.md) 
+### [Spassk~Wjaetka.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic/City/Spassk~Wjaetka.protect.md) 
 
-### [Spassk~Wjaetka.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Tatarstan~Republic\CitySpassk~Wjaetka.personal.md) 
+### [Spassk~Wjaetka.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic/City/Spassk~Wjaetka.private.md) 
 
-### [Spassk~Wjaetka.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Tatarstan~Republic\CitySpassk~Wjaetka.secret.md)
+### [Spassk~Wjaetka.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic/City/Spassk~Wjaetka.personal.md) 
+
+### [Spassk~Wjaetka.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic/City/Spassk~Wjaetka.secret.md)
 

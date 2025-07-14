@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grozny.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Chechnya\CityGrozny.public.md) 
+### [Grozny](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya/City/Grozny.md) 
 
-### [Grozny.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Chechnya\CityGrozny.internal.md) 
+### [Grozny.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya/City/Grozny.public.md) 
 
-### [Grozny.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Chechnya\CityGrozny.protect.md) 
+### [Grozny.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya/City/Grozny.internal.md) 
 
-### [Grozny.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Chechnya\CityGrozny.private.md) 
+### [Grozny.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya/City/Grozny.protect.md) 
 
-### [Grozny.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Chechnya\CityGrozny.personal.md) 
+### [Grozny.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya/City/Grozny.private.md) 
 
-### [Grozny.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Chechnya\CityGrozny.secret.md)
+### [Grozny.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya/City/Grozny.personal.md) 
+
+### [Grozny.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya/City/Grozny.secret.md)
 

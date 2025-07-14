@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kalmykia~Republic.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthKalmykia~Republic.public.md) 
+### [Kalmykia~Republic](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Kalmykia~Republic.md) 
 
-### [Kalmykia~Republic.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthKalmykia~Republic.internal.md) 
+### [Kalmykia~Republic.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Kalmykia~Republic.public.md) 
 
-### [Kalmykia~Republic.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthKalmykia~Republic.protect.md) 
+### [Kalmykia~Republic.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Kalmykia~Republic.internal.md) 
 
-### [Kalmykia~Republic.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthKalmykia~Republic.private.md) 
+### [Kalmykia~Republic.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Kalmykia~Republic.protect.md) 
 
-### [Kalmykia~Republic.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthKalmykia~Republic.personal.md) 
+### [Kalmykia~Republic.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Kalmykia~Republic.private.md) 
 
-### [Kalmykia~Republic.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthKalmykia~Republic.secret.md)
+### [Kalmykia~Republic.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Kalmykia~Republic.personal.md) 
+
+### [Kalmykia~Republic.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Kalmykia~Republic.secret.md)
 

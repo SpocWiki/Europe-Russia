@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Starodoub.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Bryansk_Oblast\CityStarodoub.public.md) 
+### [Starodoub](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Starodoub.md) 
 
-### [Starodoub.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Bryansk_Oblast\CityStarodoub.internal.md) 
+### [Starodoub.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Starodoub.public.md) 
 
-### [Starodoub.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Bryansk_Oblast\CityStarodoub.protect.md) 
+### [Starodoub.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Starodoub.internal.md) 
 
-### [Starodoub.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Bryansk_Oblast\CityStarodoub.private.md) 
+### [Starodoub.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Starodoub.protect.md) 
 
-### [Starodoub.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Bryansk_Oblast\CityStarodoub.personal.md) 
+### [Starodoub.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Starodoub.private.md) 
 
-### [Starodoub.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Bryansk_Oblast\CityStarodoub.secret.md)
+### [Starodoub.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Starodoub.personal.md) 
+
+### [Starodoub.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Starodoub.secret.md)
 

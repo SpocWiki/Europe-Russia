@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Karachay-Cherkess.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusKarachay-Cherkess.public.md) 
+### [Karachay-Cherkess](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess.md) 
 
-### [Karachay-Cherkess.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusKarachay-Cherkess.internal.md) 
+### [Karachay-Cherkess.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess.public.md) 
 
-### [Karachay-Cherkess.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusKarachay-Cherkess.protect.md) 
+### [Karachay-Cherkess.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess.internal.md) 
 
-### [Karachay-Cherkess.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusKarachay-Cherkess.private.md) 
+### [Karachay-Cherkess.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess.protect.md) 
 
-### [Karachay-Cherkess.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusKarachay-Cherkess.personal.md) 
+### [Karachay-Cherkess.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess.private.md) 
 
-### [Karachay-Cherkess.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusKarachay-Cherkess.secret.md)
+### [Karachay-Cherkess.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess.personal.md) 
+
+### [Karachay-Cherkess.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess.secret.md)
 

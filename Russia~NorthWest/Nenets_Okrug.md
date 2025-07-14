@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nenets_Okrug.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestNenets_Okrug.public.md) 
+### [Nenets_Okrug](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug.md) 
 
-### [Nenets_Okrug.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestNenets_Okrug.internal.md) 
+### [Nenets_Okrug.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug.public.md) 
 
-### [Nenets_Okrug.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestNenets_Okrug.protect.md) 
+### [Nenets_Okrug.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug.internal.md) 
 
-### [Nenets_Okrug.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestNenets_Okrug.private.md) 
+### [Nenets_Okrug.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug.protect.md) 
 
-### [Nenets_Okrug.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestNenets_Okrug.personal.md) 
+### [Nenets_Okrug.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug.private.md) 
 
-### [Nenets_Okrug.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestNenets_Okrug.secret.md)
+### [Nenets_Okrug.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug.personal.md) 
+
+### [Nenets_Okrug.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug.secret.md)
 

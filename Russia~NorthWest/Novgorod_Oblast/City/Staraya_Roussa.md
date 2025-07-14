@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Staraya_Roussa.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Novgorod_Oblast\CityStaraya_Roussa.public.md) 
+### [Staraya_Roussa](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Staraya_Roussa.md) 
 
-### [Staraya_Roussa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Novgorod_Oblast\CityStaraya_Roussa.internal.md) 
+### [Staraya_Roussa.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Staraya_Roussa.public.md) 
 
-### [Staraya_Roussa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Novgorod_Oblast\CityStaraya_Roussa.protect.md) 
+### [Staraya_Roussa.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Staraya_Roussa.internal.md) 
 
-### [Staraya_Roussa.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Novgorod_Oblast\CityStaraya_Roussa.private.md) 
+### [Staraya_Roussa.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Staraya_Roussa.protect.md) 
 
-### [Staraya_Roussa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Novgorod_Oblast\CityStaraya_Roussa.personal.md) 
+### [Staraya_Roussa.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Staraya_Roussa.private.md) 
 
-### [Staraya_Roussa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Novgorod_Oblast\CityStaraya_Roussa.secret.md)
+### [Staraya_Roussa.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Staraya_Roussa.personal.md) 
+
+### [Staraya_Roussa.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Staraya_Roussa.secret.md)
 

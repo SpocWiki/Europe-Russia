@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Belgorod_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralBelgorod_Oblast.public.md) 
+### [Belgorod_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast.md) 
 
-### [Belgorod_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralBelgorod_Oblast.internal.md) 
+### [Belgorod_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast.public.md) 
 
-### [Belgorod_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralBelgorod_Oblast.protect.md) 
+### [Belgorod_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast.internal.md) 
 
-### [Belgorod_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralBelgorod_Oblast.private.md) 
+### [Belgorod_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast.protect.md) 
 
-### [Belgorod_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralBelgorod_Oblast.personal.md) 
+### [Belgorod_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast.private.md) 
 
-### [Belgorod_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralBelgorod_Oblast.secret.md)
+### [Belgorod_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast.personal.md) 
+
+### [Belgorod_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Waluiki.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Belgorod_Oblast\CityWaluiki.public.md) 
+### [Waluiki](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast/City/Waluiki.md) 
 
-### [Waluiki.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Belgorod_Oblast\CityWaluiki.internal.md) 
+### [Waluiki.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast/City/Waluiki.public.md) 
 
-### [Waluiki.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Belgorod_Oblast\CityWaluiki.protect.md) 
+### [Waluiki.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast/City/Waluiki.internal.md) 
 
-### [Waluiki.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Belgorod_Oblast\CityWaluiki.private.md) 
+### [Waluiki.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast/City/Waluiki.protect.md) 
 
-### [Waluiki.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Belgorod_Oblast\CityWaluiki.personal.md) 
+### [Waluiki.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast/City/Waluiki.private.md) 
 
-### [Waluiki.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Belgorod_Oblast\CityWaluiki.secret.md)
+### [Waluiki.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast/City/Waluiki.personal.md) 
+
+### [Waluiki.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast/City/Waluiki.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Island~Tiulenij.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~RepublicIsland~Tiulenij.public.md) 
+### [Island~Tiulenij](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/Island~Tiulenij.md) 
 
-### [Island~Tiulenij.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~RepublicIsland~Tiulenij.internal.md) 
+### [Island~Tiulenij.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/Island~Tiulenij.public.md) 
 
-### [Island~Tiulenij.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~RepublicIsland~Tiulenij.protect.md) 
+### [Island~Tiulenij.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/Island~Tiulenij.internal.md) 
 
-### [Island~Tiulenij.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~RepublicIsland~Tiulenij.private.md) 
+### [Island~Tiulenij.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/Island~Tiulenij.protect.md) 
 
-### [Island~Tiulenij.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~RepublicIsland~Tiulenij.personal.md) 
+### [Island~Tiulenij.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/Island~Tiulenij.private.md) 
 
-### [Island~Tiulenij.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Dagestan~RepublicIsland~Tiulenij.secret.md)
+### [Island~Tiulenij.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/Island~Tiulenij.personal.md) 
+
+### [Island~Tiulenij.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/Island~Tiulenij.secret.md)
 

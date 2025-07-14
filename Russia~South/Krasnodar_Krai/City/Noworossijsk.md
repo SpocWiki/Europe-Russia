@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Noworossijsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityNoworossijsk.public.md) 
+### [Noworossijsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Noworossijsk.md) 
 
-### [Noworossijsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityNoworossijsk.internal.md) 
+### [Noworossijsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Noworossijsk.public.md) 
 
-### [Noworossijsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityNoworossijsk.protect.md) 
+### [Noworossijsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Noworossijsk.internal.md) 
 
-### [Noworossijsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityNoworossijsk.private.md) 
+### [Noworossijsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Noworossijsk.protect.md) 
 
-### [Noworossijsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityNoworossijsk.personal.md) 
+### [Noworossijsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Noworossijsk.private.md) 
 
-### [Noworossijsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityNoworossijsk.secret.md)
+### [Noworossijsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Noworossijsk.personal.md) 
+
+### [Noworossijsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Noworossijsk.secret.md)
 

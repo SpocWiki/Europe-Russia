@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kabardino-Balkar~Republic.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusKabardino-Balkar~Republic.public.md) 
+### [Kabardino-Balkar~Republic](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Kabardino-Balkar~Republic.md) 
 
-### [Kabardino-Balkar~Republic.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusKabardino-Balkar~Republic.internal.md) 
+### [Kabardino-Balkar~Republic.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Kabardino-Balkar~Republic.public.md) 
 
-### [Kabardino-Balkar~Republic.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusKabardino-Balkar~Republic.protect.md) 
+### [Kabardino-Balkar~Republic.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Kabardino-Balkar~Republic.internal.md) 
 
-### [Kabardino-Balkar~Republic.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusKabardino-Balkar~Republic.private.md) 
+### [Kabardino-Balkar~Republic.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Kabardino-Balkar~Republic.protect.md) 
 
-### [Kabardino-Balkar~Republic.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusKabardino-Balkar~Republic.personal.md) 
+### [Kabardino-Balkar~Republic.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Kabardino-Balkar~Republic.private.md) 
 
-### [Kabardino-Balkar~Republic.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusKabardino-Balkar~Republic.secret.md)
+### [Kabardino-Balkar~Republic.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Kabardino-Balkar~Republic.personal.md) 
+
+### [Kabardino-Balkar~Republic.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Kabardino-Balkar~Republic.secret.md)
 

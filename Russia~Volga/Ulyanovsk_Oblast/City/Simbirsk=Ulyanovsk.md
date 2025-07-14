@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Simbirsk=Ulyanovsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Ulyanovsk_Oblast\CitySimbirsk=Ulyanovsk.public.md) 
+### [Simbirsk=Ulyanovsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Simbirsk=Ulyanovsk.md) 
 
-### [Simbirsk=Ulyanovsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Ulyanovsk_Oblast\CitySimbirsk=Ulyanovsk.internal.md) 
+### [Simbirsk=Ulyanovsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Simbirsk=Ulyanovsk.public.md) 
 
-### [Simbirsk=Ulyanovsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Ulyanovsk_Oblast\CitySimbirsk=Ulyanovsk.protect.md) 
+### [Simbirsk=Ulyanovsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Simbirsk=Ulyanovsk.internal.md) 
 
-### [Simbirsk=Ulyanovsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Ulyanovsk_Oblast\CitySimbirsk=Ulyanovsk.private.md) 
+### [Simbirsk=Ulyanovsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Simbirsk=Ulyanovsk.protect.md) 
 
-### [Simbirsk=Ulyanovsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Ulyanovsk_Oblast\CitySimbirsk=Ulyanovsk.personal.md) 
+### [Simbirsk=Ulyanovsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Simbirsk=Ulyanovsk.private.md) 
 
-### [Simbirsk=Ulyanovsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Ulyanovsk_Oblast\CitySimbirsk=Ulyanovsk.secret.md)
+### [Simbirsk=Ulyanovsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Simbirsk=Ulyanovsk.personal.md) 
+
+### [Simbirsk=Ulyanovsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Simbirsk=Ulyanovsk.secret.md)
 

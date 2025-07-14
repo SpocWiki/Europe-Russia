@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tver_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralTver_Oblast.public.md) 
+### [Tver_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast.md) 
 
-### [Tver_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralTver_Oblast.internal.md) 
+### [Tver_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast.public.md) 
 
-### [Tver_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralTver_Oblast.protect.md) 
+### [Tver_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast.internal.md) 
 
-### [Tver_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralTver_Oblast.private.md) 
+### [Tver_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast.protect.md) 
 
-### [Tver_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralTver_Oblast.personal.md) 
+### [Tver_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast.private.md) 
 
-### [Tver_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralTver_Oblast.secret.md)
+### [Tver_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast.personal.md) 
+
+### [Tver_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast.secret.md)
 

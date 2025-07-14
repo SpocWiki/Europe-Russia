@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Viaznicki.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Vladimir_Oblast\CityViaznicki.public.md) 
+### [Viaznicki](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Viaznicki.md) 
 
-### [Viaznicki.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Vladimir_Oblast\CityViaznicki.internal.md) 
+### [Viaznicki.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Viaznicki.public.md) 
 
-### [Viaznicki.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Vladimir_Oblast\CityViaznicki.protect.md) 
+### [Viaznicki.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Viaznicki.internal.md) 
 
-### [Viaznicki.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Vladimir_Oblast\CityViaznicki.private.md) 
+### [Viaznicki.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Viaznicki.protect.md) 
 
-### [Viaznicki.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Vladimir_Oblast\CityViaznicki.personal.md) 
+### [Viaznicki.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Viaznicki.private.md) 
 
-### [Viaznicki.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Vladimir_Oblast\CityViaznicki.secret.md)
+### [Viaznicki.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Viaznicki.personal.md) 
+
+### [Viaznicki.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Viaznicki.secret.md)
 

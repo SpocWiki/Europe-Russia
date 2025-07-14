@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nizhny_Novgorod_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaNizhny_Novgorod_Oblast.public.md) 
+### [Nizhny_Novgorod_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast.md) 
 
-### [Nizhny_Novgorod_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaNizhny_Novgorod_Oblast.internal.md) 
+### [Nizhny_Novgorod_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast.public.md) 
 
-### [Nizhny_Novgorod_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaNizhny_Novgorod_Oblast.protect.md) 
+### [Nizhny_Novgorod_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast.internal.md) 
 
-### [Nizhny_Novgorod_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaNizhny_Novgorod_Oblast.private.md) 
+### [Nizhny_Novgorod_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast.protect.md) 
 
-### [Nizhny_Novgorod_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaNizhny_Novgorod_Oblast.personal.md) 
+### [Nizhny_Novgorod_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast.private.md) 
 
-### [Nizhny_Novgorod_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~VolgaNizhny_Novgorod_Oblast.secret.md)
+### [Nizhny_Novgorod_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast.personal.md) 
+
+### [Nizhny_Novgorod_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Petrosawodsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityPetrosawodsk.public.md) 
+### [Petrosawodsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Petrosawodsk.md) 
 
-### [Petrosawodsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityPetrosawodsk.internal.md) 
+### [Petrosawodsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Petrosawodsk.public.md) 
 
-### [Petrosawodsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityPetrosawodsk.protect.md) 
+### [Petrosawodsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Petrosawodsk.internal.md) 
 
-### [Petrosawodsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityPetrosawodsk.private.md) 
+### [Petrosawodsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Petrosawodsk.protect.md) 
 
-### [Petrosawodsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityPetrosawodsk.personal.md) 
+### [Petrosawodsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Petrosawodsk.private.md) 
 
-### [Petrosawodsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityPetrosawodsk.secret.md)
+### [Petrosawodsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Petrosawodsk.personal.md) 
+
+### [Petrosawodsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Petrosawodsk.secret.md)
 

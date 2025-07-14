@@ -70,19 +70,19 @@ coordinate location: Point(82.133333333 58.75)
 > [Wikipedia](https://en.wikipedia.org/wiki/Tomsk%20Oblast) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Tomsk_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\SiberiaTomsk_Oblast.public.md) 
+### [Tomsk_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tomsk_Oblast.md) 
 
-### [Tomsk_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaTomsk_Oblast.internal.md) 
+### [Tomsk_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tomsk_Oblast.public.md) 
 
-### [Tomsk_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\SiberiaTomsk_Oblast.protect.md) 
+### [Tomsk_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tomsk_Oblast.internal.md) 
 
-### [Tomsk_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\SiberiaTomsk_Oblast.private.md) 
+### [Tomsk_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tomsk_Oblast.protect.md) 
 
-### [Tomsk_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaTomsk_Oblast.personal.md) 
+### [Tomsk_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tomsk_Oblast.private.md) 
 
-### [Tomsk_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\SiberiaTomsk_Oblast.secret.md)
+### [Tomsk_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tomsk_Oblast.personal.md) 
+
+### [Tomsk_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tomsk_Oblast.secret.md)
 

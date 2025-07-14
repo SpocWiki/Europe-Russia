@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Soroka=Belomorsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySoroka=Belomorsk.public.md) 
+### [Soroka=Belomorsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Soroka=Belomorsk.md) 
 
-### [Soroka=Belomorsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySoroka=Belomorsk.internal.md) 
+### [Soroka=Belomorsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Soroka=Belomorsk.public.md) 
 
-### [Soroka=Belomorsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySoroka=Belomorsk.protect.md) 
+### [Soroka=Belomorsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Soroka=Belomorsk.internal.md) 
 
-### [Soroka=Belomorsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySoroka=Belomorsk.private.md) 
+### [Soroka=Belomorsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Soroka=Belomorsk.protect.md) 
 
-### [Soroka=Belomorsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySoroka=Belomorsk.personal.md) 
+### [Soroka=Belomorsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Soroka=Belomorsk.private.md) 
 
-### [Soroka=Belomorsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CitySoroka=Belomorsk.secret.md)
+### [Soroka=Belomorsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Soroka=Belomorsk.personal.md) 
+
+### [Soroka=Belomorsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Soroka=Belomorsk.secret.md)
 

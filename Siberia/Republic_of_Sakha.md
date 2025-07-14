@@ -96,19 +96,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Sakha%20Republic) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Republic_of_Sakha.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\SiberiaRepublic_of_Sakha.public.md) 
+### [Republic_of_Sakha](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Sakha.md) 
 
-### [Republic_of_Sakha.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaRepublic_of_Sakha.internal.md) 
+### [Republic_of_Sakha.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Sakha.public.md) 
 
-### [Republic_of_Sakha.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\SiberiaRepublic_of_Sakha.protect.md) 
+### [Republic_of_Sakha.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Sakha.internal.md) 
 
-### [Republic_of_Sakha.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\SiberiaRepublic_of_Sakha.private.md) 
+### [Republic_of_Sakha.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Sakha.protect.md) 
 
-### [Republic_of_Sakha.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaRepublic_of_Sakha.personal.md) 
+### [Republic_of_Sakha.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Sakha.private.md) 
 
-### [Republic_of_Sakha.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\SiberiaRepublic_of_Sakha.secret.md)
+### [Republic_of_Sakha.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Sakha.personal.md) 
+
+### [Republic_of_Sakha.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Sakha.secret.md)
 

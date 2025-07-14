@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Astrakhan_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthAstrakhan_Oblast.public.md) 
+### [Astrakhan_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast.md) 
 
-### [Astrakhan_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthAstrakhan_Oblast.internal.md) 
+### [Astrakhan_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast.public.md) 
 
-### [Astrakhan_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthAstrakhan_Oblast.protect.md) 
+### [Astrakhan_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast.internal.md) 
 
-### [Astrakhan_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthAstrakhan_Oblast.private.md) 
+### [Astrakhan_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast.protect.md) 
 
-### [Astrakhan_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthAstrakhan_Oblast.personal.md) 
+### [Astrakhan_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast.private.md) 
 
-### [Astrakhan_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthAstrakhan_Oblast.secret.md)
+### [Astrakhan_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast.personal.md) 
+
+### [Astrakhan_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast.secret.md)
 

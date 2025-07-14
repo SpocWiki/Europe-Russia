@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Komi~Republic.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestKomi~Republic.public.md) 
+### [Komi~Republic](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic.md) 
 
-### [Komi~Republic.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestKomi~Republic.internal.md) 
+### [Komi~Republic.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic.public.md) 
 
-### [Komi~Republic.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestKomi~Republic.protect.md) 
+### [Komi~Republic.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic.internal.md) 
 
-### [Komi~Republic.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestKomi~Republic.private.md) 
+### [Komi~Republic.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic.protect.md) 
 
-### [Komi~Republic.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestKomi~Republic.personal.md) 
+### [Komi~Republic.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic.private.md) 
 
-### [Komi~Republic.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestKomi~Republic.secret.md)
+### [Komi~Republic.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic.personal.md) 
+
+### [Komi~Republic.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic.secret.md)
 

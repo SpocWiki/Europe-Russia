@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tschern.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityTschern.public.md) 
+### [Tschern](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Tschern.md) 
 
-### [Tschern.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityTschern.internal.md) 
+### [Tschern.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Tschern.public.md) 
 
-### [Tschern.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityTschern.protect.md) 
+### [Tschern.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Tschern.internal.md) 
 
-### [Tschern.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityTschern.private.md) 
+### [Tschern.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Tschern.protect.md) 
 
-### [Tschern.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityTschern.personal.md) 
+### [Tschern.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Tschern.private.md) 
 
-### [Tschern.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityTschern.secret.md)
+### [Tschern.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Tschern.personal.md) 
+
+### [Tschern.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Tschern.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dzaudjikau.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\North_Ossetia-Alania~Republic\CityDzaudjikau.public.md) 
+### [Dzaudjikau](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Dzaudjikau.md) 
 
-### [Dzaudjikau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\North_Ossetia-Alania~Republic\CityDzaudjikau.internal.md) 
+### [Dzaudjikau.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Dzaudjikau.public.md) 
 
-### [Dzaudjikau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\North_Ossetia-Alania~Republic\CityDzaudjikau.protect.md) 
+### [Dzaudjikau.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Dzaudjikau.internal.md) 
 
-### [Dzaudjikau.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\North_Ossetia-Alania~Republic\CityDzaudjikau.private.md) 
+### [Dzaudjikau.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Dzaudjikau.protect.md) 
 
-### [Dzaudjikau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\North_Ossetia-Alania~Republic\CityDzaudjikau.personal.md) 
+### [Dzaudjikau.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Dzaudjikau.private.md) 
 
-### [Dzaudjikau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\North_Ossetia-Alania~Republic\CityDzaudjikau.secret.md)
+### [Dzaudjikau.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Dzaudjikau.personal.md) 
+
+### [Dzaudjikau.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Dzaudjikau.secret.md)
 

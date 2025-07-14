@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tschérépovetz.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityTschérépovetz.public.md) 
+### [Tschérépovetz](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Tschérépovetz.md) 
 
-### [Tschérépovetz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityTschérépovetz.internal.md) 
+### [Tschérépovetz.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Tschérépovetz.public.md) 
 
-### [Tschérépovetz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityTschérépovetz.protect.md) 
+### [Tschérépovetz.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Tschérépovetz.internal.md) 
 
-### [Tschérépovetz.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityTschérépovetz.private.md) 
+### [Tschérépovetz.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Tschérépovetz.protect.md) 
 
-### [Tschérépovetz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityTschérépovetz.personal.md) 
+### [Tschérépovetz.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Tschérépovetz.private.md) 
 
-### [Tschérépovetz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Vologda_Oblast\CityTschérépovetz.secret.md)
+### [Tschérépovetz.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Tschérépovetz.personal.md) 
+
+### [Tschérépovetz.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Tschérépovetz.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Twer=Kalinin.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityTwer=Kalinin.public.md) 
+### [Twer=Kalinin](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Twer=Kalinin.md) 
 
-### [Twer=Kalinin.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityTwer=Kalinin.internal.md) 
+### [Twer=Kalinin.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Twer=Kalinin.public.md) 
 
-### [Twer=Kalinin.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityTwer=Kalinin.protect.md) 
+### [Twer=Kalinin.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Twer=Kalinin.internal.md) 
 
-### [Twer=Kalinin.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityTwer=Kalinin.private.md) 
+### [Twer=Kalinin.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Twer=Kalinin.protect.md) 
 
-### [Twer=Kalinin.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityTwer=Kalinin.personal.md) 
+### [Twer=Kalinin.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Twer=Kalinin.private.md) 
 
-### [Twer=Kalinin.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tver_Oblast\CityTwer=Kalinin.secret.md)
+### [Twer=Kalinin.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Twer=Kalinin.personal.md) 
+
+### [Twer=Kalinin.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Twer=Kalinin.secret.md)
 

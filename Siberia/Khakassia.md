@@ -17,19 +17,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Khakassia) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Khakassia.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKhakassia.public.md) 
+### [Khakassia](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khakassia.md) 
 
-### [Khakassia.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKhakassia.internal.md) 
+### [Khakassia.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khakassia.public.md) 
 
-### [Khakassia.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKhakassia.protect.md) 
+### [Khakassia.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khakassia.internal.md) 
 
-### [Khakassia.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKhakassia.private.md) 
+### [Khakassia.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khakassia.protect.md) 
 
-### [Khakassia.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKhakassia.personal.md) 
+### [Khakassia.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khakassia.private.md) 
 
-### [Khakassia.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKhakassia.secret.md)
+### [Khakassia.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khakassia.personal.md) 
+
+### [Khakassia.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khakassia.secret.md)
 

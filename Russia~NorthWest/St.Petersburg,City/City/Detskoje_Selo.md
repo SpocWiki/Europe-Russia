@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Detskoje_Selo.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityDetskoje_Selo.public.md) 
+### [Detskoje_Selo](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Detskoje_Selo.md) 
 
-### [Detskoje_Selo.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityDetskoje_Selo.internal.md) 
+### [Detskoje_Selo.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Detskoje_Selo.public.md) 
 
-### [Detskoje_Selo.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityDetskoje_Selo.protect.md) 
+### [Detskoje_Selo.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Detskoje_Selo.internal.md) 
 
-### [Detskoje_Selo.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityDetskoje_Selo.private.md) 
+### [Detskoje_Selo.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Detskoje_Selo.protect.md) 
 
-### [Detskoje_Selo.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityDetskoje_Selo.personal.md) 
+### [Detskoje_Selo.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Detskoje_Selo.private.md) 
 
-### [Detskoje_Selo.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\St.Petersburg,City\CityDetskoje_Selo.secret.md)
+### [Detskoje_Selo.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Detskoje_Selo.personal.md) 
+
+### [Detskoje_Selo.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Detskoje_Selo.secret.md)
 

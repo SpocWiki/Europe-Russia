@@ -32,19 +32,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Khabarovsk%20Krai) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Khabarovsk_Krai.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKhabarovsk_Krai.public.md) 
+### [Khabarovsk_Krai](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khabarovsk_Krai.md) 
 
-### [Khabarovsk_Krai.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKhabarovsk_Krai.internal.md) 
+### [Khabarovsk_Krai.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khabarovsk_Krai.public.md) 
 
-### [Khabarovsk_Krai.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKhabarovsk_Krai.protect.md) 
+### [Khabarovsk_Krai.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khabarovsk_Krai.internal.md) 
 
-### [Khabarovsk_Krai.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKhabarovsk_Krai.private.md) 
+### [Khabarovsk_Krai.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khabarovsk_Krai.protect.md) 
 
-### [Khabarovsk_Krai.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKhabarovsk_Krai.personal.md) 
+### [Khabarovsk_Krai.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khabarovsk_Krai.private.md) 
 
-### [Khabarovsk_Krai.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\SiberiaKhabarovsk_Krai.secret.md)
+### [Khabarovsk_Krai.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khabarovsk_Krai.personal.md) 
+
+### [Khabarovsk_Krai.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khabarovsk_Krai.secret.md)
 

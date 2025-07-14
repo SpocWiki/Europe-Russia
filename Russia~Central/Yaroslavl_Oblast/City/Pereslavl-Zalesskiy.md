@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pereslavl-Zalesskiy.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Yaroslavl_Oblast\CityPereslavl-Zalesskiy.public.md) 
+### [Pereslavl-Zalesskiy](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Pereslavl-Zalesskiy.md) 
 
-### [Pereslavl-Zalesskiy.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Yaroslavl_Oblast\CityPereslavl-Zalesskiy.internal.md) 
+### [Pereslavl-Zalesskiy.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Pereslavl-Zalesskiy.public.md) 
 
-### [Pereslavl-Zalesskiy.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Yaroslavl_Oblast\CityPereslavl-Zalesskiy.protect.md) 
+### [Pereslavl-Zalesskiy.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Pereslavl-Zalesskiy.internal.md) 
 
-### [Pereslavl-Zalesskiy.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Yaroslavl_Oblast\CityPereslavl-Zalesskiy.private.md) 
+### [Pereslavl-Zalesskiy.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Pereslavl-Zalesskiy.protect.md) 
 
-### [Pereslavl-Zalesskiy.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Yaroslavl_Oblast\CityPereslavl-Zalesskiy.personal.md) 
+### [Pereslavl-Zalesskiy.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Pereslavl-Zalesskiy.private.md) 
 
-### [Pereslavl-Zalesskiy.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Yaroslavl_Oblast\CityPereslavl-Zalesskiy.secret.md)
+### [Pereslavl-Zalesskiy.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Pereslavl-Zalesskiy.personal.md) 
+
+### [Pereslavl-Zalesskiy.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Pereslavl-Zalesskiy.secret.md)
 

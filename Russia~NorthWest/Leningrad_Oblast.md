@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Leningrad_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestLeningrad_Oblast.public.md) 
+### [Leningrad_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast.md) 
 
-### [Leningrad_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestLeningrad_Oblast.internal.md) 
+### [Leningrad_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast.public.md) 
 
-### [Leningrad_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestLeningrad_Oblast.protect.md) 
+### [Leningrad_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast.internal.md) 
 
-### [Leningrad_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestLeningrad_Oblast.private.md) 
+### [Leningrad_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast.protect.md) 
 
-### [Leningrad_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestLeningrad_Oblast.personal.md) 
+### [Leningrad_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast.private.md) 
 
-### [Leningrad_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestLeningrad_Oblast.secret.md)
+### [Leningrad_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast.personal.md) 
+
+### [Leningrad_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast.secret.md)
 

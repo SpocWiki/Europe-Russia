@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Solnytschégodsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CitySolnytschégodsk.public.md) 
+### [Solnytschégodsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Solnytschégodsk.md) 
 
-### [Solnytschégodsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CitySolnytschégodsk.internal.md) 
+### [Solnytschégodsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Solnytschégodsk.public.md) 
 
-### [Solnytschégodsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CitySolnytschégodsk.protect.md) 
+### [Solnytschégodsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Solnytschégodsk.internal.md) 
 
-### [Solnytschégodsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CitySolnytschégodsk.private.md) 
+### [Solnytschégodsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Solnytschégodsk.protect.md) 
 
-### [Solnytschégodsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CitySolnytschégodsk.personal.md) 
+### [Solnytschégodsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Solnytschégodsk.private.md) 
 
-### [Solnytschégodsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CitySolnytschégodsk.secret.md)
+### [Solnytschégodsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Solnytschégodsk.personal.md) 
+
+### [Solnytschégodsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Solnytschégodsk.secret.md)
 

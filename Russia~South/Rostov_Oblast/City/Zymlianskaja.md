@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zymlianskaja.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityZymlianskaja.public.md) 
+### [Zymlianskaja](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Zymlianskaja.md) 
 
-### [Zymlianskaja.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityZymlianskaja.internal.md) 
+### [Zymlianskaja.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Zymlianskaja.public.md) 
 
-### [Zymlianskaja.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityZymlianskaja.protect.md) 
+### [Zymlianskaja.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Zymlianskaja.internal.md) 
 
-### [Zymlianskaja.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityZymlianskaja.private.md) 
+### [Zymlianskaja.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Zymlianskaja.protect.md) 
 
-### [Zymlianskaja.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityZymlianskaja.personal.md) 
+### [Zymlianskaja.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Zymlianskaja.private.md) 
 
-### [Zymlianskaja.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityZymlianskaja.secret.md)
+### [Zymlianskaja.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Zymlianskaja.personal.md) 
+
+### [Zymlianskaja.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Zymlianskaja.secret.md)
 

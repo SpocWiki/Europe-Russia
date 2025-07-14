@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Syklyvkar=List_Sysolske.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Komi~Republic\CitySyklyvkar=List_Sysolske.public.md) 
+### [Syklyvkar=List_Sysolske](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syklyvkar=List_Sysolske.md) 
 
-### [Syklyvkar=List_Sysolske.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Komi~Republic\CitySyklyvkar=List_Sysolske.internal.md) 
+### [Syklyvkar=List_Sysolske.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syklyvkar=List_Sysolske.public.md) 
 
-### [Syklyvkar=List_Sysolske.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Komi~Republic\CitySyklyvkar=List_Sysolske.protect.md) 
+### [Syklyvkar=List_Sysolske.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syklyvkar=List_Sysolske.internal.md) 
 
-### [Syklyvkar=List_Sysolske.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Komi~Republic\CitySyklyvkar=List_Sysolske.private.md) 
+### [Syklyvkar=List_Sysolske.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syklyvkar=List_Sysolske.protect.md) 
 
-### [Syklyvkar=List_Sysolske.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Komi~Republic\CitySyklyvkar=List_Sysolske.personal.md) 
+### [Syklyvkar=List_Sysolske.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syklyvkar=List_Sysolske.private.md) 
 
-### [Syklyvkar=List_Sysolske.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Komi~Republic\CitySyklyvkar=List_Sysolske.secret.md)
+### [Syklyvkar=List_Sysolske.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syklyvkar=List_Sysolske.personal.md) 
+
+### [Syklyvkar=List_Sysolske.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syklyvkar=List_Sysolske.secret.md)
 

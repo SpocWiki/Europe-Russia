@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Akkermanovka.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CityAkkermanovka.public.md) 
+### [Akkermanovka](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Akkermanovka.md) 
 
-### [Akkermanovka.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CityAkkermanovka.internal.md) 
+### [Akkermanovka.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Akkermanovka.public.md) 
 
-### [Akkermanovka.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CityAkkermanovka.protect.md) 
+### [Akkermanovka.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Akkermanovka.internal.md) 
 
-### [Akkermanovka.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CityAkkermanovka.private.md) 
+### [Akkermanovka.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Akkermanovka.protect.md) 
 
-### [Akkermanovka.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CityAkkermanovka.personal.md) 
+### [Akkermanovka.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Akkermanovka.private.md) 
 
-### [Akkermanovka.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Orenburg_Oblast\CityAkkermanovka.secret.md)
+### [Akkermanovka.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Akkermanovka.personal.md) 
+
+### [Akkermanovka.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Akkermanovka.secret.md)
 

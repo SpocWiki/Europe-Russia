@@ -229,19 +229,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Volga) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Volga_River.public](/_public/\Earth\Continent\Europe\Europe~East\RussiaVolga_River.public.md) 
+### [Volga_River](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Volga_River.md) 
 
-### [Volga_River.internal](/_internal/\Earth\Continent\Europe\Europe~East\RussiaVolga_River.internal.md) 
+### [Volga_River.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Volga_River.public.md) 
 
-### [Volga_River.protect](/_protect/\Earth\Continent\Europe\Europe~East\RussiaVolga_River.protect.md) 
+### [Volga_River.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Volga_River.internal.md) 
 
-### [Volga_River.private](/_private/\Earth\Continent\Europe\Europe~East\RussiaVolga_River.private.md) 
+### [Volga_River.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Volga_River.protect.md) 
 
-### [Volga_River.personal](/_personal/\Earth\Continent\Europe\Europe~East\RussiaVolga_River.personal.md) 
+### [Volga_River.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Volga_River.private.md) 
 
-### [Volga_River.secret](/_secret/\Earth\Continent\Europe\Europe~East\RussiaVolga_River.secret.md)
+### [Volga_River.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Volga_River.personal.md) 
+
+### [Volga_River.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Volga_River.secret.md)
 

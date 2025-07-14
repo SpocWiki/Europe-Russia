@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Novadoniskaia.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CityNovadoniskaia.public.md) 
+### [Novadoniskaia](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Novadoniskaia.md) 
 
-### [Novadoniskaia.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CityNovadoniskaia.internal.md) 
+### [Novadoniskaia.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Novadoniskaia.public.md) 
 
-### [Novadoniskaia.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CityNovadoniskaia.protect.md) 
+### [Novadoniskaia.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Novadoniskaia.internal.md) 
 
-### [Novadoniskaia.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CityNovadoniskaia.private.md) 
+### [Novadoniskaia.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Novadoniskaia.protect.md) 
 
-### [Novadoniskaia.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CityNovadoniskaia.personal.md) 
+### [Novadoniskaia.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Novadoniskaia.private.md) 
 
-### [Novadoniskaia.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CityNovadoniskaia.secret.md)
+### [Novadoniskaia.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Novadoniskaia.personal.md) 
+
+### [Novadoniskaia.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Novadoniskaia.secret.md)
 

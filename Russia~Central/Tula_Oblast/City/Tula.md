@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tula.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityTula.public.md) 
+### [Tula](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Tula.md) 
 
-### [Tula.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityTula.internal.md) 
+### [Tula.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Tula.public.md) 
 
-### [Tula.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityTula.protect.md) 
+### [Tula.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Tula.internal.md) 
 
-### [Tula.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityTula.private.md) 
+### [Tula.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Tula.protect.md) 
 
-### [Tula.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityTula.personal.md) 
+### [Tula.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Tula.private.md) 
 
-### [Tula.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityTula.secret.md)
+### [Tula.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Tula.personal.md) 
+
+### [Tula.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Tula.secret.md)
 

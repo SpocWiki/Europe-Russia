@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kaekisalmi.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityKaekisalmi.public.md) 
+### [Kaekisalmi](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Kaekisalmi.md) 
 
-### [Kaekisalmi.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityKaekisalmi.internal.md) 
+### [Kaekisalmi.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Kaekisalmi.public.md) 
 
-### [Kaekisalmi.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityKaekisalmi.protect.md) 
+### [Kaekisalmi.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Kaekisalmi.internal.md) 
 
-### [Kaekisalmi.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityKaekisalmi.private.md) 
+### [Kaekisalmi.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Kaekisalmi.protect.md) 
 
-### [Kaekisalmi.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityKaekisalmi.personal.md) 
+### [Kaekisalmi.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Kaekisalmi.private.md) 
 
-### [Kaekisalmi.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Leningrad_Oblast\CityKaekisalmi.secret.md)
+### [Kaekisalmi.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Kaekisalmi.personal.md) 
+
+### [Kaekisalmi.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Kaekisalmi.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zivilsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Chuvash~Republic\CityZivilsk.public.md) 
+### [Zivilsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Zivilsk.md) 
 
-### [Zivilsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Chuvash~Republic\CityZivilsk.internal.md) 
+### [Zivilsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Zivilsk.public.md) 
 
-### [Zivilsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Chuvash~Republic\CityZivilsk.protect.md) 
+### [Zivilsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Zivilsk.internal.md) 
 
-### [Zivilsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Chuvash~Republic\CityZivilsk.private.md) 
+### [Zivilsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Zivilsk.protect.md) 
 
-### [Zivilsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Chuvash~Republic\CityZivilsk.personal.md) 
+### [Zivilsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Zivilsk.private.md) 
 
-### [Zivilsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Chuvash~Republic\CityZivilsk.secret.md)
+### [Zivilsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Zivilsk.personal.md) 
+
+### [Zivilsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Zivilsk.secret.md)
 

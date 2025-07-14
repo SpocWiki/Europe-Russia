@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kostroma_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralKostroma_Oblast.public.md) 
+### [Kostroma_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast.md) 
 
-### [Kostroma_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralKostroma_Oblast.internal.md) 
+### [Kostroma_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast.public.md) 
 
-### [Kostroma_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralKostroma_Oblast.protect.md) 
+### [Kostroma_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast.internal.md) 
 
-### [Kostroma_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralKostroma_Oblast.private.md) 
+### [Kostroma_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast.protect.md) 
 
-### [Kostroma_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralKostroma_Oblast.personal.md) 
+### [Kostroma_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast.private.md) 
 
-### [Kostroma_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~CentralKostroma_Oblast.secret.md)
+### [Kostroma_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast.personal.md) 
+
+### [Kostroma_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast.secret.md)
 

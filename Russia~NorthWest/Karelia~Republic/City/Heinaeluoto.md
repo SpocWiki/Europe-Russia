@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Heinaeluoto.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityHeinaeluoto.public.md) 
+### [Heinaeluoto](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Heinaeluoto.md) 
 
-### [Heinaeluoto.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityHeinaeluoto.internal.md) 
+### [Heinaeluoto.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Heinaeluoto.public.md) 
 
-### [Heinaeluoto.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityHeinaeluoto.protect.md) 
+### [Heinaeluoto.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Heinaeluoto.internal.md) 
 
-### [Heinaeluoto.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityHeinaeluoto.private.md) 
+### [Heinaeluoto.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Heinaeluoto.protect.md) 
 
-### [Heinaeluoto.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityHeinaeluoto.personal.md) 
+### [Heinaeluoto.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Heinaeluoto.private.md) 
 
-### [Heinaeluoto.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Karelia~Republic\CityHeinaeluoto.secret.md)
+### [Heinaeluoto.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Heinaeluoto.personal.md) 
+
+### [Heinaeluoto.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Heinaeluoto.secret.md)
 

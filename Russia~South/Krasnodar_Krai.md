@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Krasnodar_Krai.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthKrasnodar_Krai.public.md) 
+### [Krasnodar_Krai](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai.md) 
 
-### [Krasnodar_Krai.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthKrasnodar_Krai.internal.md) 
+### [Krasnodar_Krai.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai.public.md) 
 
-### [Krasnodar_Krai.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthKrasnodar_Krai.protect.md) 
+### [Krasnodar_Krai.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai.internal.md) 
 
-### [Krasnodar_Krai.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthKrasnodar_Krai.private.md) 
+### [Krasnodar_Krai.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai.protect.md) 
 
-### [Krasnodar_Krai.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthKrasnodar_Krai.personal.md) 
+### [Krasnodar_Krai.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai.private.md) 
 
-### [Krasnodar_Krai.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~SouthKrasnodar_Krai.secret.md)
+### [Krasnodar_Krai.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai.personal.md) 
+
+### [Krasnodar_Krai.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai.secret.md)
 

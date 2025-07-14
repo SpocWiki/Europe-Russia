@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kirov=Jvanov.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Kirov_Oblast\CityKirov=Jvanov.public.md) 
+### [Kirov=Jvanov](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Kirov_Oblast/City/Kirov=Jvanov.md) 
 
-### [Kirov=Jvanov.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Kirov_Oblast\CityKirov=Jvanov.internal.md) 
+### [Kirov=Jvanov.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Kirov_Oblast/City/Kirov=Jvanov.public.md) 
 
-### [Kirov=Jvanov.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Kirov_Oblast\CityKirov=Jvanov.protect.md) 
+### [Kirov=Jvanov.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Kirov_Oblast/City/Kirov=Jvanov.internal.md) 
 
-### [Kirov=Jvanov.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Kirov_Oblast\CityKirov=Jvanov.private.md) 
+### [Kirov=Jvanov.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Kirov_Oblast/City/Kirov=Jvanov.protect.md) 
 
-### [Kirov=Jvanov.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Kirov_Oblast\CityKirov=Jvanov.personal.md) 
+### [Kirov=Jvanov.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Kirov_Oblast/City/Kirov=Jvanov.private.md) 
 
-### [Kirov=Jvanov.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Kirov_Oblast\CityKirov=Jvanov.secret.md)
+### [Kirov=Jvanov.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Kirov_Oblast/City/Kirov=Jvanov.personal.md) 
+
+### [Kirov=Jvanov.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Kirov_Oblast/City/Kirov=Jvanov.secret.md)
 

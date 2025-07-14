@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wolokolamsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityWolokolamsk.public.md) 
+### [Wolokolamsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Wolokolamsk.md) 
 
-### [Wolokolamsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityWolokolamsk.internal.md) 
+### [Wolokolamsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Wolokolamsk.public.md) 
 
-### [Wolokolamsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityWolokolamsk.protect.md) 
+### [Wolokolamsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Wolokolamsk.internal.md) 
 
-### [Wolokolamsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityWolokolamsk.private.md) 
+### [Wolokolamsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Wolokolamsk.protect.md) 
 
-### [Wolokolamsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityWolokolamsk.personal.md) 
+### [Wolokolamsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Wolokolamsk.private.md) 
 
-### [Wolokolamsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityWolokolamsk.secret.md)
+### [Wolokolamsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Wolokolamsk.personal.md) 
+
+### [Wolokolamsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Wolokolamsk.secret.md)
 

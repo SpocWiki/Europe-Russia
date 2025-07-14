@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nowaja-Semlja.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CityNowaja-Semlja.public.md) 
+### [Nowaja-Semlja](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Nowaja-Semlja.md) 
 
-### [Nowaja-Semlja.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CityNowaja-Semlja.internal.md) 
+### [Nowaja-Semlja.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Nowaja-Semlja.public.md) 
 
-### [Nowaja-Semlja.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CityNowaja-Semlja.protect.md) 
+### [Nowaja-Semlja.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Nowaja-Semlja.internal.md) 
 
-### [Nowaja-Semlja.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CityNowaja-Semlja.private.md) 
+### [Nowaja-Semlja.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Nowaja-Semlja.protect.md) 
 
-### [Nowaja-Semlja.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CityNowaja-Semlja.personal.md) 
+### [Nowaja-Semlja.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Nowaja-Semlja.private.md) 
 
-### [Nowaja-Semlja.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Arkhangelsk_Oblast\CityNowaja-Semlja.secret.md)
+### [Nowaja-Semlja.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Nowaja-Semlja.personal.md) 
+
+### [Nowaja-Semlja.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Nowaja-Semlja.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Banki=Krasnogorsk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityBanki=Krasnogorsk.public.md) 
+### [Banki=Krasnogorsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Banki=Krasnogorsk.md) 
 
-### [Banki=Krasnogorsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityBanki=Krasnogorsk.internal.md) 
+### [Banki=Krasnogorsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Banki=Krasnogorsk.public.md) 
 
-### [Banki=Krasnogorsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityBanki=Krasnogorsk.protect.md) 
+### [Banki=Krasnogorsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Banki=Krasnogorsk.internal.md) 
 
-### [Banki=Krasnogorsk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityBanki=Krasnogorsk.private.md) 
+### [Banki=Krasnogorsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Banki=Krasnogorsk.protect.md) 
 
-### [Banki=Krasnogorsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityBanki=Krasnogorsk.personal.md) 
+### [Banki=Krasnogorsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Banki=Krasnogorsk.private.md) 
 
-### [Banki=Krasnogorsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityBanki=Krasnogorsk.secret.md)
+### [Banki=Krasnogorsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Banki=Krasnogorsk.personal.md) 
+
+### [Banki=Krasnogorsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Banki=Krasnogorsk.secret.md)
 

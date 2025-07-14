@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tscherkassk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityTscherkassk.public.md) 
+### [Tscherkassk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Tscherkassk.md) 
 
-### [Tscherkassk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityTscherkassk.internal.md) 
+### [Tscherkassk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Tscherkassk.public.md) 
 
-### [Tscherkassk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityTscherkassk.protect.md) 
+### [Tscherkassk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Tscherkassk.internal.md) 
 
-### [Tscherkassk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityTscherkassk.private.md) 
+### [Tscherkassk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Tscherkassk.protect.md) 
 
-### [Tscherkassk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityTscherkassk.personal.md) 
+### [Tscherkassk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Tscherkassk.private.md) 
 
-### [Tscherkassk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Rostov_Oblast\CityTscherkassk.secret.md)
+### [Tscherkassk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Tscherkassk.personal.md) 
+
+### [Tscherkassk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Tscherkassk.secret.md)
 

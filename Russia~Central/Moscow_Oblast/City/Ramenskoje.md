@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ramenskoje.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityRamenskoje.public.md) 
+### [Ramenskoje](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Ramenskoje.md) 
 
-### [Ramenskoje.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityRamenskoje.internal.md) 
+### [Ramenskoje.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Ramenskoje.public.md) 
 
-### [Ramenskoje.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityRamenskoje.protect.md) 
+### [Ramenskoje.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Ramenskoje.internal.md) 
 
-### [Ramenskoje.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityRamenskoje.private.md) 
+### [Ramenskoje.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Ramenskoje.protect.md) 
 
-### [Ramenskoje.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityRamenskoje.personal.md) 
+### [Ramenskoje.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Ramenskoje.private.md) 
 
-### [Ramenskoje.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Moscow_Oblast\CityRamenskoje.secret.md)
+### [Ramenskoje.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Ramenskoje.personal.md) 
+
+### [Ramenskoje.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Ramenskoje.secret.md)
 

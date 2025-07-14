@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stavropol_Krai.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusStavropol_Krai.public.md) 
+### [Stavropol_Krai](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai.md) 
 
-### [Stavropol_Krai.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusStavropol_Krai.internal.md) 
+### [Stavropol_Krai.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai.public.md) 
 
-### [Stavropol_Krai.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusStavropol_Krai.protect.md) 
+### [Stavropol_Krai.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai.internal.md) 
 
-### [Stavropol_Krai.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusStavropol_Krai.private.md) 
+### [Stavropol_Krai.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai.protect.md) 
 
-### [Stavropol_Krai.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusStavropol_Krai.personal.md) 
+### [Stavropol_Krai.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai.private.md) 
 
-### [Stavropol_Krai.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasusStavropol_Krai.secret.md)
+### [Stavropol_Krai.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai.personal.md) 
+
+### [Stavropol_Krai.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai.secret.md)
 

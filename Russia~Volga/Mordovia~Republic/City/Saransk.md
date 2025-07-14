@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saransk.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mordovia~Republic\CitySaransk.public.md) 
+### [Saransk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Saransk.md) 
 
-### [Saransk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mordovia~Republic\CitySaransk.internal.md) 
+### [Saransk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Saransk.public.md) 
 
-### [Saransk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mordovia~Republic\CitySaransk.protect.md) 
+### [Saransk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Saransk.internal.md) 
 
-### [Saransk.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mordovia~Republic\CitySaransk.private.md) 
+### [Saransk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Saransk.protect.md) 
 
-### [Saransk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mordovia~Republic\CitySaransk.personal.md) 
+### [Saransk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Saransk.private.md) 
 
-### [Saransk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mordovia~Republic\CitySaransk.secret.md)
+### [Saransk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Saransk.personal.md) 
+
+### [Saransk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Saransk.secret.md)
 

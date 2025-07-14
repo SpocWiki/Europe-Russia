@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bobriki=Stalingrad.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityBobriki=Stalingrad.public.md) 
+### [Bobriki=Stalingrad](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Bobriki=Stalingrad.md) 
 
-### [Bobriki=Stalingrad.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityBobriki=Stalingrad.internal.md) 
+### [Bobriki=Stalingrad.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Bobriki=Stalingrad.public.md) 
 
-### [Bobriki=Stalingrad.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityBobriki=Stalingrad.protect.md) 
+### [Bobriki=Stalingrad.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Bobriki=Stalingrad.internal.md) 
 
-### [Bobriki=Stalingrad.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityBobriki=Stalingrad.private.md) 
+### [Bobriki=Stalingrad.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Bobriki=Stalingrad.protect.md) 
 
-### [Bobriki=Stalingrad.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityBobriki=Stalingrad.personal.md) 
+### [Bobriki=Stalingrad.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Bobriki=Stalingrad.private.md) 
 
-### [Bobriki=Stalingrad.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityBobriki=Stalingrad.secret.md)
+### [Bobriki=Stalingrad.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Bobriki=Stalingrad.personal.md) 
+
+### [Bobriki=Stalingrad.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Bobriki=Stalingrad.secret.md)
 

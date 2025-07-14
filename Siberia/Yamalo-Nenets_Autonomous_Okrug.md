@@ -79,19 +79,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Yamalo-Nenets%20Autonomous%20Okrug) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Yamalo-Nenets_Autonomous_Okrug.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\SiberiaYamalo-Nenets_Autonomous_Okrug.public.md) 
+### [Yamalo-Nenets_Autonomous_Okrug](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Yamalo-Nenets_Autonomous_Okrug.md) 
 
-### [Yamalo-Nenets_Autonomous_Okrug.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaYamalo-Nenets_Autonomous_Okrug.internal.md) 
+### [Yamalo-Nenets_Autonomous_Okrug.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Yamalo-Nenets_Autonomous_Okrug.public.md) 
 
-### [Yamalo-Nenets_Autonomous_Okrug.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\SiberiaYamalo-Nenets_Autonomous_Okrug.protect.md) 
+### [Yamalo-Nenets_Autonomous_Okrug.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Yamalo-Nenets_Autonomous_Okrug.internal.md) 
 
-### [Yamalo-Nenets_Autonomous_Okrug.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\SiberiaYamalo-Nenets_Autonomous_Okrug.private.md) 
+### [Yamalo-Nenets_Autonomous_Okrug.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Yamalo-Nenets_Autonomous_Okrug.protect.md) 
 
-### [Yamalo-Nenets_Autonomous_Okrug.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaYamalo-Nenets_Autonomous_Okrug.personal.md) 
+### [Yamalo-Nenets_Autonomous_Okrug.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Yamalo-Nenets_Autonomous_Okrug.private.md) 
 
-### [Yamalo-Nenets_Autonomous_Okrug.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\SiberiaYamalo-Nenets_Autonomous_Okrug.secret.md)
+### [Yamalo-Nenets_Autonomous_Okrug.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Yamalo-Nenets_Autonomous_Okrug.personal.md) 
+
+### [Yamalo-Nenets_Autonomous_Okrug.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Yamalo-Nenets_Autonomous_Okrug.secret.md)
 

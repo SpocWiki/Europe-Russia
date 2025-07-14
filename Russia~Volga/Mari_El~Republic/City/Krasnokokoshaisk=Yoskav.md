@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Krasnokokoshaisk=Yoskav.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityKrasnokokoshaisk=Yoskav.public.md) 
+### [Krasnokokoshaisk=Yoskav](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Krasnokokoshaisk=Yoskav.md) 
 
-### [Krasnokokoshaisk=Yoskav.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityKrasnokokoshaisk=Yoskav.internal.md) 
+### [Krasnokokoshaisk=Yoskav.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Krasnokokoshaisk=Yoskav.public.md) 
 
-### [Krasnokokoshaisk=Yoskav.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityKrasnokokoshaisk=Yoskav.protect.md) 
+### [Krasnokokoshaisk=Yoskav.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Krasnokokoshaisk=Yoskav.internal.md) 
 
-### [Krasnokokoshaisk=Yoskav.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityKrasnokokoshaisk=Yoskav.private.md) 
+### [Krasnokokoshaisk=Yoskav.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Krasnokokoshaisk=Yoskav.protect.md) 
 
-### [Krasnokokoshaisk=Yoskav.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityKrasnokokoshaisk=Yoskav.personal.md) 
+### [Krasnokokoshaisk=Yoskav.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Krasnokokoshaisk=Yoskav.private.md) 
 
-### [Krasnokokoshaisk=Yoskav.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Volga\Mari_El~Republic\CityKrasnokokoshaisk=Yoskav.secret.md)
+### [Krasnokokoshaisk=Yoskav.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Krasnokokoshaisk=Yoskav.personal.md) 
+
+### [Krasnokokoshaisk=Yoskav.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Krasnokokoshaisk=Yoskav.secret.md)
 

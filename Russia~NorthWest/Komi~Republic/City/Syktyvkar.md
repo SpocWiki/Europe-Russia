@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Syktyvkar.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Komi~Republic\CitySyktyvkar.public.md) 
+### [Syktyvkar](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syktyvkar.md) 
 
-### [Syktyvkar.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Komi~Republic\CitySyktyvkar.internal.md) 
+### [Syktyvkar.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syktyvkar.public.md) 
 
-### [Syktyvkar.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Komi~Republic\CitySyktyvkar.protect.md) 
+### [Syktyvkar.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syktyvkar.internal.md) 
 
-### [Syktyvkar.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Komi~Republic\CitySyktyvkar.private.md) 
+### [Syktyvkar.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syktyvkar.protect.md) 
 
-### [Syktyvkar.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Komi~Republic\CitySyktyvkar.personal.md) 
+### [Syktyvkar.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syktyvkar.private.md) 
 
-### [Syktyvkar.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWest\Komi~Republic\CitySyktyvkar.secret.md)
+### [Syktyvkar.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syktyvkar.personal.md) 
+
+### [Syktyvkar.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syktyvkar.secret.md)
 

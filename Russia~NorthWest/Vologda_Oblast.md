@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vologda_Oblast.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestVologda_Oblast.public.md) 
+### [Vologda_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast.md) 
 
-### [Vologda_Oblast.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestVologda_Oblast.internal.md) 
+### [Vologda_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast.public.md) 
 
-### [Vologda_Oblast.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestVologda_Oblast.protect.md) 
+### [Vologda_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast.internal.md) 
 
-### [Vologda_Oblast.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestVologda_Oblast.private.md) 
+### [Vologda_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast.protect.md) 
 
-### [Vologda_Oblast.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestVologda_Oblast.personal.md) 
+### [Vologda_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast.private.md) 
 
-### [Vologda_Oblast.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthWestVologda_Oblast.secret.md)
+### [Vologda_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast.personal.md) 
+
+### [Vologda_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast.secret.md)
 

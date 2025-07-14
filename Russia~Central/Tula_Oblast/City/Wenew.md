@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wenew.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityWenew.public.md) 
+### [Wenew](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Wenew.md) 
 
-### [Wenew.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityWenew.internal.md) 
+### [Wenew.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Wenew.public.md) 
 
-### [Wenew.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityWenew.protect.md) 
+### [Wenew.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Wenew.internal.md) 
 
-### [Wenew.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityWenew.private.md) 
+### [Wenew.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Wenew.protect.md) 
 
-### [Wenew.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityWenew.personal.md) 
+### [Wenew.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Wenew.private.md) 
 
-### [Wenew.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Tula_Oblast\CityWenew.secret.md)
+### [Wenew.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Wenew.personal.md) 
+
+### [Wenew.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Wenew.secret.md)
 

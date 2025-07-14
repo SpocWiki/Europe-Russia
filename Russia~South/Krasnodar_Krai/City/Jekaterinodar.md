@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jekaterinodar.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityJekaterinodar.public.md) 
+### [Jekaterinodar](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Jekaterinodar.md) 
 
-### [Jekaterinodar.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityJekaterinodar.internal.md) 
+### [Jekaterinodar.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Jekaterinodar.public.md) 
 
-### [Jekaterinodar.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityJekaterinodar.protect.md) 
+### [Jekaterinodar.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Jekaterinodar.internal.md) 
 
-### [Jekaterinodar.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityJekaterinodar.private.md) 
+### [Jekaterinodar.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Jekaterinodar.protect.md) 
 
-### [Jekaterinodar.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityJekaterinodar.personal.md) 
+### [Jekaterinodar.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Jekaterinodar.private.md) 
 
-### [Jekaterinodar.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~South\Krasnodar_Krai\CityJekaterinodar.secret.md)
+### [Jekaterinodar.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Jekaterinodar.personal.md) 
+
+### [Jekaterinodar.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Jekaterinodar.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jarosla=Jaroslav.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Yaroslavl_Oblast\CityJarosla=Jaroslav.public.md) 
+### [Jarosla=Jaroslav](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Jarosla=Jaroslav.md) 
 
-### [Jarosla=Jaroslav.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Yaroslavl_Oblast\CityJarosla=Jaroslav.internal.md) 
+### [Jarosla=Jaroslav.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Jarosla=Jaroslav.public.md) 
 
-### [Jarosla=Jaroslav.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Yaroslavl_Oblast\CityJarosla=Jaroslav.protect.md) 
+### [Jarosla=Jaroslav.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Jarosla=Jaroslav.internal.md) 
 
-### [Jarosla=Jaroslav.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Yaroslavl_Oblast\CityJarosla=Jaroslav.private.md) 
+### [Jarosla=Jaroslav.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Jarosla=Jaroslav.protect.md) 
 
-### [Jarosla=Jaroslav.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Yaroslavl_Oblast\CityJarosla=Jaroslav.personal.md) 
+### [Jarosla=Jaroslav.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Jarosla=Jaroslav.private.md) 
 
-### [Jarosla=Jaroslav.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~Central\Yaroslavl_Oblast\CityJarosla=Jaroslav.secret.md)
+### [Jarosla=Jaroslav.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Jarosla=Jaroslav.personal.md) 
+
+### [Jarosla=Jaroslav.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Jarosla=Jaroslav.secret.md)
 

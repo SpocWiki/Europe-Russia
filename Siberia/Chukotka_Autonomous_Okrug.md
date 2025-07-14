@@ -82,19 +82,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Chukotka%20Autonomous%20Okrug) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Chukotka_Autonomous_Okrug.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\SiberiaChukotka_Autonomous_Okrug.public.md) 
+### [Chukotka_Autonomous_Okrug](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chukotka_Autonomous_Okrug.md) 
 
-### [Chukotka_Autonomous_Okrug.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaChukotka_Autonomous_Okrug.internal.md) 
+### [Chukotka_Autonomous_Okrug.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chukotka_Autonomous_Okrug.public.md) 
 
-### [Chukotka_Autonomous_Okrug.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\SiberiaChukotka_Autonomous_Okrug.protect.md) 
+### [Chukotka_Autonomous_Okrug.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chukotka_Autonomous_Okrug.internal.md) 
 
-### [Chukotka_Autonomous_Okrug.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\SiberiaChukotka_Autonomous_Okrug.private.md) 
+### [Chukotka_Autonomous_Okrug.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chukotka_Autonomous_Okrug.protect.md) 
 
-### [Chukotka_Autonomous_Okrug.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\SiberiaChukotka_Autonomous_Okrug.personal.md) 
+### [Chukotka_Autonomous_Okrug.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chukotka_Autonomous_Okrug.private.md) 
 
-### [Chukotka_Autonomous_Okrug.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\SiberiaChukotka_Autonomous_Okrug.secret.md)
+### [Chukotka_Autonomous_Okrug.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chukotka_Autonomous_Okrug.personal.md) 
+
+### [Chukotka_Autonomous_Okrug.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chukotka_Autonomous_Okrug.secret.md)
 

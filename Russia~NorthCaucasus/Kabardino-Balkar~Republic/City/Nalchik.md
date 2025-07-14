@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nalchik.public](/_public/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Kabardino-Balkar~Republic\CityNalchik.public.md) 
+### [Nalchik](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Kabardino-Balkar~Republic/City/Nalchik.md) 
 
-### [Nalchik.internal](/_internal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Kabardino-Balkar~Republic\CityNalchik.internal.md) 
+### [Nalchik.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Kabardino-Balkar~Republic/City/Nalchik.public.md) 
 
-### [Nalchik.protect](/_protect/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Kabardino-Balkar~Republic\CityNalchik.protect.md) 
+### [Nalchik.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Kabardino-Balkar~Republic/City/Nalchik.internal.md) 
 
-### [Nalchik.private](/_private/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Kabardino-Balkar~Republic\CityNalchik.private.md) 
+### [Nalchik.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Kabardino-Balkar~Republic/City/Nalchik.protect.md) 
 
-### [Nalchik.personal](/_personal/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Kabardino-Balkar~Republic\CityNalchik.personal.md) 
+### [Nalchik.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Kabardino-Balkar~Republic/City/Nalchik.private.md) 
 
-### [Nalchik.secret](/_secret/\Earth\Continent\Europe\Europe~East\Russia\Russia~NorthCaucasus\Kabardino-Balkar~Republic\CityNalchik.secret.md)
+### [Nalchik.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Kabardino-Balkar~Republic/City/Nalchik.personal.md) 
+
+### [Nalchik.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Kabardino-Balkar~Republic/City/Nalchik.secret.md)
 
