@@ -29,7 +29,7 @@ id: State~Vologda_Oblast
 geojsonFolder: ./State~Vologda_Oblast/
 markerFolder: ./State~Vologda_Oblast/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

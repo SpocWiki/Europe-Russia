@@ -28,7 +28,7 @@ id: State~Leningrad_Oblast
 geojsonFolder: ./State~Leningrad_Oblast/
 markerFolder: ./State~Leningrad_Oblast/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

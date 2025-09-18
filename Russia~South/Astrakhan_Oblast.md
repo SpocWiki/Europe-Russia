@@ -29,7 +29,7 @@ id: State~Astrakhan_Oblast
 geojsonFolder: ./State~Astrakhan_Oblast/
 markerFolder: ./State~Astrakhan_Oblast/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

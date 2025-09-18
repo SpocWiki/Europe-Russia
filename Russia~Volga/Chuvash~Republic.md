@@ -29,7 +29,7 @@ id: State~Chuvash~Republic
 geojsonFolder: ./State~Chuvash~Republic/
 markerFolder: ./State~Chuvash~Republic/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

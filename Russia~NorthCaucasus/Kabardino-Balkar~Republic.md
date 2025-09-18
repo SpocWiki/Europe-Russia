@@ -29,7 +29,7 @@ id: State~Kabardino-Balkar~Republic
 geojsonFolder: ./State~Kabardino-Balkar~Republic/
 markerFolder: ./State~Kabardino-Balkar~Republic/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

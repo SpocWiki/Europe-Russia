@@ -29,7 +29,7 @@ id: State~Novgorod_Oblast
 geojsonFolder: ./State~Novgorod_Oblast/
 markerFolder: ./State~Novgorod_Oblast/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

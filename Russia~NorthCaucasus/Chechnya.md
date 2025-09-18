@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: State~Chechnya
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./State~Chechnya/
 markerFolder: ./State~Chechnya/

@@ -28,7 +28,7 @@ id: State~Oryol_Oblast
 geojsonFolder: ./State~Oryol_Oblast/
 markerFolder: ./State~Oryol_Oblast/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

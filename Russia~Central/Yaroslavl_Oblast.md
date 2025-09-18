@@ -29,7 +29,7 @@ id: State~Yaroslavl_Oblast
 geojsonFolder: ./State~Yaroslavl_Oblast/
 markerFolder: ./State~Yaroslavl_Oblast/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

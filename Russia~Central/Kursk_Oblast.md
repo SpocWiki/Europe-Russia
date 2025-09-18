@@ -29,7 +29,7 @@ id: State~Kursk_Oblast
 geojsonFolder: ./State~Kursk_Oblast/
 markerFolder: ./State~Kursk_Oblast/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

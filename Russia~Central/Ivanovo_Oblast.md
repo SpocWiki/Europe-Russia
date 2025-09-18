@@ -28,7 +28,7 @@ id: State~Ivanovo_Oblast
 geojsonFolder: ./State~Ivanovo_Oblast/
 markerFolder: ./State~Ivanovo_Oblast/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

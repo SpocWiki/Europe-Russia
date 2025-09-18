@@ -29,7 +29,7 @@ id: State~Karelia~Republic
 geojsonFolder: ./State~Karelia~Republic/
 markerFolder: ./State~Karelia~Republic/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

@@ -29,7 +29,7 @@ id: State~Dagestan~Republic
 geojsonFolder: ./State~Dagestan~Republic/
 markerFolder: ./State~Dagestan~Republic/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

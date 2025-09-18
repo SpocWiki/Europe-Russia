@@ -29,7 +29,7 @@ id: State~Penza_Oblast
 geojsonFolder: ./State~Penza_Oblast/
 markerFolder: ./State~Penza_Oblast/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

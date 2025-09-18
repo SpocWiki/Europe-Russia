@@ -28,7 +28,7 @@ id: State~Tver_Oblast
 geojsonFolder: ./State~Tver_Oblast/
 markerFolder: ./State~Tver_Oblast/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

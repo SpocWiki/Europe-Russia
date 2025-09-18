@@ -28,7 +28,7 @@ id: State~Oblast_Kaliningrad
 geojsonFolder: ./State~Oblast_Kaliningrad/
 markerFolder: ./State~Oblast_Kaliningrad/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

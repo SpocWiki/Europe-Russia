@@ -28,7 +28,7 @@ id: State~Krasnodar_Krai
 geojsonFolder: ./State~Krasnodar_Krai/
 markerFolder: ./State~Krasnodar_Krai/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

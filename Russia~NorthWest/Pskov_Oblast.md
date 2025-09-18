@@ -29,7 +29,7 @@ id: State~Pskov_Oblast
 geojsonFolder: ./State~Pskov_Oblast/
 markerFolder: ./State~Pskov_Oblast/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

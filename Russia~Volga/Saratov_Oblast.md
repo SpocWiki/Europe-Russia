@@ -29,7 +29,7 @@ id: State~Saratov_Oblast
 geojsonFolder: ./State~Saratov_Oblast/
 markerFolder: ./State~Saratov_Oblast/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

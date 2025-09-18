@@ -29,7 +29,7 @@ id: State~Murmansk_Oblast
 geojsonFolder: ./State~Murmansk_Oblast/
 markerFolder: ./State~Murmansk_Oblast/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

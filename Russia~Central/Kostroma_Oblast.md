@@ -29,7 +29,7 @@ id: State~Kostroma_Oblast
 geojsonFolder: ./State~Kostroma_Oblast/
 markerFolder: ./State~Kostroma_Oblast/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

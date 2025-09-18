@@ -28,7 +28,7 @@ id: State~Smolensk_Oblast
 geojsonFolder: ./State~Smolensk_Oblast/
 markerFolder: ./State~Smolensk_Oblast/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

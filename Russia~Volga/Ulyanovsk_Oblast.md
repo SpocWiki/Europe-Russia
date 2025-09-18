@@ -29,7 +29,7 @@ id: State~Ulyanovsk_Oblast
 geojsonFolder: ./State~Ulyanovsk_Oblast/
 markerFolder: ./State~Ulyanovsk_Oblast/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

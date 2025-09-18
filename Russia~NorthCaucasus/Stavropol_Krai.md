@@ -28,7 +28,7 @@ id: State~Stavropol_Krai
 geojsonFolder: ./State~Stavropol_Krai/
 markerFolder: ./State~Stavropol_Krai/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

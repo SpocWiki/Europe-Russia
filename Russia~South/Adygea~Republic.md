@@ -29,7 +29,7 @@ id: State~Adygea~Republic
 geojsonFolder: ./State~Adygea~Republic/
 markerFolder: ./State~Adygea~Republic/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

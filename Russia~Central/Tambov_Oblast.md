@@ -28,7 +28,7 @@ id: State~Tambov_Oblast
 geojsonFolder: ./State~Tambov_Oblast/
 markerFolder: ./State~Tambov_Oblast/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

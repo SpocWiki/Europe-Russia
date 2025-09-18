@@ -29,7 +29,7 @@ id: State~Kaluga_Oblast
 geojsonFolder: ./State~Kaluga_Oblast/
 markerFolder: ./State~Kaluga_Oblast/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

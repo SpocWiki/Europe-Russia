@@ -29,7 +29,7 @@ id: State~Arkhangelsk_Oblast
 geojsonFolder: ./State~Arkhangelsk_Oblast/
 markerFolder: ./State~Arkhangelsk_Oblast/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

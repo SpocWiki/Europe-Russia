@@ -415,7 +415,7 @@ founded_by: "[[_Standards/WikiData/WD~Peter_the_Great,8479]]"
 ```leaflet
 id: City~St._Petersburg
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./City~St._Petersburg/
 markerFolder: ./City~St._Petersburg/

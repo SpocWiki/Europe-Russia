@@ -28,7 +28,7 @@ id: State~Bryansk_Oblast
 geojsonFolder: ./State~Bryansk_Oblast/
 markerFolder: ./State~Bryansk_Oblast/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

@@ -29,7 +29,7 @@ id: State~Lipetsk_Oblast
 geojsonFolder: ./State~Lipetsk_Oblast/
 markerFolder: ./State~Lipetsk_Oblast/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

@@ -29,7 +29,7 @@ id: State~Moscow_Oblast
 geojsonFolder: ./State~Moscow_Oblast/
 markerFolder: ./State~Moscow_Oblast/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

@@ -29,7 +29,7 @@ id: State~Nenets_Okrug
 geojsonFolder: ./State~Nenets_Okrug/
 markerFolder: ./State~Nenets_Okrug/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

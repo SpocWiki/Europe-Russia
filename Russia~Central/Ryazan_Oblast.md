@@ -28,7 +28,7 @@ id: State~Ryazan_Oblast
 geojsonFolder: ./State~Ryazan_Oblast/
 markerFolder: ./State~Ryazan_Oblast/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

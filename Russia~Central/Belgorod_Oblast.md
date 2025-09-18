@@ -28,7 +28,7 @@ id: State~Belgorod_Oblast
 geojsonFolder: ./State~Belgorod_Oblast/
 markerFolder: ./State~Belgorod_Oblast/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

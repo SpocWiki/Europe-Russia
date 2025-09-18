@@ -3,7 +3,7 @@
 ```leaflet
 id: Norway
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Russia~Central/
 markerFolder: ./Russia~Central/

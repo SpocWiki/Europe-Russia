@@ -29,7 +29,7 @@ id: State~Kalmykia~Republic
 geojsonFolder: ./State~Kalmykia~Republic/
 markerFolder: ./State~Kalmykia~Republic/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

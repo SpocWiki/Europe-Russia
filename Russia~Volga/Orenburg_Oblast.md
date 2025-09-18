@@ -29,7 +29,7 @@ id: State~Orenburg_Oblast
 geojsonFolder: ./State~Orenburg_Oblast/
 markerFolder: ./State~Orenburg_Oblast/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 
