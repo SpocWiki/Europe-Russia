@@ -2,9 +2,14 @@
 aliases:
   - Novaya Zemlya
   - Novaja Zemlja
+  - Nowaja-Semlja
 has_id_wikidata: Q80413
-location: [74,57] 
-mapzoom: [7,12] 
+location:
+  - 74
+  - 57
+mapzoom:
+  - 7
+  - 12
 SpocWebEntityId: 32975
 has_part_s_:
   - "[[_Standards/WikiData/WD~Yuzhny_Island,212806]]"
@@ -51,9 +56,9 @@ Country :: [[Russia]]
 #is_/same_as :: [[WD~Novaya_Zemlya,80413]] 
 
 ```leaflet
-id: Nowaja-Semlja
-coordinates: [[Nowaja-Semlja]] 
-markerFile: [[Nowaja-Semlja]] 
+id: Novaya_Zemlya
+coordinates: [[Novaya_Zemlya]] 
+markerFile: [[Novaya_Zemlya]] 
 geojsonFolder: ./Novaya_Zemlya/
 markerFolder: ./Novaya_Zemlya/
 zoomFeatures: true 

@@ -18,7 +18,7 @@ aliases:
 [name::Arkhangelsk Oblast] 
 [name-abbr::] 
 Country :: [[Russia]]  
-Capital :: [[Arkhangelsk_Oblast/Arkhangelsk_City/Archangelsk]]  
+Capital :: [[Arkhangelsk_Oblast/counties~Arkhangel'sk/Arkhangel'sk-county/Archangelsk]]  
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::40.57] 
@@ -31,8 +31,8 @@ Capital :: [[Arkhangelsk_Oblast/Arkhangelsk_City/Archangelsk]]
 id: State~Arkhangelsk_Oblast
 coordinates: [[Arkhangelsk_Oblast]] 
 markerFile: [[Arkhangelsk_Oblast]] 
-geojsonFolder: ./Arkhangelsk_Oblast/
-markerFolder: ./Arkhangelsk_Oblast/
+geojsonFolder: ./Arkhangelsk_Oblast//
+markerFolder: ./Arkhangelsk_Oblast//
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
