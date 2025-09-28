@@ -25,9 +25,9 @@ Capital :: [[Kursk]]
 
 
 ```leaflet
-id: State~Kursk_Oblast
-geojsonFolder: ./State~Kursk_Oblast/
-markerFolder: ./State~Kursk_Oblast/
+id: Kursk_Oblast
+geojsonFolder: ./Kursk_Oblast/
+markerFolder: ./Kursk_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

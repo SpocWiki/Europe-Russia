@@ -3,7 +3,7 @@ location:
   - 43.3
   - 45.8
 type: geo-Region
-title: State~Chechnya
+title: Chechnya
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
@@ -13,7 +13,7 @@ confidential: public
 tags:
   - geo/Country/Region
 aliases:
-  - State~Chechnya
+  - Chechnya
   - Chechnya
 Languages:
   - de
@@ -27,15 +27,15 @@ publishDate:
 expiryDate:
 ---
 
-# State~Chechnya
+# Chechnya
 
 ```leaflet
-id: State~Chechnya
+id: Chechnya
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./State~Chechnya/
-markerFolder: ./State~Chechnya/
+geojsonFolder: ./Chechnya/
+markerFolder: ./Chechnya/
 ```
 
 

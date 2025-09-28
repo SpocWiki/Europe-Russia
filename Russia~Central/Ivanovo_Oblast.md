@@ -24,9 +24,9 @@ Capital :: [[Ivanovo]]
 
 
 ```leaflet
-id: State~Ivanovo_Oblast
-geojsonFolder: ./State~Ivanovo_Oblast/
-markerFolder: ./State~Ivanovo_Oblast/
+id: Ivanovo_Oblast
+geojsonFolder: ./Ivanovo_Oblast/
+markerFolder: ./Ivanovo_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

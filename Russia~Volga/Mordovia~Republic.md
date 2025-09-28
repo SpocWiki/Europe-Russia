@@ -26,9 +26,9 @@ Capital :: [[Saransk]]
 
 
 ```leaflet
-id: State~Mordovia~Republic
-geojsonFolder: ./State~Mordovia~Republic/
-markerFolder: ./State~Mordovia~Republic/
+id: Mordovia~Republic
+geojsonFolder: ./Mordovia~Republic/
+markerFolder: ./Mordovia~Republic/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

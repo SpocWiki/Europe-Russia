@@ -25,9 +25,9 @@ Capital :: [[Woronez]]
 
 
 ```leaflet
-id: State~Voronezh_Oblast
-geojsonFolder: ./State~Voronezh_Oblast/
-markerFolder: ./State~Voronezh_Oblast/
+id: Voronezh_Oblast
+geojsonFolder: ./Voronezh_Oblast/
+markerFolder: ./Voronezh_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

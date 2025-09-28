@@ -24,9 +24,9 @@ Capital :: [[Tula]]
 
 
 ```leaflet
-id: State~Tula_Oblast
-geojsonFolder: ./State~Tula_Oblast/
-markerFolder: ./State~Tula_Oblast/
+id: Tula_Oblast
+geojsonFolder: ./Tula_Oblast/
+markerFolder: ./Tula_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

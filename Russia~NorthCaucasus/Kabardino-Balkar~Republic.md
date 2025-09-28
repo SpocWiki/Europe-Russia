@@ -25,9 +25,9 @@ Capital :: [[Nalchik]]
 
 
 ```leaflet
-id: State~Kabardino-Balkar~Republic
-geojsonFolder: ./State~Kabardino-Balkar~Republic/
-markerFolder: ./State~Kabardino-Balkar~Republic/
+id: Kabardino-Balkar~Republic
+geojsonFolder: ./Kabardino-Balkar~Republic/
+markerFolder: ./Kabardino-Balkar~Republic/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

@@ -25,9 +25,9 @@ Capital :: [[Grozny]]
 
 
 ```leaflet
-id: State~Chechen~Republic
-geojsonFolder: ./State~Chechen~Republic/
-markerFolder: ./State~Chechen~Republic/
+id: Chechen~Republic
+geojsonFolder: ./Chechen~Republic/
+markerFolder: ./Chechen~Republic/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

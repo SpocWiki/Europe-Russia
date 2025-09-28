@@ -25,9 +25,9 @@ Capital :: [[Yoshkar-Ola]]
 
 
 ```leaflet
-id: State~Mari_El~Republic
-geojsonFolder: ./State~Mari_El~Republic/
-markerFolder: ./State~Mari_El~Republic/
+id: Mari_El~Republic
+geojsonFolder: ./Mari_El~Republic/
+markerFolder: ./Mari_El~Republic/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

@@ -24,9 +24,9 @@ Capital :: [[Krasnodar]]
 
 
 ```leaflet
-id: State~Krasnodar_Krai
-geojsonFolder: ./State~Krasnodar_Krai/
-markerFolder: ./State~Krasnodar_Krai/
+id: Krasnodar_Krai
+geojsonFolder: ./Krasnodar_Krai/
+markerFolder: ./Krasnodar_Krai/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

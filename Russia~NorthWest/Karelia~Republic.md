@@ -25,9 +25,9 @@ Capital :: [[Petrosawodsk]]
 
 
 ```leaflet
-id: State~Karelia~Republic
-geojsonFolder: ./State~Karelia~Republic/
-markerFolder: ./State~Karelia~Republic/
+id: Karelia~Republic
+geojsonFolder: ./Karelia~Republic/
+markerFolder: ./Karelia~Republic/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

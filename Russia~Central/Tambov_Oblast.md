@@ -24,9 +24,9 @@ Capital :: [[Tambow]]
 
 
 ```leaflet
-id: State~Tambov_Oblast
-geojsonFolder: ./State~Tambov_Oblast/
-markerFolder: ./State~Tambov_Oblast/
+id: Tambov_Oblast
+geojsonFolder: ./Tambov_Oblast/
+markerFolder: ./Tambov_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

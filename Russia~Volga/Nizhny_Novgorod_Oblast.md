@@ -25,9 +25,9 @@ Capital :: [[Nizhny_Novgorod]]
 
 
 ```leaflet
-id: State~Nizhny_Novgorod_Oblast
-geojsonFolder: ./State~Nizhny_Novgorod_Oblast//
-markerFolder: ./State~Nizhny_Novgorod_Oblast/
+id: Nizhny_Novgorod_Oblast
+geojsonFolder: ./Nizhny_Novgorod_Oblast//
+markerFolder: ./Nizhny_Novgorod_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

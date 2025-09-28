@@ -25,9 +25,9 @@ Capital :: [[Volgograd]]
 
 
 ```leaflet
-id: State~Volgograd_Oblast
-geojsonFolder: ./State~Volgograd_Oblast/
-markerFolder: ./State~Volgograd_Oblast/
+id: Volgograd_Oblast
+geojsonFolder: ./Volgograd_Oblast/
+markerFolder: ./Volgograd_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

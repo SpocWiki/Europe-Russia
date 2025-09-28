@@ -25,9 +25,9 @@ Capital :: [[Lipetsk]]
 
 
 ```leaflet
-id: State~Lipetsk_Oblast
-geojsonFolder: ./State~Lipetsk_Oblast/
-markerFolder: ./State~Lipetsk_Oblast/
+id: Lipetsk_Oblast
+geojsonFolder: ./Lipetsk_Oblast/
+markerFolder: ./Lipetsk_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

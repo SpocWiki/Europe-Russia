@@ -25,9 +25,9 @@ Capital :: [[Moskwa]]
 
 
 ```leaflet
-id: State~Moscow_Oblast
-geojsonFolder: ./State~Moscow_Oblast/
-markerFolder: ./State~Moscow_Oblast/
+id: Moscow_Oblast
+geojsonFolder: ./Moscow_Oblast/
+markerFolder: ./Moscow_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

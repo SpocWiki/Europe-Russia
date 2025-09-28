@@ -25,9 +25,9 @@ Capital :: [[Penza]]
 
 
 ```leaflet
-id: State~Penza_Oblast
-geojsonFolder: ./State~Penza_Oblast/
-markerFolder: ./State~Penza_Oblast/
+id: Penza_Oblast
+geojsonFolder: ./Penza_Oblast/
+markerFolder: ./Penza_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

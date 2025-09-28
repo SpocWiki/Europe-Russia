@@ -59,8 +59,9 @@ aliases:
   - Magadan Oblast
 ---
 
-#is_/same_as :: [[_Standards/WikiData/WD~Magadan_Oblast,7971]] 
+# [[Magadan_Oblast]] 
 
+#is_/same_as :: [[_Standards/WikiData/WD~Magadan_Oblast,7971]] 
 
 ## #has_/text_of_/abstract 
 

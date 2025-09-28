@@ -24,9 +24,9 @@ Capital :: [[Stavropol]]
 
 
 ```leaflet
-id: State~Stavropol_Krai
-geojsonFolder: ./State~Stavropol_Krai/
-markerFolder: ./State~Stavropol_Krai/
+id: Stavropol_Krai
+geojsonFolder: ./Stavropol_Krai/
+markerFolder: ./Stavropol_Krai/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

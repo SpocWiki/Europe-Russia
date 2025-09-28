@@ -12,6 +12,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Kola]] 
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::33] 
@@ -23,6 +26,7 @@ Country :: [[Russia]]
 [Population::] 
 [Unknown::] 
 
+#is_/same_as :: [[Kola]] 
 
 ```leaflet
 id: Kola

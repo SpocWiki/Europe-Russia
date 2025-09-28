@@ -25,9 +25,9 @@ Capital :: [[Pskow]]
 
 
 ```leaflet
-id: State~Pskov_Oblast
-geojsonFolder: ./State~Pskov_Oblast/
-markerFolder: ./State~Pskov_Oblast/
+id: Pskov_Oblast
+geojsonFolder: ./Pskov_Oblast/
+markerFolder: ./Pskov_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

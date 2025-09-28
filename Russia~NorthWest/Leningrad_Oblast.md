@@ -24,9 +24,9 @@ Capital :: [[St.Petersburg,City/City/Leningrad]]
 
 
 ```leaflet
-id: State~Leningrad_Oblast
-geojsonFolder: ./State~Leningrad_Oblast/
-markerFolder: ./State~Leningrad_Oblast/
+id: Leningrad_Oblast
+geojsonFolder: ./Leningrad_Oblast/
+markerFolder: ./Leningrad_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

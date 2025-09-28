@@ -25,9 +25,9 @@ Capital :: [[Ulyanowsk]]
 
 
 ```leaflet
-id: State~Ulyanovsk_Oblast
-geojsonFolder: ./State~Ulyanovsk_Oblast/
-markerFolder: ./State~Ulyanovsk_Oblast/
+id: Ulyanovsk_Oblast
+geojsonFolder: ./Ulyanovsk_Oblast/
+markerFolder: ./Ulyanovsk_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

@@ -24,9 +24,9 @@ Capital :: [[Belgorod]]
 
 
 ```leaflet
-id: State~Belgorod_Oblast
-geojsonFolder: ./State~Belgorod_Oblast/
-markerFolder: ./State~Belgorod_Oblast/
+id: Belgorod_Oblast
+geojsonFolder: ./Belgorod_Oblast/
+markerFolder: ./Belgorod_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

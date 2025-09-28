@@ -25,9 +25,9 @@ Capital :: [[Kaluga]]
 
 
 ```leaflet
-id: State~Kaluga_Oblast
-geojsonFolder: ./State~Kaluga_Oblast/
-markerFolder: ./State~Kaluga_Oblast/
+id: Kaluga_Oblast
+geojsonFolder: ./Kaluga_Oblast/
+markerFolder: ./Kaluga_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

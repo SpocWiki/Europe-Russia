@@ -25,9 +25,9 @@ Capital :: [[Magas]]
 
 
 ```leaflet
-id: State~Ingushetia~Republic
-geojsonFolder: ./State~Ingushetia~Republic/
-markerFolder: ./State~Ingushetia~Republic/
+id: Ingushetia~Republic
+geojsonFolder: ./Ingushetia~Republic/
+markerFolder: ./Ingushetia~Republic/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

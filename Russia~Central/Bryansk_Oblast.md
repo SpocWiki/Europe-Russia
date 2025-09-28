@@ -24,9 +24,9 @@ Capital :: [[Bryansk]]
 
 
 ```leaflet
-id: State~Bryansk_Oblast
-geojsonFolder: ./State~Bryansk_Oblast/
-markerFolder: ./State~Bryansk_Oblast/
+id: Bryansk_Oblast
+geojsonFolder: ./Bryansk_Oblast/
+markerFolder: ./Bryansk_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

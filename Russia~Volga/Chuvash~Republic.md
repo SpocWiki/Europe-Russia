@@ -25,9 +25,9 @@ Capital :: [[Cheboksary]]
 
 
 ```leaflet
-id: State~Chuvash~Republic
-geojsonFolder: ./State~Chuvash~Republic/
-markerFolder: ./State~Chuvash~Republic/
+id: Chuvash~Republic
+geojsonFolder: ./Chuvash~Republic/
+markerFolder: ./Chuvash~Republic/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

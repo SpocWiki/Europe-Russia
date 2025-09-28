@@ -25,9 +25,9 @@ Capital :: [[Nowgorod]]
 
 
 ```leaflet
-id: State~Novgorod_Oblast
-geojsonFolder: ./State~Novgorod_Oblast/
-markerFolder: ./State~Novgorod_Oblast/
+id: Novgorod_Oblast
+geojsonFolder: ./Novgorod_Oblast/
+markerFolder: ./Novgorod_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

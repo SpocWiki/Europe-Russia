@@ -25,9 +25,9 @@ Capital :: [[Wologda]]
 
 
 ```leaflet
-id: State~Vologda_Oblast
-geojsonFolder: ./State~Vologda_Oblast/
-markerFolder: ./State~Vologda_Oblast/
+id: Vologda_Oblast
+geojsonFolder: ./Vologda_Oblast/
+markerFolder: ./Vologda_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

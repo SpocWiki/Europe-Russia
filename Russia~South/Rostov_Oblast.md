@@ -25,9 +25,9 @@ Capital :: [[Rostow=Rostov-na-Donu]]
 
 
 ```leaflet
-id: State~Rostov_Oblast
-geojsonFolder: ./State~Rostov_Oblast/
-markerFolder: ./State~Rostov_Oblast/
+id: Rostov_Oblast
+geojsonFolder: ./Rostov_Oblast/
+markerFolder: ./Rostov_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

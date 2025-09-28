@@ -25,9 +25,9 @@ Capital :: [[Elista]]
 
 
 ```leaflet
-id: State~Kalmykia~Republic
-geojsonFolder: ./State~Kalmykia~Republic/
-markerFolder: ./State~Kalmykia~Republic/
+id: Kalmykia~Republic
+geojsonFolder: ./Kalmykia~Republic/
+markerFolder: ./Kalmykia~Republic/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

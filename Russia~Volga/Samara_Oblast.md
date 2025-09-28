@@ -25,9 +25,9 @@ Capital :: [[Samara]]
 
 
 ```leaflet
-id: State~Samara_Oblast
-geojsonFolder: ./State~Samara_Oblast/
-markerFolder: ./State~Samara_Oblast/
+id: Samara_Oblast
+geojsonFolder: ./Samara_Oblast/
+markerFolder: ./Samara_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

@@ -25,9 +25,9 @@ Capital :: [[Kirov=Jvanov]]
 
 
 ```leaflet
-id: State~Kirov_Oblast
-geojsonFolder: ./State~Kirov_Oblast/
-markerFolder: ./State~Kirov_Oblast/
+id: Kirov_Oblast
+geojsonFolder: ./Kirov_Oblast/
+markerFolder: ./Kirov_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

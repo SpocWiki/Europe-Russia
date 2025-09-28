@@ -24,9 +24,9 @@ Capital :: [[Ryazan]]
 
 
 ```leaflet
-id: State~Ryazan_Oblast
-geojsonFolder: ./State~Ryazan_Oblast/
-markerFolder: ./State~Ryazan_Oblast/
+id: Ryazan_Oblast
+geojsonFolder: ./Ryazan_Oblast/
+markerFolder: ./Ryazan_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

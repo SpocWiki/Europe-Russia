@@ -24,9 +24,9 @@ Capital :: [[Kaliningrad]]
 
 
 ```leaflet
-id: State~Oblast_Kaliningrad
-geojsonFolder: ./State~Oblast_Kaliningrad/
-markerFolder: ./State~Oblast_Kaliningrad/
+id: Oblast_Kaliningrad
+geojsonFolder: ./Oblast_Kaliningrad/
+markerFolder: ./Oblast_Kaliningrad/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

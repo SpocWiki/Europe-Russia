@@ -25,9 +25,9 @@ Capital :: [[Vladikavkaz]]
 
 
 ```leaflet
-id: State~North_Ossetia-Alania~Republic
-geojsonFolder: ./State~North_Ossetia-Alania~Republic/
-markerFolder: ./State~North_Ossetia-Alania~Republic/
+id: North_Ossetia-Alania~Republic
+geojsonFolder: ./North_Ossetia-Alania~Republic/
+markerFolder: ./North_Ossetia-Alania~Republic/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

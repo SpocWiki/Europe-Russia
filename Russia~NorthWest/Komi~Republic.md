@@ -25,9 +25,9 @@ Capital :: [[Syktyvkar]]
 
 
 ```leaflet
-id: State~Komi~Republic
-geojsonFolder: ./State~Komi~Republic/
-markerFolder: ./State~Komi~Republic/
+id: Komi~Republic
+geojsonFolder: ./Komi~Republic/
+markerFolder: ./Komi~Republic/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

@@ -12,6 +12,9 @@ aliases:
   - Murmansk Oblast
   - Murmansk 
 ---
+
+# [[Murmansk_Oblast]] 
+
 [name::Murmansk Oblast] 
 [name-abbr::] 
 Country :: [[Russia]]  
@@ -22,12 +25,12 @@ Capital :: [[Murmansk]]
 [has_place_latitude::68.97] 
 [Population::] 
 
-
+## #has_/map 
 
 ```leaflet
-id: State~Murmansk_Oblast
-geojsonFolder: ./State~Murmansk_Oblast/
-markerFolder: ./State~Murmansk_Oblast/
+id: Murmansk_Oblast
+geojsonFolder: ./Murmansk_Oblast//
+markerFolder: ./Murmansk_Oblast//
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

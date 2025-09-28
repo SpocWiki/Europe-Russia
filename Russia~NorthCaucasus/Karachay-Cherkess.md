@@ -24,9 +24,9 @@ Capital :: [[Cherkessk]]
 
 
 ```leaflet
-id: State~Karachay-Cherkess
-geojsonFolder: ./State~Karachay-Cherkess/
-markerFolder: ./State~Karachay-Cherkess/
+id: Karachay-Cherkess
+geojsonFolder: ./Karachay-Cherkess/
+markerFolder: ./Karachay-Cherkess/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

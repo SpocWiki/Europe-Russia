@@ -24,9 +24,9 @@ Capital :: [[Twer=Kalinin]]
 
 
 ```leaflet
-id: State~Tver_Oblast
-geojsonFolder: ./State~Tver_Oblast/
-markerFolder: ./State~Tver_Oblast/
+id: Tver_Oblast
+geojsonFolder: ./Tver_Oblast/
+markerFolder: ./Tver_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

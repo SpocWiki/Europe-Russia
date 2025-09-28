@@ -25,9 +25,9 @@ Capital :: [[Maykop]]
 
 
 ```leaflet
-id: State~Adygea~Republic
-geojsonFolder: ./State~Adygea~Republic/
-markerFolder: ./State~Adygea~Republic/
+id: Adygea~Republic
+geojsonFolder: ./Adygea~Republic/
+markerFolder: ./Adygea~Republic/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

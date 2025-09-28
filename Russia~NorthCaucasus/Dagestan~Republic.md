@@ -25,9 +25,9 @@ Capital :: [[Makhachkala]]
 
 
 ```leaflet
-id: State~Dagestan~Republic
-geojsonFolder: ./State~Dagestan~Republic/
-markerFolder: ./State~Dagestan~Republic/
+id: Dagestan~Republic
+geojsonFolder: ./Dagestan~Republic/
+markerFolder: ./Dagestan~Republic/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

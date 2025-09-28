@@ -26,9 +26,9 @@ Capital :: [[Kazan]]
 
 
 ```leaflet
-id: State~Tatarstan~Republic
-geojsonFolder: ./State~Tatarstan~Republic/
-markerFolder: ./State~Tatarstan~Republic/
+id: Tatarstan~Republic
+geojsonFolder: ./Tatarstan~Republic/
+markerFolder: ./Tatarstan~Republic/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

@@ -24,9 +24,9 @@ Capital :: [[Wladimier]]
 
 
 ```leaflet
-id: State~Vladimir_Oblast
-geojsonFolder: ./State~Vladimir_Oblast/
-markerFolder: ./State~Vladimir_Oblast/
+id: Vladimir_Oblast
+geojsonFolder: ./Vladimir_Oblast/
+markerFolder: ./Vladimir_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

@@ -25,9 +25,9 @@ Capital :: [[Saratow]]
 
 
 ```leaflet
-id: State~Saratov_Oblast
-geojsonFolder: ./State~Saratov_Oblast/
-markerFolder: ./State~Saratov_Oblast/
+id: Saratov_Oblast
+geojsonFolder: ./Saratov_Oblast/
+markerFolder: ./Saratov_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

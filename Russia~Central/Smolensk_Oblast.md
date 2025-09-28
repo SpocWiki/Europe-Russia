@@ -24,9 +24,9 @@ Capital :: [[Smolensk]]
 
 
 ```leaflet
-id: State~Smolensk_Oblast
-geojsonFolder: ./State~Smolensk_Oblast/
-markerFolder: ./State~Smolensk_Oblast/
+id: Smolensk_Oblast
+geojsonFolder: ./Smolensk_Oblast/
+markerFolder: ./Smolensk_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

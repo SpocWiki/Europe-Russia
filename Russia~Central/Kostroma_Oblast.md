@@ -25,9 +25,9 @@ Capital :: [[Kostroma]]
 
 
 ```leaflet
-id: State~Kostroma_Oblast
-geojsonFolder: ./State~Kostroma_Oblast/
-markerFolder: ./State~Kostroma_Oblast/
+id: Kostroma_Oblast
+geojsonFolder: ./Kostroma_Oblast/
+markerFolder: ./Kostroma_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

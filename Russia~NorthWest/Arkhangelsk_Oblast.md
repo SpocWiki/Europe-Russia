@@ -28,7 +28,7 @@ Capital :: [[Arkhangelsk_Oblast/counties~Arkhangel'sk/Arkhangel'sk-county/Archan
 ## #has_/map  
 
 ```leaflet
-id: State~Arkhangelsk_Oblast
+id: Arkhangelsk_Oblast
 coordinates: [[Arkhangelsk_Oblast]] 
 markerFile: [[Arkhangelsk_Oblast]] 
 geojsonFolder: ./Arkhangelsk_Oblast//

@@ -25,9 +25,9 @@ Capital :: [[Naryan-Mar]]
 
 
 ```leaflet
-id: State~Nenets_Okrug
-geojsonFolder: ./State~Nenets_Okrug/
-markerFolder: ./State~Nenets_Okrug/
+id: Nenets_Okrug
+geojsonFolder: ./Nenets_Okrug/
+markerFolder: ./Nenets_Okrug/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

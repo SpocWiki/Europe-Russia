@@ -25,9 +25,9 @@ Capital :: [[Jarosla=Jaroslav]]
 
 
 ```leaflet
-id: State~Yaroslavl_Oblast
-geojsonFolder: ./State~Yaroslavl_Oblast/
-markerFolder: ./State~Yaroslavl_Oblast/
+id: Yaroslavl_Oblast
+geojsonFolder: ./Yaroslavl_Oblast/
+markerFolder: ./Yaroslavl_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

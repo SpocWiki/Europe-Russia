@@ -24,9 +24,9 @@ Capital :: [[Oryol]]
 
 
 ```leaflet
-id: State~Oryol_Oblast
-geojsonFolder: ./State~Oryol_Oblast/
-markerFolder: ./State~Oryol_Oblast/
+id: Oryol_Oblast
+geojsonFolder: ./Oryol_Oblast/
+markerFolder: ./Oryol_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

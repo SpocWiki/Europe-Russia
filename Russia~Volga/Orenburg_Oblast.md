@@ -25,9 +25,9 @@ Capital :: [[Orenburg=Chkalov]]
 
 
 ```leaflet
-id: State~Orenburg_Oblast
-geojsonFolder: ./State~Orenburg_Oblast/
-markerFolder: ./State~Orenburg_Oblast/
+id: Orenburg_Oblast
+geojsonFolder: ./Orenburg_Oblast/
+markerFolder: ./Orenburg_Oblast/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
