@@ -3,6 +3,9 @@ aliases:
   - Novaya Zemlya
   - Novaja Zemlja
 has_id_wikidata: Q80413
+location: [74,57] 
+mapzoom: [7,12] 
+SpocWebEntityId: 32975
 has_part_s_:
   - "[[_Standards/WikiData/WD~Yuzhny_Island,212806]]"
   - "[[_Standards/WikiData/WD~Severny_Island,217362]]"
@@ -37,7 +40,27 @@ Libris_URI: vs68741d3n4ffdc
 
 # [[Novaya_Zemlya]] 
 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::57] 
+[has_place_latitude::74] 
+[name::Nowaja-Semlja] 
+State ::  
+Country :: [[Russia]]  
+
 #is_/same_as :: [[WD~Novaya_Zemlya,80413]] 
+
+```leaflet
+id: Nowaja-Semlja
+coordinates: [[Nowaja-Semlja]] 
+markerFile: [[Nowaja-Semlja]] 
+geojsonFolder: ./Novaya_Zemlya/
+markerFolder: ./Novaya_Zemlya/
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+defaultZoom: 11 
+```
 
 ## #has_/text_of_/abstract 
 
