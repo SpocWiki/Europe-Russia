@@ -12,6 +12,9 @@ aliases:
   - Arkhangelsk Oblast
   - Arkhangelsk
 ---
+
+# [[Arkhangelsk_Oblast]] 
+
 [name::Arkhangelsk Oblast] 
 [name-abbr::] 
 Country :: [[Russia]]  
@@ -22,14 +25,14 @@ Capital :: [[Archangelsk]]
 [has_place_latitude::64.53] 
 [Population::] 
 
-
+## #has_/map  
 
 ```leaflet
 id: State~Arkhangelsk_Oblast
-geojsonFolder: ./State~Arkhangelsk_Oblast/
-markerFolder: ./State~Arkhangelsk_Oblast/
+geojsonFolder: ./Arkhangelsk_Oblast/
+markerFolder: ./Arkhangelsk_Oblast/
 zoomFeatures: true 
-minZoom: 4 
+minZoom: 2 
 maxZoom: 18
 ```
 
