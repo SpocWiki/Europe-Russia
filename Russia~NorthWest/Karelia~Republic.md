@@ -12,6 +12,9 @@ aliases:
   - Karelia Republic
   - Republic of Karelia 
 ---
+
+# [[Karelia~Republic]]
+
 [name::Karelia~Republic] 
 [name-abbr::] 
 Country :: [[Russia]]  
@@ -22,7 +25,7 @@ Capital :: [[Petrosawodsk]]
 [has_place_latitude::61.78] 
 [Population::] 
 
-
+## #has_/map 
 
 ```leaflet
 id: Karelia~Republic

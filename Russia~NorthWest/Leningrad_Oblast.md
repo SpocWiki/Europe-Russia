@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Leningrad Oblast
+has_id_wikidata: Q2191
 location:
   - 59.92
   - 30.25
@@ -8,9 +11,10 @@ tags:
 SpocWebEntityId: 37135
 isDeleted: false
 confidential: public
-aliases:
-  - Leningrad Oblast
 ---
+
+# [[Leningrad_Oblast]]
+
 [name::Leningrad Oblast] 
 [name-abbr::] 
 Country :: [[Russia]]  
@@ -21,7 +25,7 @@ Capital :: [[St.Petersburg,City/City/Leningrad]]
 [has_place_latitude::59.92] 
 [Population::] 
 
-
+#is_/same_as :: [[_Standards/WikiData/WD~Leningrad_Oblast,2191]] 
 
 ```leaflet
 id: Leningrad_Oblast
