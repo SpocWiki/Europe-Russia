@@ -12,6 +12,9 @@ aliases:
   - Kabardino-Balkar Republic
   - Republic of Kabardino-Balkar 
 ---
+
+# [[Kabardino-Balkar~Republic]] 
+
 [name::Kabardino-Balkar~Republic] 
 [name-abbr::] 
 Country :: [[Russia]]  
@@ -22,7 +25,7 @@ Capital :: [[Nalchik]]
 [has_place_latitude::43.5] 
 [Population::] 
 
-
+## #has_/map 
 
 ```leaflet
 id: Kabardino-Balkar~Republic

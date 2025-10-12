@@ -143,7 +143,7 @@ markerFolder: .////
 [Area-Land::1.69958E+07] 
 Continent :: [[Europe]]  
 [VehicleCode::] 
-Capital :: [[Moskwa]]  
+Capital :: [[Russia~Central/Moscow_Oblast/City/Moscow,City]]  
 ![[Coat_of_arms_of_Russia.svg|350]] 
 ![[Anthem-Russia.mp3]] 
 ![[Flag_of_Russia.svg|350]] 
