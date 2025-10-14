@@ -24,7 +24,7 @@ State ::
 Country :: [[Russia]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[Kola]] 
 

@@ -21,7 +21,7 @@ State ::
 Country :: [[Russia]]  
 [StateId::37150] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

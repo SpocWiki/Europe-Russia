@@ -415,7 +415,7 @@ State ::
 Country :: [[Russia]]  
 [StateId::37140] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Moscow,649|WD~Moscow,649]] 
 
