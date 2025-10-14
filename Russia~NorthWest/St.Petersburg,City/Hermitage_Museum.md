@@ -25,7 +25,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~Great_Hermitage,4092958]]"
   - "[[_Standards/WikiData/WD~Small_Hermitage,4279216]]"
   - "[[_Standards/WikiData/WD~Hermitage_Museum_building_at_Staraya_Derevnya,4439665]]"
-headquarters_location: "[[_Standards/WikiData/WD~Winter_Palace,182147]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Winter_Palace,182147]]"
 award_received: "[[_Standards/WikiData/WD~Order_of_Lenin,185493]]"
 owner_of:
   - "[[_Standards/WikiData/WD~The_Return_of_the_Prodigal_Son,512755]]"

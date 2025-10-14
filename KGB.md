@@ -25,7 +25,7 @@ position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Chairman_of
 follows: "[[_Standards/WikiData/WD~Ministry_for_State_Security_(Soviet_Union),11420727]]"
 described_by_source: "[[_Standards/WikiData/WD~Medvik,99413897]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_KGB,101440978]]"
-headquarters_location: "[[_Standards/WikiData/WD~Moscow,649]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Moscow,649]]"
 authority: "[[_Standards/WikiData/WD~Council_of_Ministers_of_the_USSR,2128]]"
 parent_organization: "[[_Standards/WikiData/WD~Council_of_Ministers_of_the_USSR,2128]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184]]"
