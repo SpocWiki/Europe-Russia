@@ -12,6 +12,9 @@ aliases:
   - Vologda Oblast
   - Vologda
 ---
+
+# [[Vologda_Oblast]] 
+
 [name::Vologda Oblast] 
 [name-abbr::] 
 Country :: [[Russia]]  
@@ -22,7 +25,7 @@ Capital :: [[Wologda]]
 [has_place_latitude::59.23] 
 [Population::] 
 
-
+## #has_/map 
 
 ```leaflet
 id: Vologda_Oblast
