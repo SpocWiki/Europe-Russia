@@ -12,6 +12,9 @@ aliases:
   - Komi Republic
   - Republic of Komi 
 ---
+
+# [[Komi~Republic]] 
+
 [name::Komi~Republic] 
 [name-abbr::] 
 Country :: [[Russia]]  
@@ -22,13 +25,15 @@ Capital :: [[Syktyvkar]]
 [has_place_latitude::61.6667] 
 [Population::] 
 
-
+## #has_/map 
 
 ```leaflet
 id: Komi~Republic
 geojsonFolder: ./Komi~Republic/
 markerFolder: ./Komi~Republic/
-zoomFeatures: true 
+coordinates: [[Komi~Republic]] 
+markerFile: [[Komi~Republic]] 
+defaultZoom: 4 
 minZoom: 4 
 maxZoom: 18
 ```
