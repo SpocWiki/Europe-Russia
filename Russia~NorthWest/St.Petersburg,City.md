@@ -20,6 +20,7 @@ aliases:
   - St. Petersburg
   - Sankt Petersburg
   - Saint Petersburg
+  - Saint_Petersburg
 Languages:
   - de
 cssclasses:
