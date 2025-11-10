@@ -1,17 +1,4 @@
 ---
-location:
-  - 59.9
-  - 30.4
-type: geo-Region
-title: City~St._Petersburg
-license: CC BY-SA 4.0
-source: https://datahub.io/core/country-codes
-isDeleted: false
-isReadOnly: false
-draft: false
-confidential: public
-tags:
-  - geo/Country/Region
 aliases:
   - City~St._Petersburg
   - Petrograd
@@ -21,6 +8,20 @@ aliases:
   - Sankt Petersburg
   - Saint Petersburg
   - Saint_Petersburg
+has_id_wikidata: Q656
+type: geo-Region
+location:
+  - 59.9
+  - 30.4
+title: City~St._Petersburg
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+tags:
+  - geo/Country/Region
 Languages:
   - de
 cssclasses:
@@ -31,7 +32,6 @@ keywords:
 layout:
 publishDate:
 expiryDate:
-has_id_wikidata: Q656
 twinned_administrative_body:
   - "[[_Standards/WikiData/WD~Haiphong,72818]]"
   - "[[_Standards/WikiData/WD~Constanța,79808]]"
