@@ -12,6 +12,9 @@ aliases:
   - Orenburg Oblast
   - Orenburg 
 ---
+
+# [[Orenburg_Oblast]] 
+
 [name::Orenburg Oblast] 
 [name-abbr::] 
 Country :: [[Russia]]  
@@ -22,7 +25,7 @@ Capital :: [[Orenburg=Chkalov]]
 [has_place_latitude::51.77] 
 [Population::] 
 
-
+## #has_/map 
 
 ```leaflet
 id: Orenburg_Oblast
@@ -32,6 +35,12 @@ zoomFeatures: true
 minZoom: 4 
 maxZoom: 18
 ```
+
+## #has_/text_of_/abstract 
+
+> Orenburg Oblast (also Orenburzhye) is a federal subject of Russia (an oblast), mainly located in Eastern Europe, with some land in the southern and eastern portions of the oblast falling within Asia. Its administrative center is the city of Orenburg. From 1938 to 1957, it bore the name Chkalov Oblast in honor of Valery Chkalov. As of the 2021 Census, the oblast had a population of 1,862,767, down from 2,033,072 in the 2010 Census.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Orenburg%20Oblast) 
 
 
 ## Confidential Links & Embeds: 
