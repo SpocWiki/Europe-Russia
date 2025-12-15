@@ -12,6 +12,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Kazan]]
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::49.16667] 
@@ -22,7 +25,7 @@ Country :: [[Russia]]
 [StateId::37052] 
 [Population::] 
 
-
+## #has_/map 
 
 ```leaflet
 id: Kazan

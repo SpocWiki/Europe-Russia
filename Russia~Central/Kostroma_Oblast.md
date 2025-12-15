@@ -10,8 +10,12 @@ isDeleted: false
 confidential: public
 aliases:
   - Kostroma Oblast
-  - Kostroma 
+  - Kostroma
+has_id_wikidata: Q2596997
 ---
+
+# [[Kostroma_Oblast]] 
+
 [name::Kostroma Oblast] 
 [name-abbr::] 
 Country :: [[Russia]]  
@@ -21,8 +25,9 @@ Capital :: [[Kostroma]]
 [has_place_longitude::40.93] 
 [has_place_latitude::57.77] 
 [Population::] 
+#is_/same_as :: [[_Standards/WikiData/WD~Kostroma_Oblast,2596]] 
 
-
+## #has_/map  
 
 ```leaflet
 id: Kostroma_Oblast

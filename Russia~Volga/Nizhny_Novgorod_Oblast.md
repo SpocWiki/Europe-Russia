@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Nizhny Novgorod Oblast
+  - Nizhny Novgorod
+has_id_wikidata: Q2246
 location:
   - 56.3333
   - 44
@@ -8,10 +12,10 @@ tags:
 SpocWebEntityId: 37142
 isDeleted: false
 confidential: public
-aliases:
-  - Nizhny Novgorod Oblast
-  - Nizhny Novgorod
 ---
+
+# [[Nizhny_Novgorod_Oblast]] 
+
 [name::Nizhny Novgorod Oblast] 
 [name-abbr::] 
 Country :: [[Russia]]  
@@ -21,8 +25,9 @@ Capital :: [[Nizhny_Novgorod]]
 [has_place_longitude::44] 
 [has_place_latitude::56.3333] 
 [Population::] 
+#is_/same_as :: [[_Standards/WikiData/WD~Nizhny_Novgorod_Oblast,2246]]
 
-
+## #has_/map 
 
 ```leaflet
 id: Nizhny_Novgorod_Oblast
