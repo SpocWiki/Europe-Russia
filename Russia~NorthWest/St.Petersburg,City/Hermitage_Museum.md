@@ -4,6 +4,10 @@ aliases:
   - Государственный Эрмитаж
   - Gosudarstvennyj Ermitaž
 has_id_wikidata: Q132783
+coordinate_location: Point(30.313611111 59.940555555)
+location: [59.940555555, 30.313611111]
+date_of_official_opening: 1764-01-01T00:00:00Z
+inception: 1764-01-01T00:00:00Z
 Google_Doodle: 250th-anniversary-of-the-hermitage-museum
 Telegram_username: hermitage_museum
 VK_username: hermitage_museum
@@ -51,9 +55,6 @@ director_manager: "[[_Standards/WikiData/WD~Mikhail_Piotrovsky,2280388]]"
 different_from: "[[_Standards/WikiData/WD~Hermitage_Foundation,3075622]]"
 topic_has_template: "[[_Standards/WikiData/WD~Q15148418,15148418]]"
 heritage_designation: "[[_Standards/WikiData/WD~federal_cultural_heritage_site_in_Russia,23668083]]"
-date_of_official_opening: 1764-01-01T00:00:00Z
-inception: 1764-01-01T00:00:00Z
-coordinate_location: Point(30.313611111 59.940555555)
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Saint_Petersburg,656]]"
 Wikidata_property: Hermitage Museum work ID
 country: "[[_Standards/WikiData/WD~Russia,159]]"
