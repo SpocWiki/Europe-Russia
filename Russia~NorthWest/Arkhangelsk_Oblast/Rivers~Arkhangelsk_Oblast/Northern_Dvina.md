@@ -9,7 +9,9 @@ has_id_wikidata: Q8187
 discharge: 3490
 watershed_area: 357000
 length: 744
-location: [ 60.732222222, 46.330277777]
+location:
+  - 60.732222222
+  - 46.330277777
 coordinate_location:
   - Point(46.330277777 60.732222222)
   - Point(40.483333333 64.533333333)
@@ -104,7 +106,7 @@ tributary:
   - "[[_Standards/WikiData/WD~Vychegda,65383]]"
 mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Dvina_Bay,548240]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"

@@ -2,7 +2,9 @@
 aliases:
 has_id_wikidata: Q44133
 coordinate_location: Point(39.0 65.8)
-location: [ 65.8, 39.0]
+location:
+  - 65.8
+  - 39
 inflows:
   - "[[_Standards/WikiData/WD~Nes,94881]]"
   - "[[_Standards/WikiData/WD~Kovda,638497]]"
@@ -82,7 +84,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~Mezen_Bay,1415688]]"
   - "[[_Standards/WikiData/WD~White_Sea_Throat,2045984]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"

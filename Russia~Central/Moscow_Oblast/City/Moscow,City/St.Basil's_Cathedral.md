@@ -3,7 +3,9 @@ aliases:
   - St. Basil's Cathedral
 has_id_wikidata: Q129846
 height: 47.5
-location: [55.7525, 37.623055555]
+location:
+  - 55.7525
+  - 37.623055555
 coordinate_location: Point(37.623055555 55.7525)
 inception: 1555-01-01T00:00:00Z
 dedicated_to: "[[_Standards/WikiData/WD~Theotokos,208542]]"
@@ -15,7 +17,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~Eastern_Orthodox_church_building,2031836]]"
   - "[[_Standards/WikiData/WD~architectural_landmark,2319498]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
   - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfter_Band,130285551]]"

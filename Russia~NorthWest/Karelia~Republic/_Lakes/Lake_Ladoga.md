@@ -1,7 +1,9 @@
 ---
 aliases:
 has_id_wikidata: Q15288
-location: [60.842777777, 31.459722222] 
+location:
+  - 60.842777777
+  - 31.459722222
 Commons_gallery: Ладожское озеро
 native_label:
   - Luadogu
@@ -37,7 +39,7 @@ inflows:
   - "[[_Standards/WikiData/WD~Olonka,49582]]"
   - "[[_Standards/WikiData/WD~Syas,53484]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"

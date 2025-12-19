@@ -10,7 +10,9 @@ aliases:
   - Änine
   - Änižjärv
 has_id_wikidata: Q166162
-location: [61.690555555, 35.655555555] 
+location:
+  - 61.690555555
+  - 35.655555555
 Commons_category: Lake Onega
 native_label: Онежское озеро
 outflows: "[[_Standards/WikiData/WD~Svir,213067]]"
@@ -70,7 +72,7 @@ inflows:
   - "[[_Standards/WikiData/WD~Rybreka,98809065]]"
   - "[[_Standards/WikiData/WD~Povenchanka,98940333]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"

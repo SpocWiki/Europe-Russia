@@ -4,7 +4,9 @@ aliases:
   - Санкт-Петербургский государственный университет
   - Sankt-Peterburgskiy gosudarstvennyy universitet
 has_id_wikidata: Q27621
-location: [ 59.941944444, 30.298888888]
+location:
+  - 59.941944444
+  - 30.298888888
 coordinate_location: Point(30.298888888 59.941944444)
 IPv4_routing_prefix:
   - 77.234.199.0/24
@@ -39,7 +41,7 @@ different_from:
   - "[[_Standards/WikiData/WD~Saint_Petersburg_State_Institute_of_Technology,2654435]]"
   - "[[_Standards/WikiData/WD~Repin_Institute_of_Arts,4201516]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Medvik,99413897]]"

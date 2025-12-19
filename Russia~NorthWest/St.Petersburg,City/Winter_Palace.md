@@ -3,7 +3,9 @@ aliases:
   - Hermitage Museum
   - Winter Palace
 has_id_wikidata: Q182147
-location: [59.939832, 30.31456]
+location:
+  - 59.939832
+  - 30.31456
 coordinate_location:
   - Point(30.313888888 59.940277777)
   - Point(30.31456 59.939832)
@@ -16,7 +18,7 @@ part_of:
 architect: "[[_Standards/WikiData/WD~Francesco_Bartolomeo_Rastrelli,299687]]"
 has_use: "[[_Standards/WikiData/WD~official_residence,481289]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"

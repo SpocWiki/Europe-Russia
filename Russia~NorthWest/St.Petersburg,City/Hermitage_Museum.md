@@ -5,7 +5,9 @@ aliases:
   - Gosudarstvennyj Ermitaž
 has_id_wikidata: Q132783
 coordinate_location: Point(30.313611111 59.940555555)
-location: [59.940555555, 30.313611111]
+location:
+  - 59.940555555
+  - 30.313611111
 date_of_official_opening: 1764-01-01T00:00:00Z
 inception: 1764-01-01T00:00:00Z
 Google_Doodle: 250th-anniversary-of-the-hermitage-museum
@@ -44,7 +46,7 @@ owner_of:
   - "[[_Standards/WikiData/WD~Sine_Cerere_et_Baccho_friget_Venus,35651676]]"
   - "[[_Standards/WikiData/WD~Fantasy_Landscape_with_Aspects_of_Cologne,57285284]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
