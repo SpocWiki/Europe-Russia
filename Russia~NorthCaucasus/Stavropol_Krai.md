@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Stavropol Krai
+  - Stavropol_Krai
 location:
   - 45.05
   - 41.9833
@@ -8,8 +11,6 @@ tags:
 SpocWebEntityId: 37104
 isDeleted: false
 confidential: public
-aliases:
-  - Stavropol Krai
 ---
 [name::Stavropol Krai] 
 [name-abbr::] 

@@ -1,7 +1,8 @@
 ---
-has_id_wikidata: Q5851 
 aliases:
   - Novosibirsk Oblast
+  - Novosibirsk_Oblast
+has_id_wikidata: Q5851
 ---
 
 #is_/same_as :: [[_Standards/WikiData/WD~Novosibirsk_Oblast,5851]] 

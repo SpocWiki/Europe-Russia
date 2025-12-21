@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Arkhangelsk Oblast
+  - Arkhangelsk
+  - Arkhangelsk_Oblast
 location:
   - 64.53
   - 40.57
@@ -8,9 +12,6 @@ tags:
 SpocWebEntityId: 37117
 isDeleted: false
 confidential: public
-aliases:
-  - Arkhangelsk Oblast
-  - Arkhangelsk
 ---
 
 # [[Arkhangelsk_Oblast]] 

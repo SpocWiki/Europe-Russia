@@ -1,4 +1,17 @@
 ---
+aliases:
+  - Russia
+  - Russian Federation
+  - Federación de Rusia
+  - Fédération de Russie
+  - الاتحاد الروسي
+  - 俄罗斯联邦
+  - Российская Федерация
+  - the Russian Federation
+  - Russian Federation (the)
+  - la Federación de Rusia
+  - Federación de Rusia (la)
+  - ReadMe
 location:
   - 52.6418
   - 47.4574
@@ -15,24 +28,12 @@ cssclasses:
   - Country
 publish: true
 title: Russia
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Russia
-  - Russian Federation
-  - Federación de Rusia
-  - Fédération de Russie
-  - الاتحاد الروسي
-  - 俄罗斯联邦
-  - Российская Федерация
-  - the Russian Federation
-  - Russian Federation (the)
-  - la Federación de Rusia
-  - Federación de Rusia (la)
+publishDate: ''
+expiryDate: ''
 Languages:
   - ru
   - tt

@@ -1,16 +1,19 @@
 ---
-location: [47.2,38.95] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Taganrog
+location:
+  - 47.2
+  - 38.95
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34734
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

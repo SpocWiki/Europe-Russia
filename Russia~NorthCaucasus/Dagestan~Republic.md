@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Dagestan Republic
+  - Republic of Dagestan
+  - Dagestan~Republic
 location:
   - 47.5
   - 42.97
@@ -8,9 +12,6 @@ tags:
 SpocWebEntityId: 37041
 isDeleted: false
 confidential: public
-aliases:
-  - Dagestan Republic
-  - Republic of Dagestan 
 ---
 [name::Dagestan~Republic] 
 [name-abbr::] 

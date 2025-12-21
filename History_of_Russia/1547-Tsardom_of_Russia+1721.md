@@ -2,49 +2,51 @@
 aliases:
   - Tsardom of Russia
   - Tsardom of Moscow
+  - 1547-Tsardom_of_Russia+1721
+  - 1547-Tsardom of Russia+1721
 has_id_wikidata: Q186096
 replaces:
-  - "[[_Standards/WikiData/WD~Novgorod_Republic,151536]]"
-  - "[[_Standards/WikiData/WD~Principality_of_Tver,163268]]"
-  - "[[_Standards/WikiData/WD~Grand_Principality_of_Moscow,170770]]"
-  - "[[_Standards/WikiData/WD~Astrakhan_Khanate,210163]]"
-  - "[[_Standards/WikiData/WD~Kazan_kingdom,16656928]]"
-follows: "[[_Standards/WikiData/WD~Grand_Principality_of_Moscow,170770]]"
+  - '[[_Standards/WikiData/WD~Novgorod_Republic,151536]]'
+  - '[[_Standards/WikiData/WD~Principality_of_Tver,163268]]'
+  - '[[_Standards/WikiData/WD~Grand_Principality_of_Moscow,170770]]'
+  - '[[_Standards/WikiData/WD~Astrakhan_Khanate,210163]]'
+  - '[[_Standards/WikiData/WD~Kazan_kingdom,16656928]]'
+follows: '[[_Standards/WikiData/WD~Grand_Principality_of_Moscow,170770]]'
 basic_form_of_government:
-  - "[[_Standards/WikiData/WD~autocracy,173424]]"
-  - "[[_Standards/WikiData/WD~patrimonial_monarchy,4126830]]"
-  - "[[_Standards/WikiData/WD~aristocratic_monarchy,4429472]]"
-legislative_body: "[[_Standards/WikiData/WD~Zemsky_Sobor,177904]]"
-country: "[[_Standards/WikiData/WD~Tsardom_of_Russia,186096]]"
-significant_event: "[[_Standards/WikiData/WD~oprichnina,611162]]"
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
+  - '[[_Standards/WikiData/WD~autocracy,173424]]'
+  - '[[_Standards/WikiData/WD~patrimonial_monarchy,4126830]]'
+  - '[[_Standards/WikiData/WD~aristocratic_monarchy,4429472]]'
+legislative_body: '[[_Standards/WikiData/WD~Zemsky_Sobor,177904]]'
+country: '[[_Standards/WikiData/WD~Tsardom_of_Russia,186096]]'
+significant_event: '[[_Standards/WikiData/WD~oprichnina,611162]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
 official_religion:
-  - "[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]"
-  - "[[_Standards/WikiData/WD~Eastern_Orthodox_Church,35032]]"
-  - "[[_Standards/WikiData/WD~Russian_Orthodox_Church,60995]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_the_Tsardom_of_Russia,4136738]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Russian_State,4304392]]"
-category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q9679229,9679229]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q13335226,13335226]]"
+  - '[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]'
+  - '[[_Standards/WikiData/WD~Eastern_Orthodox_Church,35032]]'
+  - '[[_Standards/WikiData/WD~Russian_Orthodox_Church,60995]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_the_Tsardom_of_Russia,4136738]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Russian_State,4304392]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q9679229,9679229]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q13335226,13335226]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Moscovia,13411328]]"
-  - "[[_Standards/WikiData/WD~Moskovskoye_gosudarstvo,16678116]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - '[[_Standards/WikiData/WD~Moscovia,13411328]]'
+  - '[[_Standards/WikiData/WD~Moskovskoye_gosudarstvo,16678116]]'
+  - '[[_Standards/WikiData/WD~Russia,159]]'
 public_holiday: "[[_Standards/WikiData/WD~Csar's_Official_Name_Day,121886956]]"
 dissolved_abolished_or_demolished_date: 1721-11-02T00:00:00Z
-most_populous_urban_area: "[[_Standards/WikiData/WD~Moscow,649]]"
+most_populous_urban_area: '[[_Standards/WikiData/WD~Moscow,649]]'
 capital:
-  - "[[_Standards/WikiData/WD~Moscow,649]]"
-  - "[[_Standards/WikiData/WD~Saint_Petersburg,656]]"
-continent: "[[_Standards/WikiData/WD~Eurasia,5401]]"
+  - '[[_Standards/WikiData/WD~Moscow,649]]'
+  - '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
+continent: '[[_Standards/WikiData/WD~Eurasia,5401]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Russian,7737]]"
-  - "[[_Standards/WikiData/WD~Church_Slavonic,33251]]"
+  - '[[_Standards/WikiData/WD~Russian,7737]]'
+  - '[[_Standards/WikiData/WD~Church_Slavonic,33251]]'
 official_language:
-  - "[[_Standards/WikiData/WD~Russian,7737]]"
-  - "[[_Standards/WikiData/WD~Church_Slavonic,33251]]"
-currency: "[[_Standards/WikiData/WD~ruble,15788]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Russia,16611]]"
+  - '[[_Standards/WikiData/WD~Russian,7737]]'
+  - '[[_Standards/WikiData/WD~Church_Slavonic,33251]]'
+currency: '[[_Standards/WikiData/WD~ruble,15788]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Russia,16611]]'
 area:
   - 3000000
   - 14500000
@@ -52,8 +54,8 @@ population:
   - 6000000
   - 7000000
   - 11000000
-replaced_by: "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
-followed_by: "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
+replaced_by: '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+followed_by: '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 flag_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Russia.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oryol%20ship%20%28variant%29.svg

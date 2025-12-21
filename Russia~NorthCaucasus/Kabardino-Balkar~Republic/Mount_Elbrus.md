@@ -1,37 +1,38 @@
 ---
 aliases:
   - Mount Elbrus
+  - Mount_Elbrus
 has_id_wikidata: Q43105
 location:
   - 43.35254
   - 42.437875
 coordinate_location: Point(42.437875 43.35254)
 made_from_material:
-  - "[[_Standards/WikiData/WD~gneiss,166409]]"
-  - "[[_Standards/WikiData/WD~rhyolite,190727]]"
-  - "[[_Standards/WikiData/WD~tuff,484924]]"
-  - "[[_Standards/WikiData/WD~schistose_rock,9394813]]"
-  - "[[_Standards/WikiData/WD~granite,41177]]"
+  - '[[_Standards/WikiData/WD~gneiss,166409]]'
+  - '[[_Standards/WikiData/WD~rhyolite,190727]]'
+  - '[[_Standards/WikiData/WD~tuff,484924]]'
+  - '[[_Standards/WikiData/WD~schistose_rock,9394813]]'
+  - '[[_Standards/WikiData/WD~granite,41177]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Seven_Summits,208126]]"
-  - "[[_Standards/WikiData/WD~Volcanic_Seven_Summits,3056175]]"
-different_from: "[[_Standards/WikiData/WD~Alborz,484725]]"
+  - '[[_Standards/WikiData/WD~Seven_Summits,208126]]'
+  - '[[_Standards/WikiData/WD~Volcanic_Seven_Summits,3056175]]'
+different_from: '[[_Standards/WikiData/WD~Alborz,484725]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-mountain_range: "[[_Standards/WikiData/WD~Bokovoy_Range,669197]]"
-significant_event: "[[_Standards/WikiData/WD~first_ascent,1194369]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+mountain_range: '[[_Standards/WikiData/WD~Bokovoy_Range,669197]]'
+significant_event: '[[_Standards/WikiData/WD~first_ascent,1194369]]'
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Karachay_Cherkessia,5328]]"
-  - "[[_Standards/WikiData/WD~Elbrussky_District,19262]]"
-instance_of: "[[_Standards/WikiData/WD~mountain,8502]]"
+  - '[[_Standards/WikiData/WD~Karachay_Cherkessia,5328]]'
+  - '[[_Standards/WikiData/WD~Elbrussky_District,19262]]'
+instance_of: '[[_Standards/WikiData/WD~mountain,8502]]'
 continent:
-  - "[[_Standards/WikiData/WD~Europe,46]]"
-  - "[[_Standards/WikiData/WD~Asia,48]]"
-country: "[[_Standards/WikiData/WD~Russia,159]]"
-parent_peak: "[[_Standards/WikiData/WD~Mount_Elbrus,43105]]"
+  - '[[_Standards/WikiData/WD~Europe,46]]'
+  - '[[_Standards/WikiData/WD~Asia,48]]'
+country: '[[_Standards/WikiData/WD~Russia,159]]'
+parent_peak: '[[_Standards/WikiData/WD~Mount_Elbrus,43105]]'
 topographic_isolation: 2473
 topographic_prominence: 4741
 elevation_above_sea_level: 5642

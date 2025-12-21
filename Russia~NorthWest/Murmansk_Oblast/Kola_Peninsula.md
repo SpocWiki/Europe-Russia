@@ -3,29 +3,31 @@ aliases:
   - Ко́льский полуо́стров
   - Kolsky poluostrov
   - Куэлнэгк нёа̄ррк
+  - Kola_Peninsula
+  - Kola Peninsula
 has_id_wikidata: Q165608
 has_boundary:
-  - "[[_Standards/WikiData/WD~Imandra,265997]]"
-  - "[[_Standards/WikiData/WD~Niva,1075158]]"
-  - "[[_Standards/WikiData/WD~Kola,1149171]]"
+  - '[[_Standards/WikiData/WD~Imandra,265997]]'
+  - '[[_Standards/WikiData/WD~Niva,1075158]]'
+  - '[[_Standards/WikiData/WD~Kola,1149171]]'
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Imandra,265997]]"
-  - "[[_Standards/WikiData/WD~Niva,1075158]]"
-  - "[[_Standards/WikiData/WD~Kola,1149171]]"
-  - "[[_Standards/WikiData/WD~White_Sea,44133]]"
-  - "[[_Standards/WikiData/WD~Barents_Sea,45823]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Fennoscandia,604496]]"
+  - '[[_Standards/WikiData/WD~Imandra,265997]]'
+  - '[[_Standards/WikiData/WD~Niva,1075158]]'
+  - '[[_Standards/WikiData/WD~Kola,1149171]]'
+  - '[[_Standards/WikiData/WD~White_Sea,44133]]'
+  - '[[_Standards/WikiData/WD~Barents_Sea,45823]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Fennoscandia,604496]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 coordinate_location: Point(36.0 68.0)
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Murmansk_Oblast,1759]]"
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Murmansk_Oblast,1759]]'
 area: 100000
-country: "[[_Standards/WikiData/WD~Russia,159]]"
-instance_of: "[[_Standards/WikiData/WD~peninsula,34763]]"
+country: '[[_Standards/WikiData/WD~Russia,159]]'
+instance_of: '[[_Standards/WikiData/WD~peninsula,34763]]'
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Kola%20peninsula.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Kola%20Peninsula%20in%20June%202001.jpg
 Commons_category: Kola Peninsula

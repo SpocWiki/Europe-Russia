@@ -2,6 +2,7 @@
 aliases:
   - Penza Oblast
   - Penza
+  - Penza_Oblast
 has_id_wikidata: Q5545
 location:
   - 53.18
@@ -13,37 +14,37 @@ SpocWebEntityId: 37149
 isDeleted: false
 confidential: public
 part_of:
-  - "[[_Standards/WikiData/WD~Volga_Federal_District,202317]]"
-  - "[[_Standards/WikiData/WD~European_Russia,875134]]"
+  - '[[_Standards/WikiData/WD~Volga_Federal_District,202317]]'
+  - '[[_Standards/WikiData/WD~European_Russia,875134]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~oblast_of_Russia,835714]]"
-  - "[[_Standards/WikiData/WD~federal_subject_of_Russia,43263]]"
+  - '[[_Standards/WikiData/WD~oblast_of_Russia,835714]]'
+  - '[[_Standards/WikiData/WD~federal_subject_of_Russia,43263]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Moscow_Time,842320]]"
-  - "[[_Standards/WikiData/WD~Europe_Moscow,5412117]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Penza_Oblast,2632980]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Penza_Oblast,4136671]]"
-anthem: "[[_Standards/WikiData/WD~Q4138477,4138477]]"
-legislative_body: "[[_Standards/WikiData/WD~Legislative_Assembly_of_Penza_Oblast,4184922]]"
-category_for_people_buried_here: "[[_Standards/WikiData/WD~Q7977500,7977500]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Penza_Oblast,17333330]]"
+  - '[[_Standards/WikiData/WD~Moscow_Time,842320]]'
+  - '[[_Standards/WikiData/WD~Europe_Moscow,5412117]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Penza_Oblast,2632980]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Penza_Oblast,4136671]]'
+anthem: '[[_Standards/WikiData/WD~Q4138477,4138477]]'
+legislative_body: '[[_Standards/WikiData/WD~Legislative_Assembly_of_Penza_Oblast,4184922]]'
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q7977500,7977500]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Penza_Oblast,17333330]]'
 coordinate_location: Point(44.566666666 53.166666666)
-head_of_government: "[[_Standards/WikiData/WD~Oleg_Melnichenko,56311119]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Penza_Oblast,100864957]]"
+head_of_government: '[[_Standards/WikiData/WD~Oleg_Melnichenko,56311119]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Penza_Oblast,100864957]]'
 highest_point: http://www.wikidata.org/.well-known/genid/3a3784cc7e1430c970b294128b79c7cb
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Ryazan_Oblast,2753]]"
-  - "[[_Standards/WikiData/WD~Tambov_Oblast,3550]]"
-  - "[[_Standards/WikiData/WD~Saratov_Oblast,5334]]"
-  - "[[_Standards/WikiData/WD~Mordovia,5340]]"
-  - "[[_Standards/WikiData/WD~Ulyanovsk_Oblast,5634]]"
-capital: "[[_Standards/WikiData/WD~Penza,5540]]"
-language_used: "[[_Standards/WikiData/WD~Moksha,13343]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Russia,159]]"
-country: "[[_Standards/WikiData/WD~Russia,159]]"
+  - '[[_Standards/WikiData/WD~Ryazan_Oblast,2753]]'
+  - '[[_Standards/WikiData/WD~Tambov_Oblast,3550]]'
+  - '[[_Standards/WikiData/WD~Saratov_Oblast,5334]]'
+  - '[[_Standards/WikiData/WD~Mordovia,5340]]'
+  - '[[_Standards/WikiData/WD~Ulyanovsk_Oblast,5634]]'
+capital: '[[_Standards/WikiData/WD~Penza,5540]]'
+language_used: '[[_Standards/WikiData/WD~Moksha,13343]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Russia,159]]'
+country: '[[_Standards/WikiData/WD~Russia,159]]'
 area: 43200
-licence_plate_code: "58"
+licence_plate_code: 58
 population: 1213113
 Dewey_Decimal_Classification: 2--4746
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Troice-scanov%20monastery%20DSC08705.jpg

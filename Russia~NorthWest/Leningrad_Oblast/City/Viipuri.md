@@ -1,16 +1,19 @@
 ---
-location: [60.72,28.73] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Viipuri
+location:
+  - 60.72
+  - 28.73
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35286
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

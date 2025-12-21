@@ -1,16 +1,19 @@
 ---
-location: [57.77,40.93] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Kostroma
+location:
+  - 57.77
+  - 40.93
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31591
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

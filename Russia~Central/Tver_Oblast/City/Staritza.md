@@ -1,16 +1,19 @@
 ---
-location: [56.52,34.93] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Staritza
+location:
+  - 56.52
+  - 34.93
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34523
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

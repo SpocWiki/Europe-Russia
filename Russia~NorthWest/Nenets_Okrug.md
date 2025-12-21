@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Nenets Okrug
+  - Nenets Autonomous Okrug
+  - Nenets_Okrug
 location:
   - 67.6333
   - 53.05
@@ -8,9 +12,6 @@ tags:
 SpocWebEntityId: 37034
 isDeleted: false
 confidential: public
-aliases:
-  - Nenets Okrug
-  - Nenets Autonomous Okrug
 ---
 [name::Nenets Okrug] 
 [name-abbr::] 

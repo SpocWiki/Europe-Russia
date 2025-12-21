@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Tambov Oblast
+  - Tambov_Oblast
 location:
   - 52.7167
   - 43.33
@@ -8,8 +11,6 @@ tags:
 SpocWebEntityId: 37190
 isDeleted: false
 confidential: public
-aliases:
-  - Tambov Oblast
 ---
 [name::Tambov Oblast] 
 [name-abbr::] 

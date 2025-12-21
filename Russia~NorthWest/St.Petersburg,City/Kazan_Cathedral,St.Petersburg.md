@@ -4,30 +4,32 @@ aliases:
   - Kazan Cathedral
   - Kazanskiy Kafedralniy Sobor
   - Казанский кафедральный собор
+  - Kazan_Cathedral,St.Petersburg
+  - Kazan Cathedral,St.Petersburg
 has_id_wikidata: Q404571
-architectural_style: "[[_Standards/WikiData/WD~Empire_style,191105]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Tsentralny_District,271014]]"
-named_after: "[[_Standards/WikiData/WD~Our_Lady_of_Kazan,540173]]"
+architectural_style: '[[_Standards/WikiData/WD~Empire_style,191105]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Tsentralny_District,271014]]'
+named_after: '[[_Standards/WikiData/WD~Our_Lady_of_Kazan,540173]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~architectural_landmark,2319498]]"
-  - "[[_Standards/WikiData/WD~Eastern_Orthodox_cathedral,56242225]]"
+  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+  - '[[_Standards/WikiData/WD~architectural_landmark,2319498]]'
+  - '[[_Standards/WikiData/WD~Eastern_Orthodox_cathedral,56242225]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Vierter_Band,129249812]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]"
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Vierter_Band,129249812]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]'
 architect:
-  - "[[_Standards/WikiData/WD~Q4228172,4228172]]"
-  - "[[_Standards/WikiData/WD~Andrey_Voronikhin,51199]]"
-diocese: "[[_Standards/WikiData/WD~Diocese_of_Saint_Petersburg,4407670]]"
-heritage_designation: "[[_Standards/WikiData/WD~federal_cultural_heritage_site_in_Russia,23668083]]"
-appears_in_the_heritage_monument_list: "[[_Standards/WikiData/WD~list_of_cultural_heritage_monuments_in_Nevsky_Prospect_of_Saint_Petersburg,_Russia,50512288]]"
-part_of: "[[_Standards/WikiData/WD~historic_centre_of_Saint_Petersburg,64758537]]"
-has_part_s_: "[[_Standards/WikiData/WD~Q118129131,118129131]]"
-country: "[[_Standards/WikiData/WD~Russia,159]]"
-made_from_material: "[[_Standards/WikiData/WD~brick,40089]]"
+  - '[[_Standards/WikiData/WD~Q4228172,4228172]]'
+  - '[[_Standards/WikiData/WD~Andrey_Voronikhin,51199]]'
+diocese: '[[_Standards/WikiData/WD~Diocese_of_Saint_Petersburg,4407670]]'
+heritage_designation: '[[_Standards/WikiData/WD~federal_cultural_heritage_site_in_Russia,23668083]]'
+appears_in_the_heritage_monument_list: '[[_Standards/WikiData/WD~list_of_cultural_heritage_monuments_in_Nevsky_Prospect_of_Saint_Petersburg,_Russia,50512288]]'
+part_of: '[[_Standards/WikiData/WD~historic_centre_of_Saint_Petersburg,64758537]]'
+has_part_s_: '[[_Standards/WikiData/WD~Q118129131,118129131]]'
+country: '[[_Standards/WikiData/WD~Russia,159]]'
+made_from_material: '[[_Standards/WikiData/WD~brick,40089]]'
 coordinate_location: Point(30.324594444 59.934227777)
 Commons_category: Kazan Cathedral
 native_label: Собор Казанской иконы Божией Матери

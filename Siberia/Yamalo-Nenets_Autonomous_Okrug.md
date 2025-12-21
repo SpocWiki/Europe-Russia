@@ -1,44 +1,47 @@
 ---
+aliases:
+  - Yamalo-Nenets Autonomous Okrug
+  - Yamalo-Nenets_Autonomous_Okrug
 has_id_wikidata: Q6407
 instance of:
-  - "[[WikiData/WD~autonomous_okrug_of_Russia,184122]]"
-coat of arms: "[[WikiData/WD~coat_of_arms_of_Yamalo-Nenets_Autonomous_Okrug,733857]]"
-office held by head of government: "[[WikiData/WD~head_of_the_region_(Russia),1540324]]"
+  - '[[WikiData/WD~autonomous_okrug_of_Russia,184122]]'
+coat of arms: '[[WikiData/WD~coat_of_arms_of_Yamalo-Nenets_Autonomous_Okrug,733857]]'
+office held by head of government: '[[WikiData/WD~head_of_the_region_(Russia),1540324]]'
 located in time zone:
-  - "[[WikiData/WD~Yekaterinburg_Time,2332010]]"
-  - "[[WikiData/WD~Asia_Yekaterinburg,63286010]]"
-flag: "[[WikiData/WD~flag_of_Yamalo-Nenets_Autonomous_Okrug,2635531]]"
+  - '[[WikiData/WD~Yekaterinburg_Time,2332010]]'
+  - '[[WikiData/WD~Asia_Yekaterinburg,63286010]]'
+flag: '[[WikiData/WD~flag_of_Yamalo-Nenets_Autonomous_Okrug,2635531]]'
 head of government:
-  - "[[WikiData/WD~Dmitry_Kobylkin,4225265]]"
-  - "[[WikiData/WD~Dmitry_Artyukhov,55105854]]"
-highest point: "[[WikiData/WD~Gora_Payer,4342241]]"
-category for people born here: "[[WikiData/WD~Q8080610,8080610]]"
-legislative body: "[[WikiData/WD~Legislative_Assembly_of_the_Yamalo-Nenets_Autonomous_Okrug,16652988]]"
-anthem: "[[WikiData/WD~Anthem_of_Yamalo-Nenets_Autonomous_Okrug,21637897]]"
-category for people who died here: "[[WikiData/WD~Q32247900,32247900]]"
-replaces: "[[WikiData/WD~Tobol_Okrug,61991862]]"
+  - '[[WikiData/WD~Dmitry_Kobylkin,4225265]]'
+  - '[[WikiData/WD~Dmitry_Artyukhov,55105854]]'
+highest point: '[[WikiData/WD~Gora_Payer,4342241]]'
+category for people born here: '[[WikiData/WD~Q8080610,8080610]]'
+legislative body: '[[WikiData/WD~Legislative_Assembly_of_the_Yamalo-Nenets_Autonomous_Okrug,16652988]]'
+anthem: '[[WikiData/WD~Anthem_of_Yamalo-Nenets_Autonomous_Okrug,21637897]]'
+category for people who died here: '[[WikiData/WD~Q32247900,32247900]]'
+replaces: '[[WikiData/WD~Tobol_Okrug,61991862]]'
 described by source:
-  - "[[WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+  - '[[WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
 locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Russia%20%282014%E2%80%932022%29%20-%20Yamalo-Nenets%20Autonomous%20Okrug.svg
 coordinate location: Point(74.666666666 67.25)
 shares border with:
-  - "[[WikiData/WD~Komi_Republic,2073]]"
-  - "[[WikiData/WD~Nenets_Autonomous_Okrug,2164]]"
-  - "[[WikiData/WD~Khanty-Mansi_Autonomous_Okrug,6320]]"
-  - "[[WikiData/WD~Krasnoyarsk_Krai,6563]]"
-located in the administrative territorial entity: "[[WikiData/WD~Tyumen_Oblast,5824]]"
-capital: "[[WikiData/WD~Salekhard,6494]]"
+  - '[[WikiData/WD~Komi_Republic,2073]]'
+  - '[[WikiData/WD~Nenets_Autonomous_Okrug,2164]]'
+  - '[[WikiData/WD~Khanty-Mansi_Autonomous_Okrug,6320]]'
+  - '[[WikiData/WD~Krasnoyarsk_Krai,6563]]'
+located in the administrative territorial entity: '[[WikiData/WD~Tyumen_Oblast,5824]]'
+capital: '[[WikiData/WD~Salekhard,6494]]'
 official language:
-  - "[[WikiData/WD~Russian,7737]]"
-  - "[[WikiData/WD~Nenets,36452]]"
-continent: "[[WikiData/WD~Asia,48]]"
-country: "[[WikiData/WD~Russia,159]]"
+  - '[[WikiData/WD~Russian,7737]]'
+  - '[[WikiData/WD~Nenets,36452]]'
+continent: '[[WikiData/WD~Asia,48]]'
+country: '[[WikiData/WD~Russia,159]]'
 language used:
-  - "[[WikiData/WD~Khanty,33563]]"
-  - "[[WikiData/WD~Selkup,34008]]"
-  - "[[WikiData/WD~Nenets,36452]]"
-part of: "[[WikiData/WD~Ural_Federal_District,41964]]"
-licence plate code: "89"
+  - '[[WikiData/WD~Khanty,33563]]'
+  - '[[WikiData/WD~Selkup,34008]]'
+  - '[[WikiData/WD~Nenets,36452]]'
+part of: '[[WikiData/WD~Ural_Federal_District,41964]]'
+licence plate code: 89
 population: 515960
 area: 683976
 Commons category: Yamalo-Nenets Autonomous Okrug
@@ -59,8 +62,6 @@ native label:
   - Ямало-Ненецкий автономный округ
 short name:
   - ЯНАО
-aliases:
-  - Yamalo-Nenets Autonomous Okrug
 ---
 
 #is_/same_as :: [[_Standards/WikiData/WD~Yamalo-Nenets_Autonomous_Okrug,6407]] 

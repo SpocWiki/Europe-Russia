@@ -1,16 +1,19 @@
 ---
-location: [55.83,37.55] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Petrowskaie
+location:
+  - 55.83
+  - 37.55
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33338
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

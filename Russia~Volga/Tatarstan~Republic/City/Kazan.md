@@ -1,16 +1,19 @@
 ---
-location: [55.78333,49.16667] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Kazan
+location:
+  - 55.78333
+  - 49.16667
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 37069
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Kazan]]

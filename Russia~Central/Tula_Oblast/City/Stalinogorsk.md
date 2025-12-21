@@ -1,16 +1,19 @@
 ---
-location: [54.07,38.25] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Stalinogorsk
+location:
+  - 54.07
+  - 38.25
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34513
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

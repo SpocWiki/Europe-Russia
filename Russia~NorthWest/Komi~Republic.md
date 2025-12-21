@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Komi Republic
+  - Republic of Komi
+  - Komi~Republic
 location:
   - 61.6667
   - 50.8167
@@ -8,9 +12,6 @@ tags:
 SpocWebEntityId: 37047
 isDeleted: false
 confidential: public
-aliases:
-  - Komi Republic
-  - Republic of Komi 
 ---
 
 # [[Komi~Republic]] 

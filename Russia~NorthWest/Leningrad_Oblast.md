@@ -1,6 +1,7 @@
 ---
 aliases:
   - Leningrad Oblast
+  - Leningrad_Oblast
 has_id_wikidata: Q2191
 location:
   - 59.92

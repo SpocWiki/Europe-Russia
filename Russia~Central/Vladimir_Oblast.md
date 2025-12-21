@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Vladimir Oblast
+  - Vladimir_Oblast
 location:
   - 56.13
   - 40.42
@@ -8,8 +11,6 @@ tags:
 SpocWebEntityId: 37121
 isDeleted: false
 confidential: public
-aliases:
-  - Vladimir Oblast
 ---
 [name::Vladimir Oblast] 
 [name-abbr::] 

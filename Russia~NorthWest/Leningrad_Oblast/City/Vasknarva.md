@@ -1,16 +1,19 @@
 ---
-location: [59.03,27.88] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Vasknarva
+location:
+  - 59.03
+  - 27.88
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35218
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

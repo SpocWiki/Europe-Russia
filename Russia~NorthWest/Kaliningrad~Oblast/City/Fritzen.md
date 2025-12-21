@@ -1,16 +1,19 @@
 ---
-location: [54.83,20.57] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Fritzen
+location:
+  - 54.83
+  - 20.57
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30296
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

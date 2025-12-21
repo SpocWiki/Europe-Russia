@@ -1,6 +1,7 @@
 ---
 aliases:
   - Kamchatka Krai
+  - Kamchatka_Krai
 has_id_wikidata: Q7948
 ---
 

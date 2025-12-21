@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Kaliningrad Oblast
+  - Kaliningrad~Oblast
 location:
   - 54.6432
   - 20.8889
@@ -8,8 +11,6 @@ tags:
 SpocWebEntityId: 36942
 isDeleted: false
 confidential: public
-aliases:
-  - Kaliningrad Oblast
 ---
 [name::Oblast Kaliningrad] 
 [name-abbr::] 

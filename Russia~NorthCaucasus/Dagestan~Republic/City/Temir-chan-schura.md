@@ -1,16 +1,19 @@
 ---
-location: [42.83,47.17] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Temir-chan-schura
+location:
+  - 42.83
+  - 47.17
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34802
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

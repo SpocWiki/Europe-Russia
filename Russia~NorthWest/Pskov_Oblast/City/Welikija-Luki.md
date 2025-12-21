@@ -1,16 +1,19 @@
 ---
-location: [56.35,30.52] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Welikija-Luki
+location:
+  - 56.35
+  - 30.52
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35527
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

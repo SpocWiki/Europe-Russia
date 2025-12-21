@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Karachay-Cherkess
 location:
   - 44.23
   - 42.05
@@ -8,8 +10,6 @@ tags:
 SpocWebEntityId: 37045
 isDeleted: false
 confidential: public
-aliases:
-  - Karachay-Cherkess
 ---
 [name::Karachay-Cherkess] 
 [name-abbr::] 

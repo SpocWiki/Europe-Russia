@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Kursk Oblast
+  - Kursk
+  - Kursk_Oblast
 location:
   - 51.73
   - 36.22
@@ -8,9 +12,6 @@ tags:
 SpocWebEntityId: 37134
 isDeleted: false
 confidential: public
-aliases:
-  - Kursk Oblast
-  - Kursk 
 ---
 [name::Kursk Oblast] 
 [name-abbr::] 

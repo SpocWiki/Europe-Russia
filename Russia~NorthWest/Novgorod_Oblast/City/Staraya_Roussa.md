@@ -1,16 +1,20 @@
 ---
-location: [57.98,31.38] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Staraya_Roussa
+  - Staraya Roussa
+location:
+  - 57.98
+  - 31.38
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34520
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [56.03,35.95] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Wolokolamsk
+location:
+  - 56.03
+  - 35.95
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35696
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

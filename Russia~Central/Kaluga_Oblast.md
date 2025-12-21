@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Kaluga Oblast
+  - Kaluga
+  - Kaluga_Oblast
 location:
   - 54.52
   - 36.3
@@ -8,9 +12,6 @@ tags:
 SpocWebEntityId: 37129
 isDeleted: false
 confidential: public
-aliases:
-  - Kaluga Oblast
-  - Kaluga 
 ---
 [name::Kaluga Oblast] 
 [name-abbr::] 

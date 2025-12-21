@@ -1,6 +1,7 @@
 ---
 aliases:
   - Khabarovsk Krai
+  - Khabarovsk_Krai
 ---
 
 > **Khabarovsk Krai** (Russian: Хабаровский край, romanized: Khabarovskiy kray, IPA: [xɐˈbarəfskʲɪj kraj]) 

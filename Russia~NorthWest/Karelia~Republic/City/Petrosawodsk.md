@@ -1,16 +1,19 @@
 ---
-location: [61.78,34.4] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Petrosawodsk
+location:
+  - 61.78
+  - 34.4
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33334
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

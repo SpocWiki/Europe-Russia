@@ -1,16 +1,19 @@
 ---
-location: [69.55,31.25] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Petsamo
+location:
+  - 69.55
+  - 31.25
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33339
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

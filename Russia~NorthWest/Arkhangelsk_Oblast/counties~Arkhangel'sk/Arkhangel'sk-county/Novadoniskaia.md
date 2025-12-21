@@ -1,16 +1,19 @@
 ---
-location: [64.87,40.47] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Novadoniskaia
+location:
+  - 64.87
+  - 40.47
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32969
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Novadoniskaia]] 

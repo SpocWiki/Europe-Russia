@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Voronezh Oblast
+  - Voronezh
+  - Voronezh_Oblast
 location:
   - 51.67
   - 39.2
@@ -8,9 +12,6 @@ tags:
 SpocWebEntityId: 37125
 isDeleted: false
 confidential: public
-aliases:
-  - Voronezh Oblast
-  - Voronezh 
 ---
 [name::Voronezh Oblast] 
 [name-abbr::] 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Архангельск
+  - Archangelsk
 location:
   - 64.53
   - 40.57

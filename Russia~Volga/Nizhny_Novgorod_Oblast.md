@@ -2,6 +2,7 @@
 aliases:
   - Nizhny Novgorod Oblast
   - Nizhny Novgorod
+  - Nizhny_Novgorod_Oblast
 has_id_wikidata: Q2246
 location:
   - 56.3333

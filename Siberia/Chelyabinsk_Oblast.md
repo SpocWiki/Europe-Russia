@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Chelyabinsk_Oblast
+  - Chelyabinsk Oblast
 has_id_wikidata: Q5714
 ---
 

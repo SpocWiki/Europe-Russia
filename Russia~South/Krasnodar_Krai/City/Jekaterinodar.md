@@ -1,16 +1,19 @@
 ---
-location: [45.02,38.97] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Jekaterinodar
+location:
+  - 45.02
+  - 38.97
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31181
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

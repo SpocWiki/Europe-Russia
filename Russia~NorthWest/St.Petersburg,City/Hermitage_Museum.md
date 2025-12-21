@@ -3,6 +3,8 @@ aliases:
   - State Hermitage Museum
   - Государственный Эрмитаж
   - Gosudarstvennyj Ermitaž
+  - Hermitage_Museum
+  - Hermitage Museum
 has_id_wikidata: Q132783
 coordinate_location: Point(30.313611111 59.940555555)
 location:
@@ -22,45 +24,45 @@ Libris_URI: tr575n6c2mmz42j
 Krugosvet_article_archived_: zhivopis-i-grafika/ermitazh-muzei
 street_address: Санкт-Петербург, Дворцовая набережная, 34
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Winter_Palace,182147]]"
-  - "[[_Standards/WikiData/WD~Menshikov_Palace_(Saint_Petersburg),975426]]"
+  - '[[_Standards/WikiData/WD~Winter_Palace,182147]]'
+  - '[[_Standards/WikiData/WD~Menshikov_Palace_(Saint_Petersburg),975426]]'
   - "[[_Standards/WikiData/WD~H'Art_Museum,1350009]]"
-  - "[[_Standards/WikiData/WD~Hermitage_Theatre,2349693]]"
-  - "[[_Standards/WikiData/WD~General_Staff_Building,_Saint_Petersburg,2622043]]"
-  - "[[_Standards/WikiData/WD~New_Hermitage,3345111]]"
-  - "[[_Standards/WikiData/WD~Great_Hermitage,4092958]]"
-  - "[[_Standards/WikiData/WD~Small_Hermitage,4279216]]"
-  - "[[_Standards/WikiData/WD~Hermitage_Museum_building_at_Staraya_Derevnya,4439665]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Winter_Palace,182147]]"
-award_received: "[[_Standards/WikiData/WD~Order_of_Lenin,185493]]"
+  - '[[_Standards/WikiData/WD~Hermitage_Theatre,2349693]]'
+  - '[[_Standards/WikiData/WD~General_Staff_Building,_Saint_Petersburg,2622043]]'
+  - '[[_Standards/WikiData/WD~New_Hermitage,3345111]]'
+  - '[[_Standards/WikiData/WD~Great_Hermitage,4092958]]'
+  - '[[_Standards/WikiData/WD~Small_Hermitage,4279216]]'
+  - '[[_Standards/WikiData/WD~Hermitage_Museum_building_at_Staraya_Derevnya,4439665]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Winter_Palace,182147]]'
+award_received: '[[_Standards/WikiData/WD~Order_of_Lenin,185493]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~The_Return_of_the_Prodigal_Son,512755]]"
-  - "[[_Standards/WikiData/WD~Woman_in_the_Garden,681876]]"
-  - "[[_Standards/WikiData/WD~Woman_in_Black,736446]]"
-  - "[[_Standards/WikiData/WD~Woman_and_a_maid_with_a_pail_of_fish_in_a_courtyard,6126670]]"
-  - "[[_Standards/WikiData/WD~St._Mark,16695525]]"
-  - "[[_Standards/WikiData/WD~View_of_Oudezijds_Voorburgwal_with_the_Oude_Kerk_in_Amsterdam,17276127]]"
-  - "[[_Standards/WikiData/WD~View_of_Nyenrode_Castle,20651048]]"
-  - "[[_Standards/WikiData/WD~Portrait_of_a_Lady_with_a_Boy,21722853]]"
-  - "[[_Standards/WikiData/WD~The_Knife_Grinder_and_his_Family,34369423]]"
-  - "[[_Standards/WikiData/WD~Sine_Cerere_et_Baccho_friget_Venus,35651676]]"
-  - "[[_Standards/WikiData/WD~Fantasy_Landscape_with_Aspects_of_Cologne,57285284]]"
+  - '[[_Standards/WikiData/WD~The_Return_of_the_Prodigal_Son,512755]]'
+  - '[[_Standards/WikiData/WD~Woman_in_the_Garden,681876]]'
+  - '[[_Standards/WikiData/WD~Woman_in_Black,736446]]'
+  - '[[_Standards/WikiData/WD~Woman_and_a_maid_with_a_pail_of_fish_in_a_courtyard,6126670]]'
+  - '[[_Standards/WikiData/WD~St._Mark,16695525]]'
+  - '[[_Standards/WikiData/WD~View_of_Oudezijds_Voorburgwal_with_the_Oude_Kerk_in_Amsterdam,17276127]]'
+  - '[[_Standards/WikiData/WD~View_of_Nyenrode_Castle,20651048]]'
+  - '[[_Standards/WikiData/WD~Portrait_of_a_Lady_with_a_Boy,21722853]]'
+  - '[[_Standards/WikiData/WD~The_Knife_Grinder_and_his_Family,34369423]]'
+  - '[[_Standards/WikiData/WD~Sine_Cerere_et_Baccho_friget_Venus,35651676]]'
+  - '[[_Standards/WikiData/WD~Fantasy_Landscape_with_Aspects_of_Cologne,57285284]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-  - "[[_Standards/WikiData/WD~State_Catalogue_of_the_Museum_Fund_of_Russia,69832186]]"
-  - "[[_Standards/WikiData/WD~hedendaagsesieraden.nl,89929597]]"
-director_manager: "[[_Standards/WikiData/WD~Mikhail_Piotrovsky,2280388]]"
-different_from: "[[_Standards/WikiData/WD~Hermitage_Foundation,3075622]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q15148418,15148418]]"
-heritage_designation: "[[_Standards/WikiData/WD~federal_cultural_heritage_site_in_Russia,23668083]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Saint_Petersburg,656]]"
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+  - '[[_Standards/WikiData/WD~State_Catalogue_of_the_Museum_Fund_of_Russia,69832186]]'
+  - '[[_Standards/WikiData/WD~hedendaagsesieraden.nl,89929597]]'
+director_manager: '[[_Standards/WikiData/WD~Mikhail_Piotrovsky,2280388]]'
+different_from: '[[_Standards/WikiData/WD~Hermitage_Foundation,3075622]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q15148418,15148418]]'
+heritage_designation: '[[_Standards/WikiData/WD~federal_cultural_heritage_site_in_Russia,23668083]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
 Wikidata_property: Hermitage Museum work ID
-country: "[[_Standards/WikiData/WD~Russia,159]]"
-instance_of: "[[_Standards/WikiData/WD~museum,33506]]"
+country: '[[_Standards/WikiData/WD~Russia,159]]'
+instance_of: '[[_Standards/WikiData/WD~museum,33506]]'
 visitors_per_year:
   - 4200000
   - 4220000
@@ -69,7 +71,7 @@ visitors_per_year:
   - 3668031
   - 4119103
   - 4956529
-founded_by: "[[_Standards/WikiData/WD~Catherine_II_of_Russia,36450]]"
+founded_by: '[[_Standards/WikiData/WD~Catherine_II_of_Russia,36450]]'
 social_media_followers:
   - 136000
   - 763251

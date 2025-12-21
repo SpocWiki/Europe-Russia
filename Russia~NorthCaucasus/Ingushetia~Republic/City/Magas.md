@@ -1,16 +1,19 @@
 ---
-location: [43.16667,44.81667] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Magas
+location:
+  - 43.16667
+  - 44.81667
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 37065
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

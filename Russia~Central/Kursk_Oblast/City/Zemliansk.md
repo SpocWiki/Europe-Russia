@@ -1,16 +1,19 @@
 ---
-location: [51.9,38.4] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Zemliansk
+location:
+  - 51.9
+  - 38.4
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35808
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

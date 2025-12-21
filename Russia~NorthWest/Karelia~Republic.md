@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Karelia Republic
+  - Republic of Karelia
+  - Karelia~Republic
 location:
   - 61.78
   - 34.4
@@ -8,9 +12,6 @@ tags:
 SpocWebEntityId: 37046
 isDeleted: false
 confidential: public
-aliases:
-  - Karelia Republic
-  - Republic of Karelia 
 ---
 
 # [[Karelia~Republic]]

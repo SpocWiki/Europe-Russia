@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Lipetsk Oblast
+  - Lipetsk
+  - Lipetsk_Oblast
 location:
   - 52.6167
   - 39.6
@@ -8,9 +12,6 @@ tags:
 SpocWebEntityId: 37136
 isDeleted: false
 confidential: public
-aliases:
-  - Lipetsk Oblast
-  - Lipetsk 
 ---
 [name::Lipetsk Oblast] 
 [name-abbr::] 

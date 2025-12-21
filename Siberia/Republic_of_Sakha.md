@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Sakha Republic
+  - Republic_of_Sakha
+  - Republic of Sakha
 has_id_wikidata: Q6605
 Commons gallery: Якутия
 official name:
@@ -11,56 +15,56 @@ short name:
   - Якутия
 inception: 1990-09-27T00:00:00Z
 coordinate location: Point(129.166666666 66.4)
-replaces: "[[WikiData/WD~Yakut_Autonomous_Soviet_Socialist_Republic,175755]]"
+replaces: '[[WikiData/WD~Yakut_Autonomous_Soviet_Socialist_Republic,175755]]'
 located in time zone:
-  - "[[WikiData/WD~Magadan_Time,385504]]"
-  - "[[WikiData/WD~Vladivostok_Time,632994]]"
-  - "[[WikiData/WD~Yakutsk_Time,2351250]]"
-flag: "[[WikiData/WD~flag_of_the_Sakha_Republic,834691]]"
+  - '[[WikiData/WD~Magadan_Time,385504]]'
+  - '[[WikiData/WD~Vladivostok_Time,632994]]'
+  - '[[WikiData/WD~Yakutsk_Time,2351250]]'
+flag: '[[WikiData/WD~flag_of_the_Sakha_Republic,834691]]'
 described by source:
-  - "[[WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-legislative body: "[[WikiData/WD~State_Assembly_of_the_Sakha_Republic,2037704]]"
-anthem: "[[WikiData/WD~National_Anthem_of_the_Sakha_Republic,2666281]]"
-coat of arms: "[[WikiData/WD~coat_of_arms_of_the_Sakha_Republic,2996822]]"
-office held by head of government: "[[WikiData/WD~President_of_the_Sakha_Republic,4139090]]"
-head of government: "[[WikiData/WD~Aysen_Nikolayev,15075401]]"
-category for people buried here: "[[WikiData/WD~Q32272988,32272988]]"
-economy of topic: "[[WikiData/WD~economy_of_Sakha,106020219]]"
+  - '[[WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+legislative body: '[[WikiData/WD~State_Assembly_of_the_Sakha_Republic,2037704]]'
+anthem: '[[WikiData/WD~National_Anthem_of_the_Sakha_Republic,2666281]]'
+coat of arms: '[[WikiData/WD~coat_of_arms_of_the_Sakha_Republic,2996822]]'
+office held by head of government: '[[WikiData/WD~President_of_the_Sakha_Republic,4139090]]'
+head of government: '[[WikiData/WD~Aysen_Nikolayev,15075401]]'
+category for people buried here: '[[WikiData/WD~Q32272988,32272988]]'
+economy of topic: '[[WikiData/WD~economy_of_Sakha,106020219]]'
 BHCL UUID: 8c9f8e9f-11aa-45f2-9293-33a0aa4882fc
-ISNI: "0000000404467783"
+ISNI: 0000000404467783
 locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Russia%20%282014%E2%80%932022%29%20-%20Sakha%20%28Yakutia%29.svg
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Sakha.svg
 shares border with:
-  - "[[WikiData/WD~Krasnoyarsk_Krai,6563]]"
-  - "[[WikiData/WD~Irkutsk_Oblast,6585]]"
-  - "[[WikiData/WD~Zabaykalsky_Krai,6838]]"
-  - "[[WikiData/WD~Amur_Oblast,6886]]"
-  - "[[WikiData/WD~Khabarovsk_Krai,7788]]"
-  - "[[WikiData/WD~Magadan_Oblast,7971]]"
-  - "[[WikiData/WD~Chukotka_Autonomous_Okrug,7984]]"
-capital: "[[WikiData/WD~Yakutsk,6610]]"
+  - '[[WikiData/WD~Krasnoyarsk_Krai,6563]]'
+  - '[[WikiData/WD~Irkutsk_Oblast,6585]]'
+  - '[[WikiData/WD~Zabaykalsky_Krai,6838]]'
+  - '[[WikiData/WD~Amur_Oblast,6886]]'
+  - '[[WikiData/WD~Khabarovsk_Krai,7788]]'
+  - '[[WikiData/WD~Magadan_Oblast,7971]]'
+  - '[[WikiData/WD~Chukotka_Autonomous_Okrug,7984]]'
+capital: '[[WikiData/WD~Yakutsk,6610]]'
 official language:
-  - "[[WikiData/WD~Russian,7737]]"
-  - "[[WikiData/WD~Yakut,34299]]"
+  - '[[WikiData/WD~Russian,7737]]'
+  - '[[WikiData/WD~Yakut,34299]]'
 language used:
-  - "[[WikiData/WD~Naukan_Yupik,27963]]"
-  - "[[WikiData/WD~Central_Siberian_Yupik,27993]]"
-  - "[[WikiData/WD~Sirenik,28156]]"
-  - "[[WikiData/WD~Even,29960]]"
-  - "[[WikiData/WD~Dolgan,32878]]"
-  - "[[WikiData/WD~Chukchi,33170]]"
-  - "[[WikiData/WD~Orok,33928]]"
-  - "[[WikiData/WD~Yakut,34299]]"
-  - "[[WikiData/WD~Nivkh,36464]]"
-  - "[[WikiData/WD~Tundra_Yukaghir,56319]]"
-continent: "[[WikiData/WD~Asia,48]]"
-country: "[[WikiData/WD~Russia,159]]"
-located in the administrative territorial entity: "[[WikiData/WD~Russia,159]]"
+  - '[[WikiData/WD~Naukan_Yupik,27963]]'
+  - '[[WikiData/WD~Central_Siberian_Yupik,27993]]'
+  - '[[WikiData/WD~Sirenik,28156]]'
+  - '[[WikiData/WD~Even,29960]]'
+  - '[[WikiData/WD~Dolgan,32878]]'
+  - '[[WikiData/WD~Chukchi,33170]]'
+  - '[[WikiData/WD~Orok,33928]]'
+  - '[[WikiData/WD~Yakut,34299]]'
+  - '[[WikiData/WD~Nivkh,36464]]'
+  - '[[WikiData/WD~Tundra_Yukaghir,56319]]'
+continent: '[[WikiData/WD~Asia,48]]'
+country: '[[WikiData/WD~Russia,159]]'
+located in the administrative territorial entity: '[[WikiData/WD~Russia,159]]'
 instance of:
-  - "[[WikiData/WD~republic_of_Russia,41162]]"
-part of: "[[WikiData/WD~Far_Eastern_Federal_District,41968]]"
-licence plate code: "14"
-OmegaWiki Defined Meaning: "417815"
+  - '[[WikiData/WD~republic_of_Russia,41162]]'
+part of: '[[WikiData/WD~Far_Eastern_Federal_District,41968]]'
+licence plate code: 14
+OmegaWiki Defined Meaning: 417815
 population: 1001664
 Commons category: Sakha Republic
 area: 3083523
@@ -73,8 +77,6 @@ Libris-URI: nl021p461jvgljb
 FIPS 10-4 (countries and regions): RS63
 ISO 3166-2 code: RU-SA
 HASC: RU.SK
-aliases:
-  - Sakha Republic
 ---
 
 #is_/same_as :: [[_Standards/WikiData/WD~Sakha,6605]] 

@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Astrakhan Oblast
+  - Astrakhan
+  - Astrakhan_Oblast
 location:
   - 46.35
   - 48.05
@@ -8,9 +12,6 @@ tags:
 SpocWebEntityId: 37118
 isDeleted: false
 confidential: public
-aliases:
-  - Astrakhan Oblast
-  - Astrakhan 
 ---
 [name::Astrakhan Oblast] 
 [name-abbr::] 

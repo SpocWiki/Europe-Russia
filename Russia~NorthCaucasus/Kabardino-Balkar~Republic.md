@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Kabardino-Balkar Republic
+  - Republic of Kabardino-Balkar
+  - Kabardino-Balkar~Republic
 location:
   - 43.5
   - 43.62
@@ -8,9 +12,6 @@ tags:
 SpocWebEntityId: 37043
 isDeleted: false
 confidential: public
-aliases:
-  - Kabardino-Balkar Republic
-  - Republic of Kabardino-Balkar 
 ---
 
 # [[Kabardino-Balkar~Republic]] 

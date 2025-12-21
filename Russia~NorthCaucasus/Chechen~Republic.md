@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Chechen Republic
+  - Republic of Chechen
+  - Chechen~Republic
 location:
   - 43.33
   - 45.7
@@ -8,9 +12,6 @@ tags:
 SpocWebEntityId: 37056
 isDeleted: false
 confidential: public
-aliases:
-  - Chechen Republic
-  - Republic of Chechen 
 ---
 [name::Chechen~Republic] 
 [name-abbr::] 

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Smolensk Oblast
+  - Smolensk_Oblast
 location:
   - 54.78
   - 32.05
@@ -8,8 +11,6 @@ tags:
 SpocWebEntityId: 37189
 isDeleted: false
 confidential: public
-aliases:
-  - Smolensk Oblast
 ---
 [name::Smolensk Oblast] 
 [name-abbr::] 

@@ -1,16 +1,19 @@
 ---
-location: [54.43,20.83] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Domnau
+location:
+  - 54.43
+  - 20.83
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29834
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

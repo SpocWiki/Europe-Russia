@@ -1,4 +1,7 @@
 ---
+aliases:
+  - _Lakes
+  - ' Lakes'
 location:
   - 57.2
   - 33.1
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - _Lakes
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # _Lakes

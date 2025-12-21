@@ -2,6 +2,8 @@
 aliases:
   - Stalingrad
   - Tsaritsyn
+  - Volgograd
+has_id_wikidata: Q914
 location:
   - 48.7
   - 44.51667
@@ -15,7 +17,6 @@ tags:
 SpocWebEntityId: 37123
 isDeleted: false
 confidential: public
-has_id_wikidata: Q914
 ---
 
 # [[Volgograd]]

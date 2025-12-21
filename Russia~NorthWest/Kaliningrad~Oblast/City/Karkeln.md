@@ -1,16 +1,19 @@
 ---
-location: [55.2,21.28] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Karkeln
+location:
+  - 55.2
+  - 21.28
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31308
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

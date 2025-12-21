@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Pskov Oblast
+  - Pskov
+  - Pskov_Oblast
 location:
   - 57.83
   - 28.33
@@ -8,9 +12,6 @@ tags:
 SpocWebEntityId: 37150
 isDeleted: false
 confidential: public
-aliases:
-  - Pskov Oblast
-  - Pskov
 ---
 [name::Pskov Oblast] 
 [name-abbr::] 

@@ -1,16 +1,19 @@
 ---
-location: [61.08,42.12] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Welsk
+location:
+  - 61.08
+  - 42.12
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35533
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Welsk]] 

@@ -1,16 +1,19 @@
 ---
-location: [54.4,40.38] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Spassk~Rjaesan
+location:
+  - 54.4
+  - 40.38
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34408
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

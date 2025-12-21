@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Rostov Oblast
+  - Rostov
+  - Rostov_Oblast
 location:
   - 48.1
   - 40.9
@@ -8,9 +12,6 @@ tags:
 SpocWebEntityId: 37151
 isDeleted: false
 confidential: public
-aliases:
-  - Rostov Oblast
-  - Rostov 
 ---
 [name::Rostov Oblast] 
 [name-abbr::] 

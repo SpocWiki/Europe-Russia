@@ -1,16 +1,19 @@
 ---
-location: [54.35,38.27] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Wenew
+location:
+  - 54.35
+  - 38.27
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35539
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

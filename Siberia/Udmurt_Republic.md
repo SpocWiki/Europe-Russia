@@ -1,47 +1,50 @@
 ---
+aliases:
+  - Udmurt_Republic
+  - Udmurt Republic
 has_id_wikidata: Q5422
-part of: "[[WikiData/WD~Volga_Federal_District,202317]]"
-flag: "[[WikiData/WD~flag_of_the_Udmurt_Republic,842322]]"
+part of: '[[WikiData/WD~Volga_Federal_District,202317]]'
+flag: '[[WikiData/WD~flag_of_the_Udmurt_Republic,842322]]'
 shares border with:
-  - "[[WikiData/WD~Perm_Oblast,846866]]"
-  - "[[WikiData/WD~Chastinsky_District,870773]]"
-  - "[[WikiData/WD~Sivinsky_District,1029319]]"
-  - "[[WikiData/WD~Kirov_Oblast,5387]]"
-  - "[[WikiData/WD~Perm_Krai,5400]]"
-  - "[[WikiData/WD~Tatarstan,5481]]"
-  - "[[WikiData/WD~Bashkortostan,5710]]"
-located in/on physical feature: "[[WikiData/WD~European_Russia,875134]]"
-anthem: "[[WikiData/WD~National_Anthem_of_the_Udmurt_Republic,1193820]]"
-replaces: "[[WikiData/WD~Udmurt_Autonomous_Soviet_Socialist_Republic,1429298]]"
+  - '[[WikiData/WD~Perm_Oblast,846866]]'
+  - '[[WikiData/WD~Chastinsky_District,870773]]'
+  - '[[WikiData/WD~Sivinsky_District,1029319]]'
+  - '[[WikiData/WD~Kirov_Oblast,5387]]'
+  - '[[WikiData/WD~Perm_Krai,5400]]'
+  - '[[WikiData/WD~Tatarstan,5481]]'
+  - '[[WikiData/WD~Bashkortostan,5710]]'
+located in/on physical feature: '[[WikiData/WD~European_Russia,875134]]'
+anthem: '[[WikiData/WD~National_Anthem_of_the_Udmurt_Republic,1193820]]'
+replaces: '[[WikiData/WD~Udmurt_Autonomous_Soviet_Socialist_Republic,1429298]]'
 instance of:
-  - "[[WikiData/WD~autonomous_republic,1977835]]"
-  - "[[WikiData/WD~republic_of_Russia,41162]]"
-located in time zone: "[[WikiData/WD~Samara_Time,2350893]]"
-coat of arms: "[[WikiData/WD~coat_of_arms_of_the_Udmurt_Republic,2622402]]"
-geography of topic: "[[WikiData/WD~geography_of_the_Udmurt_Republic,4135653]]"
-legislative body: "[[WikiData/WD~State_Council_of_the_Udmurt_Republic,4146733]]"
-main regulatory text: "[[WikiData/WD~Q4231553,4231553]]"
-economy of topic: "[[WikiData/WD~economy_of_Udmurt_Republic,6465701]]"
-topic's main Wikimedia portal: "[[WikiData/WD~Q9892998,9892998]]"
-office held by head of state: "[[WikiData/WD~Head_of_the_Udmurt_Republic,16911974]]"
-head of state: "[[WikiData/WD~Aleksandr_Brechalov,19818042]]"
-executive body: "[[WikiData/WD~Q25686230,25686230]]"
-category for people buried here: "[[WikiData/WD~Q32220057,32220057]]"
-head of government: "[[WikiData/WD~Q109316612,109316612]]"
+  - '[[WikiData/WD~autonomous_republic,1977835]]'
+  - '[[WikiData/WD~republic_of_Russia,41162]]'
+located in time zone: '[[WikiData/WD~Samara_Time,2350893]]'
+coat of arms: '[[WikiData/WD~coat_of_arms_of_the_Udmurt_Republic,2622402]]'
+geography of topic: '[[WikiData/WD~geography_of_the_Udmurt_Republic,4135653]]'
+legislative body: '[[WikiData/WD~State_Council_of_the_Udmurt_Republic,4146733]]'
+main regulatory text: '[[WikiData/WD~Q4231553,4231553]]'
+economy of topic: '[[WikiData/WD~economy_of_Udmurt_Republic,6465701]]'
+topic's main Wikimedia portal: '[[WikiData/WD~Q9892998,9892998]]'
+office held by head of state: '[[WikiData/WD~Head_of_the_Udmurt_Republic,16911974]]'
+head of state: '[[WikiData/WD~Aleksandr_Brechalov,19818042]]'
+executive body: '[[WikiData/WD~Q25686230,25686230]]'
+category for people buried here: '[[WikiData/WD~Q32220057,32220057]]'
+head of government: '[[WikiData/WD~Q109316612,109316612]]'
 locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Russia%20%282014%E2%80%932022%29%20-%20Udmurtia.svg
 coordinate location: Point(52.75 57.283333333)
-capital: "[[WikiData/WD~Izhevsk,5426]]"
+capital: '[[WikiData/WD~Izhevsk,5426]]'
 language used:
-  - "[[WikiData/WD~Russian,7737]]"
-  - "[[WikiData/WD~Udmurt,13238]]"
+  - '[[WikiData/WD~Russian,7737]]'
+  - '[[WikiData/WD~Udmurt,13238]]'
 official language:
-  - "[[WikiData/WD~Russian,7737]]"
-  - "[[WikiData/WD~Udmurt,13238]]"
-continent: "[[WikiData/WD~Europe,46]]"
-located in the administrative territorial entity: "[[WikiData/WD~Russia,159]]"
-country: "[[WikiData/WD~Russia,159]]"
+  - '[[WikiData/WD~Russian,7737]]'
+  - '[[WikiData/WD~Udmurt,13238]]'
+continent: '[[WikiData/WD~Europe,46]]'
+located in the administrative territorial entity: '[[WikiData/WD~Russia,159]]'
+country: '[[WikiData/WD~Russia,159]]'
 area: 42100
-licence plate code: "18"
+licence plate code: 18
 Dewey Decimal Classification: 2--4746
 Commons category: Udmurtia
 population: 1493356

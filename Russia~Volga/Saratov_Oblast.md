@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Saratov Oblast
+  - Saratov
+  - Saratov_Oblast
+has_id_wikidata: Q5334
 location:
   - 46.2
   - 51.57
@@ -8,51 +13,47 @@ tags:
 SpocWebEntityId: 37185
 isDeleted: false
 confidential: public
-aliases:
-  - Saratov Oblast
-  - Saratov
-has_id_wikidata: Q5334
 part_of:
-  - "[[_Standards/WikiData/WD~Volga_Federal_District,202317]]"
-  - "[[_Standards/WikiData/WD~European_Russia,875134]]"
+  - '[[_Standards/WikiData/WD~Volga_Federal_District,202317]]'
+  - '[[_Standards/WikiData/WD~European_Russia,875134]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~West_Kazakhstan_Region,486007]]"
-  - "[[_Standards/WikiData/WD~Samara_Oblast,1727]]"
-  - "[[_Standards/WikiData/WD~Voronezh_Oblast,3447]]"
-  - "[[_Standards/WikiData/WD~Tambov_Oblast,3550]]"
-  - "[[_Standards/WikiData/WD~Volgograd_Oblast,3819]]"
-  - "[[_Standards/WikiData/WD~Orenburg_Oblast,5338]]"
-  - "[[_Standards/WikiData/WD~Penza_Oblast,5545]]"
-  - "[[_Standards/WikiData/WD~Ulyanovsk_Oblast,5634]]"
+  - '[[_Standards/WikiData/WD~West_Kazakhstan_Region,486007]]'
+  - '[[_Standards/WikiData/WD~Samara_Oblast,1727]]'
+  - '[[_Standards/WikiData/WD~Voronezh_Oblast,3447]]'
+  - '[[_Standards/WikiData/WD~Tambov_Oblast,3550]]'
+  - '[[_Standards/WikiData/WD~Volgograd_Oblast,3819]]'
+  - '[[_Standards/WikiData/WD~Orenburg_Oblast,5338]]'
+  - '[[_Standards/WikiData/WD~Penza_Oblast,5545]]'
+  - '[[_Standards/WikiData/WD~Ulyanovsk_Oblast,5634]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~oblast_of_Russia,835714]]"
-  - "[[_Standards/WikiData/WD~federal_subject_of_Russia,43263]]"
+  - '[[_Standards/WikiData/WD~oblast_of_Russia,835714]]'
+  - '[[_Standards/WikiData/WD~federal_subject_of_Russia,43263]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Samara_Time,2350893]]"
-  - "[[_Standards/WikiData/WD~Europe_Saratov,63230237]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Saratov_Oblast,2993349]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Saratov_Oblast,4135643]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Saratov_Oblast,4136756]]"
-head_of_government: "[[_Standards/WikiData/WD~Valery_Radayev,4387099]]"
-legislative_body: "[[_Standards/WikiData/WD~Saratov_Oblast_Duma,4408437]]"
-category_for_people_buried_here: "[[_Standards/WikiData/WD~Q7977978,7977978]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Governor_of_Saratov_Oblast,28664491]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Saratov_Oblast,100863212]]"
-highest_point: "[[_Standards/WikiData/WD~Q132824020,132824020]]"
-capital: "[[_Standards/WikiData/WD~Saratov,5332]]"
+  - '[[_Standards/WikiData/WD~Samara_Time,2350893]]'
+  - '[[_Standards/WikiData/WD~Europe_Saratov,63230237]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Saratov_Oblast,2993349]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Saratov_Oblast,4135643]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Saratov_Oblast,4136756]]'
+head_of_government: '[[_Standards/WikiData/WD~Valery_Radayev,4387099]]'
+legislative_body: '[[_Standards/WikiData/WD~Saratov_Oblast_Duma,4408437]]'
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q7977978,7977978]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Governor_of_Saratov_Oblast,28664491]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Saratov_Oblast,100863212]]'
+highest_point: '[[_Standards/WikiData/WD~Q132824020,132824020]]'
+capital: '[[_Standards/WikiData/WD~Saratov,5332]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Russian,7737]]"
-  - "[[_Standards/WikiData/WD~Tatar,25285]]"
-official_language: "[[_Standards/WikiData/WD~Russian,7737]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Russia,159]]"
-country: "[[_Standards/WikiData/WD~Russia,159]]"
+  - '[[_Standards/WikiData/WD~Russian,7737]]'
+  - '[[_Standards/WikiData/WD~Tatar,25285]]'
+official_language: '[[_Standards/WikiData/WD~Russian,7737]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Russia,159]]'
+country: '[[_Standards/WikiData/WD~Russia,159]]'
 licence_plate_code:
-  - "164"
-  - "64"
+  - 164
+  - 64
 area: 100830
 population: 2369405
 Dewey_Decimal_Classification: 2--4746

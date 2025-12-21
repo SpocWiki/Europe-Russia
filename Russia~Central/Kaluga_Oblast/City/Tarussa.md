@@ -1,16 +1,19 @@
 ---
-location: [54.73,37.18] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Tarussa
+location:
+  - 54.73
+  - 37.18
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34771
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

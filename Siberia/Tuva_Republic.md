@@ -1,43 +1,46 @@
 ---
+aliases:
+  - Tuva_Republic
+  - Tuva Republic
 has_id_wikidata: Q960
 shares border with:
-  - "[[WikiData/WD~Zavkhan_Province,167764]]"
-  - "[[WikiData/WD~Bayan-Ölgii_Province,191792]]"
-  - "[[WikiData/WD~Uvs_Province,192942]]"
-  - "[[WikiData/WD~Khövsgöl_Province,244788]]"
-  - "[[WikiData/WD~Altai_Republic,5971]]"
-  - "[[WikiData/WD~Khakassia,6543]]"
-  - "[[WikiData/WD~Krasnoyarsk_Krai,6563]]"
-  - "[[WikiData/WD~Irkutsk_Oblast,6585]]"
-  - "[[WikiData/WD~Buryatia,6809]]"
-replaces: "[[WikiData/WD~Tuvan_Autonomous_Soviet_Socialist_Republic,338317]]"
-flag: "[[WikiData/WD~flag_of_Tuva,601206]]"
-head of government: "[[WikiData/WD~Sholban_Kara-ool,967028]]"
+  - '[[WikiData/WD~Zavkhan_Province,167764]]'
+  - '[[WikiData/WD~Bayan-Ölgii_Province,191792]]'
+  - '[[WikiData/WD~Uvs_Province,192942]]'
+  - '[[WikiData/WD~Khövsgöl_Province,244788]]'
+  - '[[WikiData/WD~Altai_Republic,5971]]'
+  - '[[WikiData/WD~Khakassia,6543]]'
+  - '[[WikiData/WD~Krasnoyarsk_Krai,6563]]'
+  - '[[WikiData/WD~Irkutsk_Oblast,6585]]'
+  - '[[WikiData/WD~Buryatia,6809]]'
+replaces: '[[WikiData/WD~Tuvan_Autonomous_Soviet_Socialist_Republic,338317]]'
+flag: '[[WikiData/WD~flag_of_Tuva,601206]]'
+head of government: '[[WikiData/WD~Sholban_Kara-ool,967028]]'
 anthem:
-  - "[[WikiData/WD~Tooruktug_Dolgay_Tangdym,1330359]]"
-  - "[[WikiData/WD~Men_–_Tyva_Men,10860347]]"
+  - '[[WikiData/WD~Tooruktug_Dolgay_Tangdym,1330359]]'
+  - '[[WikiData/WD~Men_–_Tyva_Men,10860347]]'
 located in time zone:
-  - "[[WikiData/WD~Krasnoyarsk_Time,2351310]]"
-  - "[[WikiData/WD~Asia_Krasnoyarsk,4806292]]"
-coat of arms: "[[WikiData/WD~coat_of_arms_of_Tuva,2622409]]"
-highest point: "[[WikiData/WD~Mongun-Taiga,2994323]]"
-legislative body: "[[WikiData/WD~Great_Khural_of_Tuva,4109076]]"
-office held by head of government: "[[WikiData/WD~Head_of_the_Republic_of_Tuva,4376683]]"
-category for people buried here: "[[WikiData/WD~Q32220589,32220589]]"
-economy of topic: "[[WikiData/WD~economy_of_Tyva,100868450]]"
+  - '[[WikiData/WD~Krasnoyarsk_Time,2351310]]'
+  - '[[WikiData/WD~Asia_Krasnoyarsk,4806292]]'
+coat of arms: '[[WikiData/WD~coat_of_arms_of_Tuva,2622409]]'
+highest point: '[[WikiData/WD~Mongun-Taiga,2994323]]'
+legislative body: '[[WikiData/WD~Great_Khural_of_Tuva,4109076]]'
+office held by head of government: '[[WikiData/WD~Head_of_the_Republic_of_Tuva,4376683]]'
+category for people buried here: '[[WikiData/WD~Q32220589,32220589]]'
+economy of topic: '[[WikiData/WD~economy_of_Tyva,100868450]]'
 coordinate location: Point(94.75 51.783333333)
 locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Russia%20%282014%E2%80%932022%29%20-%20Tuva.svg
-capital: "[[WikiData/WD~Kyzyl,6049]]"
+capital: '[[WikiData/WD~Kyzyl,6049]]'
 official language:
-  - "[[WikiData/WD~Russian,7737]]"
-  - "[[WikiData/WD~Tuvan,34119]]"
-continent: "[[WikiData/WD~Asia,48]]"
-located in the administrative territorial entity: "[[WikiData/WD~Russia,159]]"
-country: "[[WikiData/WD~Russia,159]]"
-instance of: "[[WikiData/WD~republic_of_Russia,41162]]"
-part of: "[[WikiData/WD~Siberian_Federal_District,41979]]"
+  - '[[WikiData/WD~Russian,7737]]'
+  - '[[WikiData/WD~Tuvan,34119]]'
+continent: '[[WikiData/WD~Asia,48]]'
+located in the administrative territorial entity: '[[WikiData/WD~Russia,159]]'
+country: '[[WikiData/WD~Russia,159]]'
+instance of: '[[WikiData/WD~republic_of_Russia,41162]]'
+part of: '[[WikiData/WD~Siberian_Federal_District,41979]]'
 area: 170500
-licence plate code: "17"
+licence plate code: 17
 demonym: tuvai
 population: 338483
 video: http://commons.wikimedia.org/wiki/Special:FilePath/WIKITONGUES-%20Aydyn%20speaking%20Tuvan.webm

@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Bashkiria
+  - Republic_of_Bashkortostan
+  - Republic of Bashkortostan
 has_id_wikidata: Q5710
 FIPS 10-4 (countries and regions): RS08
 ISO 3166-2 code: RU-BA
@@ -10,83 +14,83 @@ official name:
   - Республика Башкортостан
 short name:
   - Башкортостан
-local dialing code: "347"
+local dialing code: 347
 demonym:
   - Baschiri
 population: 4042377
 inception: 1990-10-11T00:00:00Z
-award received: "[[WikiData/WD~Order_of_Lenin,185493]]"
+award received: '[[WikiData/WD~Order_of_Lenin,185493]]'
 part of:
-  - "[[WikiData/WD~Volga_Federal_District,202317]]"
-  - "[[WikiData/WD~European_Russia,875134]]"
+  - '[[WikiData/WD~Volga_Federal_District,202317]]'
+  - '[[WikiData/WD~European_Russia,875134]]'
 named after:
-  - "[[WikiData/WD~Bashkir_people,485348]]"
+  - '[[WikiData/WD~Bashkir_people,485348]]'
 owner of:
-  - "[[WikiData/WD~Ufa_International_Airport,650285]]"
-  - "[[WikiData/WD~FC_Ufa,2137561]]"
-flag: "[[WikiData/WD~flag_of_Bashkortostan,685217]]"
-follows: "[[WikiData/WD~Bashkir_Autonomous_Soviet_Socialist_Republic,809806]]"
+  - '[[WikiData/WD~Ufa_International_Airport,650285]]'
+  - '[[WikiData/WD~FC_Ufa,2137561]]'
+flag: '[[WikiData/WD~flag_of_Bashkortostan,685217]]'
+follows: '[[WikiData/WD~Bashkir_Autonomous_Soviet_Socialist_Republic,809806]]'
 described by source:
-  - "[[WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-anthem: "[[WikiData/WD~National_Anthem_of_the_Republic_of_Bashkortostan,1376659]]"
-highest point: "[[WikiData/WD~Mount_Yamantau,1514176]]"
-located in/on physical feature: "[[WikiData/WD~Preduralye,2182693]]"
+  - '[[WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+anthem: '[[WikiData/WD~National_Anthem_of_the_Republic_of_Bashkortostan,1376659]]'
+highest point: '[[WikiData/WD~Mount_Yamantau,1514176]]'
+located in/on physical feature: '[[WikiData/WD~Preduralye,2182693]]'
 located in time zone:
-  - "[[WikiData/WD~Yekaterinburg_Time,2332010]]"
-  - "[[WikiData/WD~Asia_Yekaterinburg,63286010]]"
-  - "[[WikiData/WD~UTC+05_00,6806]]"
-coat of arms: "[[WikiData/WD~coat_of_arms_of_Bashkortostan,2393137]]"
-position held by head of the organization: "[[WikiData/WD~Head_of_the_Republic_of_Bashkortostan,3555636]]"
-office held by head of state: "[[WikiData/WD~Head_of_the_Republic_of_Bashkortostan,3555636]]"
+  - '[[WikiData/WD~Yekaterinburg_Time,2332010]]'
+  - '[[WikiData/WD~Asia_Yekaterinburg,63286010]]'
+  - '[[WikiData/WD~UTC+05_00,6806]]'
+coat of arms: '[[WikiData/WD~coat_of_arms_of_Bashkortostan,2393137]]'
+position held by head of the organization: '[[WikiData/WD~Head_of_the_Republic_of_Bashkortostan,3555636]]'
+office held by head of state: '[[WikiData/WD~Head_of_the_Republic_of_Bashkortostan,3555636]]'
 different from:
-  - "[[WikiData/WD~Bashkiria,4080196]]"
-geography of topic: "[[WikiData/WD~geography_of_Bashkortostan,4135606]]"
-legislative body: "[[WikiData/WD~State_Assembly_of_Bashkortostan,4146671]]"
-foundational text: "[[WikiData/WD~Bashkortostan_Constitution,4231539]]"
-head of government: "[[WikiData/WD~Andrey_Nazarov,4312139]]"
+  - '[[WikiData/WD~Bashkiria,4080196]]'
+geography of topic: '[[WikiData/WD~geography_of_Bashkortostan,4135606]]'
+legislative body: '[[WikiData/WD~State_Assembly_of_Bashkortostan,4146671]]'
+foundational text: '[[WikiData/WD~Bashkortostan_Constitution,4231539]]'
+head of government: '[[WikiData/WD~Andrey_Nazarov,4312139]]'
 executive body:
-  - "[[WikiData/WD~Government_of_the_Republic_of_Bashkortostan,4375987]]"
-chairperson: "[[WikiData/WD~Radiy_Khabirov,4494406]]"
-economy of topic: "[[WikiData/WD~economy_of_Bashkortostan,4530330]]"
+  - '[[WikiData/WD~Government_of_the_Republic_of_Bashkortostan,4375987]]'
+chairperson: '[[WikiData/WD~Radiy_Khabirov,4494406]]'
+economy of topic: '[[WikiData/WD~economy_of_Bashkortostan,4530330]]'
 topic's main template:
-  - "[[WikiData/WD~Template_Republic_of_Bashkortostan,6327650]]"
-  - "[[WikiData/WD~Template_Bashkir-stub,19842573]]"
-category for people buried here: "[[WikiData/WD~Q7974909,7974909]]"
-topic's main Wikimedia portal: "[[WikiData/WD~Portal_Bashkortostan,13406041]]"
+  - '[[WikiData/WD~Template_Republic_of_Bashkortostan,6327650]]'
+  - '[[WikiData/WD~Template_Bashkir-stub,19842573]]'
+category for people buried here: '[[WikiData/WD~Q7974909,7974909]]'
+topic's main Wikimedia portal: '[[WikiData/WD~Portal_Bashkortostan,13406041]]'
 history of topic:
-  - "[[WikiData/WD~history_of_Bashkortostan,15630596]]"
-list of monuments: "[[WikiData/WD~list_of_cultural_heritage_monuments_in_Bashkortostan,17486232]]"
-office held by head of government: "[[WikiData/WD~Prime_Minister_of_Bashkortostan,57231489]]"
-replaces: "[[WikiData/WD~Bashkir_SSR,60500578]]"
+  - '[[WikiData/WD~history_of_Bashkortostan,15630596]]'
+list of monuments: '[[WikiData/WD~list_of_cultural_heritage_monuments_in_Bashkortostan,17486232]]'
+office held by head of government: '[[WikiData/WD~Prime_Minister_of_Bashkortostan,57231489]]'
+replaces: '[[WikiData/WD~Bashkir_SSR,60500578]]'
 UMLS CUI: C0004803
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bashkortostan%20%28large%29.svg
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Bashkortostan.svg
 coordinate location: Point(56.266666666 54.466666666)
-capital: "[[WikiData/WD~Ufa,911]]"
+capital: '[[WikiData/WD~Ufa,911]]'
 contains the administrative territorial entity:
-  - "[[WikiData/WD~Ufa,911]]"
+  - '[[WikiData/WD~Ufa,911]]'
 shares border with:
-  - "[[WikiData/WD~Orenburg_Oblast,5338]]"
-  - "[[WikiData/WD~Perm_Krai,5400]]"
-  - "[[WikiData/WD~Udmurtia,5422]]"
-  - "[[WikiData/WD~Sverdlovsk_Oblast,5462]]"
-  - "[[WikiData/WD~Tatarstan,5481]]"
-  - "[[WikiData/WD~Chelyabinsk_Oblast,5714]]"
+  - '[[WikiData/WD~Orenburg_Oblast,5338]]'
+  - '[[WikiData/WD~Perm_Krai,5400]]'
+  - '[[WikiData/WD~Udmurtia,5422]]'
+  - '[[WikiData/WD~Sverdlovsk_Oblast,5462]]'
+  - '[[WikiData/WD~Tatarstan,5481]]'
+  - '[[WikiData/WD~Chelyabinsk_Oblast,5714]]'
 official language:
-  - "[[WikiData/WD~Russian,7737]]"
-  - "[[WikiData/WD~Bashkir,13389]]"
+  - '[[WikiData/WD~Russian,7737]]'
+  - '[[WikiData/WD~Bashkir,13389]]'
 language used:
-  - "[[WikiData/WD~Bashkir,13389]]"
-  - "[[WikiData/WD~Tatar,25285]]"
-continent: "[[WikiData/WD~Europe,46]]"
-located in the administrative territorial entity: "[[WikiData/WD~Russia,159]]"
-country: "[[WikiData/WD~Russia,159]]"
+  - '[[WikiData/WD~Bashkir,13389]]'
+  - '[[WikiData/WD~Tatar,25285]]'
+continent: '[[WikiData/WD~Europe,46]]'
+located in the administrative territorial entity: '[[WikiData/WD~Russia,159]]'
+country: '[[WikiData/WD~Russia,159]]'
 elevation above sea level: 214
 instance of:
-  - "[[WikiData/WD~republic_of_Russia,41162]]"
+  - '[[WikiData/WD~republic_of_Russia,41162]]'
 licence plate code:
-  - "102"
-  - "02"
+  - 102
+  - 02
 area: 143600
 geoshape: http://commons.wikimedia.org/data/main/Data:Russia/Bashkortostan.map
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Bashkortostan%20banner.jpg
@@ -95,8 +99,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Salavat%20Yulaev%20Pan
 official website: https://www.bashkortostan.ru/
 Commons gallery: Atlas of Bashkortostan
 Commons category: Bashkortostan
-aliases:
-  - Bashkiria
 ---
 
 #is_/same_as :: [[_Standards/WikiData/WD~Bashkortostan,5710]] 

@@ -2,6 +2,7 @@
 aliases:
   - Hermitage Museum
   - Winter Palace
+  - Winter_Palace
 has_id_wikidata: Q182147
 location:
   - 59.939832
@@ -10,29 +11,29 @@ coordinate_location:
   - Point(30.313888888 59.940277777)
   - Point(30.31456 59.939832)
 inception: 1754-01-01T00:00:00Z
-founded_by: "[[_Standards/WikiData/WD~Elizabeth_I_of_Russia,130752]]"
-occupant: "[[_Standards/WikiData/WD~Hermitage_Museum,132783]]"
+founded_by: '[[_Standards/WikiData/WD~Elizabeth_I_of_Russia,130752]]'
+occupant: '[[_Standards/WikiData/WD~Hermitage_Museum,132783]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Hermitage_Museum,132783]]"
-  - "[[_Standards/WikiData/WD~historic_centre_of_Saint_Petersburg,64758537]]"
-architect: "[[_Standards/WikiData/WD~Francesco_Bartolomeo_Rastrelli,299687]]"
-has_use: "[[_Standards/WikiData/WD~official_residence,481289]]"
+  - '[[_Standards/WikiData/WD~Hermitage_Museum,132783]]'
+  - '[[_Standards/WikiData/WD~historic_centre_of_Saint_Petersburg,64758537]]'
+architect: '[[_Standards/WikiData/WD~Francesco_Bartolomeo_Rastrelli,299687]]'
+has_use: '[[_Standards/WikiData/WD~official_residence,481289]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Winter_Palace_Research,107360649]]"
-different_from: "[[_Standards/WikiData/WD~Winter_Palace_of_the_Bogd_Khan,1579833]]"
-located_on_street: "[[_Standards/WikiData/WD~Palace_Embankment,2317742]]"
-architectural_style: "[[_Standards/WikiData/WD~Elizabethan_Baroque,2359372]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Dvortsovy_Municipal_Okrug,2742132]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Second_Admiral_Island,4029774]]"
-heritage_designation: "[[_Standards/WikiData/WD~federal_cultural_heritage_site_in_Russia,23668083]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Winter_Palace_Research,107360649]]'
+different_from: '[[_Standards/WikiData/WD~Winter_Palace_of_the_Bogd_Khan,1579833]]'
+located_on_street: '[[_Standards/WikiData/WD~Palace_Embankment,2317742]]'
+architectural_style: '[[_Standards/WikiData/WD~Elizabethan_Baroque,2359372]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Dvortsovy_Municipal_Okrug,2742132]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Second_Admiral_Island,4029774]]'
+heritage_designation: '[[_Standards/WikiData/WD~federal_cultural_heritage_site_in_Russia,23668083]]'
 date_of_official_opening: 1762-01-01T00:00:00Z
-commissioned_by: "[[_Standards/WikiData/WD~Peter_the_Great,8479]]"
-instance_of: "[[_Standards/WikiData/WD~palace,16560]]"
-country: "[[_Standards/WikiData/WD~Russia,159]]"
+commissioned_by: '[[_Standards/WikiData/WD~Peter_the_Great,8479]]'
+instance_of: '[[_Standards/WikiData/WD~palace,16560]]'
+country: '[[_Standards/WikiData/WD~Russia,159]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Winter%20Palace%20Panorama%203.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/00%202038%20Winter%20Palace%20-%20Hermitage%20Museum%20%28St.%20Petersburg%29.jpg

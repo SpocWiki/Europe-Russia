@@ -1,16 +1,19 @@
 ---
-location: [53.93,43.18] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Spassk~Tambow
+location:
+  - 53.93
+  - 43.18
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34409
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [63.9,38.15] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Onega
+location:
+  - 63.9
+  - 38.15
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33110
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Onega]] 

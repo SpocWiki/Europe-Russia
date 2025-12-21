@@ -1,16 +1,19 @@
 ---
-location: [54.83,21.5] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Alexen
+location:
+  - 54.83
+  - 21.5
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 28734
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

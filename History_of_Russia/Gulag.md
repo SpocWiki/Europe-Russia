@@ -4,6 +4,7 @@ aliases:
   - Glávnoye upravléniye ispravítel'no-trudovýkh lageréy
   - Гла́вное управле́ние исправи́тельно-трудовы́х лагере́й
   - Main Directorate of Correctional Labour Camps
+  - Gulag
 has_id_wikidata: Q161448
 ---
 

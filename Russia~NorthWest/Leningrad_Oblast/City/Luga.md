@@ -1,16 +1,19 @@
 ---
-location: [58.73,29.83] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Luga
+location:
+  - 58.73
+  - 29.83
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32134
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

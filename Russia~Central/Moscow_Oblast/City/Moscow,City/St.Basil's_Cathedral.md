@@ -1,6 +1,8 @@
 ---
 aliases:
   - St. Basil's Cathedral
+  - St.Basil's_Cathedral
+  - St.Basil's Cathedral
 has_id_wikidata: Q129846
 height: 47.5
 location:
@@ -8,35 +10,35 @@ location:
   - 37.623055555
 coordinate_location: Point(37.623055555 55.7525)
 inception: 1555-01-01T00:00:00Z
-dedicated_to: "[[_Standards/WikiData/WD~Theotokos,208542]]"
+dedicated_to: '[[_Standards/WikiData/WD~Theotokos,208542]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~onion_dome,244621]]"
-  - "[[_Standards/WikiData/WD~Q117965315,117965315]]"
+  - '[[_Standards/WikiData/WD~onion_dome,244621]]'
+  - '[[_Standards/WikiData/WD~Q117965315,117965315]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~Eastern_Orthodox_church_building,2031836]]"
-  - "[[_Standards/WikiData/WD~architectural_landmark,2319498]]"
+  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+  - '[[_Standards/WikiData/WD~Eastern_Orthodox_church_building,2031836]]'
+  - '[[_Standards/WikiData/WD~architectural_landmark,2319498]]'
 described_by_source:
-  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfter_Band,130285551]]"
-  - "[[_Standards/WikiData/WD~The_Atlas_of_Holy_Places_&_Sacred_Sites,136221724]]"
-Christian_liturgical_rite: "[[_Standards/WikiData/WD~Byzantine_Rite,617075]]"
-named_after: "[[_Standards/WikiData/WD~Intercession_of_the_Theotokos,1410684]]"
-architect: "[[_Standards/WikiData/WD~Postnik_Yakovlev,2106252]]"
+  - '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfter_Band,130285551]]'
+  - '[[_Standards/WikiData/WD~The_Atlas_of_Holy_Places_&_Sacred_Sites,136221724]]'
+Christian_liturgical_rite: '[[_Standards/WikiData/WD~Byzantine_Rite,617075]]'
+named_after: '[[_Standards/WikiData/WD~Intercession_of_the_Theotokos,1410684]]'
+architect: '[[_Standards/WikiData/WD~Postnik_Yakovlev,2106252]]'
 architectural_style:
-  - "[[_Standards/WikiData/WD~Russian_architecture,2600188]]"
-  - "[[_Standards/WikiData/WD~tented_roof_church,4520962]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Tverskoy_District,2710104]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]"
-diocese: "[[_Standards/WikiData/WD~Moscow_Eparchy,4303904]]"
-heritage_designation: "[[_Standards/WikiData/WD~federal_cultural_heritage_site_in_Russia,23668083]]"
-appears_in_the_heritage_monument_list: "[[_Standards/WikiData/WD~Q27604708,27604708]]"
-founded_by: "[[_Standards/WikiData/WD~Ivan_the_Terrible,7996]]"
-country: "[[_Standards/WikiData/WD~Russia,159]]"
-made_from_material: "[[_Standards/WikiData/WD~brick,40089]]"
-locations: "[[_Standards/WikiData/WD~Red_Square,41116]]"
+  - '[[_Standards/WikiData/WD~Russian_architecture,2600188]]'
+  - '[[_Standards/WikiData/WD~tented_roof_church,4520962]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Tverskoy_District,2710104]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]'
+diocese: '[[_Standards/WikiData/WD~Moscow_Eparchy,4303904]]'
+heritage_designation: '[[_Standards/WikiData/WD~federal_cultural_heritage_site_in_Russia,23668083]]'
+appears_in_the_heritage_monument_list: '[[_Standards/WikiData/WD~Q27604708,27604708]]'
+founded_by: '[[_Standards/WikiData/WD~Ivan_the_Terrible,7996]]'
+country: '[[_Standards/WikiData/WD~Russia,159]]'
+made_from_material: '[[_Standards/WikiData/WD~brick,40089]]'
+locations: '[[_Standards/WikiData/WD~Red_Square,41116]]'
 native_label: Храм Василия Блаженного
 Commons_Institution_page: Saint Basil's Cathedral
 Commons_gallery: Saint Basil's Cathedral
@@ -49,7 +51,7 @@ official_website:
   - http://www.saintbasil.ru/
   - https://shm.ru/museum/hvb/
 Google_Doodle: 450th-anniversary-of-st-basils-cathedral
-RIA_Novosti_reference: "50661300"
+RIA_Novosti_reference: 50661300
 Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/POKROVSKI_SOBOR_CHTO_NA_RVU.html
 Instagram_username: saint_basils_cathedral
 Facebook_username: SaintBasilsCathedral

@@ -1,16 +1,19 @@
 ---
-location: [55.53,45.47] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Sergatsch
+location:
+  - 55.53
+  - 45.47
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34210
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

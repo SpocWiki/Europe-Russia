@@ -2,8 +2,9 @@
 aliases:
   - Ulyanovsk Oblast
   - Ulyanovsk
-confidential: public
+  - Ulyanovsk_Oblast
 has_id_wikidata: Q5634
+confidential: public
 SpocWebEntityId: 37195
 isDeleted: false
 location:
@@ -12,45 +13,45 @@ location:
 type: State
 tags:
   - geo/State
-award_received: "[[_Standards/WikiData/WD~Order_of_Lenin,185493]]"
+award_received: '[[_Standards/WikiData/WD~Order_of_Lenin,185493]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Volga_Federal_District,202317]]"
-  - "[[_Standards/WikiData/WD~European_Russia,875134]]"
+  - '[[_Standards/WikiData/WD~Volga_Federal_District,202317]]'
+  - '[[_Standards/WikiData/WD~European_Russia,875134]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~oblast_of_Russia,835714]]"
-  - "[[_Standards/WikiData/WD~federal_subject_of_Russia,43263]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Ulyanovsk_Oblast,2360287]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Ulyanovsk_Oblast,4136857]]"
-anthem: "[[_Standards/WikiData/WD~Q4138486,4138486]]"
-legislative_body: "[[_Standards/WikiData/WD~Legislative_Assembly_of_Ulyanovsk_Oblast,4184933]]"
-head_of_government: "[[_Standards/WikiData/WD~Alexei_Russkikh,4400897]]"
-category_for_people_buried_here: "[[_Standards/WikiData/WD~Q7978544,7978544]]"
-list_of_monuments: "[[_Standards/WikiData/WD~list_of_cultural_heritage_monuments_in_Ulyanovsk_Oblast,16262978]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Governor_of_Ulyanovsk_Oblast,24930613]]"
+  - '[[_Standards/WikiData/WD~oblast_of_Russia,835714]]'
+  - '[[_Standards/WikiData/WD~federal_subject_of_Russia,43263]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Ulyanovsk_Oblast,2360287]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Ulyanovsk_Oblast,4136857]]'
+anthem: '[[_Standards/WikiData/WD~Q4138486,4138486]]'
+legislative_body: '[[_Standards/WikiData/WD~Legislative_Assembly_of_Ulyanovsk_Oblast,4184933]]'
+head_of_government: '[[_Standards/WikiData/WD~Alexei_Russkikh,4400897]]'
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q7978544,7978544]]'
+list_of_monuments: '[[_Standards/WikiData/WD~list_of_cultural_heritage_monuments_in_Ulyanovsk_Oblast,16262978]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Governor_of_Ulyanovsk_Oblast,24930613]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Europe_Ulyanovsk,63286009]]"
-  - "[[_Standards/WikiData/WD~UTC+04_00,6779]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Ulyanovsk_Oblast,100865518]]"
+  - '[[_Standards/WikiData/WD~Europe_Ulyanovsk,63286009]]'
+  - '[[_Standards/WikiData/WD~UTC+04_00,6779]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Ulyanovsk_Oblast,100865518]]'
 highest_point: http://www.wikidata.org/.well-known/genid/f8cde90a45b61d24c2d613f991da47e4
 coordinate_location: Point(47.916666666 53.95)
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Samara_Oblast,1727]]"
-  - "[[_Standards/WikiData/WD~Saratov_Oblast,5334]]"
-  - "[[_Standards/WikiData/WD~Mordovia,5340]]"
-  - "[[_Standards/WikiData/WD~Chuvashia,5466]]"
-  - "[[_Standards/WikiData/WD~Tatarstan,5481]]"
-  - "[[_Standards/WikiData/WD~Penza_Oblast,5545]]"
-capital: "[[_Standards/WikiData/WD~Ulyanovsk,5627]]"
-language_used: "[[_Standards/WikiData/WD~Erzya,29952]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Russia,159]]"
-country: "[[_Standards/WikiData/WD~Russia,159]]"
+  - '[[_Standards/WikiData/WD~Samara_Oblast,1727]]'
+  - '[[_Standards/WikiData/WD~Saratov_Oblast,5334]]'
+  - '[[_Standards/WikiData/WD~Mordovia,5340]]'
+  - '[[_Standards/WikiData/WD~Chuvashia,5466]]'
+  - '[[_Standards/WikiData/WD~Tatarstan,5481]]'
+  - '[[_Standards/WikiData/WD~Penza_Oblast,5545]]'
+capital: '[[_Standards/WikiData/WD~Ulyanovsk,5627]]'
+language_used: '[[_Standards/WikiData/WD~Erzya,29952]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Russia,159]]'
+country: '[[_Standards/WikiData/WD~Russia,159]]'
 area: 37300
 licence_plate_code:
-  - "73"
-  - "173"
-local_dialing_code: "8422"
+  - 73
+  - 173
+local_dialing_code: 8422
 population: 1172782
 Dewey_Decimal_Classification: 2--4746
 inception: 1943-01-19T00:00:00Z

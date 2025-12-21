@@ -1,43 +1,45 @@
 ---
 aliases:
   - history of Russia
+  - History_of_Russia
+  - History of Russia
 has_id_wikidata: Q161414
 has_part_s_:
-  - "[[_Standards/WikiData/WD~history_of_rail_transport_in_Russia,640477]]"
-  - "[[_Standards/WikiData/WD~history_of_Russia_from_1721_to_1796,1091985]]"
-  - "[[_Standards/WikiData/WD~history_of_the_administrative_division_of_Russia,1192440]]"
-  - "[[_Standards/WikiData/WD~history_of_Russia_from_1894_to_1917,1321010]]"
-  - "[[_Standards/WikiData/WD~postage_stamps_and_postal_history_of_Russia,1984163]]"
-  - "[[_Standards/WikiData/WD~military_history_of_Russia,2011617]]"
-  - "[[_Standards/WikiData/WD~history_of_Russia_from_1796_to_1855,3942917]]"
-  - "[[_Standards/WikiData/WD~history_of_Russia_from_1855_to_1892,3978541]]"
-  - "[[_Standards/WikiData/WD~LGBT_history_in_Russia,4204645]]"
-  - "[[_Standards/WikiData/WD~history_of_the_Russian_Empire,4204714]]"
-  - "[[_Standards/WikiData/WD~history_of_Freemasonry_in_Russia,4204863]]"
-  - "[[_Standards/WikiData/WD~feminism_in_Russia,5442843]]"
-  - "[[_Standards/WikiData/WD~history_of_Russian_culture,5866285]]"
-  - "[[_Standards/WikiData/WD~history_of_international_law_in_Russia,5868019]]"
-  - "[[_Standards/WikiData/WD~visa_history_of_Russia,25064367]]"
-  - "[[_Standards/WikiData/WD~slavery_in_Russia,29075166]]"
-  - "[[_Standards/WikiData/WD~yoga_history_in_Russia,85816758]]"
-  - "[[_Standards/WikiData/WD~demographic_history_of_Russia,106809058]]"
-  - "[[_Standards/WikiData/WD~history_of_Russian_exploration,109340667]]"
+  - '[[_Standards/WikiData/WD~history_of_rail_transport_in_Russia,640477]]'
+  - '[[_Standards/WikiData/WD~history_of_Russia_from_1721_to_1796,1091985]]'
+  - '[[_Standards/WikiData/WD~history_of_the_administrative_division_of_Russia,1192440]]'
+  - '[[_Standards/WikiData/WD~history_of_Russia_from_1894_to_1917,1321010]]'
+  - '[[_Standards/WikiData/WD~postage_stamps_and_postal_history_of_Russia,1984163]]'
+  - '[[_Standards/WikiData/WD~military_history_of_Russia,2011617]]'
+  - '[[_Standards/WikiData/WD~history_of_Russia_from_1796_to_1855,3942917]]'
+  - '[[_Standards/WikiData/WD~history_of_Russia_from_1855_to_1892,3978541]]'
+  - '[[_Standards/WikiData/WD~LGBT_history_in_Russia,4204645]]'
+  - '[[_Standards/WikiData/WD~history_of_the_Russian_Empire,4204714]]'
+  - '[[_Standards/WikiData/WD~history_of_Freemasonry_in_Russia,4204863]]'
+  - '[[_Standards/WikiData/WD~feminism_in_Russia,5442843]]'
+  - '[[_Standards/WikiData/WD~history_of_Russian_culture,5866285]]'
+  - '[[_Standards/WikiData/WD~history_of_international_law_in_Russia,5868019]]'
+  - '[[_Standards/WikiData/WD~visa_history_of_Russia,25064367]]'
+  - '[[_Standards/WikiData/WD~slavery_in_Russia,29075166]]'
+  - '[[_Standards/WikiData/WD~yoga_history_in_Russia,85816758]]'
+  - '[[_Standards/WikiData/WD~demographic_history_of_Russia,106809058]]'
+  - '[[_Standards/WikiData/WD~history_of_Russian_exploration,109340667]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
+  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+  - '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~New_History_of_Yuan,1053256]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[_Standards/WikiData/WD~New_History_of_Yuan,1053256]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~history_of_Eurasia,1949625]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-subclass_of: "[[_Standards/WikiData/WD~history_of_Eurasia,1949625]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Russian_history,2372147]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Russia,10977508]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-country: "[[_Standards/WikiData/WD~Russia,159]]"
-Dewey_Decimal_Classification: "947"
+  - '[[_Standards/WikiData/WD~history_of_Eurasia,1949625]]'
+  - '[[_Standards/WikiData/WD~Russia,159]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_Eurasia,1949625]]'
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_Russian_history,2372147]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Russia,10977508]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+country: '[[_Standards/WikiData/WD~Russia,159]]'
+Dewey_Decimal_Classification: 947
 image: http://commons.wikimedia.org/wiki/Special:FilePath/67%20History%20of%20the%20Russian%20state%20in%20the%20image%20of%20its%20sovereign%20rulers.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-History%20of%20Russia%20%28intro%29.ogg
 Universal_Decimal_Classification: 94(47)

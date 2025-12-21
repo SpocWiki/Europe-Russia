@@ -1,16 +1,19 @@
 ---
-location: [54.33,48.48] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Ulyanowsk
+location:
+  - 54.33
+  - 48.48
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35108
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

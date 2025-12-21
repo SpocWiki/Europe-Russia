@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Ingushetia Republic
+  - Republic of Ingushetia
+  - Ingushetia~Republic
 location:
   - 43.1667
   - 44.8167
@@ -8,9 +12,6 @@ tags:
 SpocWebEntityId: 37042
 isDeleted: false
 confidential: public
-aliases:
-  - Ingushetia Republic
-  - Republic of Ingushetia 
 ---
 [name::Ingushetia~Republic] 
 [name-abbr::] 

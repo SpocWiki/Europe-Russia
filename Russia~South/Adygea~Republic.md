@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Adygea Republic
+  - Republic of Adygea
+  - Adygea~Republic
 location:
   - 44.58
   - 40.17
@@ -8,9 +12,6 @@ tags:
 SpocWebEntityId: 37037
 isDeleted: false
 confidential: public
-aliases:
-  - Adygea Republic
-  - Republic of Adygea 
 ---
 [name::Adygea~Republic] 
 [name-abbr::] 

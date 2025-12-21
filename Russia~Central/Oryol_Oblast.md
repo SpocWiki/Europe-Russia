@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Oryol Oblast
+  - Oryol_Oblast
 location:
   - 52.9667
   - 36.0667
@@ -8,8 +11,6 @@ tags:
 SpocWebEntityId: 37147
 isDeleted: false
 confidential: public
-aliases:
-  - Oryol Oblast
 ---
 [name::Oryol Oblast] 
 [name-abbr::] 

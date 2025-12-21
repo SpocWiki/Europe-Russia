@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Tver Oblast
+  - Tver_Oblast
 location:
   - 56.87
   - 36
@@ -8,8 +11,6 @@ tags:
 SpocWebEntityId: 37191
 isDeleted: false
 confidential: public
-aliases:
-  - Tver Oblast
 ---
 [name::Tver Oblast] 
 [name-abbr::] 

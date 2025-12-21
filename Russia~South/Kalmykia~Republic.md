@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Kalmykia Republic
+  - Republic of Kalmykia
+  - Kalmykia~Republic
 location:
   - 46.3167
   - 44.2667
@@ -8,9 +12,6 @@ tags:
 SpocWebEntityId: 37044
 isDeleted: false
 confidential: public
-aliases:
-  - Kalmykia Republic
-  - Republic of Kalmykia 
 ---
 [name::Kalmykia~Republic] 
 [name-abbr::] 

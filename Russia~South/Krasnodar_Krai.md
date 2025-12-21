@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Krasnodar Krai
+  - Krasnodar_Krai
 location:
   - 45.03
   - 39
@@ -8,8 +11,6 @@ tags:
 SpocWebEntityId: 37100
 isDeleted: false
 confidential: public
-aliases:
-  - Krasnodar Krai
 ---
 [name::Krasnodar Krai] 
 [name-abbr::] 

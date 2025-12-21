@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Vologda Oblast
+  - Vologda
+  - Vologda_Oblast
 location:
   - 59.23
   - 40
@@ -8,9 +12,6 @@ tags:
 SpocWebEntityId: 37124
 isDeleted: false
 confidential: public
-aliases:
-  - Vologda Oblast
-  - Vologda
 ---
 
 # [[Vologda_Oblast]] 

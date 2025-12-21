@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Bryansk Oblast
+  - Bryansk_Oblast
 location:
   - 53.25
   - 34.33
@@ -8,8 +11,6 @@ tags:
 SpocWebEntityId: 37120
 isDeleted: false
 confidential: public
-aliases:
-  - Bryansk Oblast
 ---
 [name::Bryansk Oblast] 
 [name-abbr::] 

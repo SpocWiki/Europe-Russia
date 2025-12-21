@@ -4,27 +4,29 @@ aliases:
   - Romanoff
   - Романовы
   - Romanovy
+  - House_of_Romanov
+  - House of Romanov
 has_id_wikidata: Q112707
 instance_of:
-  - "[[_Standards/WikiData/WD~dynasty,164950]]"
-  - "[[_Standards/WikiData/WD~royal_family,2006518]]"
-founded_by: "[[_Standards/WikiData/WD~Michael_I_of_Russia,181915]]"
+  - '[[_Standards/WikiData/WD~dynasty,164950]]'
+  - '[[_Standards/WikiData/WD~royal_family,2006518]]'
+founded_by: '[[_Standards/WikiData/WD~Michael_I_of_Russia,181915]]'
 country:
-  - "[[_Standards/WikiData/WD~Tsardom_of_Russia,186096]]"
-  - "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
+  - '[[_Standards/WikiData/WD~Tsardom_of_Russia,186096]]'
+  - '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Romanov,249823]]"
-  - "[[_Standards/WikiData/WD~Holstein_Gottorp_Romanov,870568]]"
+  - '[[_Standards/WikiData/WD~Romanov,249823]]'
+  - '[[_Standards/WikiData/WD~Holstein_Gottorp_Romanov,870568]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-followed_by: "[[_Standards/WikiData/WD~Holstein_Gottorp_Romanov,870568]]"
-has_part_s_: "[[_Standards/WikiData/WD~Head_of_the_House_of_Romanov,115589363]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+followed_by: '[[_Standards/WikiData/WD~Holstein_Gottorp_Romanov,870568]]'
+has_part_s_: '[[_Standards/WikiData/WD~Head_of_the_House_of_Romanov,115589363]]'
 dissolved_abolished_or_demolished_date: 1762-01-01T00:00:00Z
 inception: 1613-01-01T00:00:00Z
 BHCL_UUID: 81236008-2d28-4a01-8096-603f4871cafc
@@ -32,7 +34,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Gran%20Palacio%20del%20Kremlin%2C%20Mosc%C3%BA%2C%20Rusia%2C%202016-10-03%2C%20DD%2028-29%20HDR.jpg
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/House%20of%20Romanoff.svg
 official_website: http://www.imperialhouse.ru
-Dewey_Decimal_Classification: "929.77"
+Dewey_Decimal_Classification: 929.77
 Commons_category: House of Romanov
 Krugosvet_article_archived_: istoriya/ROMANOVI.html
 ---

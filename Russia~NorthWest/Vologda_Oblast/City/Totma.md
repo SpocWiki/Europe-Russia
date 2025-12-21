@@ -1,16 +1,19 @@
 ---
-location: [60.13,45.03] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Totma
+location:
+  - 60.13
+  - 45.03
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34930
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [54.93,48.83] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Tétiuhi
+location:
+  - 54.93
+  - 48.83
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35082
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

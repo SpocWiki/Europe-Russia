@@ -1,16 +1,19 @@
 ---
-location: [60.35,29.12] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Halila
+location:
+  - 60.35
+  - 29.12
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30722
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

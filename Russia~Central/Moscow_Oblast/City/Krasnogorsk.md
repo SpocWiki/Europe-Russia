@@ -1,16 +1,19 @@
 ---
-location: [55.83,37.32] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Krasnogorsk
+location:
+  - 55.83
+  - 37.32
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31623
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Krasnogorsk]] 

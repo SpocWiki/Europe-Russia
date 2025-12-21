@@ -1,16 +1,19 @@
 ---
-location: [60.77,46.3] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Ustjuk
+location:
+  - 60.77
+  - 46.3
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35139
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

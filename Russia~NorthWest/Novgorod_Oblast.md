@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Novgorod Oblast
+  - Novgorod
+  - Novgorod_Oblast
 location:
   - 56.52
   - 31.27
@@ -8,9 +12,6 @@ tags:
 SpocWebEntityId: 37143
 isDeleted: false
 confidential: public
-aliases:
-  - Novgorod Oblast
-  - Novgorod
 ---
 [name::Novgorod Oblast] 
 [name-abbr::] 

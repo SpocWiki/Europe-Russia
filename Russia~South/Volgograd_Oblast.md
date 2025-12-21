@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Volgograd Oblast
+  - Volgograd
+  - Volgograd_Oblast
 location:
   - 48.7
   - 44.5167
@@ -8,9 +12,6 @@ tags:
 SpocWebEntityId: 37122
 isDeleted: false
 confidential: public
-aliases:
-  - Volgograd Oblast
-  - Volgograd 
 ---
 [name::Volgograd Oblast] 
 [name-abbr::] 

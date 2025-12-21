@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Kostroma Oblast
+  - Kostroma
+  - Kostroma_Oblast
+has_id_wikidata: Q2596997
 location:
   - 57.77
   - 40.93
@@ -8,10 +13,6 @@ tags:
 SpocWebEntityId: 37132
 isDeleted: false
 confidential: public
-aliases:
-  - Kostroma Oblast
-  - Kostroma
-has_id_wikidata: Q2596997
 ---
 
 # [[Kostroma_Oblast]] 

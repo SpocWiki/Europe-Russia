@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Tula Oblast
+  - Tula_Oblast
 location:
   - 54.2
   - 37.62
@@ -8,8 +11,6 @@ tags:
 SpocWebEntityId: 37193
 isDeleted: false
 confidential: public
-aliases:
-  - Tula Oblast
 ---
 [name::Tula Oblast] 
 [name-abbr::] 

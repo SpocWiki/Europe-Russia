@@ -1,6 +1,7 @@
 ---
 aliases:
   - Krasnoyarsk Krai
+  - Krasnoyarsk_Krai
 ---
 
 > **Krasnoyarsk Krai** (Russian: Красноярский край, romanized: Krasnoyarskiy kray, 

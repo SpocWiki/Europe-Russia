@@ -1,16 +1,19 @@
 ---
-location: [51.23,58.25] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Akkermanovka
+location:
+  - 51.23
+  - 58.25
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 28700
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

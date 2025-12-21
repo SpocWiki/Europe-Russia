@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Ivanovo Oblast
+  - Ivanovo_Oblast
 location:
   - 56.9967
   - 40.9819
@@ -8,8 +11,6 @@ tags:
 SpocWebEntityId: 37126
 isDeleted: false
 confidential: public
-aliases:
-  - Ivanovo Oblast
 ---
 [name::Ivanovo Oblast] 
 [name-abbr::] 

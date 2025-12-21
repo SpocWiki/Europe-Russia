@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Moscow Oblast
+  - Moscow
+  - Moscow_Oblast
 location:
   - 55.75
   - 37.57
@@ -8,9 +12,6 @@ tags:
 SpocWebEntityId: 37140
 isDeleted: false
 confidential: public
-aliases:
-  - Moscow Oblast
-  - Moscow 
 ---
 
 # [[Moscow_Oblast]]  

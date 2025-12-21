@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Murmansk Oblast
+  - Murmansk
+  - Murmansk_Oblast
 location:
   - 68.97
   - 33.08
@@ -8,9 +12,6 @@ tags:
 SpocWebEntityId: 37141
 isDeleted: false
 confidential: public
-aliases:
-  - Murmansk Oblast
-  - Murmansk 
 ---
 
 # [[Murmansk_Oblast]] 

@@ -1,16 +1,19 @@
 ---
-location: [54.57,22.02] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Gross-Schilleningken
+location:
+  - 54.57
+  - 22.02
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30604
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

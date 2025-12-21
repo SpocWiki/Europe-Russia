@@ -1,16 +1,19 @@
 ---
-location: [54.55,21.67] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Matherrinken
+location:
+  - 54.55
+  - 21.67
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32346
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

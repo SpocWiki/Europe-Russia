@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Yaroslavl Oblast
+  - Yaroslavl
+  - Yaroslavl_Oblast
 location:
   - 57.62
   - 39.87
@@ -8,9 +12,6 @@ tags:
 SpocWebEntityId: 37197
 isDeleted: false
 confidential: public
-aliases:
-  - Yaroslavl Oblast
-  - Yaroslavl 
 ---
 [name::Yaroslavl Oblast] 
 [name-abbr::] 
