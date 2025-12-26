@@ -15,6 +15,9 @@ SpocWebEntityId: 35036
 isDeleted: false
 confidential: public
 ---
+
+# [[Tula]] 
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::37.62] 
@@ -25,7 +28,7 @@ Country :: [[Russia]]
 [StateId::37193] 
 [Population::] 
 
-
+## #has_/map 
 
 ```leaflet
 id: Tula

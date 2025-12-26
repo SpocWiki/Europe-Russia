@@ -6,6 +6,22 @@ aliases:
   - Main Directorate of Correctional Labour Camps
   - Gulag
 has_id_wikidata: Q161448
+parent_organization_or_unit:
+  - "[[_Standards/WikiData/WD~NKVD,182449]]"
+  - "[[_Standards/WikiData/WD~Ministry_of_Internal_Affairs_of_the_Soviet_Union,2032561]]"
+  - "[[_Standards/WikiData/WD~Joint_State_Political_Directorate,18363484]]"
+instance_of: "[[_Standards/WikiData/WD~government_agency,327333]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
+child_organization_or_unit: "[[_Standards/WikiData/WD~Uhtizhemlag,25448247]]"
+item_operated: "[[_Standards/WikiData/WD~gulag_camp,56507866]]"
+country: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+Commons_category: Gulag
+distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Gulag%20Location%20Map.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Vorkuta.jpg
+ISNI: "0000000106865388"
+P1015: "5004670"
+Krugosvet_article_archived_: istoriya/GULAG.html
+Commons_gallery: ГУЛАГ
 ---
 
 # [[Gulag]] 
