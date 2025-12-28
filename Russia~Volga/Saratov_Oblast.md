@@ -5,8 +5,8 @@ aliases:
   - Saratov_Oblast
 has_id_wikidata: Q5334
 location:
-  - 46.2
   - 51.57
+  - 46.2
 type: State
 tags:
   - geo/State

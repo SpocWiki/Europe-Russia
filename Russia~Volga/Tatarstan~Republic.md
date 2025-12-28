@@ -9,8 +9,8 @@ confidential: public
 SpocWebEntityId: 37052
 isDeleted: false
 location:
-  - 49.1667
   - 55.7833
+  - 49.1667
 type: State
 tags:
   - geo/State

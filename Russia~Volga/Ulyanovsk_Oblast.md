@@ -8,8 +8,8 @@ confidential: public
 SpocWebEntityId: 37195
 isDeleted: false
 location:
-  - 48.48
   - 54.33
+  - 48.48
 type: State
 tags:
   - geo/State
