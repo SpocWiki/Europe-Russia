@@ -3,6 +3,16 @@ aliases:
   - Udmurt_Republic
   - Udmurt Republic
 has_id_wikidata: Q5422
+location: [56.85,53.23] 
+type: State
+tags:
+- geo/State
+
+
+SpocWebEntityId: 37054
+isDeleted: false
+confidential: public
+
 part of: '[[WikiData/WD~Volga_Federal_District,202317]]'
 flag: '[[WikiData/WD~flag_of_the_Udmurt_Republic,842322]]'
 shares border with:
@@ -64,8 +74,26 @@ official name:
   - Удмурт Элькун
 native label: Удмурт Элькун
 ---
+[name::Udmurt~Republic] 
+[name-abbr::] 
+Country :: [[Russia]]  
+Capital :: [[Izhevsk]]  
+[geo-lon::53.23] 
+[geo-lat::56.85] 
+[Population::] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Udmurtia,5422]] 
+
+
+```leaflet
+id: Udmurt~Republic
+geojsonFolder: ./Udmurt~Republic/
+markerFolder: ./Udmurt~Republic/
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+```
+
 
 ## #has_/text_of_/abstract 
 
