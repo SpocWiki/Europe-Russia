@@ -48,4 +48,5 @@ inception: 2010-01-19T00:00:00Z
 > 
 > The current Envoy is Yury Chaika.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/North%20Caucasian%20Federal%20District)
+> [Wikipedia](https://en.wikipedia.org/wiki/North%20Caucasian%20Federal%20District)  
+
