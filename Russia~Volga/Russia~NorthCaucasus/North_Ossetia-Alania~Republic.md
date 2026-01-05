@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1993-11-09 
 aliases:
   - North Ossetia-Alania Republic
   - Republic of North Ossetia-Alania

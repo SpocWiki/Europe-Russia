@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 2007-01-01 
 aliases:
   - Kamchatka Krai
   - Kamchatka_Krai

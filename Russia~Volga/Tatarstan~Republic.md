@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1990-08-30 
 aliases:
   - Republic of Tatarstan
   - Tatarstan Republic

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1993-01-12 
 aliases:
   - Mari El Republic
   - Republic of Mari El

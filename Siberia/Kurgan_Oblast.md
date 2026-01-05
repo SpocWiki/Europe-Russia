@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1943-02-06 
 aliases:
   - Kurgan_Oblast
   - Kurgan Oblast

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1934-12-07 
 aliases:
   - Omsk_Oblast
   - Omsk Oblast

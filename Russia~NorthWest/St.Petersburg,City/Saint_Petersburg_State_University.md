@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1724-01-22 
 aliases:
   - Saint Petersburg State University
   - Санкт-Петербургский государственный университет

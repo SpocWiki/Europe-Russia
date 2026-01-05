@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1993-12-25 
 aliases:
   - Mordovia Republic
   - Republic of Mordovia

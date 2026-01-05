@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1930-12-10 
 aliases:
   - Khanty-Mansi Autonomous Okrug
   - Khanty-Mansi_Autonomous_Okrug

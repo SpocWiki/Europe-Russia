@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 2010-01-19 
 aliases:
   - North Caucasian Federal District
   - Северо-Кавказский федеральный округ

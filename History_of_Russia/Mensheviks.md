@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1903-01-01 
 aliases:
 has_id_wikidata: Q191515
 opposite_of: "[[_Standards/WikiData/WD~Bolsheviks,83372]]"

@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1954-03-13 
+has_time_stopped: 1991-12-03 
 aliases:
   - Комитет государственной безопасности
   - Committee for State Security

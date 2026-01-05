@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1953-12-03 
 aliases:
   - Magadan Oblast
   - Magadan_Oblast

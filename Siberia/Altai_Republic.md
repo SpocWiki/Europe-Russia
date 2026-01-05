@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1992-02-08 
 aliases:
   - Altai Republic
   - Altai_Republic

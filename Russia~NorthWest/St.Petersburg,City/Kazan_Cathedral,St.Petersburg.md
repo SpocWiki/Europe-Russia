@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1801-01-01 
 aliases:
   - Cathedral of Our Lady of Kazan
   - Kazan Cathedral

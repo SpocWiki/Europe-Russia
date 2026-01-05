@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1990-10-11 
 aliases:
   - Bashkiria
   - Republic_of_Bashkortostan

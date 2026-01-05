@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1930-12-10 
 aliases:
   - Yamalo-Nenets Autonomous Okrug
   - Yamalo-Nenets_Autonomous_Okrug

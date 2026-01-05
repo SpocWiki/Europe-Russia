@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1934-01-17 
 aliases:
   - Sverdlovsk Oblast
   - Sverdlovsk_Oblast

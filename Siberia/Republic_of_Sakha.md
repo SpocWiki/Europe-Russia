@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1990-09-27 
 aliases:
   - Sakha Republic
   - Republic_of_Sakha
