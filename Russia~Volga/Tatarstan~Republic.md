@@ -1,4 +1,12 @@
-﻿---
+---
+dv_name: Tatarstan~Republic
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 49.1667
+dv_has_place_latitude: 55.7833
+dv_is_:
+  same_as: "[[WikiData/WD~Tatarstan,5481]]"
+dv_is_same_as: "[[WikiData/WD~Tatarstan,5481]]"
+
 has_time_started: 1990-08-30 
 aliases:
   - Republic of Tatarstan
@@ -149,16 +157,16 @@ short_name: Татарская ССР
 
 # [[Tatarstan~Republic]] 
 
-[name::Tatarstan~Republic] 
+name = `=this.dv_name` 
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Kazan]]  
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::49.1667] 
-[has_place_latitude::55.7833] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
-#is_/same_as :: [[WikiData/WD~Tatarstan,5481]]
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -174,16 +182,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tatarstan~Republic](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic|Tatarstan~Republic]] 
 
-### [Tatarstan~Republic.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic.public|Tatarstan~Republic.public]] 
 
-### [Tatarstan~Republic.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic.internal|Tatarstan~Republic.internal]] 
 
-### [Tatarstan~Republic.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic.protect|Tatarstan~Republic.protect]] 
 
-### [Tatarstan~Republic.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic.private|Tatarstan~Republic.private]] 
 
-### [Tatarstan~Republic.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic.personal|Tatarstan~Republic.personal]] 
 
-### [Tatarstan~Republic.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic.secret|Tatarstan~Republic.secret]] 
+

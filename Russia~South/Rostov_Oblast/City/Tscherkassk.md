@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35016
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 40.1
+dv_has_place_latitude: 47.42
+dv_name: Tscherkassk
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::40.1] 
-[has_place_latitude::47.42] 
-[name::Tscherkassk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tscherkassk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Tscherkassk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Tscherkassk|Tscherkassk]] 
 
-### [Tscherkassk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Tscherkassk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Tscherkassk.public|Tscherkassk.public]] 
 
-### [Tscherkassk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Tscherkassk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Tscherkassk.internal|Tscherkassk.internal]] 
 
-### [Tscherkassk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Tscherkassk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Tscherkassk.protect|Tscherkassk.protect]] 
 
-### [Tscherkassk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Tscherkassk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Tscherkassk.private|Tscherkassk.private]] 
 
-### [Tscherkassk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Tscherkassk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Tscherkassk.personal|Tscherkassk.personal]] 
 
-### [Tscherkassk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Tscherkassk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Tscherkassk.secret|Tscherkassk.secret]] 
 

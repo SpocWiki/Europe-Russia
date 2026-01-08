@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 29764
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 30.42
+dv_has_place_latitude: 59.7
+dv_name: Detskoje Selo
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::30.42] 
-[has_place_latitude::59.7] 
-[name::Detskoje Selo] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Detskoje_Selo](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Detskoje_Selo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Detskoje_Selo|Detskoje_Selo]] 
 
-### [Detskoje_Selo.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Detskoje_Selo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Detskoje_Selo.public|Detskoje_Selo.public]] 
 
-### [Detskoje_Selo.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Detskoje_Selo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Detskoje_Selo.internal|Detskoje_Selo.internal]] 
 
-### [Detskoje_Selo.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Detskoje_Selo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Detskoje_Selo.protect|Detskoje_Selo.protect]] 
 
-### [Detskoje_Selo.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Detskoje_Selo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Detskoje_Selo.private|Detskoje_Selo.private]] 
 
-### [Detskoje_Selo.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Detskoje_Selo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Detskoje_Selo.personal|Detskoje_Selo.personal]] 
 
-### [Detskoje_Selo.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Detskoje_Selo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Detskoje_Selo.secret|Detskoje_Selo.secret]] 
 

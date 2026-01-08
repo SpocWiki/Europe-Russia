@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34274
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 48.4
+dv_has_place_latitude: 54.32
+dv_name: Simbirsk=Ulyanovsk
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::48.4] 
-[has_place_latitude::54.32] 
-[name::Simbirsk=Ulyanovsk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Simbirsk=Ulyanovsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Simbirsk=Ulyanovsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Simbirsk=Ulyanovsk|Simbirsk=Ulyanovsk]] 
 
-### [Simbirsk=Ulyanovsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Simbirsk=Ulyanovsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Simbirsk=Ulyanovsk.public|Simbirsk=Ulyanovsk.public]] 
 
-### [Simbirsk=Ulyanovsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Simbirsk=Ulyanovsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Simbirsk=Ulyanovsk.internal|Simbirsk=Ulyanovsk.internal]] 
 
-### [Simbirsk=Ulyanovsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Simbirsk=Ulyanovsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Simbirsk=Ulyanovsk.protect|Simbirsk=Ulyanovsk.protect]] 
 
-### [Simbirsk=Ulyanovsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Simbirsk=Ulyanovsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Simbirsk=Ulyanovsk.private|Simbirsk=Ulyanovsk.private]] 
 
-### [Simbirsk=Ulyanovsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Simbirsk=Ulyanovsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Simbirsk=Ulyanovsk.personal|Simbirsk=Ulyanovsk.personal]] 
 
-### [Simbirsk=Ulyanovsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Simbirsk=Ulyanovsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Simbirsk=Ulyanovsk.secret|Simbirsk=Ulyanovsk.secret]] 
 

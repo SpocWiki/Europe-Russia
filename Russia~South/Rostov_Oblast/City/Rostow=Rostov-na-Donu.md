@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33780
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 39.88
+dv_has_place_latitude: 47.25
+dv_name: Rostow=Rostov-na-Donu
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::39.88] 
-[has_place_latitude::47.25] 
-[name::Rostow=Rostov-na-Donu] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rostow=Rostov-na-Donu](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Rostow=Rostov-na-Donu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Rostow=Rostov-na-Donu|Rostow=Rostov-na-Donu]] 
 
-### [Rostow=Rostov-na-Donu.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Rostow=Rostov-na-Donu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Rostow=Rostov-na-Donu.public|Rostow=Rostov-na-Donu.public]] 
 
-### [Rostow=Rostov-na-Donu.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Rostow=Rostov-na-Donu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Rostow=Rostov-na-Donu.internal|Rostow=Rostov-na-Donu.internal]] 
 
-### [Rostow=Rostov-na-Donu.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Rostow=Rostov-na-Donu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Rostow=Rostov-na-Donu.protect|Rostow=Rostov-na-Donu.protect]] 
 
-### [Rostow=Rostov-na-Donu.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Rostow=Rostov-na-Donu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Rostow=Rostov-na-Donu.private|Rostow=Rostov-na-Donu.private]] 
 
-### [Rostow=Rostov-na-Donu.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Rostow=Rostov-na-Donu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Rostow=Rostov-na-Donu.personal|Rostow=Rostov-na-Donu.personal]] 
 
-### [Rostow=Rostov-na-Donu.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Rostow=Rostov-na-Donu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Rostow=Rostov-na-Donu.secret|Rostow=Rostov-na-Donu.secret]] 
 

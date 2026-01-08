@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Central_Federal_District,190778]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Central_Federal_District,190778]]"
+
 has_time_started: 2000-05-13 
 aliases:
   - Central Federal District
@@ -34,7 +38,7 @@ inception: 2000-05-13T00:00:00Z
 
 # [[Russia~Central]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Central_Federal_District,190778]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -64,19 +68,20 @@ markerFolder: ./Russia~Central/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Central%20Federal%20District)
 
+
 ## Confidential Links & Embeds: 
 
-### [Russia~Central](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central|Russia~Central]] 
 
-### [Russia~Central.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central.public|Russia~Central.public]] 
 
-### [Russia~Central.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central.internal|Russia~Central.internal]] 
 
-### [Russia~Central.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central.protect|Russia~Central.protect]] 
 
-### [Russia~Central.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central.private|Russia~Central.private]] 
 
-### [Russia~Central.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central.personal|Russia~Central.personal]] 
 
-### [Russia~Central.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central.secret|Russia~Central.secret]] 
 

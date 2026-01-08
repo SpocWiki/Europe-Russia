@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 29575
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 42.05
+dv_has_place_latitude: 44.23
+dv_name: Cherkessk
+dv_Country: "[[../../../../../Russia]]"
+dv_StateId: 37045
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::42.05] 
-[has_place_latitude::44.23] 
-[name::Cherkessk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37045] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cherkessk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess/City/Cherkessk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Karachay-Cherkess/City/Cherkessk|Cherkessk]] 
 
-### [Cherkessk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess/City/Cherkessk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Karachay-Cherkess/City/Cherkessk.public|Cherkessk.public]] 
 
-### [Cherkessk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess/City/Cherkessk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Karachay-Cherkess/City/Cherkessk.internal|Cherkessk.internal]] 
 
-### [Cherkessk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess/City/Cherkessk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Karachay-Cherkess/City/Cherkessk.protect|Cherkessk.protect]] 
 
-### [Cherkessk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess/City/Cherkessk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Karachay-Cherkess/City/Cherkessk.private|Cherkessk.private]] 
 
-### [Cherkessk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess/City/Cherkessk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Karachay-Cherkess/City/Cherkessk.personal|Cherkessk.personal]] 
 
-### [Cherkessk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess/City/Cherkessk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Karachay-Cherkess/City/Cherkessk.secret|Cherkessk.secret]] 
 

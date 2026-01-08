@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33330
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 30.25
+dv_has_place_latitude: 59.92
+dv_name: Petrograd=Leningrad
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::30.25] 
-[has_place_latitude::59.92] 
-[name::Petrograd=Leningrad] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Petrograd=Leningrad](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Petrograd=Leningrad.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Petrograd=Leningrad|Petrograd=Leningrad]] 
 
-### [Petrograd=Leningrad.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Petrograd=Leningrad.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Petrograd=Leningrad.public|Petrograd=Leningrad.public]] 
 
-### [Petrograd=Leningrad.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Petrograd=Leningrad.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Petrograd=Leningrad.internal|Petrograd=Leningrad.internal]] 
 
-### [Petrograd=Leningrad.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Petrograd=Leningrad.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Petrograd=Leningrad.protect|Petrograd=Leningrad.protect]] 
 
-### [Petrograd=Leningrad.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Petrograd=Leningrad.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Petrograd=Leningrad.private|Petrograd=Leningrad.private]] 
 
-### [Petrograd=Leningrad.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Petrograd=Leningrad.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Petrograd=Leningrad.personal|Petrograd=Leningrad.personal]] 
 
-### [Petrograd=Leningrad.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Petrograd=Leningrad.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Petrograd=Leningrad.secret|Petrograd=Leningrad.secret]] 
 

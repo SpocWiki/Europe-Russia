@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35697
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 47.75
+dv_has_place_latitude: 52.05
+dv_name: Wolsk
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::47.75] 
-[has_place_latitude::52.05] 
-[name::Wolsk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wolsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast/City/Wolsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast/City/Wolsk|Wolsk]] 
 
-### [Wolsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast/City/Wolsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast/City/Wolsk.public|Wolsk.public]] 
 
-### [Wolsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast/City/Wolsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast/City/Wolsk.internal|Wolsk.internal]] 
 
-### [Wolsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast/City/Wolsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast/City/Wolsk.protect|Wolsk.protect]] 
 
-### [Wolsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast/City/Wolsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast/City/Wolsk.private|Wolsk.private]] 
 
-### [Wolsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast/City/Wolsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast/City/Wolsk.personal|Wolsk.personal]] 
 
-### [Wolsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast/City/Wolsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast/City/Wolsk.secret|Wolsk.secret]] 
 

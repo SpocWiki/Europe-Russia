@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33554
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 37.85
+dv_has_place_latitude: 56.02
+dv_name: Pushkino
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::37.85] 
-[has_place_latitude::56.02] 
-[name::Pushkino] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pushkino](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Pushkino.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Pushkino|Pushkino]] 
 
-### [Pushkino.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Pushkino.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Pushkino.public|Pushkino.public]] 
 
-### [Pushkino.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Pushkino.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Pushkino.internal|Pushkino.internal]] 
 
-### [Pushkino.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Pushkino.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Pushkino.protect|Pushkino.protect]] 
 
-### [Pushkino.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Pushkino.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Pushkino.private|Pushkino.private]] 
 
-### [Pushkino.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Pushkino.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Pushkino.personal|Pushkino.personal]] 
 
-### [Pushkino.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Pushkino.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Pushkino.secret|Pushkino.secret]] 
 

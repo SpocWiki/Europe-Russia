@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29719
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 22.03
+dv_has_place_latitude: 54.43
+dv_name: Darkehmen
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::22.03] 
-[has_place_latitude::54.43] 
-[name::Darkehmen] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Darkehmen](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Darkehmen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Darkehmen|Darkehmen]] 
 
-### [Darkehmen.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Darkehmen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Darkehmen.public|Darkehmen.public]] 
 
-### [Darkehmen.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Darkehmen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Darkehmen.internal|Darkehmen.internal]] 
 
-### [Darkehmen.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Darkehmen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Darkehmen.protect|Darkehmen.protect]] 
 
-### [Darkehmen.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Darkehmen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Darkehmen.private|Darkehmen.private]] 
 
-### [Darkehmen.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Darkehmen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Darkehmen.personal|Darkehmen.personal]] 
 
-### [Darkehmen.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Darkehmen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Darkehmen.secret|Darkehmen.secret]] 
 

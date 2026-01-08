@@ -12,15 +12,21 @@ tags:
 SpocWebEntityId: 37041
 isDeleted: false
 confidential: public
+dv_name: Dagestan~Republic
+dv_Country: "[[../../../Russia]]"
+dv_Capital: "[[../../Russia~South/Rostov_Oblast/City/Makhachkala]]"
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: 42.97
+dv_has_place_latitude: 47.5
 ---
-[name::Dagestan~Republic] 
+name = `=this.dv_name` 
 [name-abbr::] 
-Country :: [[Russia]]  
-Capital :: [[Makhachkala]]  
+Country = `=this.dv_Country`
+Capital = `=this.dv_Capital`
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::42.97] 
-[has_place_latitude::47.5] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
 
@@ -37,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dagestan~Republic](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic|Dagestan~Republic]] 
 
-### [Dagestan~Republic.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic.public|Dagestan~Republic.public]] 
 
-### [Dagestan~Republic.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic.internal|Dagestan~Republic.internal]] 
 
-### [Dagestan~Republic.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic.protect|Dagestan~Republic.protect]] 
 
-### [Dagestan~Republic.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic.private|Dagestan~Republic.private]] 
 
-### [Dagestan~Republic.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic.personal|Dagestan~Republic.personal]] 
 
-### [Dagestan~Republic.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic.secret|Dagestan~Republic.secret]] 
 

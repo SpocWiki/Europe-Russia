@@ -11,15 +11,21 @@ tags:
 SpocWebEntityId: 37190
 isDeleted: false
 confidential: public
+dv_name: Tambov Oblast
+dv_Country: "[[../../Russia]]"
+dv_Capital: "[[../Russia~Volga/Penza_Oblast/City/Tambow]]"
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 43.33
+dv_has_place_latitude: 52.7167
 ---
-[name::Tambov Oblast] 
+name = `=this.dv_name` 
 [name-abbr::] 
-Country :: [[Russia]]  
-Capital :: [[Tambow]]  
+Country = `=this.dv_Country`
+Capital = `=this.dv_Capital`
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::43.33] 
-[has_place_latitude::52.7167] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
 
@@ -36,17 +42,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tambov_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tambov_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tambov_Oblast|Tambov_Oblast]] 
 
-### [Tambov_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tambov_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tambov_Oblast.public|Tambov_Oblast.public]] 
 
-### [Tambov_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tambov_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tambov_Oblast.internal|Tambov_Oblast.internal]] 
 
-### [Tambov_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tambov_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tambov_Oblast.protect|Tambov_Oblast.protect]] 
 
-### [Tambov_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tambov_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tambov_Oblast.private|Tambov_Oblast.private]] 
 
-### [Tambov_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tambov_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tambov_Oblast.personal|Tambov_Oblast.personal]] 
 
-### [Tambov_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tambov_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tambov_Oblast.secret|Tambov_Oblast.secret]] 
 

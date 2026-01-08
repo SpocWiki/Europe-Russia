@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33560
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 43.08
+dv_has_place_latitude: 44.02
+dv_name: Pyatigorsk
+dv_Country: "[[../../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::43.08] 
-[has_place_latitude::44.02] 
-[name::Pyatigorsk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pyatigorsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Pyatigorsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai/City/Pyatigorsk|Pyatigorsk]] 
 
-### [Pyatigorsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Pyatigorsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai/City/Pyatigorsk.public|Pyatigorsk.public]] 
 
-### [Pyatigorsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Pyatigorsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai/City/Pyatigorsk.internal|Pyatigorsk.internal]] 
 
-### [Pyatigorsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Pyatigorsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai/City/Pyatigorsk.protect|Pyatigorsk.protect]] 
 
-### [Pyatigorsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Pyatigorsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai/City/Pyatigorsk.private|Pyatigorsk.private]] 
 
-### [Pyatigorsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Pyatigorsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai/City/Pyatigorsk.personal|Pyatigorsk.personal]] 
 
-### [Pyatigorsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Pyatigorsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai/City/Pyatigorsk.secret|Pyatigorsk.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33622
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 29.82
+dv_has_place_latitude: 60.95
+dv_name: Raisaelae
+dv_Country: "[[../../../../../Europe~North/Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::29.82] 
-[has_place_latitude::60.95] 
-[name::Raisaelae] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Raisaelae](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Raisaelae.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Raisaelae|Raisaelae]] 
 
-### [Raisaelae.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Raisaelae.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Raisaelae.public|Raisaelae.public]] 
 
-### [Raisaelae.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Raisaelae.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Raisaelae.internal|Raisaelae.internal]] 
 
-### [Raisaelae.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Raisaelae.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Raisaelae.protect|Raisaelae.protect]] 
 
-### [Raisaelae.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Raisaelae.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Raisaelae.private|Raisaelae.private]] 
 
-### [Raisaelae.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Raisaelae.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Raisaelae.personal|Raisaelae.personal]] 
 
-### [Raisaelae.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Raisaelae.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Raisaelae.secret|Raisaelae.secret]] 
 

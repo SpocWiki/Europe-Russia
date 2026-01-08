@@ -1,4 +1,15 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~KGB,80919]]"
+dv_has_:
+  next_item:
+    - "[[FSB(Federal_Security_Service)]]"
+    - "[[SVR(Foreign_Intelligence_Service,Russia)]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~KGB,80919]]"
+dv_has_next_item:
+  - "[[FSB(Federal_Security_Service)]]"
+  - "[[SVR(Foreign_Intelligence_Service,Russia)]]"
+
 has_time_started: 1954-03-13 
 has_time_stopped: 1991-12-03 
 aliases:
@@ -53,7 +64,7 @@ native_label: Комитет государственной безопаснос
 
 # [[KGB]] 
 
-#is_/same_as :: [[WD~KGB,80919]] 
+is_same_as = `=this.dv_is_same_as`
 #has_/next_item :: [[FSB(Federal_Security_Service)]] 
 #has_/next_item :: [[SVR(Foreign_Intelligence_Service,Russia)]] 
 
@@ -94,4 +105,21 @@ native_label: Комитет государственной безопаснос
 > the Belarusian KGB, also keeping the unreformed name.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/KGB) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/KGB|KGB]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/KGB.public|KGB.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/KGB.internal|KGB.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/KGB.protect|KGB.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/KGB.private|KGB.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/KGB.personal|KGB.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/KGB.secret|KGB.secret]] 
 

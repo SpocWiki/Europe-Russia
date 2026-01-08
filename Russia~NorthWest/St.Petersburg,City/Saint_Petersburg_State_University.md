@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Saint_Petersburg_State_University,27621]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Saint_Petersburg_State_University,27621]]"
+
 has_time_started: 1724-01-22 
 aliases:
   - Saint Petersburg State University
@@ -107,7 +111,7 @@ Russian_organisation_number: 1037800006089
 
 # [[Saint_Petersburg_State_University]] 
 
-#is_/same_as :: [[WD~Saint_Petersburg_State_University,27621]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -126,4 +130,21 @@ Russian_organisation_number: 1037800006089
 > It is made up of 24 distinct departments and institutes, the Academic Gymnasium, the Medical College, the College of Physical Culture and Sports, Economics and Technology. The university has two primary campuses: one on Vasilievsky Island and the other one in Peterhof.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Saint%20Petersburg%20State%20University) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Saint_Petersburg_State_University|Saint_Petersburg_State_University]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Saint_Petersburg_State_University.public|Saint_Petersburg_State_University.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Saint_Petersburg_State_University.internal|Saint_Petersburg_State_University.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Saint_Petersburg_State_University.protect|Saint_Petersburg_State_University.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Saint_Petersburg_State_University.private|Saint_Petersburg_State_University.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Saint_Petersburg_State_University.personal|Saint_Petersburg_State_University.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Saint_Petersburg_State_University.secret|Saint_Petersburg_State_University.secret]] 
 

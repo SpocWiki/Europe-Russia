@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34215
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 34.98
+dv_has_place_latitude: 54.33
+dv_name: Serpeissk
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::34.98] 
-[has_place_latitude::54.33] 
-[name::Serpeissk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Serpeissk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Serpeissk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Serpeissk|Serpeissk]] 
 
-### [Serpeissk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Serpeissk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Serpeissk.public|Serpeissk.public]] 
 
-### [Serpeissk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Serpeissk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Serpeissk.internal|Serpeissk.internal]] 
 
-### [Serpeissk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Serpeissk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Serpeissk.protect|Serpeissk.protect]] 
 
-### [Serpeissk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Serpeissk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Serpeissk.private|Serpeissk.private]] 
 
-### [Serpeissk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Serpeissk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Serpeissk.personal|Serpeissk.personal]] 
 
-### [Serpeissk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Serpeissk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Serpeissk.secret|Serpeissk.secret]] 
 

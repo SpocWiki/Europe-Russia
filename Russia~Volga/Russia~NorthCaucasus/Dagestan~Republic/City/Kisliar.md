@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31470
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 46.72
+dv_has_place_latitude: 43.85
+dv_name: Kisliar
+dv_Country: "[[../../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::46.72] 
-[has_place_latitude::43.85] 
-[name::Kisliar] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kisliar](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Kisliar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/City/Kisliar|Kisliar]] 
 
-### [Kisliar.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Kisliar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/City/Kisliar.public|Kisliar.public]] 
 
-### [Kisliar.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Kisliar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/City/Kisliar.internal|Kisliar.internal]] 
 
-### [Kisliar.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Kisliar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/City/Kisliar.protect|Kisliar.protect]] 
 
-### [Kisliar.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Kisliar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/City/Kisliar.private|Kisliar.private]] 
 
-### [Kisliar.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Kisliar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/City/Kisliar.personal|Kisliar.personal]] 
 
-### [Kisliar.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Kisliar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/City/Kisliar.secret|Kisliar.secret]] 
 

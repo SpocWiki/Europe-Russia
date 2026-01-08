@@ -35,17 +35,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Khabarovsk_Krai](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khabarovsk_Krai.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khabarovsk_Krai|Khabarovsk_Krai]] 
 
-### [Khabarovsk_Krai.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khabarovsk_Krai.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khabarovsk_Krai.public|Khabarovsk_Krai.public]] 
 
-### [Khabarovsk_Krai.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khabarovsk_Krai.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khabarovsk_Krai.internal|Khabarovsk_Krai.internal]] 
 
-### [Khabarovsk_Krai.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khabarovsk_Krai.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khabarovsk_Krai.protect|Khabarovsk_Krai.protect]] 
 
-### [Khabarovsk_Krai.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khabarovsk_Krai.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khabarovsk_Krai.private|Khabarovsk_Krai.private]] 
 
-### [Khabarovsk_Krai.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khabarovsk_Krai.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khabarovsk_Krai.personal|Khabarovsk_Krai.personal]] 
 
-### [Khabarovsk_Krai.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khabarovsk_Krai.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khabarovsk_Krai.secret|Khabarovsk_Krai.secret]] 
 

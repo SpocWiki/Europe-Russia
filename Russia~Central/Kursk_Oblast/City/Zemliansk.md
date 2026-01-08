@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35808
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 38.4
+dv_has_place_latitude: 51.9
+dv_name: Zemliansk
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::38.4] 
-[has_place_latitude::51.9] 
-[name::Zemliansk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zemliansk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Zemliansk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Zemliansk|Zemliansk]] 
 
-### [Zemliansk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Zemliansk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Zemliansk.public|Zemliansk.public]] 
 
-### [Zemliansk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Zemliansk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Zemliansk.internal|Zemliansk.internal]] 
 
-### [Zemliansk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Zemliansk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Zemliansk.protect|Zemliansk.protect]] 
 
-### [Zemliansk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Zemliansk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Zemliansk.private|Zemliansk.private]] 
 
-### [Zemliansk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Zemliansk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Zemliansk.personal|Zemliansk.personal]] 
 
-### [Zemliansk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Zemliansk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Zemliansk.secret|Zemliansk.secret]] 
 

@@ -1,4 +1,9 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Omsk_Oblast,5835]]"
+dv_fips-10-4-countries-and-regions: RS54
+dv_is_same_as: "[[_Standards/WikiData/WD~Omsk_Oblast,5835]]"
+
 has_time_started: 1934-12-07 
 aliases:
   - Omsk_Oblast
@@ -52,7 +57,7 @@ HASC: RU.OM
 inception: 1934-12-07T00:00:00Z
 ---
 
-#is_/same_as :: [[_Standards/WikiData/WD~Omsk_Oblast,5835]] 
+is_same_as = `=this.dv_is_same_as`
 
 
 ## #has_/text_of_/abstract 
@@ -75,17 +80,17 @@ inception: 1934-12-07T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### [Omsk_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Omsk_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Omsk_Oblast|Omsk_Oblast]] 
 
-### [Omsk_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Omsk_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Omsk_Oblast.public|Omsk_Oblast.public]] 
 
-### [Omsk_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Omsk_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Omsk_Oblast.internal|Omsk_Oblast.internal]] 
 
-### [Omsk_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Omsk_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Omsk_Oblast.protect|Omsk_Oblast.protect]] 
 
-### [Omsk_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Omsk_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Omsk_Oblast.private|Omsk_Oblast.private]] 
 
-### [Omsk_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Omsk_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Omsk_Oblast.personal|Omsk_Oblast.personal]] 
 
-### [Omsk_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Omsk_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Omsk_Oblast.secret|Omsk_Oblast.secret]] 
 

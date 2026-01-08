@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 31878
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 21.43
+dv_has_place_latitude: 54.97
+dv_name: Lauknen
+dv_Country: "[[../../../../Russia]]"
+dv_StateId: 36942
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::21.43] 
-[has_place_latitude::54.97] 
-[name::Lauknen] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::36942] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lauknen](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Lauknen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Lauknen|Lauknen]] 
 
-### [Lauknen.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Lauknen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Lauknen.public|Lauknen.public]] 
 
-### [Lauknen.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Lauknen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Lauknen.internal|Lauknen.internal]] 
 
-### [Lauknen.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Lauknen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Lauknen.protect|Lauknen.protect]] 
 
-### [Lauknen.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Lauknen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Lauknen.private|Lauknen.private]] 
 
-### [Lauknen.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Lauknen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Lauknen.personal|Lauknen.personal]] 
 
-### [Lauknen.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Lauknen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Lauknen.secret|Lauknen.secret]] 
 

@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 30283
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 21
+dv_has_place_latitude: 54.43
+dv_name: Friedland~OstPommern
+dv_Country: "[[../../../../Russia]]"
+dv_StateId: 36942
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::21] 
-[has_place_latitude::54.43] 
-[name::Friedland~OstPommern] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::36942] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Friedland~OstPommern](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Friedland~OstPommern.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Friedland~OstPommern|Friedland~OstPommern]] 
 
-### [Friedland~OstPommern.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Friedland~OstPommern.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Friedland~OstPommern.public|Friedland~OstPommern.public]] 
 
-### [Friedland~OstPommern.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Friedland~OstPommern.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Friedland~OstPommern.internal|Friedland~OstPommern.internal]] 
 
-### [Friedland~OstPommern.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Friedland~OstPommern.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Friedland~OstPommern.protect|Friedland~OstPommern.protect]] 
 
-### [Friedland~OstPommern.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Friedland~OstPommern.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Friedland~OstPommern.private|Friedland~OstPommern.private]] 
 
-### [Friedland~OstPommern.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Friedland~OstPommern.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Friedland~OstPommern.personal|Friedland~OstPommern.personal]] 
 
-### [Friedland~OstPommern.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Friedland~OstPommern.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Friedland~OstPommern.secret|Friedland~OstPommern.secret]] 
 

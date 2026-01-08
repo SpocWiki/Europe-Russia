@@ -1,7 +1,12 @@
+---
+dv_has_:
+  previous_item: "[[KGB]]"
+dv_has_previous_item: "[[KGB]]"
+---
 
 # [[FSB(Federal_Security_Service)]] 
 
-#has_/previous_item :: [[KGB]] 
+has_previous_item = `=this.dv_has_previous_item`
 
 ## #has_/text_of_/abstract 
 
@@ -33,4 +38,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Federal%20Security%20Service) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/FSB(Federal_Security_Service)|FSB(Federal_Security_Service)]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/FSB(Federal_Security_Service).public|FSB(Federal_Security_Service).public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/FSB(Federal_Security_Service).internal|FSB(Federal_Security_Service).internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/FSB(Federal_Security_Service).protect|FSB(Federal_Security_Service).protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/FSB(Federal_Security_Service).private|FSB(Federal_Security_Service).private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/FSB(Federal_Security_Service).personal|FSB(Federal_Security_Service).personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/FSB(Federal_Security_Service).secret|FSB(Federal_Security_Service).secret]] 
 

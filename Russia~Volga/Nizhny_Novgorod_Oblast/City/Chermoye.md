@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29577
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 43.42
+dv_has_place_latitude: 56.25
+dv_name: Chermoye
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::43.42] 
-[has_place_latitude::56.25] 
-[name::Chermoye] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chermoye](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Chermoye.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Chermoye|Chermoye]] 
 
-### [Chermoye.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Chermoye.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Chermoye.public|Chermoye.public]] 
 
-### [Chermoye.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Chermoye.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Chermoye.internal|Chermoye.internal]] 
 
-### [Chermoye.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Chermoye.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Chermoye.protect|Chermoye.protect]] 
 
-### [Chermoye.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Chermoye.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Chermoye.private|Chermoye.private]] 
 
-### [Chermoye.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Chermoye.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Chermoye.personal|Chermoye.personal]] 
 
-### [Chermoye.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Chermoye.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Chermoye.secret|Chermoye.secret]] 
 

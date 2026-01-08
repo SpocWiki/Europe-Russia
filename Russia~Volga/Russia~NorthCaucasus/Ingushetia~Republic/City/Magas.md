@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 37065
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 44.81667
+dv_has_place_latitude: 43.16667
+dv_name: Magas
+dv_Country: "[[../../../../../Russia]]"
+dv_StateId: 37042
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::44.81667] 
-[has_place_latitude::43.16667] 
-[name::Magas] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37042] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Magas](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Magas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Ingushetia~Republic/City/Magas|Magas]] 
 
-### [Magas.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Magas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Ingushetia~Republic/City/Magas.public|Magas.public]] 
 
-### [Magas.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Magas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Ingushetia~Republic/City/Magas.internal|Magas.internal]] 
 
-### [Magas.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Magas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Ingushetia~Republic/City/Magas.protect|Magas.protect]] 
 
-### [Magas.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Magas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Ingushetia~Republic/City/Magas.private|Magas.private]] 
 
-### [Magas.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Magas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Ingushetia~Republic/City/Magas.personal|Magas.personal]] 
 
-### [Magas.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Magas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Ingushetia~Republic/City/Magas.secret|Magas.secret]] 
 

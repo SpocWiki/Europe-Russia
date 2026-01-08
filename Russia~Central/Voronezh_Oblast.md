@@ -12,15 +12,21 @@ tags:
 SpocWebEntityId: 37125
 isDeleted: false
 confidential: public
+dv_name: Voronezh Oblast
+dv_Country: "[[../../Russia]]"
+dv_Capital: "[[Voronezh_Oblast/City/Woronez]]"
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 39.2
+dv_has_place_latitude: 51.67
 ---
-[name::Voronezh Oblast] 
+name = `=this.dv_name` 
 [name-abbr::] 
-Country :: [[Russia]]  
-Capital :: [[Woronez]]  
+Country = `=this.dv_Country`
+Capital = `=this.dv_Capital`
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::39.2] 
-[has_place_latitude::51.67] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
 
@@ -37,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Voronezh_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Voronezh_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Voronezh_Oblast|Voronezh_Oblast]] 
 
-### [Voronezh_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Voronezh_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Voronezh_Oblast.public|Voronezh_Oblast.public]] 
 
-### [Voronezh_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Voronezh_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Voronezh_Oblast.internal|Voronezh_Oblast.internal]] 
 
-### [Voronezh_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Voronezh_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Voronezh_Oblast.protect|Voronezh_Oblast.protect]] 
 
-### [Voronezh_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Voronezh_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Voronezh_Oblast.private|Voronezh_Oblast.private]] 
 
-### [Voronezh_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Voronezh_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Voronezh_Oblast.personal|Voronezh_Oblast.personal]] 
 
-### [Voronezh_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Voronezh_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Voronezh_Oblast.secret|Voronezh_Oblast.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31704
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 29.88
+dv_has_place_latitude: 61.3
+dv_name: Kurkijoko
+dv_Country: "[[../../../../../Europe~North/Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::29.88] 
-[has_place_latitude::61.3] 
-[name::Kurkijoko] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kurkijoko](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Kurkijoko.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Kurkijoko|Kurkijoko]] 
 
-### [Kurkijoko.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Kurkijoko.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Kurkijoko.public|Kurkijoko.public]] 
 
-### [Kurkijoko.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Kurkijoko.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Kurkijoko.internal|Kurkijoko.internal]] 
 
-### [Kurkijoko.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Kurkijoko.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Kurkijoko.protect|Kurkijoko.protect]] 
 
-### [Kurkijoko.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Kurkijoko.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Kurkijoko.private|Kurkijoko.private]] 
 
-### [Kurkijoko.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Kurkijoko.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Kurkijoko.personal|Kurkijoko.personal]] 
 
-### [Kurkijoko.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Kurkijoko.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Kurkijoko.secret|Kurkijoko.secret]] 
 

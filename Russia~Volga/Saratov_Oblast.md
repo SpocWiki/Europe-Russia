@@ -1,4 +1,12 @@
-﻿---
+---
+dv_name: Saratov Oblast
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 51.57
+dv_has_place_latitude: 46.2
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Saratov_Oblast,5334]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Saratov_Oblast,5334]]"
+
 has_time_started: 1936-12-05 
 aliases:
   - Saratov Oblast
@@ -78,16 +86,16 @@ coordinate_location: Point(46.733333333 51.783333333)
 
 # [[Saratov_Oblast]]
 
-[name::Saratov Oblast] 
+name = `=this.dv_name` 
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Saratow]]  
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::51.57] 
-[has_place_latitude::46.2] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
-#is_/same_as :: [[_Standards/WikiData/WD~Saratov_Oblast,5334]]
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -103,17 +111,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saratov_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast|Saratov_Oblast]] 
 
-### [Saratov_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast.public|Saratov_Oblast.public]] 
 
-### [Saratov_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast.internal|Saratov_Oblast.internal]] 
 
-### [Saratov_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast.protect|Saratov_Oblast.protect]] 
 
-### [Saratov_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast.private|Saratov_Oblast.private]] 
 
-### [Saratov_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast.personal|Saratov_Oblast.personal]] 
 
-### [Saratov_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Saratov_Oblast.secret|Saratov_Oblast.secret]] 
 

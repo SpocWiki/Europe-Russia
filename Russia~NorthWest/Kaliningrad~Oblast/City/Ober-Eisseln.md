@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33009
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 22.12
+dv_has_place_latitude: 55.02
+dv_name: Ober-Eisseln
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::22.12] 
-[has_place_latitude::55.02] 
-[name::Ober-Eisseln] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ober-Eisseln](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Ober-Eisseln.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Ober-Eisseln|Ober-Eisseln]] 
 
-### [Ober-Eisseln.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Ober-Eisseln.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Ober-Eisseln.public|Ober-Eisseln.public]] 
 
-### [Ober-Eisseln.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Ober-Eisseln.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Ober-Eisseln.internal|Ober-Eisseln.internal]] 
 
-### [Ober-Eisseln.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Ober-Eisseln.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Ober-Eisseln.protect|Ober-Eisseln.protect]] 
 
-### [Ober-Eisseln.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Ober-Eisseln.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Ober-Eisseln.private|Ober-Eisseln.private]] 
 
-### [Ober-Eisseln.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Ober-Eisseln.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Ober-Eisseln.personal|Ober-Eisseln.personal]] 
 
-### [Ober-Eisseln.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Ober-Eisseln.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Ober-Eisseln.secret|Ober-Eisseln.secret]] 
 

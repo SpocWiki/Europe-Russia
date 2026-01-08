@@ -12,18 +12,24 @@ tags:
 SpocWebEntityId: 37124
 isDeleted: false
 confidential: public
+dv_name: Vologda Oblast
+dv_Country: "[[../../Russia]]"
+dv_Capital: "[[Vologda_Oblast/City/Wologda]]"
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 40
+dv_has_place_latitude: 59.23
 ---
 
 # [[Vologda_Oblast]] 
 
-[name::Vologda Oblast] 
+name = `=this.dv_name` 
 [name-abbr::] 
-Country :: [[Russia]]  
-Capital :: [[Wologda]]  
+Country = `=this.dv_Country`
+Capital = `=this.dv_Capital`
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::40] 
-[has_place_latitude::59.23] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
 ## #has_/map 
@@ -40,17 +46,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vologda_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast|Vologda_Oblast]] 
 
-### [Vologda_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast.public|Vologda_Oblast.public]] 
 
-### [Vologda_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast.internal|Vologda_Oblast.internal]] 
 
-### [Vologda_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast.protect|Vologda_Oblast.protect]] 
 
-### [Vologda_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast.private|Vologda_Oblast.private]] 
 
-### [Vologda_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast.personal|Vologda_Oblast.personal]] 
 
-### [Vologda_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast.secret|Vologda_Oblast.secret]] 
 

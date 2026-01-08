@@ -1,4 +1,9 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Kurgan_Oblast,5741]]"
+dv_fips-10-4-countries-and-regions: RS40
+dv_is_same_as: "[[_Standards/WikiData/WD~Kurgan_Oblast,5741]]"
+
 has_time_started: 1943-02-06 
 aliases:
   - Kurgan_Oblast
@@ -73,7 +78,7 @@ HASC: RU.KU
 inception: 1943-02-06T00:00:00Z
 ---
 
-#is_/same_as :: [[_Standards/WikiData/WD~Kurgan_Oblast,5741]] 
+is_same_as = `=this.dv_is_same_as`
 
 
 ## #has_/text_of_/abstract 
@@ -88,17 +93,17 @@ inception: 1943-02-06T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### [Kurgan_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kurgan_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kurgan_Oblast|Kurgan_Oblast]] 
 
-### [Kurgan_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kurgan_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kurgan_Oblast.public|Kurgan_Oblast.public]] 
 
-### [Kurgan_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kurgan_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kurgan_Oblast.internal|Kurgan_Oblast.internal]] 
 
-### [Kurgan_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kurgan_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kurgan_Oblast.protect|Kurgan_Oblast.protect]] 
 
-### [Kurgan_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kurgan_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kurgan_Oblast.private|Kurgan_Oblast.private]] 
 
-### [Kurgan_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kurgan_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kurgan_Oblast.personal|Kurgan_Oblast.personal]] 
 
-### [Kurgan_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kurgan_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kurgan_Oblast.secret|Kurgan_Oblast.secret]] 
 

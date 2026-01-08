@@ -1,4 +1,12 @@
-﻿---
+---
+dv_name: Penza Oblast
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 45.02
+dv_has_place_latitude: 53.18
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Penza_Oblast,5545]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Penza_Oblast,5545]]"
+
 has_time_started: 1939-02-04 
 aliases:
   - Penza Oblast
@@ -65,16 +73,16 @@ HASC: RU.PZ
 
 # [[Penza_Oblast]] 
 
-[name::Penza Oblast] 
+name = `=this.dv_name` 
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Penza]]  
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::45.02] 
-[has_place_latitude::53.18] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
-#is_/same_as :: [[_Standards/WikiData/WD~Penza_Oblast,5545]]
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -90,17 +98,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Penza_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast|Penza_Oblast]] 
 
-### [Penza_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast.public|Penza_Oblast.public]] 
 
-### [Penza_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast.internal|Penza_Oblast.internal]] 
 
-### [Penza_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast.protect|Penza_Oblast.protect]] 
 
-### [Penza_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast.private|Penza_Oblast.private]] 
 
-### [Penza_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast.personal|Penza_Oblast.personal]] 
 
-### [Penza_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast.secret|Penza_Oblast.secret]] 
 

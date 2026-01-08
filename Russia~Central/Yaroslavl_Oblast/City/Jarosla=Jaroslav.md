@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 31164
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 39.87
+dv_has_place_latitude: 57.62
+dv_name: Jarosla=Jaroslav
+dv_Country: "[[../../../../Russia]]"
+dv_StateId: 37197
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::39.87] 
-[has_place_latitude::57.62] 
-[name::Jarosla=Jaroslav] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37197] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jarosla=Jaroslav](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Jarosla=Jaroslav.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Jarosla=Jaroslav|Jarosla=Jaroslav]] 
 
-### [Jarosla=Jaroslav.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Jarosla=Jaroslav.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Jarosla=Jaroslav.public|Jarosla=Jaroslav.public]] 
 
-### [Jarosla=Jaroslav.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Jarosla=Jaroslav.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Jarosla=Jaroslav.internal|Jarosla=Jaroslav.internal]] 
 
-### [Jarosla=Jaroslav.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Jarosla=Jaroslav.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Jarosla=Jaroslav.protect|Jarosla=Jaroslav.protect]] 
 
-### [Jarosla=Jaroslav.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Jarosla=Jaroslav.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Jarosla=Jaroslav.private|Jarosla=Jaroslav.private]] 
 
-### [Jarosla=Jaroslav.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Jarosla=Jaroslav.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Jarosla=Jaroslav.personal|Jarosla=Jaroslav.personal]] 
 
-### [Jarosla=Jaroslav.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Jarosla=Jaroslav.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Jarosla=Jaroslav.secret|Jarosla=Jaroslav.secret]] 
 

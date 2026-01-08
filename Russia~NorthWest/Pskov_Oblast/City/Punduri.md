@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33550
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 27.77
+dv_has_place_latitude: 56.93
+dv_name: Punduri
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::27.77] 
-[has_place_latitude::56.93] 
-[name::Punduri] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Punduri](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Punduri.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Punduri|Punduri]] 
 
-### [Punduri.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Punduri.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Punduri.public|Punduri.public]] 
 
-### [Punduri.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Punduri.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Punduri.internal|Punduri.internal]] 
 
-### [Punduri.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Punduri.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Punduri.protect|Punduri.protect]] 
 
-### [Punduri.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Punduri.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Punduri.private|Punduri.private]] 
 
-### [Punduri.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Punduri.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Punduri.personal|Punduri.personal]] 
 
-### [Punduri.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Punduri.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Punduri.secret|Punduri.secret]] 
 

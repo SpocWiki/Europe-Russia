@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 33952
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 45.1833
+dv_has_place_latitude: 54.18
+dv_name: Saransk
+dv_Country: "[[../../../../Russia]]"
+dv_StateId: 37049
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::45.1833] 
-[has_place_latitude::54.18] 
-[name::Saransk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37049] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saransk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Saransk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Saransk|Saransk]] 
 
-### [Saransk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Saransk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Saransk.public|Saransk.public]] 
 
-### [Saransk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Saransk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Saransk.internal|Saransk.internal]] 
 
-### [Saransk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Saransk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Saransk.protect|Saransk.protect]] 
 
-### [Saransk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Saransk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Saransk.private|Saransk.private]] 
 
-### [Saransk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Saransk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Saransk.personal|Saransk.personal]] 
 
-### [Saransk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Saransk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Saransk.secret|Saransk.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29010
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 37.32
+dv_has_place_latitude: 55.83
+dv_name: Banki=Krasnogorsk
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::37.32] 
-[has_place_latitude::55.83] 
-[name::Banki=Krasnogorsk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Banki=Krasnogorsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Banki=Krasnogorsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Banki=Krasnogorsk|Banki=Krasnogorsk]] 
 
-### [Banki=Krasnogorsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Banki=Krasnogorsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Banki=Krasnogorsk.public|Banki=Krasnogorsk.public]] 
 
-### [Banki=Krasnogorsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Banki=Krasnogorsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Banki=Krasnogorsk.internal|Banki=Krasnogorsk.internal]] 
 
-### [Banki=Krasnogorsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Banki=Krasnogorsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Banki=Krasnogorsk.protect|Banki=Krasnogorsk.protect]] 
 
-### [Banki=Krasnogorsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Banki=Krasnogorsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Banki=Krasnogorsk.private|Banki=Krasnogorsk.private]] 
 
-### [Banki=Krasnogorsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Banki=Krasnogorsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Banki=Krasnogorsk.personal|Banki=Krasnogorsk.personal]] 
 
-### [Banki=Krasnogorsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Banki=Krasnogorsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Banki=Krasnogorsk.secret|Banki=Krasnogorsk.secret]] 
 

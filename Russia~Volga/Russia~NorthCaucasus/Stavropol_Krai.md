@@ -11,15 +11,21 @@ tags:
 SpocWebEntityId: 37104
 isDeleted: false
 confidential: public
+dv_name: Stavropol Krai
+dv_Country: "[[../../../Russia]]"
+dv_Capital: "[[Stavropol_Krai/City/Stavropol]]"
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: 41.9833
+dv_has_place_latitude: 45.05
 ---
-[name::Stavropol Krai] 
+name = `=this.dv_name` 
 [name-abbr::] 
-Country :: [[Russia]]  
-Capital :: [[Stavropol]]  
+Country = `=this.dv_Country`
+Capital = `=this.dv_Capital`
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::41.9833] 
-[has_place_latitude::45.05] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
 
@@ -36,17 +42,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stavropol_Krai](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai|Stavropol_Krai]] 
 
-### [Stavropol_Krai.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai.public|Stavropol_Krai.public]] 
 
-### [Stavropol_Krai.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai.internal|Stavropol_Krai.internal]] 
 
-### [Stavropol_Krai.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai.protect|Stavropol_Krai.protect]] 
 
-### [Stavropol_Krai.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai.private|Stavropol_Krai.private]] 
 
-### [Stavropol_Krai.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai.personal|Stavropol_Krai.personal]] 
 
-### [Stavropol_Krai.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai.secret|Stavropol_Krai.secret]] 
 

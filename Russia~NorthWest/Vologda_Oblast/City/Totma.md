@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34930
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 45.03
+dv_has_place_latitude: 60.13
+dv_name: Totma
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::45.03] 
-[has_place_latitude::60.13] 
-[name::Totma] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Totma](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Totma.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Totma|Totma]] 
 
-### [Totma.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Totma.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Totma.public|Totma.public]] 
 
-### [Totma.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Totma.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Totma.internal|Totma.internal]] 
 
-### [Totma.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Totma.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Totma.protect|Totma.protect]] 
 
-### [Totma.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Totma.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Totma.private|Totma.private]] 
 
-### [Totma.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Totma.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Totma.personal|Totma.personal]] 
 
-### [Totma.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Totma.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Totma.secret|Totma.secret]] 
 

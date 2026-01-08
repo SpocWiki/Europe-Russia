@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31662
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 29.77
+dv_has_place_latitude: 59.98
+dv_name: Kronstadt
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::29.77] 
-[has_place_latitude::59.98] 
-[name::Kronstadt] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kronstadt](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Kronstadt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Kronstadt|Kronstadt]] 
 
-### [Kronstadt.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Kronstadt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Kronstadt.public|Kronstadt.public]] 
 
-### [Kronstadt.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Kronstadt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Kronstadt.internal|Kronstadt.internal]] 
 
-### [Kronstadt.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Kronstadt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Kronstadt.protect|Kronstadt.protect]] 
 
-### [Kronstadt.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Kronstadt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Kronstadt.private|Kronstadt.private]] 
 
-### [Kronstadt.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Kronstadt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Kronstadt.personal|Kronstadt.personal]] 
 
-### [Kronstadt.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Kronstadt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Kronstadt.secret|Kronstadt.secret]] 
 

@@ -1,4 +1,12 @@
-﻿---
+---
+dv_name: Samara Oblast
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 52.43
+dv_has_place_latitude: 53.18
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Samara_Oblast,1727]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Samara_Oblast,1727]]"
+
 has_time_started: 1936-12-05 
 aliases:
   - Samara Oblast
@@ -113,16 +121,16 @@ Dewey_Decimal_Classification: 2--4744
 
 # [[Samara_Oblast]] 
 
-[name::Samara Oblast] 
+name = `=this.dv_name` 
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Samara]]  
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::52.43] 
-[has_place_latitude::53.18] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
-#is_/same_as :: [[_Standards/WikiData/WD~Samara_Oblast,1727]]
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -138,17 +146,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Samara_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast|Samara_Oblast]] 
 
-### [Samara_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast.public|Samara_Oblast.public]] 
 
-### [Samara_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast.internal|Samara_Oblast.internal]] 
 
-### [Samara_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast.protect|Samara_Oblast.protect]] 
 
-### [Samara_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast.private|Samara_Oblast.private]] 
 
-### [Samara_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast.personal|Samara_Oblast.personal]] 
 
-### [Samara_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast.secret|Samara_Oblast.secret]] 
 

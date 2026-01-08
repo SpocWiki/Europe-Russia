@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 37127
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 40.98195
+dv_has_place_latitude: 56.99667
+dv_name: Ivanovo
+dv_Country: "[[../../../../Russia]]"
+dv_StateId: 37126
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::40.98195] 
-[has_place_latitude::56.99667] 
-[name::Ivanovo] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37126] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ivanovo](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ivanovo_Oblast/City/Ivanovo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ivanovo_Oblast/City/Ivanovo|Ivanovo]] 
 
-### [Ivanovo.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ivanovo_Oblast/City/Ivanovo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ivanovo_Oblast/City/Ivanovo.public|Ivanovo.public]] 
 
-### [Ivanovo.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ivanovo_Oblast/City/Ivanovo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ivanovo_Oblast/City/Ivanovo.internal|Ivanovo.internal]] 
 
-### [Ivanovo.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ivanovo_Oblast/City/Ivanovo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ivanovo_Oblast/City/Ivanovo.protect|Ivanovo.protect]] 
 
-### [Ivanovo.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ivanovo_Oblast/City/Ivanovo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ivanovo_Oblast/City/Ivanovo.private|Ivanovo.private]] 
 
-### [Ivanovo.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ivanovo_Oblast/City/Ivanovo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ivanovo_Oblast/City/Ivanovo.personal|Ivanovo.personal]] 
 
-### [Ivanovo.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ivanovo_Oblast/City/Ivanovo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ivanovo_Oblast/City/Ivanovo.secret|Ivanovo.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34650
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 40.87
+dv_has_place_latitude: 55.95
+dv_name: Sudogda
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::40.87] 
-[has_place_latitude::55.95] 
-[name::Sudogda] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sudogda](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Sudogda.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Sudogda|Sudogda]] 
 
-### [Sudogda.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Sudogda.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Sudogda.public|Sudogda.public]] 
 
-### [Sudogda.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Sudogda.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Sudogda.internal|Sudogda.internal]] 
 
-### [Sudogda.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Sudogda.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Sudogda.protect|Sudogda.protect]] 
 
-### [Sudogda.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Sudogda.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Sudogda.private|Sudogda.private]] 
 
-### [Sudogda.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Sudogda.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Sudogda.personal|Sudogda.personal]] 
 
-### [Sudogda.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Sudogda.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Sudogda.secret|Sudogda.secret]] 
 

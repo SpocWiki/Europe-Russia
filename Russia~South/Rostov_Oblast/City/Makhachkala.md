@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 32225
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 42.97
+dv_has_place_latitude: 47.5
+dv_name: Makhachkala
+dv_Country: "[[../../../../Russia]]"
+dv_StateId: 37041
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::42.97] 
-[has_place_latitude::47.5] 
-[name::Makhachkala] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37041] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Makhachkala](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Makhachkala.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Makhachkala|Makhachkala]] 
 
-### [Makhachkala.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Makhachkala.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Makhachkala.public|Makhachkala.public]] 
 
-### [Makhachkala.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Makhachkala.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Makhachkala.internal|Makhachkala.internal]] 
 
-### [Makhachkala.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Makhachkala.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Makhachkala.protect|Makhachkala.protect]] 
 
-### [Makhachkala.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Makhachkala.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Makhachkala.private|Makhachkala.private]] 
 
-### [Makhachkala.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Makhachkala.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Makhachkala.personal|Makhachkala.personal]] 
 
-### [Makhachkala.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Makhachkala.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Makhachkala.secret|Makhachkala.secret]] 
 

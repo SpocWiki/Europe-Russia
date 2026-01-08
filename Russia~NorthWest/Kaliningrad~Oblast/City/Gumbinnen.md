@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30638
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 22.2
+dv_has_place_latitude: 54.58
+dv_name: Gumbinnen
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::22.2] 
-[has_place_latitude::54.58] 
-[name::Gumbinnen] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gumbinnen](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Gumbinnen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Gumbinnen|Gumbinnen]] 
 
-### [Gumbinnen.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Gumbinnen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Gumbinnen.public|Gumbinnen.public]] 
 
-### [Gumbinnen.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Gumbinnen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Gumbinnen.internal|Gumbinnen.internal]] 
 
-### [Gumbinnen.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Gumbinnen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Gumbinnen.protect|Gumbinnen.protect]] 
 
-### [Gumbinnen.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Gumbinnen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Gumbinnen.private|Gumbinnen.private]] 
 
-### [Gumbinnen.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Gumbinnen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Gumbinnen.personal|Gumbinnen.personal]] 
 
-### [Gumbinnen.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Gumbinnen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast/City/Gumbinnen.secret|Gumbinnen.secret]] 
 

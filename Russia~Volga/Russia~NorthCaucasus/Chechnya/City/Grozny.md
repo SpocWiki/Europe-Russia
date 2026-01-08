@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 30599
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 45.7
+dv_has_place_latitude: 43.33
+dv_name: Grozny
+dv_Country: "[[../../../../../Russia]]"
+dv_StateId: 37056
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::45.7] 
-[has_place_latitude::43.33] 
-[name::Grozny] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37056] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grozny](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya/City/Grozny.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Chechnya/City/Grozny|Grozny]] 
 
-### [Grozny.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya/City/Grozny.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Chechnya/City/Grozny.public|Grozny.public]] 
 
-### [Grozny.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya/City/Grozny.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Chechnya/City/Grozny.internal|Grozny.internal]] 
 
-### [Grozny.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya/City/Grozny.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Chechnya/City/Grozny.protect|Grozny.protect]] 
 
-### [Grozny.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya/City/Grozny.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Chechnya/City/Grozny.private|Grozny.private]] 
 
-### [Grozny.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya/City/Grozny.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Chechnya/City/Grozny.personal|Grozny.personal]] 
 
-### [Grozny.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya/City/Grozny.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Chechnya/City/Grozny.secret|Grozny.secret]] 
 

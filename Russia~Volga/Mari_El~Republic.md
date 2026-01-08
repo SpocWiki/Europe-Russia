@@ -1,4 +1,12 @@
-﻿---
+---
+dv_name: Mari El~Republic
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 47.92
+dv_has_place_latitude: 56.67
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Mari_El,5446]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Mari_El,5446]]"
+
 has_time_started: 1993-01-12 
 aliases:
   - Mari El Republic
@@ -101,16 +109,16 @@ ISO_3166_2_code: RU-ME
 
 # [[Mari_El~Republic]] 
 
-[name::Mari El~Republic] 
+name = `=this.dv_name` 
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Yoshkar-Ola]]  
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::47.92] 
-[has_place_latitude::56.67] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
-#is_/same_as :: [[_Standards/WikiData/WD~Mari_El,5446]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -126,17 +134,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mari_El~Republic](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic|Mari_El~Republic]] 
 
-### [Mari_El~Republic.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic.public|Mari_El~Republic.public]] 
 
-### [Mari_El~Republic.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic.internal|Mari_El~Republic.internal]] 
 
-### [Mari_El~Republic.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic.protect|Mari_El~Republic.protect]] 
 
-### [Mari_El~Republic.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic.private|Mari_El~Republic.private]] 
 
-### [Mari_El~Republic.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic.personal|Mari_El~Republic.personal]] 
 
-### [Mari_El~Republic.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic.secret|Mari_El~Republic.secret]] 
 

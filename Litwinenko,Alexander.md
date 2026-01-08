@@ -1,6 +1,14 @@
+---
+dv_has_:
+  time_:
+    started: 1962-08-30T00:00:00.000+01:00
+    stopped: 2006-11-23T00:00:00.000+01:00
+dv_has_time_started: 1962-08-30
+dv_has_time_stopped: 2006-11-23
+---
 
-#has_/time_/started :: 1962-08-30 
-#has_/time_/stopped :: 2006-11-23 
+has_time_started = `=this.dv_has_time_started`
+has_time_stopped = `=this.dv_has_time_stopped`
 
 ## #has_/text_of_/abstract 
 
@@ -58,17 +66,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Litwinenko,Alexander](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Litwinenko,Alexander.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Litwinenko,Alexander|Litwinenko,Alexander]] 
 
-### [Litwinenko,Alexander.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Litwinenko,Alexander.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Litwinenko,Alexander.public|Litwinenko,Alexander.public]] 
 
-### [Litwinenko,Alexander.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Litwinenko,Alexander.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Litwinenko,Alexander.internal|Litwinenko,Alexander.internal]] 
 
-### [Litwinenko,Alexander.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Litwinenko,Alexander.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Litwinenko,Alexander.protect|Litwinenko,Alexander.protect]] 
 
-### [Litwinenko,Alexander.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Litwinenko,Alexander.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Litwinenko,Alexander.private|Litwinenko,Alexander.private]] 
 
-### [Litwinenko,Alexander.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Litwinenko,Alexander.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Litwinenko,Alexander.personal|Litwinenko,Alexander.personal]] 
 
-### [Litwinenko,Alexander.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Litwinenko,Alexander.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Litwinenko,Alexander.secret|Litwinenko,Alexander.secret]] 
 

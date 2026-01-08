@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34771
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 37.18
+dv_has_place_latitude: 54.73
+dv_name: Tarussa
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::37.18] 
-[has_place_latitude::54.73] 
-[name::Tarussa] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tarussa](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Tarussa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Tarussa|Tarussa]] 
 
-### [Tarussa.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Tarussa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Tarussa.public|Tarussa.public]] 
 
-### [Tarussa.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Tarussa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Tarussa.internal|Tarussa.internal]] 
 
-### [Tarussa.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Tarussa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Tarussa.protect|Tarussa.protect]] 
 
-### [Tarussa.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Tarussa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Tarussa.private|Tarussa.private]] 
 
-### [Tarussa.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Tarussa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Tarussa.personal|Tarussa.personal]] 
 
-### [Tarussa.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Tarussa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Tarussa.secret|Tarussa.secret]] 
 

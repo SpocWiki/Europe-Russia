@@ -7,38 +7,41 @@ aliases:
   - Kola Peninsula
 has_id_wikidata: Q165608
 has_boundary:
-  - '[[_Standards/WikiData/WD~Imandra,265997]]'
-  - '[[_Standards/WikiData/WD~Niva,1075158]]'
-  - '[[_Standards/WikiData/WD~Kola,1149171]]'
+  - "[[_Standards/WikiData/WD~Imandra,265997]]"
+  - "[[_Standards/WikiData/WD~Niva,1075158]]"
+  - "[[_Standards/WikiData/WD~Kola,1149171]]"
 located_in_or_next_to_body_of_water:
-  - '[[_Standards/WikiData/WD~Imandra,265997]]'
-  - '[[_Standards/WikiData/WD~Niva,1075158]]'
-  - '[[_Standards/WikiData/WD~Kola,1149171]]'
-  - '[[_Standards/WikiData/WD~White_Sea,44133]]'
-  - '[[_Standards/WikiData/WD~Barents_Sea,45823]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Fennoscandia,604496]]'
+  - "[[_Standards/WikiData/WD~Imandra,265997]]"
+  - "[[_Standards/WikiData/WD~Niva,1075158]]"
+  - "[[_Standards/WikiData/WD~Kola,1149171]]"
+  - "[[_Standards/WikiData/WD~White_Sea,44133]]"
+  - "[[_Standards/WikiData/WD~Barents_Sea,45823]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Fennoscandia,604496]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 coordinate_location: Point(36.0 68.0)
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Murmansk_Oblast,1759]]'
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Murmansk_Oblast,1759]]"
 area: 100000
-country: '[[_Standards/WikiData/WD~Russia,159]]'
-instance_of: '[[_Standards/WikiData/WD~peninsula,34763]]'
+country: "[[_Standards/WikiData/WD~Russia,159]]"
+instance_of: "[[_Standards/WikiData/WD~peninsula,34763]]"
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Kola%20peninsula.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Kola%20Peninsula%20in%20June%202001.jpg
 Commons_category: Kola Peninsula
 name:
   - Куэлнёа̄ррк
   - Куэлнэгк нёа̄ррк
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Kola_Peninsula,165608|WD~Kola_Peninsula,165608]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Kola_Peninsula,165608|WD~Kola_Peninsula,165608]]"
 ---
 
 # [[Kola_Peninsula]] 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Kola_Peninsula,165608|WD~Kola_Peninsula,165608]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map  
 
@@ -72,4 +75,21 @@ markerFolder: ./Kola_Peninsula/
 > Despite the peninsula's northerly location, its proximity to the North Atlantic Current (an extension of the Gulf Stream) leads to unusually high temperatures in winter, but also results in high winds due to the temperature variations between land and the Barents Sea. Summers are rather chilly, with the average July temperature of only 11 °C (52 °F). The peninsula is covered by taiga in the south and by tundra in the north, where permafrost limits the growth of trees, resulting in landscape dominated by shrubs and grasses. The peninsula supports a small variety of mammals, and its rivers are an important habitat for the Atlantic salmon. The Kandalaksha Nature Reserve, established to protect the population of common eider, is located in the Kandalaksha Gulf. The peninsula is also the site of the Kola Superdeep Borehole, the deepest hole drilled into the Earth.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kola%20Peninsula) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/Kola_Peninsula|Kola_Peninsula]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/Kola_Peninsula.public|Kola_Peninsula.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/Kola_Peninsula.internal|Kola_Peninsula.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/Kola_Peninsula.protect|Kola_Peninsula.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/Kola_Peninsula.private|Kola_Peninsula.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/Kola_Peninsula.personal|Kola_Peninsula.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/Kola_Peninsula.secret|Kola_Peninsula.secret]] 
 

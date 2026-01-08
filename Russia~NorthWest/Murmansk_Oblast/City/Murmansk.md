@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 32633
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 33.08
+dv_has_place_latitude: 68.97
+dv_name: Murmansk
+dv_Country: "[[../../../../Russia]]"
+dv_StateId: 37141
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::33.08] 
-[has_place_latitude::68.97] 
-[name::Murmansk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37141] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Murmansk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Murmansk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Murmansk|Murmansk]] 
 
-### [Murmansk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Murmansk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Murmansk.public|Murmansk.public]] 
 
-### [Murmansk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Murmansk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Murmansk.internal|Murmansk.internal]] 
 
-### [Murmansk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Murmansk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Murmansk.protect|Murmansk.protect]] 
 
-### [Murmansk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Murmansk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Murmansk.private|Murmansk.private]] 
 
-### [Murmansk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Murmansk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Murmansk.personal|Murmansk.personal]] 
 
-### [Murmansk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Murmansk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Murmansk.secret|Murmansk.secret]] 
 

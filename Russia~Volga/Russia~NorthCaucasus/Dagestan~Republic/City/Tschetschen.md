@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35022
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 47.77
+dv_has_place_latitude: 43.97
+dv_name: Tschetschen
+dv_Country: "[[../../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::47.77] 
-[has_place_latitude::43.97] 
-[name::Tschetschen] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tschetschen](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Tschetschen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/City/Tschetschen|Tschetschen]] 
 
-### [Tschetschen.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Tschetschen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/City/Tschetschen.public|Tschetschen.public]] 
 
-### [Tschetschen.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Tschetschen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/City/Tschetschen.internal|Tschetschen.internal]] 
 
-### [Tschetschen.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Tschetschen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/City/Tschetschen.protect|Tschetschen.protect]] 
 
-### [Tschetschen.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Tschetschen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/City/Tschetschen.private|Tschetschen.private]] 
 
-### [Tschetschen.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Tschetschen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/City/Tschetschen.personal|Tschetschen.personal]] 
 
-### [Tschetschen.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Tschetschen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/City/Tschetschen.secret|Tschetschen.secret]] 
 

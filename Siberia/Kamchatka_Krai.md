@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Kamchatka_Krai,7948]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Kamchatka_Krai,7948]]"
+
 has_time_started: 2007-01-01 
 aliases:
   - Kamchatka Krai
@@ -77,7 +81,7 @@ native_label: Камчатский край
 
 # [[Kamchatka_Krai]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Kamchatka_Krai,7948]]
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -101,17 +105,17 @@ native_label: Камчатский край
 
 ## Confidential Links & Embeds: 
 
-### [Kamchatka_Krai](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kamchatka_Krai.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kamchatka_Krai|Kamchatka_Krai]] 
 
-### [Kamchatka_Krai.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kamchatka_Krai.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kamchatka_Krai.public|Kamchatka_Krai.public]] 
 
-### [Kamchatka_Krai.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kamchatka_Krai.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kamchatka_Krai.internal|Kamchatka_Krai.internal]] 
 
-### [Kamchatka_Krai.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kamchatka_Krai.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kamchatka_Krai.protect|Kamchatka_Krai.protect]] 
 
-### [Kamchatka_Krai.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kamchatka_Krai.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kamchatka_Krai.private|Kamchatka_Krai.private]] 
 
-### [Kamchatka_Krai.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kamchatka_Krai.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kamchatka_Krai.personal|Kamchatka_Krai.personal]] 
 
-### [Kamchatka_Krai.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kamchatka_Krai.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kamchatka_Krai.secret|Kamchatka_Krai.secret]] 
 

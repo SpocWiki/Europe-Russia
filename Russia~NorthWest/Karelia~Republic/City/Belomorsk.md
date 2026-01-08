@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29094
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 34.8
+dv_has_place_latitude: 64.53
+dv_name: Belomorsk
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::34.8] 
-[has_place_latitude::64.53] 
-[name::Belomorsk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Belomorsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Belomorsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Belomorsk|Belomorsk]] 
 
-### [Belomorsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Belomorsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Belomorsk.public|Belomorsk.public]] 
 
-### [Belomorsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Belomorsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Belomorsk.internal|Belomorsk.internal]] 
 
-### [Belomorsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Belomorsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Belomorsk.protect|Belomorsk.protect]] 
 
-### [Belomorsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Belomorsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Belomorsk.private|Belomorsk.private]] 
 
-### [Belomorsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Belomorsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Belomorsk.personal|Belomorsk.personal]] 
 
-### [Belomorsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Belomorsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Belomorsk.secret|Belomorsk.secret]] 
 

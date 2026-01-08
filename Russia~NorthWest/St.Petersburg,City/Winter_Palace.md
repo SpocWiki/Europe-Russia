@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Winter_Palace,182147|WD~Winter_Palace,182147]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Winter_Palace,182147|WD~Winter_Palace,182147]]"
+
 has_time_started: 1754-01-01 
 aliases:
   - Hermitage Museum
@@ -47,7 +51,7 @@ Commons_category: Winter Palace
 
 # [[Winter_Palace]] 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Winter_Palace,182147|WD~Winter_Palace,182147]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -87,4 +91,21 @@ Commons_category: Winter Palace
 > In 1905, the Bloody Sunday events occurred when demonstrators marched toward the Winter Palace, but by this time the Imperial Family had chosen to live in the more secure and secluded Alexander Palace at Tsarskoe Selo (lit. 'imperial village'), and returned to the Winter Palace only for formal and state occasions. Following the February Revolution of 1917, the palace operated for a short time as the seat of the Russian Provisional Government, ultimately led by Alexander Kerensky. Later that same year a detachment of Red Guard soldiers and sailors stormed the palace—a defining moment in the birth of the Soviet state, overthrowing the Provisional Government.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Winter%20Palace) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Winter_Palace|Winter_Palace]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Winter_Palace.public|Winter_Palace.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Winter_Palace.internal|Winter_Palace.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Winter_Palace.protect|Winter_Palace.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Winter_Palace.private|Winter_Palace.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Winter_Palace.personal|Winter_Palace.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Winter_Palace.secret|Winter_Palace.secret]] 
 

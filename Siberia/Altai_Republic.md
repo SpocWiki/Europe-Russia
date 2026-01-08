@@ -1,4 +1,9 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Altai_Republic,5971]]"
+dv_fips-10-4-countries-and-regions: RS03
+dv_is_same_as: "[[_Standards/WikiData/WD~Altai_Republic,5971]]"
+
 has_time_started: 1992-02-08 
 aliases:
   - Altai Republic
@@ -29,7 +34,7 @@ highest point: '[[WikiData/WD~Belukha_Mountain,724367]]'
 different from:
   - '[[WikiData/WD~Altay_Prefecture,776550]]'
   - '[[WikiData/WD~Altai_Krai,5942]]'
-location:
+locations:
   - '[[WikiData/WD~Western_Siberia,1191358]]'
   - '[[WikiData/WD~Altai,60169103]]'
 located in time zone:
@@ -82,7 +87,7 @@ area: 92903
 population: 210095
 ---
 
-#is_/same_as :: [[_Standards/WikiData/WD~Altai_Republic,5971]] 
+is_same_as = `=this.dv_is_same_as`
 
 
 > The **Altai Republic** (; Altay: Алтай Республика, romanized: Altay Respublika; Russian: Респу́блика Алта́й, romanized: Respublika Altay, IPA: [rʲɪˈspublʲɪkə ɐlˈtaj]), also known as Gorno-Altai Republic, and colloquially, and primarily referred to in Russian to distinguish from the neighbouring Altai Krai as the Gornyi Altai (Russian: Горный Алтай, romanized: Gornyy Altay, lit. 'the mountainous Altai'), is a republic of Russia located in southern Siberia. The republic borders the Federal subjects of [[../../Russia|Russia]] of Kemerovo to the north, [[Khakassia]] to the northeast, Tuva to the east, Altai Krai to the west, as well it borders three countries: [[../../../../Asia/Asia~East/Mongolia|Mongolia]] to the southeast, [[../../../../Asia/Asia~East/China|China]] to the south and [[../../../../Asia/Asia~Central/Kazakhstan|Kazakhstan]] to the southwest. It is a part of the Siberian Federal District, and covers an area of 92,903 square kilometers (35,870 sq mi), with a population of 210,924 residents. It is the least-populous republic of Russia and least-populous federal subject in the Siberian Federal District. Gorno-Altaysk is the capital and the largest town of the republic with 65,342 inhabitants and in urban areas, making it the least urbanized federal subject.
@@ -94,17 +99,17 @@ population: 210095
 
 ## Confidential Links & Embeds: 
 
-### [Altai_Republic](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Altai_Republic.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Altai_Republic|Altai_Republic]] 
 
-### [Altai_Republic.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Altai_Republic.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Altai_Republic.public|Altai_Republic.public]] 
 
-### [Altai_Republic.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Altai_Republic.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Altai_Republic.internal|Altai_Republic.internal]] 
 
-### [Altai_Republic.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Altai_Republic.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Altai_Republic.protect|Altai_Republic.protect]] 
 
-### [Altai_Republic.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Altai_Republic.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Altai_Republic.private|Altai_Republic.private]] 
 
-### [Altai_Republic.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Altai_Republic.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Altai_Republic.personal|Altai_Republic.personal]] 
 
-### [Altai_Republic.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Altai_Republic.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Altai_Republic.secret|Altai_Republic.secret]] 
 

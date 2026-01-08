@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31413
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 33.65
+dv_has_place_latitude: 67.57
+dv_name: Khibinogorsk=Kirovsk
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::33.65] 
-[has_place_latitude::67.57] 
-[name::Khibinogorsk=Kirovsk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Khibinogorsk=Kirovsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Khibinogorsk=Kirovsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Khibinogorsk=Kirovsk|Khibinogorsk=Kirovsk]] 
 
-### [Khibinogorsk=Kirovsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Khibinogorsk=Kirovsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Khibinogorsk=Kirovsk.public|Khibinogorsk=Kirovsk.public]] 
 
-### [Khibinogorsk=Kirovsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Khibinogorsk=Kirovsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Khibinogorsk=Kirovsk.internal|Khibinogorsk=Kirovsk.internal]] 
 
-### [Khibinogorsk=Kirovsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Khibinogorsk=Kirovsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Khibinogorsk=Kirovsk.protect|Khibinogorsk=Kirovsk.protect]] 
 
-### [Khibinogorsk=Kirovsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Khibinogorsk=Kirovsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Khibinogorsk=Kirovsk.private|Khibinogorsk=Kirovsk.private]] 
 
-### [Khibinogorsk=Kirovsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Khibinogorsk=Kirovsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Khibinogorsk=Kirovsk.personal|Khibinogorsk=Kirovsk.personal]] 
 
-### [Khibinogorsk=Kirovsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Khibinogorsk=Kirovsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Khibinogorsk=Kirovsk.secret|Khibinogorsk=Kirovsk.secret]] 
 

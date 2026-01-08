@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 32360
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 40.17
+dv_has_place_latitude: 44.58
+dv_name: Maykop
+dv_Country: "[[../../../../Russia]]"
+dv_StateId: 37037
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::40.17] 
-[has_place_latitude::44.58] 
-[name::Maykop] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37037] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Maykop](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic/City/Maykop.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic/City/Maykop|Maykop]] 
 
-### [Maykop.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic/City/Maykop.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic/City/Maykop.public|Maykop.public]] 
 
-### [Maykop.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic/City/Maykop.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic/City/Maykop.internal|Maykop.internal]] 
 
-### [Maykop.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic/City/Maykop.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic/City/Maykop.protect|Maykop.protect]] 
 
-### [Maykop.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic/City/Maykop.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic/City/Maykop.private|Maykop.private]] 
 
-### [Maykop.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic/City/Maykop.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic/City/Maykop.personal|Maykop.personal]] 
 
-### [Maykop.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic/City/Maykop.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic/City/Maykop.secret|Maykop.secret]] 
 

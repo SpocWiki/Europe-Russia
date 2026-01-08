@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 37137
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 39.6
+dv_has_place_latitude: 52.61666
+dv_name: Lipetsk
+dv_Country: "[[../../../../Russia]]"
+dv_StateId: 37136
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::39.6] 
-[has_place_latitude::52.61666] 
-[name::Lipetsk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37136] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lipetsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Lipetsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Lipetsk|Lipetsk]] 
 
-### [Lipetsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Lipetsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Lipetsk.public|Lipetsk.public]] 
 
-### [Lipetsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Lipetsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Lipetsk.internal|Lipetsk.internal]] 
 
-### [Lipetsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Lipetsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Lipetsk.protect|Lipetsk.protect]] 
 
-### [Lipetsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Lipetsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Lipetsk.private|Lipetsk.private]] 
 
-### [Lipetsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Lipetsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Lipetsk.personal|Lipetsk.personal]] 
 
-### [Lipetsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Lipetsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Lipetsk.secret|Lipetsk.secret]] 
 

@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 33904
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 52.43
+dv_has_place_latitude: 53.18
+dv_name: Samara
+dv_Country: "[[../../../../Russia]]"
+dv_StateId: 37184
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::52.43] 
-[has_place_latitude::53.18] 
-[name::Samara] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37184] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Samara](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Samara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Samara|Samara]] 
 
-### [Samara.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Samara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Samara.public|Samara.public]] 
 
-### [Samara.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Samara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Samara.internal|Samara.internal]] 
 
-### [Samara.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Samara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Samara.protect|Samara.protect]] 
 
-### [Samara.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Samara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Samara.private|Samara.private]] 
 
-### [Samara.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Samara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Samara.personal|Samara.personal]] 
 
-### [Samara.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Samara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Samara.secret|Samara.secret]] 
 

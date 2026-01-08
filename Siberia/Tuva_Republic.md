@@ -1,4 +1,9 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Tuva,960]]"
+dv_fips-10-4-countries-and-regions: RS79
+dv_is_same_as: "[[_Standards/WikiData/WD~Tuva,960]]"
+
 has_time_started: 1991-05-24 
 aliases:
   - Tuva_Republic
@@ -65,7 +70,7 @@ official name:
 native label: Тыва Республика
 ---
 
-#is_/same_as :: [[_Standards/WikiData/WD~Tuva,960]] 
+is_same_as = `=this.dv_is_same_as`
 
 
 > Tuva (; Russian: Тува [tʊˈva]) or Tyva (; Tuvan: Тыва [tʰɤ̀ʋɐ]), officially the Republic of Tyva, 
@@ -97,17 +102,17 @@ native label: Тыва Республика
 
 ## Confidential Links & Embeds: 
 
-### [Tuva_Republic](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tuva_Republic.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tuva_Republic|Tuva_Republic]] 
 
-### [Tuva_Republic.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tuva_Republic.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tuva_Republic.public|Tuva_Republic.public]] 
 
-### [Tuva_Republic.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tuva_Republic.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tuva_Republic.internal|Tuva_Republic.internal]] 
 
-### [Tuva_Republic.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tuva_Republic.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tuva_Republic.protect|Tuva_Republic.protect]] 
 
-### [Tuva_Republic.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tuva_Republic.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tuva_Republic.private|Tuva_Republic.private]] 
 
-### [Tuva_Republic.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tuva_Republic.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tuva_Republic.personal|Tuva_Republic.personal]] 
 
-### [Tuva_Republic.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tuva_Republic.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tuva_Republic.secret|Tuva_Republic.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31503
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 41.9
+dv_has_place_latitude: 43.78
+dv_name: Klukhari
+dv_Country: "[[../../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::41.9] 
-[has_place_latitude::43.78] 
-[name::Klukhari] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Klukhari](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess/City/Klukhari.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Karachay-Cherkess/City/Klukhari|Klukhari]] 
 
-### [Klukhari.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess/City/Klukhari.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Karachay-Cherkess/City/Klukhari.public|Klukhari.public]] 
 
-### [Klukhari.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess/City/Klukhari.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Karachay-Cherkess/City/Klukhari.internal|Klukhari.internal]] 
 
-### [Klukhari.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess/City/Klukhari.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Karachay-Cherkess/City/Klukhari.protect|Klukhari.protect]] 
 
-### [Klukhari.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess/City/Klukhari.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Karachay-Cherkess/City/Klukhari.private|Klukhari.private]] 
 
-### [Klukhari.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess/City/Klukhari.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Karachay-Cherkess/City/Klukhari.personal|Klukhari.personal]] 
 
-### [Klukhari.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Karachay-Cherkess/City/Klukhari.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Karachay-Cherkess/City/Klukhari.secret|Klukhari.secret]] 
 

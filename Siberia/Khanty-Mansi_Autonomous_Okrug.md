@@ -1,4 +1,9 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Khanty-Mansi_Autonomous_Okrug,6320]]"
+dv_fips-10-4-countries-and-regions: RS32
+dv_is_same_as: "[[_Standards/WikiData/WD~Khanty-Mansi_Autonomous_Okrug,6320]]"
+
 has_time_started: 1930-12-10 
 aliases:
   - Khanty-Mansi Autonomous Okrug
@@ -63,7 +68,7 @@ native label: Ханты-Мансийский автономный округ �
 inception: 1930-12-10T00:00:00Z
 ---
 
-#is_/same_as :: [[_Standards/WikiData/WD~Khanty-Mansi_Autonomous_Okrug,6320]] 
+is_same_as = `=this.dv_is_same_as`
 
 
 ## #has_/text_of_/abstract 
@@ -90,17 +95,17 @@ inception: 1930-12-10T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### [Khanty-Mansi_Autonomous_Okrug](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khanty-Mansi_Autonomous_Okrug.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khanty-Mansi_Autonomous_Okrug|Khanty-Mansi_Autonomous_Okrug]] 
 
-### [Khanty-Mansi_Autonomous_Okrug.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khanty-Mansi_Autonomous_Okrug.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khanty-Mansi_Autonomous_Okrug.public|Khanty-Mansi_Autonomous_Okrug.public]] 
 
-### [Khanty-Mansi_Autonomous_Okrug.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khanty-Mansi_Autonomous_Okrug.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khanty-Mansi_Autonomous_Okrug.internal|Khanty-Mansi_Autonomous_Okrug.internal]] 
 
-### [Khanty-Mansi_Autonomous_Okrug.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khanty-Mansi_Autonomous_Okrug.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khanty-Mansi_Autonomous_Okrug.protect|Khanty-Mansi_Autonomous_Okrug.protect]] 
 
-### [Khanty-Mansi_Autonomous_Okrug.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khanty-Mansi_Autonomous_Okrug.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khanty-Mansi_Autonomous_Okrug.private|Khanty-Mansi_Autonomous_Okrug.private]] 
 
-### [Khanty-Mansi_Autonomous_Okrug.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khanty-Mansi_Autonomous_Okrug.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khanty-Mansi_Autonomous_Okrug.personal|Khanty-Mansi_Autonomous_Okrug.personal]] 
 
-### [Khanty-Mansi_Autonomous_Okrug.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khanty-Mansi_Autonomous_Okrug.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khanty-Mansi_Autonomous_Okrug.secret|Khanty-Mansi_Autonomous_Okrug.secret]] 
 

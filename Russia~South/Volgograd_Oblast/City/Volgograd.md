@@ -17,20 +17,29 @@ tags:
 SpocWebEntityId: 37123
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 44.51667
+dv_has_place_latitude: 48.7
+dv_name: Volgograd
+dv_Country: "[[../../../../Russia]]"
+dv_StateId: 37122
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Volgograd,914|WD~Volgograd,914]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Volgograd,914|WD~Volgograd,914]]"
 ---
 
 # [[Volgograd]]
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::44.51667] 
-[has_place_latitude::48.7] 
-[name::Volgograd] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37122] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Volgograd,914|WD~Volgograd,914]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -85,20 +94,19 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Volgograd)  
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Volgograd](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Volgograd.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Volgograd|Volgograd]] 
 
-### [Volgograd.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Volgograd.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Volgograd.public|Volgograd.public]] 
 
-### [Volgograd.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Volgograd.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Volgograd.internal|Volgograd.internal]] 
 
-### [Volgograd.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Volgograd.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Volgograd.protect|Volgograd.protect]] 
 
-### [Volgograd.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Volgograd.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Volgograd.private|Volgograd.private]] 
 
-### [Volgograd.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Volgograd.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Volgograd.personal|Volgograd.personal]] 
 
-### [Volgograd.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Volgograd.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Volgograd.secret|Volgograd.secret]] 
 

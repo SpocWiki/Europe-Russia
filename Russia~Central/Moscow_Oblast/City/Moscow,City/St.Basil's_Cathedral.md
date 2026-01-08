@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~St._Basil's_Cathedral,129846|WD~St._Basil's_Cathedral,129846]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~St._Basil's_Cathedral,129846|WD~St._Basil's_Cathedral,129846]]"
+
 has_time_started: 1555-01-01 
 aliases:
   - St. Basil's Cathedral
@@ -65,7 +69,7 @@ official_name: Кафедральный Соборный храм во имя П
 ![[../../../../../../../../../assets/St.Basil's_Cathedral.png]] 
 By <a href="//commons.wikimedia.org/wiki/User:Safa.daneshvar" title="User:Safa.daneshvar">Safa.daneshvar</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=152949490">Link</a>
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~St._Basil's_Cathedral,129846|WD~St._Basil's_Cathedral,129846]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -88,4 +92,21 @@ By <a href="//commons.wikimedia.org/wiki/User:Safa.daneshvar" title="User:Safa.d
 > As part of the program of state atheism, the church was confiscated from the Russian Orthodox community as part of the Soviet Union's antireligious campaigns and has operated as a division of the State Historical Museum since 1928. It was completely secularized in 1929, and remains a federal property of the Russian Federation. The church has been part of the Moscow Kremlin and Red Square UNESCO World Heritage Site since 1990. With the dissolution of the Soviet Union in 1991, weekly liturgical celebration and prayers to St. Basil have been restored since 1997.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Saint%20Basil's%20Cathedral) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moscow,City/St.Basil's_Cathedral|St.Basil's_Cathedral]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moscow,City/St.Basil's_Cathedral.public|St.Basil's_Cathedral.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moscow,City/St.Basil's_Cathedral.internal|St.Basil's_Cathedral.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moscow,City/St.Basil's_Cathedral.protect|St.Basil's_Cathedral.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moscow,City/St.Basil's_Cathedral.private|St.Basil's_Cathedral.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moscow,City/St.Basil's_Cathedral.personal|St.Basil's_Cathedral.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moscow,City/St.Basil's_Cathedral.secret|St.Basil's_Cathedral.secret]] 
 

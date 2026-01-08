@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30507
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 44
+dv_has_place_latitude: 56.33
+dv_name: Gorki
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::44] 
-[has_place_latitude::56.33] 
-[name::Gorki] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gorki](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Gorki.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Gorki|Gorki]] 
 
-### [Gorki.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Gorki.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Gorki.public|Gorki.public]] 
 
-### [Gorki.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Gorki.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Gorki.internal|Gorki.internal]] 
 
-### [Gorki.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Gorki.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Gorki.protect|Gorki.protect]] 
 
-### [Gorki.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Gorki.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Gorki.private|Gorki.private]] 
 
-### [Gorki.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Gorki.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Gorki.personal|Gorki.personal]] 
 
-### [Gorki.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Gorki.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Gorki.secret|Gorki.secret]] 
 

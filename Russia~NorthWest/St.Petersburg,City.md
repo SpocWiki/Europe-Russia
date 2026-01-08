@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Saint_Petersburg,656|WD~Saint_Petersburg,656]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Saint_Petersburg,656|WD~Saint_Petersburg,656]]"
+
 has_time_started: 1703-05-27 
 aliases:
   - City~St._Petersburg
@@ -416,7 +420,7 @@ founded_by: '[[_Standards/WikiData/WD~Peter_the_Great,8479]]'
 
 # [[St.Petersburg,City]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Saint_Petersburg,656|WD~Saint_Petersburg,656]]
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map  
 
@@ -432,17 +436,17 @@ markerFolder: ./St.Petersburg,City/
 
 ## Confidential Links & Embeds: 
 
-### [St.Petersburg,City](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City|St.Petersburg,City]] 
 
-### [St.Petersburg,City.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City.public|St.Petersburg,City.public]] 
 
-### [St.Petersburg,City.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City.internal|St.Petersburg,City.internal]] 
 
-### [St.Petersburg,City.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City.protect|St.Petersburg,City.protect]] 
 
-### [St.Petersburg,City.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City.private|St.Petersburg,City.private]] 
 
-### [St.Petersburg,City.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City.personal|St.Petersburg,City.personal]] 
 
-### [St.Petersburg,City.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City.secret|St.Petersburg,City.secret]] 
 

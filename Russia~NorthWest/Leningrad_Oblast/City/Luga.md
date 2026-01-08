@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32134
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 29.83
+dv_has_place_latitude: 58.73
+dv_name: Luga
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::29.83] 
-[has_place_latitude::58.73] 
-[name::Luga] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Luga](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Luga.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Luga|Luga]] 
 
-### [Luga.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Luga.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Luga.public|Luga.public]] 
 
-### [Luga.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Luga.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Luga.internal|Luga.internal]] 
 
-### [Luga.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Luga.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Luga.protect|Luga.protect]] 
 
-### [Luga.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Luga.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Luga.private|Luga.private]] 
 
-### [Luga.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Luga.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Luga.personal|Luga.personal]] 
 
-### [Luga.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Luga.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Luga.secret|Luga.secret]] 
 

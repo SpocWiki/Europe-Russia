@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35021
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 46.1
+dv_has_place_latitude: 48.07
+dv_name: Tschernyi-Sar
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::46.1] 
-[has_place_latitude::48.07] 
-[name::Tschernyi-Sar] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tschernyi-Sar](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Tschernyi-Sar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Tschernyi-Sar|Tschernyi-Sar]] 
 
-### [Tschernyi-Sar.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Tschernyi-Sar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Tschernyi-Sar.public|Tschernyi-Sar.public]] 
 
-### [Tschernyi-Sar.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Tschernyi-Sar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Tschernyi-Sar.internal|Tschernyi-Sar.internal]] 
 
-### [Tschernyi-Sar.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Tschernyi-Sar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Tschernyi-Sar.protect|Tschernyi-Sar.protect]] 
 
-### [Tschernyi-Sar.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Tschernyi-Sar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Tschernyi-Sar.private|Tschernyi-Sar.private]] 
 
-### [Tschernyi-Sar.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Tschernyi-Sar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Tschernyi-Sar.personal|Tschernyi-Sar.personal]] 
 
-### [Tschernyi-Sar.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Tschernyi-Sar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Tschernyi-Sar.secret|Tschernyi-Sar.secret]] 
 

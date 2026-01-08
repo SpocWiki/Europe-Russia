@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29574
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 37.9
+dv_has_place_latitude: 59.13
+dv_name: Cherepovets
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::37.9] 
-[has_place_latitude::59.13] 
-[name::Cherepovets] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cherepovets](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Cherepovets.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Cherepovets|Cherepovets]] 
 
-### [Cherepovets.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Cherepovets.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Cherepovets.public|Cherepovets.public]] 
 
-### [Cherepovets.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Cherepovets.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Cherepovets.internal|Cherepovets.internal]] 
 
-### [Cherepovets.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Cherepovets.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Cherepovets.protect|Cherepovets.protect]] 
 
-### [Cherepovets.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Cherepovets.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Cherepovets.private|Cherepovets.private]] 
 
-### [Cherepovets.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Cherepovets.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Cherepovets.personal|Cherepovets.personal]] 
 
-### [Cherepovets.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Cherepovets.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Cherepovets.secret|Cherepovets.secret]] 
 

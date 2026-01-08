@@ -11,15 +11,21 @@ tags:
 SpocWebEntityId: 37121
 isDeleted: false
 confidential: public
+dv_name: Vladimir Oblast
+dv_Country: "[[../../Russia]]"
+dv_Capital: "[[Vladimir_Oblast/City/Wladimier]]"
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 40.42
+dv_has_place_latitude: 56.13
 ---
-[name::Vladimir Oblast] 
+name = `=this.dv_name` 
 [name-abbr::] 
-Country :: [[Russia]]  
-Capital :: [[Wladimier]]  
+Country = `=this.dv_Country`
+Capital = `=this.dv_Capital`
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::40.42] 
-[has_place_latitude::56.13] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
 
@@ -36,17 +42,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vladimir_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast|Vladimir_Oblast]] 
 
-### [Vladimir_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast.public|Vladimir_Oblast.public]] 
 
-### [Vladimir_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast.internal|Vladimir_Oblast.internal]] 
 
-### [Vladimir_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast.protect|Vladimir_Oblast.protect]] 
 
-### [Vladimir_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast.private|Vladimir_Oblast.private]] 
 
-### [Vladimir_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast.personal|Vladimir_Oblast.personal]] 
 
-### [Vladimir_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast.secret|Vladimir_Oblast.secret]] 
 

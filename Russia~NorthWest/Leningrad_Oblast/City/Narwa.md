@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32740
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 28.23
+dv_has_place_latitude: 59.38
+dv_name: Narwa
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::28.23] 
-[has_place_latitude::59.38] 
-[name::Narwa] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Narwa](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Narwa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Narwa|Narwa]] 
 
-### [Narwa.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Narwa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Narwa.public|Narwa.public]] 
 
-### [Narwa.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Narwa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Narwa.internal|Narwa.internal]] 
 
-### [Narwa.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Narwa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Narwa.protect|Narwa.protect]] 
 
-### [Narwa.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Narwa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Narwa.private|Narwa.private]] 
 
-### [Narwa.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Narwa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Narwa.personal|Narwa.personal]] 
 
-### [Narwa.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Narwa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Narwa.secret|Narwa.secret]] 
 

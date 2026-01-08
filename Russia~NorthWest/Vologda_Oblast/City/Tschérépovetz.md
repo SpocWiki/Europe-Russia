@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35030
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 37.93
+dv_has_place_latitude: 59.12
+dv_name: Tschérépovetz
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::37.93] 
-[has_place_latitude::59.12] 
-[name::Tschérépovetz] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tschérépovetz](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Tschérépovetz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Tschérépovetz|Tschérépovetz]] 
 
-### [Tschérépovetz.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Tschérépovetz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Tschérépovetz.public|Tschérépovetz.public]] 
 
-### [Tschérépovetz.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Tschérépovetz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Tschérépovetz.internal|Tschérépovetz.internal]] 
 
-### [Tschérépovetz.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Tschérépovetz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Tschérépovetz.protect|Tschérépovetz.protect]] 
 
-### [Tschérépovetz.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Tschérépovetz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Tschérépovetz.private|Tschérépovetz.private]] 
 
-### [Tschérépovetz.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Tschérépovetz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Tschérépovetz.personal|Tschérépovetz.personal]] 
 
-### [Tschérépovetz.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Tschérépovetz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Vologda_Oblast/City/Tschérépovetz.secret|Tschérépovetz.secret]] 
 

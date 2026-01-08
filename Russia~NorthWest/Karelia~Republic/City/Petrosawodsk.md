@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 33334
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 34.4
+dv_has_place_latitude: 61.78
+dv_name: Petrosawodsk
+dv_Country: "[[../../../../Russia]]"
+dv_StateId: 37046
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::34.4] 
-[has_place_latitude::61.78] 
-[name::Petrosawodsk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37046] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Petrosawodsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Petrosawodsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Petrosawodsk|Petrosawodsk]] 
 
-### [Petrosawodsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Petrosawodsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Petrosawodsk.public|Petrosawodsk.public]] 
 
-### [Petrosawodsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Petrosawodsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Petrosawodsk.internal|Petrosawodsk.internal]] 
 
-### [Petrosawodsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Petrosawodsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Petrosawodsk.protect|Petrosawodsk.protect]] 
 
-### [Petrosawodsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Petrosawodsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Petrosawodsk.private|Petrosawodsk.private]] 
 
-### [Petrosawodsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Petrosawodsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Petrosawodsk.personal|Petrosawodsk.personal]] 
 
-### [Petrosawodsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Petrosawodsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Petrosawodsk.secret|Petrosawodsk.secret]] 
 

@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Northwestern_Federal_District,383093]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Northwestern_Federal_District,383093]]"
+
 has_time_started: 2000-05-13 
 aliases:
   - Northwestern Federal District
@@ -37,7 +41,7 @@ Commons_category: Northwestern Federal District
 
 # [[Russia~NorthWest]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~Northwestern_Federal_District,383093]]
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map  
 
@@ -68,17 +72,17 @@ markerFolder: ./Russia~NorthWest/
 
 ## Confidential Links & Embeds: 
 
-### [Russia~NorthWest](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest|Russia~NorthWest]] 
 
-### [Russia~NorthWest.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest.public|Russia~NorthWest.public]] 
 
-### [Russia~NorthWest.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest.internal|Russia~NorthWest.internal]] 
 
-### [Russia~NorthWest.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest.protect|Russia~NorthWest.protect]] 
 
-### [Russia~NorthWest.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest.private|Russia~NorthWest.private]] 
 
-### [Russia~NorthWest.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest.personal|Russia~NorthWest.personal]] 
 
-### [Russia~NorthWest.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest.secret|Russia~NorthWest.secret]] 
 

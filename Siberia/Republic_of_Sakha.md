@@ -1,4 +1,9 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Sakha,6605]]"
+dv_fips-10-4-countries-and-regions: RS63
+dv_is_same_as: "[[_Standards/WikiData/WD~Sakha,6605]]"
+
 has_time_started: 1990-09-27 
 aliases:
   - Sakha Republic
@@ -80,7 +85,7 @@ ISO 3166-2 code: RU-SA
 HASC: RU.SK
 ---
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sakha,6605]] 
+is_same_as = `=this.dv_is_same_as`
 
 
 ## #has_/text_of_/abstract 
@@ -101,17 +106,17 @@ HASC: RU.SK
 
 ## Confidential Links & Embeds: 
 
-### [Republic_of_Sakha](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Sakha.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Sakha|Republic_of_Sakha]] 
 
-### [Republic_of_Sakha.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Sakha.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Sakha.public|Republic_of_Sakha.public]] 
 
-### [Republic_of_Sakha.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Sakha.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Sakha.internal|Republic_of_Sakha.internal]] 
 
-### [Republic_of_Sakha.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Sakha.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Sakha.protect|Republic_of_Sakha.protect]] 
 
-### [Republic_of_Sakha.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Sakha.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Sakha.private|Republic_of_Sakha.private]] 
 
-### [Republic_of_Sakha.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Sakha.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Sakha.personal|Republic_of_Sakha.personal]] 
 
-### [Republic_of_Sakha.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Sakha.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Sakha.secret|Republic_of_Sakha.secret]] 
 

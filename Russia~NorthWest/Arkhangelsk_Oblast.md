@@ -12,18 +12,24 @@ tags:
 SpocWebEntityId: 37117
 isDeleted: false
 confidential: public
+dv_name: Arkhangelsk Oblast
+dv_Country: "[[../../Russia]]"
+dv_Capital: "[[Arkhangelsk_Oblast/counties~Arkhangel'sk/Arkhangel'sk-county/Archangelsk]]"
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 40.57
+dv_has_place_latitude: 64.53
 ---
 
 # [[Arkhangelsk_Oblast]] 
 
-[name::Arkhangelsk Oblast] 
+name = `=this.dv_name` 
 [name-abbr::] 
-Country :: [[Russia]]  
-Capital :: [[Arkhangelsk_Oblast/counties~Arkhangel'sk/Arkhangel'sk-county/Archangelsk]]  
+Country = `=this.dv_Country`
+Capital = `=this.dv_Capital`
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::40.57] 
-[has_place_latitude::64.53] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
 ## #has_/map  
@@ -43,17 +49,17 @@ defaultZoom: 11
 
 ## Confidential Links & Embeds: 
 
-### [Arkhangelsk_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast|Arkhangelsk_Oblast]] 
 
-### [Arkhangelsk_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast.public|Arkhangelsk_Oblast.public]] 
 
-### [Arkhangelsk_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast.internal|Arkhangelsk_Oblast.internal]] 
 
-### [Arkhangelsk_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast.protect|Arkhangelsk_Oblast.protect]] 
 
-### [Arkhangelsk_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast.private|Arkhangelsk_Oblast.private]] 
 
-### [Arkhangelsk_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast.personal|Arkhangelsk_Oblast.personal]] 
 
-### [Arkhangelsk_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast.secret|Arkhangelsk_Oblast.secret]] 
 

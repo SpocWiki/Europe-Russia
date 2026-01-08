@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35794
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 44.68
+dv_has_place_latitude: 48.2
+dv_name: Zasy
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::44.68] 
-[has_place_latitude::48.2] 
-[name::Zasy] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zasy](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zasy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zasy|Zasy]] 
 
-### [Zasy.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zasy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zasy.public|Zasy.public]] 
 
-### [Zasy.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zasy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zasy.internal|Zasy.internal]] 
 
-### [Zasy.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zasy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zasy.protect|Zasy.protect]] 
 
-### [Zasy.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zasy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zasy.private|Zasy.private]] 
 
-### [Zasy.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zasy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zasy.personal|Zasy.personal]] 
 
-### [Zasy.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zasy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zasy.secret|Zasy.secret]] 
 

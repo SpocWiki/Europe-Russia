@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35788
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 45.37
+dv_has_place_latitude: 48.67
+dv_name: Zaref
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::45.37] 
-[has_place_latitude::48.67] 
-[name::Zaref] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zaref](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zaref.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zaref|Zaref]] 
 
-### [Zaref.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zaref.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zaref.public|Zaref.public]] 
 
-### [Zaref.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zaref.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zaref.internal|Zaref.internal]] 
 
-### [Zaref.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zaref.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zaref.protect|Zaref.protect]] 
 
-### [Zaref.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zaref.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zaref.private|Zaref.private]] 
 
-### [Zaref.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zaref.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zaref.personal|Zaref.personal]] 
 
-### [Zaref.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zaref.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Zaref.secret|Zaref.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35405
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 33.25
+dv_has_place_latitude: 57.98
+dv_name: Waldei
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::33.25] 
-[has_place_latitude::57.98] 
-[name::Waldei] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Waldei](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Waldei.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Waldei|Waldei]] 
 
-### [Waldei.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Waldei.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Waldei.public|Waldei.public]] 
 
-### [Waldei.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Waldei.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Waldei.internal|Waldei.internal]] 
 
-### [Waldei.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Waldei.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Waldei.protect|Waldei.protect]] 
 
-### [Waldei.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Waldei.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Waldei.private|Waldei.private]] 
 
-### [Waldei.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Waldei.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Waldei.personal|Waldei.personal]] 
 
-### [Waldei.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Waldei.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Waldei.secret|Waldei.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34702
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 48.47
+dv_has_place_latitude: 53.15
+dv_name: Syzzan
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::48.47] 
-[has_place_latitude::53.15] 
-[name::Syzzan] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Syzzan](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Syzzan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Syzzan|Syzzan]] 
 
-### [Syzzan.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Syzzan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Syzzan.public|Syzzan.public]] 
 
-### [Syzzan.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Syzzan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Syzzan.internal|Syzzan.internal]] 
 
-### [Syzzan.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Syzzan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Syzzan.protect|Syzzan.protect]] 
 
-### [Syzzan.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Syzzan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Syzzan.private|Syzzan.private]] 
 
-### [Syzzan.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Syzzan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Syzzan.personal|Syzzan.personal]] 
 
-### [Syzzan.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Syzzan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Syzzan.secret|Syzzan.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29237
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 38.25
+dv_has_place_latitude: 54.07
+dv_name: Bobriki=Stalingrad
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::38.25] 
-[has_place_latitude::54.07] 
-[name::Bobriki=Stalingrad] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bobriki=Stalingrad](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Bobriki=Stalingrad.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Bobriki=Stalingrad|Bobriki=Stalingrad]] 
 
-### [Bobriki=Stalingrad.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Bobriki=Stalingrad.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Bobriki=Stalingrad.public|Bobriki=Stalingrad.public]] 
 
-### [Bobriki=Stalingrad.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Bobriki=Stalingrad.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Bobriki=Stalingrad.internal|Bobriki=Stalingrad.internal]] 
 
-### [Bobriki=Stalingrad.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Bobriki=Stalingrad.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Bobriki=Stalingrad.protect|Bobriki=Stalingrad.protect]] 
 
-### [Bobriki=Stalingrad.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Bobriki=Stalingrad.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Bobriki=Stalingrad.private|Bobriki=Stalingrad.private]] 
 
-### [Bobriki=Stalingrad.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Bobriki=Stalingrad.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Bobriki=Stalingrad.personal|Bobriki=Stalingrad.personal]] 
 
-### [Bobriki=Stalingrad.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Bobriki=Stalingrad.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tula_Oblast/City/Bobriki=Stalingrad.secret|Bobriki=Stalingrad.secret]] 
 

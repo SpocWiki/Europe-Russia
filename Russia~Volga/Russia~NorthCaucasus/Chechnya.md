@@ -41,17 +41,17 @@ markerFolder: ./Chechnya/
 
 ## Confidential Links & Embeds: 
 
-### [Chechnya](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Chechnya|Chechnya]] 
 
-### [Chechnya.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Chechnya.public|Chechnya.public]] 
 
-### [Chechnya.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Chechnya.internal|Chechnya.internal]] 
 
-### [Chechnya.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Chechnya.protect|Chechnya.protect]] 
 
-### [Chechnya.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Chechnya.private|Chechnya.private]] 
 
-### [Chechnya.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Chechnya.personal|Chechnya.personal]] 
 
-### [Chechnya.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Chechnya.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Chechnya.secret|Chechnya.secret]] 
 

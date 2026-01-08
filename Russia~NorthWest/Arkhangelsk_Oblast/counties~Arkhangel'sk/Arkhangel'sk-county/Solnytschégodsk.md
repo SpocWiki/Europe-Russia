@@ -14,17 +14,22 @@ tags:
 SpocWebEntityId: 34354
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 46.9
+dv_has_place_latitude: 61.33
+dv_name: Solnytschégodsk
+dv_Country: "[[../../../../../Russia]]"
 ---
 
 # [[Solnytschégodsk]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::46.9] 
-[has_place_latitude::61.33] 
-[name::Solnytschégodsk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -41,17 +46,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Solnytschégodsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Solnytschégodsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Arkhangel'sk-county/Solnytschégodsk|Solnytschégodsk]] 
 
-### [Solnytschégodsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Solnytschégodsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Arkhangel'sk-county/Solnytschégodsk.public|Solnytschégodsk.public]] 
 
-### [Solnytschégodsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Solnytschégodsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Arkhangel'sk-county/Solnytschégodsk.internal|Solnytschégodsk.internal]] 
 
-### [Solnytschégodsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Solnytschégodsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Arkhangel'sk-county/Solnytschégodsk.protect|Solnytschégodsk.protect]] 
 
-### [Solnytschégodsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Solnytschégodsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Arkhangel'sk-county/Solnytschégodsk.private|Solnytschégodsk.private]] 
 
-### [Solnytschégodsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Solnytschégodsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Arkhangel'sk-county/Solnytschégodsk.personal|Solnytschégodsk.personal]] 
 
-### [Solnytschégodsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Solnytschégodsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Arkhangel'sk-county/Solnytschégodsk.secret|Solnytschégodsk.secret]] 
 

@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Southern_Federal_District,483599]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Southern_Federal_District,483599]]"
+
 has_time_started: 2000-05-13 
 aliases:
   - Южный федеральный округ
@@ -47,7 +51,7 @@ official_name: Южный федеральный округ
 
 # [[Russia~South]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Southern_Federal_District,483599]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -71,19 +75,20 @@ markerFolder: ./Russia~South/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Southern%20Federal%20District)  
 
+
 ## Confidential Links & Embeds: 
 
-### [Russia~South](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South|Russia~South]] 
 
-### [Russia~South.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South.public|Russia~South.public]] 
 
-### [Russia~South.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South.internal|Russia~South.internal]] 
 
-### [Russia~South.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South.protect|Russia~South.protect]] 
 
-### [Russia~South.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South.private|Russia~South.private]] 
 
-### [Russia~South.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South.personal|Russia~South.personal]] 
 
-### [Russia~South.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South.secret|Russia~South.secret]] 
 

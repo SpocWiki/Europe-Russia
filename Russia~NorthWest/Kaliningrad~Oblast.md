@@ -11,15 +11,21 @@ tags:
 SpocWebEntityId: 36942
 isDeleted: false
 confidential: public
+dv_name: Oblast Kaliningrad
+dv_Country: "[[../../Russia]]"
+dv_Capital: "[[Kaliningrad~Oblast/City/Kaliningrad]]"
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 20.8889
+dv_has_place_latitude: 54.6432
 ---
-[name::Oblast Kaliningrad] 
+name = `=this.dv_name` 
 [name-abbr::] 
-Country :: [[Russia]]  
-Capital :: [[Kaliningrad]]  
+Country = `=this.dv_Country`
+Capital = `=this.dv_Capital`
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::20.8889] 
-[has_place_latitude::54.6432] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
 
@@ -36,17 +42,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kaliningrad~Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast|Kaliningrad~Oblast]] 
 
-### [Kaliningrad~Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast.public|Kaliningrad~Oblast.public]] 
 
-### [Kaliningrad~Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast.internal|Kaliningrad~Oblast.internal]] 
 
-### [Kaliningrad~Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast.protect|Kaliningrad~Oblast.protect]] 
 
-### [Kaliningrad~Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast.private|Kaliningrad~Oblast.private]] 
 
-### [Kaliningrad~Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast.personal|Kaliningrad~Oblast.personal]] 
 
-### [Kaliningrad~Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Kaliningrad~Oblast.secret|Kaliningrad~Oblast.secret]] 
 

@@ -13,47 +13,50 @@ name_in_kana: グリゴリー・エフィモヴィチ・ラスプーチン
 name_in_native_language: Григорий Распутин
 date_of_death: 1916-12-30T00:00:00Z
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~monk,733786]]'
-  - '[[_Standards/WikiData/WD~peasant,838811]]'
-  - '[[_Standards/WikiData/WD~mystic,12328016]]'
-  - '[[_Standards/WikiData/WD~occultist,12797895]]'
-manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
-child: '[[_Standards/WikiData/WD~Maria_Rasputin,439787]]'
+  - "[[_Standards/WikiData/WD~politician,82955]]"
+  - "[[_Standards/WikiData/WD~monk,733786]]"
+  - "[[_Standards/WikiData/WD~peasant,838811]]"
+  - "[[_Standards/WikiData/WD~mystic,12328016]]"
+  - "[[_Standards/WikiData/WD~occultist,12797895]]"
+manner_of_death: "[[_Standards/WikiData/WD~homicide,149086]]"
+child: "[[_Standards/WikiData/WD~Maria_Rasputin,439787]]"
 cause_of_death:
-  - '[[_Standards/WikiData/WD~drowning,506616]]'
-  - '[[_Standards/WikiData/WD~gunshot_wound,2140674]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Khlysts,1075460]]'
+  - "[[_Standards/WikiData/WD~drowning,506616]]"
+  - "[[_Standards/WikiData/WD~gunshot_wound,2140674]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Khlysts,1075460]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Rasputin_Faith,_Power,_and_the_Twilight_of_the_Romanovs,123374742]]'
-given_name: '[[_Standards/WikiData/WD~Grigory,5609054]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-place_of_birth: '[[_Standards/WikiData/WD~Pokrovskoye,7208717]]'
-spouse: '[[_Standards/WikiData/WD~Praskovia_Fyodorovna_Dubrovina,76256849]]'
-family_name: '[[_Standards/WikiData/WD~Rasputin,91013583]]'
-patronym_or_matronym: '[[_Standards/WikiData/WD~Yefimovich,124812081]]'
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
+  - "[[_Standards/WikiData/WD~Rasputin_Faith,_Power,_and_the_Twilight_of_the_Romanovs,123374742]]"
+given_name: "[[_Standards/WikiData/WD~Grigory,5609054]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+place_of_birth: "[[_Standards/WikiData/WD~Pokrovskoye,7208717]]"
+spouse: "[[_Standards/WikiData/WD~Praskovia_Fyodorovna_Dubrovina,76256849]]"
+family_name: "[[_Standards/WikiData/WD~Rasputin,91013583]]"
+patronym_or_matronym: "[[_Standards/WikiData/WD~Yefimovich,124812081]]"
 date_of_birth: 1869-01-21T00:00:00Z
-place_of_death: '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
+place_of_death: "[[_Standards/WikiData/WD~Saint_Petersburg,656]]"
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Russian,7737]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
-lifestyle: '[[_Standards/WikiData/WD~mysticism,45996]]'
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Russian,7737]]"
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
+lifestyle: "[[_Standards/WikiData/WD~mysticism,45996]]"
 Commons_category: Grigori Rasputin
 BHCL_UUID: 277ff1ac-2bde-45da-a0a6-46dd1ae4c6c5
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Grigori%20Rasputin%201916.jpg
-ISNI: 0000000121036385
+ISNI: 121036385
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Grigori_Rasputin,43989|WD~Grigori_Rasputin,43989]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Grigori_Rasputin,43989|WD~Grigori_Rasputin,43989]]"
 ---
 
 # [[Rasputin,Grigori]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Grigori_Rasputin,43989|WD~Grigori_Rasputin,43989]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -98,4 +101,20 @@ ISNI: 0000000121036385
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Grigori%20Rasputin) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/Rasputin,Grigori|Rasputin,Grigori]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/Rasputin,Grigori.public|Rasputin,Grigori.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/Rasputin,Grigori.internal|Rasputin,Grigori.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/Rasputin,Grigori.protect|Rasputin,Grigori.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/Rasputin,Grigori.private|Rasputin,Grigori.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/Rasputin,Grigori.personal|Rasputin,Grigori.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/Rasputin,Grigori.secret|Rasputin,Grigori.secret]] 
 

@@ -12,18 +12,24 @@ tags:
 SpocWebEntityId: 37046
 isDeleted: false
 confidential: public
+dv_name: Karelia~Republic
+dv_Country: "[[../../Russia]]"
+dv_Capital: "[[Karelia~Republic/City/Petrosawodsk]]"
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 34.4
+dv_has_place_latitude: 61.78
 ---
 
 # [[Karelia~Republic]]
 
-[name::Karelia~Republic] 
+name = `=this.dv_name` 
 [name-abbr::] 
-Country :: [[Russia]]  
-Capital :: [[Petrosawodsk]]  
+Country = `=this.dv_Country`
+Capital = `=this.dv_Capital`
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::34.4] 
-[has_place_latitude::61.78] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
 ## #has_/map 
@@ -40,17 +46,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Karelia~Republic](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic|Karelia~Republic]] 
 
-### [Karelia~Republic.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic.public|Karelia~Republic.public]] 
 
-### [Karelia~Republic.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic.internal|Karelia~Republic.internal]] 
 
-### [Karelia~Republic.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic.protect|Karelia~Republic.protect]] 
 
-### [Karelia~Republic.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic.private|Karelia~Republic.private]] 
 
-### [Karelia~Republic.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic.personal|Karelia~Republic.personal]] 
 
-### [Karelia~Republic.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic.secret|Karelia~Republic.secret]] 
 

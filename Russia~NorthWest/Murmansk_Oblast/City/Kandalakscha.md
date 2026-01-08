@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31287
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 32.43
+dv_has_place_latitude: 67.13
+dv_name: Kandalakscha
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::32.43] 
-[has_place_latitude::67.13] 
-[name::Kandalakscha] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kandalakscha](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kandalakscha.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kandalakscha|Kandalakscha]] 
 
-### [Kandalakscha.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kandalakscha.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kandalakscha.public|Kandalakscha.public]] 
 
-### [Kandalakscha.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kandalakscha.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kandalakscha.internal|Kandalakscha.internal]] 
 
-### [Kandalakscha.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kandalakscha.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kandalakscha.protect|Kandalakscha.protect]] 
 
-### [Kandalakscha.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kandalakscha.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kandalakscha.private|Kandalakscha.private]] 
 
-### [Kandalakscha.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kandalakscha.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kandalakscha.personal|Kandalakscha.personal]] 
 
-### [Kandalakscha.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kandalakscha.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kandalakscha.secret|Kandalakscha.secret]] 
 

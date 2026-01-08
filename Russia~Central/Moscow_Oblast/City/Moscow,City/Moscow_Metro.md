@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Moscow_Metro,5499|WD~Moscow_Metro,5499]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Moscow_Metro,5499|WD~Moscow_Metro,5499]]"
+
 has_time_started: 1935-01-01 
 aliases:
 has_id_wikidata: Q5499
@@ -92,7 +96,7 @@ Commons_gallery: Московский метрополитен
 
 # [[Moscow_Metro]] 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Moscow_Metro,5499|WD~Moscow_Metro,5499]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -104,4 +108,21 @@ Commons_gallery: Московский метрополитен
 > The Moscow Metro is a world leader in the frequency of train traffic, as intervals during peak hours often do not exceed 90 seconds. In February 2023, Moscow was the first in the world to reduce the intervals of metro trains to 80 seconds.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Moscow%20Metro) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moscow,City/Moscow_Metro|Moscow_Metro]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moscow,City/Moscow_Metro.public|Moscow_Metro.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moscow,City/Moscow_Metro.internal|Moscow_Metro.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moscow,City/Moscow_Metro.protect|Moscow_Metro.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moscow,City/Moscow_Metro.private|Moscow_Metro.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moscow,City/Moscow_Metro.personal|Moscow_Metro.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moscow,City/Moscow_Metro.secret|Moscow_Metro.secret]] 
 

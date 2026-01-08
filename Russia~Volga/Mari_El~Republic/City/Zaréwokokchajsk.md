@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35792
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 47.9
+dv_has_place_latitude: 56.63
+dv_name: Zaréwokokchajsk
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::47.9] 
-[has_place_latitude::56.63] 
-[name::Zaréwokokchajsk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zaréwokokchajsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Zaréwokokchajsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Zaréwokokchajsk|Zaréwokokchajsk]] 
 
-### [Zaréwokokchajsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Zaréwokokchajsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Zaréwokokchajsk.public|Zaréwokokchajsk.public]] 
 
-### [Zaréwokokchajsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Zaréwokokchajsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Zaréwokokchajsk.internal|Zaréwokokchajsk.internal]] 
 
-### [Zaréwokokchajsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Zaréwokokchajsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Zaréwokokchajsk.protect|Zaréwokokchajsk.protect]] 
 
-### [Zaréwokokchajsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Zaréwokokchajsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Zaréwokokchajsk.private|Zaréwokokchajsk.private]] 
 
-### [Zaréwokokchajsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Zaréwokokchajsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Zaréwokokchajsk.personal|Zaréwokokchajsk.personal]] 
 
-### [Zaréwokokchajsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Zaréwokokchajsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Zaréwokokchajsk.secret|Zaréwokokchajsk.secret]] 
 

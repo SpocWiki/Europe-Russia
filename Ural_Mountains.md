@@ -24,11 +24,14 @@ OmegaWiki_Defined_Meaning: "756242"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Landscape%20view%20in%20Circumpolar%20Urals.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ural%20Mountains%20Map.gif
 Commons_category: Ural Mountains
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Ural_Mountains,35600|WD~Ural_Mountains,35600]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~Ural_Mountains,35600|WD~Ural_Mountains,35600]]"
 ---
 
 # [[Ural_Mountains]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Ural_Mountains,35600|WD~Ural_Mountains,35600]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -45,4 +48,21 @@ Commons_category: Ural Mountains
 > The mountains lie within the Ural geographical region and significantly overlap with the Ural Federal District and the Ural economic region. Their resources include metal ores, coal, precious and semi-precious stones. Since the 18th century, the mountains have contributed significantly to the mineral sector of the Russian economy. The region is one of the largest centers of metallurgy and heavy industry production in Russia.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ural%20Mountains)  
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Ural_Mountains|Ural_Mountains]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Ural_Mountains.public|Ural_Mountains.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Ural_Mountains.internal|Ural_Mountains.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Ural_Mountains.protect|Ural_Mountains.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Ural_Mountains.private|Ural_Mountains.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Ural_Mountains.personal|Ural_Mountains.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Ural_Mountains.secret|Ural_Mountains.secret]] 
 

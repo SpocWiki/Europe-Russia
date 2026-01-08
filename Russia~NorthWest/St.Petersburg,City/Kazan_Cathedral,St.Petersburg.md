@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Kazan_Cathedral,404571|WD~Kazan_Cathedral,404571]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Kazan_Cathedral,404571|WD~Kazan_Cathedral,404571]]"
+
 has_time_started: 1801-01-01 
 aliases:
   - Cathedral of Our Lady of Kazan
@@ -47,7 +51,7 @@ image_of_interior: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%
 
 # [[Kazan_Cathedral,St.Petersburg]] 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Kazan_Cathedral,404571|WD~Kazan_Cathedral,404571]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -58,4 +62,21 @@ image_of_interior: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%
 > It is dedicated to Our Lady of Kazan, one of the most venerated icons in Russia.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kazan%20Cathedral,%20Saint%20Petersburg) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Kazan_Cathedral,St.Petersburg|Kazan_Cathedral,St.Petersburg]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Kazan_Cathedral,St.Petersburg.public|Kazan_Cathedral,St.Petersburg.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Kazan_Cathedral,St.Petersburg.internal|Kazan_Cathedral,St.Petersburg.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Kazan_Cathedral,St.Petersburg.protect|Kazan_Cathedral,St.Petersburg.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Kazan_Cathedral,St.Petersburg.private|Kazan_Cathedral,St.Petersburg.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Kazan_Cathedral,St.Petersburg.personal|Kazan_Cathedral,St.Petersburg.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Kazan_Cathedral,St.Petersburg.secret|Kazan_Cathedral,St.Petersburg.secret]] 
 

@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Mensheviks,191515|WD~Mensheviks,191515]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Mensheviks,191515|WD~Mensheviks,191515]]"
+
 has_time_started: 1903-01-01 
 aliases:
 has_id_wikidata: Q191515
@@ -20,7 +24,7 @@ inception: 1903-01-01T00:00:00Z
 
 # [[Mensheviks]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Mensheviks,191515|WD~Mensheviks,191515]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -35,4 +39,21 @@ inception: 1903-01-01T00:00:00Z
 > In 1912, the RSDLP formally split into Bolshevik and Menshevik parties. The Mensheviks themselves split over World War I into a defencist faction led by Nikolay Chkheidze and an internationalist faction led by Martov. After the 1917 February Revolution, some Mensheviks led by Irakli Tsereteli joined the Provisional Government's coalition, whereas Martov unsuccessfully called for an all-socialist coalition. Following the October Revolution, the Mensheviks denounced it as a Bolshevik coup d'état, but supported the struggle against the Whites in the Russian Civil War. In the 1917 Constituent Assembly election, the Mensheviks received only 3 percent of the vote compared to the Bolsheviks' 23 percent, though were dominant in the Democratic Republic of Georgia from 1918 to 1921. The Menshevik party was banned after the Kronstadt rebellion in 1921; some of its emigres, such as Fyodor Dan and Raphael Abramovitch, became influential.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mensheviks) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/Mensheviks|Mensheviks]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/Mensheviks.public|Mensheviks.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/Mensheviks.internal|Mensheviks.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/Mensheviks.protect|Mensheviks.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/Mensheviks.private|Mensheviks.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/Mensheviks.personal|Mensheviks.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/Mensheviks.secret|Mensheviks.secret]] 
 

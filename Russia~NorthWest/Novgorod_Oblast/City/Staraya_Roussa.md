@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 34520
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 31.38
+dv_has_place_latitude: 57.98
+dv_name: Staraya Roussa
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::31.38] 
-[has_place_latitude::57.98] 
-[name::Staraya Roussa] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Staraya_Roussa](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Staraya_Roussa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Staraya_Roussa|Staraya_Roussa]] 
 
-### [Staraya_Roussa.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Staraya_Roussa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Staraya_Roussa.public|Staraya_Roussa.public]] 
 
-### [Staraya_Roussa.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Staraya_Roussa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Staraya_Roussa.internal|Staraya_Roussa.internal]] 
 
-### [Staraya_Roussa.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Staraya_Roussa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Staraya_Roussa.protect|Staraya_Roussa.protect]] 
 
-### [Staraya_Roussa.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Staraya_Roussa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Staraya_Roussa.private|Staraya_Roussa.private]] 
 
-### [Staraya_Roussa.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Staraya_Roussa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Staraya_Roussa.personal|Staraya_Roussa.personal]] 
 
-### [Staraya_Roussa.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Staraya_Roussa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Staraya_Roussa.secret|Staraya_Roussa.secret]] 
 

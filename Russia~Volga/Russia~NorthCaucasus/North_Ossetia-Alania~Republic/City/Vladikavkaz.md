@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 37068
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 44.65
+dv_has_place_latitude: 43.01667
+dv_name: Vladikavkaz
+dv_Country: "[[../../../../../Russia]]"
+dv_StateId: 37051
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::44.65] 
-[has_place_latitude::43.01667] 
-[name::Vladikavkaz] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37051] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vladikavkaz](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Vladikavkaz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Vladikavkaz|Vladikavkaz]] 
 
-### [Vladikavkaz.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Vladikavkaz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Vladikavkaz.public|Vladikavkaz.public]] 
 
-### [Vladikavkaz.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Vladikavkaz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Vladikavkaz.internal|Vladikavkaz.internal]] 
 
-### [Vladikavkaz.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Vladikavkaz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Vladikavkaz.protect|Vladikavkaz.protect]] 
 
-### [Vladikavkaz.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Vladikavkaz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Vladikavkaz.private|Vladikavkaz.private]] 
 
-### [Vladikavkaz.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Vladikavkaz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Vladikavkaz.personal|Vladikavkaz.personal]] 
 
-### [Vladikavkaz.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Vladikavkaz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Vladikavkaz.secret|Vladikavkaz.secret]] 
 

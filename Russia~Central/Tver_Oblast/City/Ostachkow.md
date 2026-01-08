@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33166
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 33.12
+dv_has_place_latitude: 57.17
+dv_name: Ostachkow
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::33.12] 
-[has_place_latitude::57.17] 
-[name::Ostachkow] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ostachkow](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Ostachkow.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Ostachkow|Ostachkow]] 
 
-### [Ostachkow.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Ostachkow.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Ostachkow.public|Ostachkow.public]] 
 
-### [Ostachkow.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Ostachkow.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Ostachkow.internal|Ostachkow.internal]] 
 
-### [Ostachkow.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Ostachkow.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Ostachkow.protect|Ostachkow.protect]] 
 
-### [Ostachkow.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Ostachkow.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Ostachkow.private|Ostachkow.private]] 
 
-### [Ostachkow.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Ostachkow.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Ostachkow.personal|Ostachkow.personal]] 
 
-### [Ostachkow.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Ostachkow.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Ostachkow.secret|Ostachkow.secret]] 
 

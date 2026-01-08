@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Novosibirsk_Oblast,5851]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Novosibirsk_Oblast,5851]]"
+
 has_time_started: 1937-09-28 
 aliases:
   - Novosibirsk Oblast
@@ -90,7 +94,7 @@ Commons_category: Novosibirsk Oblast
 
 # [[Novosibirsk_Oblast]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Novosibirsk_Oblast,5851]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -106,17 +110,17 @@ Commons_category: Novosibirsk Oblast
 
 ## Confidential Links & Embeds: 
 
-### [Novosibirsk_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Novosibirsk_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Novosibirsk_Oblast|Novosibirsk_Oblast]] 
 
-### [Novosibirsk_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Novosibirsk_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Novosibirsk_Oblast.public|Novosibirsk_Oblast.public]] 
 
-### [Novosibirsk_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Novosibirsk_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Novosibirsk_Oblast.internal|Novosibirsk_Oblast.internal]] 
 
-### [Novosibirsk_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Novosibirsk_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Novosibirsk_Oblast.protect|Novosibirsk_Oblast.protect]] 
 
-### [Novosibirsk_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Novosibirsk_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Novosibirsk_Oblast.private|Novosibirsk_Oblast.private]] 
 
-### [Novosibirsk_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Novosibirsk_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Novosibirsk_Oblast.personal|Novosibirsk_Oblast.personal]] 
 
-### [Novosibirsk_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Novosibirsk_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Novosibirsk_Oblast.secret|Novosibirsk_Oblast.secret]] 
 

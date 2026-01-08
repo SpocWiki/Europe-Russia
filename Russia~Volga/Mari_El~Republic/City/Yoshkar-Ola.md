@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 35753
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 47.92
+dv_has_place_latitude: 56.67
+dv_name: Yoshkar-Ola
+dv_Country: "[[../../../../Russia]]"
+dv_StateId: 37048
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::47.92] 
-[has_place_latitude::56.67] 
-[name::Yoshkar-Ola] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37048] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Yoshkar-Ola](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Yoshkar-Ola.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Yoshkar-Ola|Yoshkar-Ola]] 
 
-### [Yoshkar-Ola.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Yoshkar-Ola.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Yoshkar-Ola.public|Yoshkar-Ola.public]] 
 
-### [Yoshkar-Ola.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Yoshkar-Ola.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Yoshkar-Ola.internal|Yoshkar-Ola.internal]] 
 
-### [Yoshkar-Ola.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Yoshkar-Ola.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Yoshkar-Ola.protect|Yoshkar-Ola.protect]] 
 
-### [Yoshkar-Ola.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Yoshkar-Ola.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Yoshkar-Ola.private|Yoshkar-Ola.private]] 
 
-### [Yoshkar-Ola.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Yoshkar-Ola.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Yoshkar-Ola.personal|Yoshkar-Ola.personal]] 
 
-### [Yoshkar-Ola.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Yoshkar-Ola.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Yoshkar-Ola.secret|Yoshkar-Ola.secret]] 
 

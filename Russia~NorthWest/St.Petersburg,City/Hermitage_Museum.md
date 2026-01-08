@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Hermitage_Museum,132783]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Hermitage_Museum,132783]]"
+
 has_time_started: 1764-01-01 
 aliases:
   - State Hermitage Museum
@@ -93,7 +97,7 @@ ISNI: 000000041800742X
 
 # [[Hermitage_Museum]] 
 
-#is_/same_as :: [[WD~Hermitage_Museum,132783]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -120,4 +124,21 @@ ISNI: 000000041800742X
 > Of the six buildings in the main museum complex, five—namely the Winter Palace, Small Hermitage, Old Hermitage, New Hermitage, and Hermitage Theatre—are all open to the public. The entrance ticket for foreign tourists costs more than the fee paid by citizens of Russia and Belarus. However, entrance is free of charge the third Thursday of every month for all visitors, and free daily for students and children. The museum is closed on Mondays. The entrance for individual visitors is located in the Winter Palace, accessible from the Courtyard.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hermitage%20Museum) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Hermitage_Museum|Hermitage_Museum]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Hermitage_Museum.public|Hermitage_Museum.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Hermitage_Museum.internal|Hermitage_Museum.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Hermitage_Museum.protect|Hermitage_Museum.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Hermitage_Museum.private|Hermitage_Museum.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Hermitage_Museum.personal|Hermitage_Museum.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Hermitage_Museum.secret|Hermitage_Museum.secret]] 
 

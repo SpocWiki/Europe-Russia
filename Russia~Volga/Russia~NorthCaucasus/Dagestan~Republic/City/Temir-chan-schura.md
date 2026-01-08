@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34802
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 47.17
+dv_has_place_latitude: 42.83
+dv_name: Temir-chan-schura
+dv_Country: "[[../../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::47.17] 
-[has_place_latitude::42.83] 
-[name::Temir-chan-schura] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Temir-chan-schura](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Temir-chan-schura.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/City/Temir-chan-schura|Temir-chan-schura]] 
 
-### [Temir-chan-schura.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Temir-chan-schura.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/City/Temir-chan-schura.public|Temir-chan-schura.public]] 
 
-### [Temir-chan-schura.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Temir-chan-schura.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/City/Temir-chan-schura.internal|Temir-chan-schura.internal]] 
 
-### [Temir-chan-schura.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Temir-chan-schura.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/City/Temir-chan-schura.protect|Temir-chan-schura.protect]] 
 
-### [Temir-chan-schura.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Temir-chan-schura.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/City/Temir-chan-schura.private|Temir-chan-schura.private]] 
 
-### [Temir-chan-schura.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Temir-chan-schura.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/City/Temir-chan-schura.personal|Temir-chan-schura.personal]] 
 
-### [Temir-chan-schura.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/City/Temir-chan-schura.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/City/Temir-chan-schura.secret|Temir-chan-schura.secret]] 
 

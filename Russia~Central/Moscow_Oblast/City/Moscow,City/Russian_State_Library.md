@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Russian_State_Library,1048694|WD~Russian_State_Library,1048694]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Russian_State_Library,1048694|WD~Russian_State_Library,1048694]]"
+
 has_time_started: 1862-01-01 
 aliases:
   - Russian State Library
@@ -74,7 +78,7 @@ Commons_category: Russian State Library
 
 # [[Russian_State_Library]] 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Russian_State_Library,1048694|WD~Russian_State_Library,1048694]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -103,4 +107,21 @@ Commons_category: Russian State Library
 > In 2017 holdings covered over 360 languages.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Russian%20State%20Library) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moscow,City/Russian_State_Library|Russian_State_Library]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moscow,City/Russian_State_Library.public|Russian_State_Library.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moscow,City/Russian_State_Library.internal|Russian_State_Library.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moscow,City/Russian_State_Library.protect|Russian_State_Library.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moscow,City/Russian_State_Library.private|Russian_State_Library.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moscow,City/Russian_State_Library.personal|Russian_State_Library.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Moscow_Oblast/City/Moscow,City/Russian_State_Library.secret|Russian_State_Library.secret]] 
 

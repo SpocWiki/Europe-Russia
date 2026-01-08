@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 32978
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 31.27
+dv_has_place_latitude: 56.52
+dv_name: Nowgorod
+dv_Country: "[[../../../../Russia]]"
+dv_StateId: 37143
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::31.27] 
-[has_place_latitude::56.52] 
-[name::Nowgorod] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37143] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nowgorod](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Nowgorod.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Nowgorod|Nowgorod]] 
 
-### [Nowgorod.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Nowgorod.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Nowgorod.public|Nowgorod.public]] 
 
-### [Nowgorod.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Nowgorod.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Nowgorod.internal|Nowgorod.internal]] 
 
-### [Nowgorod.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Nowgorod.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Nowgorod.protect|Nowgorod.protect]] 
 
-### [Nowgorod.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Nowgorod.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Nowgorod.private|Nowgorod.private]] 
 
-### [Nowgorod.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Nowgorod.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Nowgorod.personal|Nowgorod.personal]] 
 
-### [Nowgorod.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Nowgorod.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Nowgorod.secret|Nowgorod.secret]] 
 

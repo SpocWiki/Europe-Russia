@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30417
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 43.48
+dv_has_place_latitude: 44.15
+dv_name: Georgiewsk
+dv_Country: "[[../../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::43.48] 
-[has_place_latitude::44.15] 
-[name::Georgiewsk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Georgiewsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Georgiewsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai/City/Georgiewsk|Georgiewsk]] 
 
-### [Georgiewsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Georgiewsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai/City/Georgiewsk.public|Georgiewsk.public]] 
 
-### [Georgiewsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Georgiewsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai/City/Georgiewsk.internal|Georgiewsk.internal]] 
 
-### [Georgiewsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Georgiewsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai/City/Georgiewsk.protect|Georgiewsk.protect]] 
 
-### [Georgiewsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Georgiewsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai/City/Georgiewsk.private|Georgiewsk.private]] 
 
-### [Georgiewsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Georgiewsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai/City/Georgiewsk.personal|Georgiewsk.personal]] 
 
-### [Georgiewsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Georgiewsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai/City/Georgiewsk.secret|Georgiewsk.secret]] 
 

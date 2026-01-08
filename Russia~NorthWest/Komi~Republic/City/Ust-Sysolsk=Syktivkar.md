@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35135
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 50.85
+dv_has_place_latitude: 61.67
+dv_name: Ust-Sysolsk=Syktivkar
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::50.85] 
-[has_place_latitude::61.67] 
-[name::Ust-Sysolsk=Syktivkar] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ust-Sysolsk=Syktivkar](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Ust-Sysolsk=Syktivkar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Ust-Sysolsk=Syktivkar|Ust-Sysolsk=Syktivkar]] 
 
-### [Ust-Sysolsk=Syktivkar.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Ust-Sysolsk=Syktivkar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Ust-Sysolsk=Syktivkar.public|Ust-Sysolsk=Syktivkar.public]] 
 
-### [Ust-Sysolsk=Syktivkar.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Ust-Sysolsk=Syktivkar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Ust-Sysolsk=Syktivkar.internal|Ust-Sysolsk=Syktivkar.internal]] 
 
-### [Ust-Sysolsk=Syktivkar.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Ust-Sysolsk=Syktivkar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Ust-Sysolsk=Syktivkar.protect|Ust-Sysolsk=Syktivkar.protect]] 
 
-### [Ust-Sysolsk=Syktivkar.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Ust-Sysolsk=Syktivkar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Ust-Sysolsk=Syktivkar.private|Ust-Sysolsk=Syktivkar.private]] 
 
-### [Ust-Sysolsk=Syktivkar.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Ust-Sysolsk=Syktivkar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Ust-Sysolsk=Syktivkar.personal|Ust-Sysolsk=Syktivkar.personal]] 
 
-### [Ust-Sysolsk=Syktivkar.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Ust-Sysolsk=Syktivkar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Ust-Sysolsk=Syktivkar.secret|Ust-Sysolsk=Syktivkar.secret]] 
 

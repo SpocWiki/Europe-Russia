@@ -17,16 +17,38 @@ isDeleted: false
 confidential: public
 aliases:
   - Molotow
+dv_geo-lon: 56.31667
+dv_geo-lat: 58
+dv_name: Perm
+dv_Country: "[[../../../../../Russia]]"
+dv_StateId: 37102
+dv_is_:
+  same_as:
+    - "[Perm](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.md)"
+    - "[Perm.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.public.md)"
+    - "[Perm.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.internal.md)"
+    - "[Perm.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.protect.md)"
+    - "[Perm.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.private.md)"
+    - "[Perm.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.personal.md)"
+    - "[Perm.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.secret.md)"
+dv_is_same_as:
+  - "[Perm](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.md)"
+  - "[Perm.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.public.md)"
+  - "[Perm.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.internal.md)"
+  - "[Perm.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.protect.md)"
+  - "[Perm.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.private.md)"
+  - "[Perm.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.personal.md)"
+  - "[Perm.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.secret.md)"
 ---
 
 # [[Perm,City]] 
 
-[geo-lon::56.31667] 
-[geo-lat::58] 
-[name::Perm] 
+geo-lon = `=this.dv_geo-lon` 
+geo-lat = `=this.dv_geo-lat` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37102] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 [Unknown::] 
 
@@ -47,19 +69,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Perm,%20Russia) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Perm](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Perm_Krai/counties~Perm'/Perm'gorsovet/Perm,City|Perm,City]] 
 
-### #is_/same_as :: [Perm.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Perm_Krai/counties~Perm'/Perm'gorsovet/Perm,City.public|Perm,City.public]] 
 
-### #is_/same_as :: [Perm.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Perm_Krai/counties~Perm'/Perm'gorsovet/Perm,City.internal|Perm,City.internal]] 
 
-### #is_/same_as :: [Perm.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Perm_Krai/counties~Perm'/Perm'gorsovet/Perm,City.protect|Perm,City.protect]] 
 
-### #is_/same_as :: [Perm.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Perm_Krai/counties~Perm'/Perm'gorsovet/Perm,City.private|Perm,City.private]] 
 
-### #is_/same_as :: [Perm.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Perm_Krai/counties~Perm'/Perm'gorsovet/Perm,City.personal|Perm,City.personal]] 
 
-### #is_/same_as :: [Perm.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Perm_Krai/counties~Perm'/Perm'gorsovet/Perm,City.secret|Perm,City.secret]] 
 

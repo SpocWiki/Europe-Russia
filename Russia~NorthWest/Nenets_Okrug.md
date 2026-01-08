@@ -12,15 +12,21 @@ tags:
 SpocWebEntityId: 37034
 isDeleted: false
 confidential: public
+dv_name: Nenets Okrug
+dv_Country: "[[../../Russia]]"
+dv_Capital: "[[Nenets_Okrug/City/Naryan-Mar]]"
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 53.05
+dv_has_place_latitude: 67.6333
 ---
-[name::Nenets Okrug] 
+name = `=this.dv_name` 
 [name-abbr::] 
-Country :: [[Russia]]  
-Capital :: [[Naryan-Mar]]  
+Country = `=this.dv_Country`
+Capital = `=this.dv_Capital`
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::53.05] 
-[has_place_latitude::67.6333] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
 
@@ -37,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nenets_Okrug](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug|Nenets_Okrug]] 
 
-### [Nenets_Okrug.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug.public|Nenets_Okrug.public]] 
 
-### [Nenets_Okrug.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug.internal|Nenets_Okrug.internal]] 
 
-### [Nenets_Okrug.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug.protect|Nenets_Okrug.protect]] 
 
-### [Nenets_Okrug.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug.private|Nenets_Okrug.private]] 
 
-### [Nenets_Okrug.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug.personal|Nenets_Okrug.personal]] 
 
-### [Nenets_Okrug.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Nenets_Okrug.secret|Nenets_Okrug.secret]] 
 

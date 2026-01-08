@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Peterhof_Palaces,1258473]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Peterhof_Palaces,1258473]]"
+
 has_time_started: 1711-01-01 
 aliases:
   - Петерго́ф
@@ -43,7 +47,7 @@ Commons_category: Peterhof (palace and park ensemble)
 
 # [[Peterhof_Palaces]] 
 
-#is_/same_as :: [[WD~Peterhof_Palaces,1258473]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -58,4 +62,19 @@ Commons_category: Peterhof (palace and park ensemble)
 > [Wikipedia](https://en.wikipedia.org/wiki/Peterhof%20Palace) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Peterhof_Palaces|Peterhof_Palaces]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Peterhof_Palaces.public|Peterhof_Palaces.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Peterhof_Palaces.internal|Peterhof_Palaces.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Peterhof_Palaces.protect|Peterhof_Palaces.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Peterhof_Palaces.private|Peterhof_Palaces.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Peterhof_Palaces.personal|Peterhof_Palaces.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/Peterhof_Palaces.secret|Peterhof_Palaces.secret]] 
 

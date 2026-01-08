@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 29568
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 47.25
+dv_has_place_latitude: 56.15
+dv_name: Cheboksary
+dv_Country: "[[../../../../Russia]]"
+dv_StateId: 37057
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::47.25] 
-[has_place_latitude::56.15] 
-[name::Cheboksary] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37057] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cheboksary](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Cheboksary.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Cheboksary|Cheboksary]] 
 
-### [Cheboksary.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Cheboksary.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Cheboksary.public|Cheboksary.public]] 
 
-### [Cheboksary.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Cheboksary.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Cheboksary.internal|Cheboksary.internal]] 
 
-### [Cheboksary.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Cheboksary.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Cheboksary.protect|Cheboksary.protect]] 
 
-### [Cheboksary.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Cheboksary.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Cheboksary.private|Cheboksary.private]] 
 
-### [Cheboksary.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Cheboksary.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Cheboksary.personal|Cheboksary.personal]] 
 
-### [Cheboksary.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Cheboksary.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Cheboksary.secret|Cheboksary.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34348
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 42.28
+dv_has_place_latitude: 59.08
+dv_name: Soligalitsch
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::42.28] 
-[has_place_latitude::59.08] 
-[name::Soligalitsch] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Soligalitsch](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Soligalitsch.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Soligalitsch|Soligalitsch]] 
 
-### [Soligalitsch.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Soligalitsch.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Soligalitsch.public|Soligalitsch.public]] 
 
-### [Soligalitsch.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Soligalitsch.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Soligalitsch.internal|Soligalitsch.internal]] 
 
-### [Soligalitsch.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Soligalitsch.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Soligalitsch.protect|Soligalitsch.protect]] 
 
-### [Soligalitsch.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Soligalitsch.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Soligalitsch.private|Soligalitsch.private]] 
 
-### [Soligalitsch.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Soligalitsch.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Soligalitsch.personal|Soligalitsch.personal]] 
 
-### [Soligalitsch.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Soligalitsch.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Soligalitsch.secret|Soligalitsch.secret]] 
 

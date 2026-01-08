@@ -1,4 +1,12 @@
-﻿---
+---
+dv_name: Ulyanovsk Oblast
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 48.48
+dv_has_place_latitude: 54.33
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Ulyanovsk_Oblast,5634]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Ulyanovsk_Oblast,5634]]"
+
 has_time_started: 1943-01-19 
 aliases:
   - Ulyanovsk Oblast
@@ -72,16 +80,16 @@ official_website: https://ulgov.gosuslugi.ru/
 
 # [[Ulyanovsk_Oblast]] 
 
-[name::Ulyanovsk Oblast] 
+name = `=this.dv_name` 
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Ulyanowsk]]  
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::48.48] 
-[has_place_latitude::54.33] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
-#is_/same_as :: [[_Standards/WikiData/WD~Ulyanovsk_Oblast,5634]]
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -97,16 +105,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ulyanovsk_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast|Ulyanovsk_Oblast]] 
 
-### [Ulyanovsk_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast.public|Ulyanovsk_Oblast.public]] 
 
-### [Ulyanovsk_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast.internal|Ulyanovsk_Oblast.internal]] 
 
-### [Ulyanovsk_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast.protect|Ulyanovsk_Oblast.protect]] 
 
-### [Ulyanovsk_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast.private|Ulyanovsk_Oblast.private]] 
 
-### [Ulyanovsk_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast.personal|Ulyanovsk_Oblast.personal]] 
 
-### [Ulyanovsk_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast.secret|Ulyanovsk_Oblast.secret]] 
+

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29926
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 44.67
+dv_has_place_latitude: 43
+dv_name: Dzaudjikau
+dv_Country: "[[../../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::44.67] 
-[has_place_latitude::43] 
-[name::Dzaudjikau] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dzaudjikau](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Dzaudjikau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Dzaudjikau|Dzaudjikau]] 
 
-### [Dzaudjikau.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Dzaudjikau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Dzaudjikau.public|Dzaudjikau.public]] 
 
-### [Dzaudjikau.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Dzaudjikau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Dzaudjikau.internal|Dzaudjikau.internal]] 
 
-### [Dzaudjikau.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Dzaudjikau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Dzaudjikau.protect|Dzaudjikau.protect]] 
 
-### [Dzaudjikau.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Dzaudjikau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Dzaudjikau.private|Dzaudjikau.private]] 
 
-### [Dzaudjikau.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Dzaudjikau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Dzaudjikau.personal|Dzaudjikau.personal]] 
 
-### [Dzaudjikau.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Dzaudjikau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/North_Ossetia-Alania~Republic/City/Dzaudjikau.secret|Dzaudjikau.secret]] 
 

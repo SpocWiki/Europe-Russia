@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29717
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 44.75
+dv_has_place_latitude: 42.77
+dv_name: Dariel
+dv_Country: "[[../../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::44.75] 
-[has_place_latitude::42.77] 
-[name::Dariel] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dariel](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Dariel.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Ingushetia~Republic/City/Dariel|Dariel]] 
 
-### [Dariel.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Dariel.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Ingushetia~Republic/City/Dariel.public|Dariel.public]] 
 
-### [Dariel.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Dariel.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Ingushetia~Republic/City/Dariel.internal|Dariel.internal]] 
 
-### [Dariel.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Dariel.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Ingushetia~Republic/City/Dariel.protect|Dariel.protect]] 
 
-### [Dariel.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Dariel.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Ingushetia~Republic/City/Dariel.private|Dariel.private]] 
 
-### [Dariel.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Dariel.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Ingushetia~Republic/City/Dariel.personal|Dariel.personal]] 
 
-### [Dariel.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic/City/Dariel.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Ingushetia~Republic/City/Dariel.secret|Dariel.secret]] 
 

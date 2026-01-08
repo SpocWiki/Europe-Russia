@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Virgin_Komi_Forests,593870|WD~Virgin_Komi_Forests,593870]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Virgin_Komi_Forests,593870|WD~Virgin_Komi_Forests,593870]]"
+
 has_time_started: 1995-01-01 
 aliases:
   - Virgin Komi Forests
@@ -39,7 +43,7 @@ Commons_category: Komi Virgin Forests
 
 # [[Virgin_Komi_Forests]] 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Virgin_Komi_Forests,593870|WD~Virgin_Komi_Forests,593870]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -50,4 +54,21 @@ Commons_category: Komi Virgin Forests
 > At 32,800 km2 it is the largest virgin forest in Europe.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Virgin%20Komi%20Forests) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/Virgin_Komi_Forests|Virgin_Komi_Forests]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/Virgin_Komi_Forests.public|Virgin_Komi_Forests.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/Virgin_Komi_Forests.internal|Virgin_Komi_Forests.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/Virgin_Komi_Forests.protect|Virgin_Komi_Forests.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/Virgin_Komi_Forests.private|Virgin_Komi_Forests.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/Virgin_Komi_Forests.personal|Virgin_Komi_Forests.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/Virgin_Komi_Forests.secret|Virgin_Komi_Forests.secret]] 
 

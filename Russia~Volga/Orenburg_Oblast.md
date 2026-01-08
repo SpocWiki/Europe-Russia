@@ -1,4 +1,12 @@
-﻿---
+---
+dv_name: Orenburg Oblast
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 55.1
+dv_has_place_latitude: 51.77
+dv_is_:
+  same_as: "[[WikiData/WD~Orenburg_Oblast,5338]]"
+dv_is_same_as: "[[WikiData/WD~Orenburg_Oblast,5338]]"
+
 has_time_started: 1934-12-07 
 aliases:
   - Orenburg Oblast
@@ -104,16 +112,16 @@ official_website: https://orenburg-gov.ru/
 
 # [[Orenburg_Oblast]] 
 
-[name::Orenburg Oblast] 
+name = `=this.dv_name` 
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Orenburg=Chkalov]]  
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::55.1] 
-[has_place_latitude::51.77] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
-#is_/same_as :: [[WikiData/WD~Orenburg_Oblast,5338]]
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -135,17 +143,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Orenburg_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast|Orenburg_Oblast]] 
 
-### [Orenburg_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast.public|Orenburg_Oblast.public]] 
 
-### [Orenburg_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast.internal|Orenburg_Oblast.internal]] 
 
-### [Orenburg_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast.protect|Orenburg_Oblast.protect]] 
 
-### [Orenburg_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast.private|Orenburg_Oblast.private]] 
 
-### [Orenburg_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast.personal|Orenburg_Oblast.personal]] 
 
-### [Orenburg_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast.secret|Orenburg_Oblast.secret]] 
 

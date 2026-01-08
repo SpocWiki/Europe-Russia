@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34994
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 43.67
+dv_has_place_latitude: 54.2
+dv_name: Troitzk
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::43.67] 
-[has_place_latitude::54.2] 
-[name::Troitzk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Troitzk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Troitzk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Troitzk|Troitzk]] 
 
-### [Troitzk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Troitzk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Troitzk.public|Troitzk.public]] 
 
-### [Troitzk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Troitzk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Troitzk.internal|Troitzk.internal]] 
 
-### [Troitzk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Troitzk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Troitzk.protect|Troitzk.protect]] 
 
-### [Troitzk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Troitzk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Troitzk.private|Troitzk.private]] 
 
-### [Troitzk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Troitzk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Troitzk.personal|Troitzk.personal]] 
 
-### [Troitzk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Troitzk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic/City/Troitzk.secret|Troitzk.secret]] 
 

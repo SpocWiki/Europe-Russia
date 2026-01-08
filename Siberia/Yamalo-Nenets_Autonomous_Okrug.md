@@ -1,4 +1,9 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Yamalo-Nenets_Autonomous_Okrug,6407]]"
+dv_fips-10-4-countries-and-regions: RS87
+dv_is_same_as: "[[_Standards/WikiData/WD~Yamalo-Nenets_Autonomous_Okrug,6407]]"
+
 has_time_started: 1930-12-10 
 aliases:
   - Yamalo-Nenets Autonomous Okrug
@@ -65,7 +70,7 @@ short name:
   - ЯНАО
 ---
 
-#is_/same_as :: [[_Standards/WikiData/WD~Yamalo-Nenets_Autonomous_Okrug,6407]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -83,17 +88,17 @@ short name:
 
 ## Confidential Links & Embeds: 
 
-### [Yamalo-Nenets_Autonomous_Okrug](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Yamalo-Nenets_Autonomous_Okrug.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Yamalo-Nenets_Autonomous_Okrug|Yamalo-Nenets_Autonomous_Okrug]] 
 
-### [Yamalo-Nenets_Autonomous_Okrug.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Yamalo-Nenets_Autonomous_Okrug.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Yamalo-Nenets_Autonomous_Okrug.public|Yamalo-Nenets_Autonomous_Okrug.public]] 
 
-### [Yamalo-Nenets_Autonomous_Okrug.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Yamalo-Nenets_Autonomous_Okrug.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Yamalo-Nenets_Autonomous_Okrug.internal|Yamalo-Nenets_Autonomous_Okrug.internal]] 
 
-### [Yamalo-Nenets_Autonomous_Okrug.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Yamalo-Nenets_Autonomous_Okrug.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Yamalo-Nenets_Autonomous_Okrug.protect|Yamalo-Nenets_Autonomous_Okrug.protect]] 
 
-### [Yamalo-Nenets_Autonomous_Okrug.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Yamalo-Nenets_Autonomous_Okrug.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Yamalo-Nenets_Autonomous_Okrug.private|Yamalo-Nenets_Autonomous_Okrug.private]] 
 
-### [Yamalo-Nenets_Autonomous_Okrug.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Yamalo-Nenets_Autonomous_Okrug.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Yamalo-Nenets_Autonomous_Okrug.personal|Yamalo-Nenets_Autonomous_Okrug.personal]] 
 
-### [Yamalo-Nenets_Autonomous_Okrug.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Yamalo-Nenets_Autonomous_Okrug.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Yamalo-Nenets_Autonomous_Okrug.secret|Yamalo-Nenets_Autonomous_Okrug.secret]] 
 

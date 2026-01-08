@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34653
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 35.33
+dv_has_place_latitude: 54.08
+dv_name: Sukhinitchi
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::35.33] 
-[has_place_latitude::54.08] 
-[name::Sukhinitchi] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sukhinitchi](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Sukhinitchi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Sukhinitchi|Sukhinitchi]] 
 
-### [Sukhinitchi.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Sukhinitchi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Sukhinitchi.public|Sukhinitchi.public]] 
 
-### [Sukhinitchi.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Sukhinitchi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Sukhinitchi.internal|Sukhinitchi.internal]] 
 
-### [Sukhinitchi.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Sukhinitchi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Sukhinitchi.protect|Sukhinitchi.protect]] 
 
-### [Sukhinitchi.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Sukhinitchi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Sukhinitchi.private|Sukhinitchi.private]] 
 
-### [Sukhinitchi.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Sukhinitchi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Sukhinitchi.personal|Sukhinitchi.personal]] 
 
-### [Sukhinitchi.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Sukhinitchi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast/City/Sukhinitchi.secret|Sukhinitchi.secret]] 
 

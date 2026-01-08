@@ -1,4 +1,9 @@
-﻿---
+---
+dv_name: North Ossetia-Alania~Republic
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: 44.65
+dv_has_place_latitude: 43.0167
+
 has_time_started: 1993-11-09 
 aliases:
   - North Ossetia-Alania Republic
@@ -78,14 +83,14 @@ native_label:
 
 # [[North_Ossetia-Alania~Republic]]
 
-[name::North Ossetia-Alania~Republic] 
+name = `=this.dv_name` 
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Vladikavkaz]]  
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::44.65] 
-[has_place_latitude::43.0167] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
 #is_/same_as [[_Standards/WikiData/WD~North_Ossetia_Alania,5237]] 
@@ -102,17 +107,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [North_Ossetia-Alania~Republic](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/North_Ossetia-Alania~Republic|North_Ossetia-Alania~Republic]] 
 
-### [North_Ossetia-Alania~Republic.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/North_Ossetia-Alania~Republic.public|North_Ossetia-Alania~Republic.public]] 
 
-### [North_Ossetia-Alania~Republic.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/North_Ossetia-Alania~Republic.internal|North_Ossetia-Alania~Republic.internal]] 
 
-### [North_Ossetia-Alania~Republic.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/North_Ossetia-Alania~Republic.protect|North_Ossetia-Alania~Republic.protect]] 
 
-### [North_Ossetia-Alania~Republic.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/North_Ossetia-Alania~Republic.private|North_Ossetia-Alania~Republic.private]] 
 
-### [North_Ossetia-Alania~Republic.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/North_Ossetia-Alania~Republic.personal|North_Ossetia-Alania~Republic.personal]] 
 
-### [North_Ossetia-Alania~Republic.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/North_Ossetia-Alania~Republic.secret|North_Ossetia-Alania~Republic.secret]] 
 

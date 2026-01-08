@@ -14,17 +14,22 @@ tags:
 SpocWebEntityId: 32969
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 40.47
+dv_has_place_latitude: 64.87
+dv_name: Novadoniskaia
+dv_Country: "[[../../../../../Russia]]"
 ---
 
 # [[Novadoniskaia]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::40.47] 
-[has_place_latitude::64.87] 
-[name::Novadoniskaia] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -41,17 +46,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Novadoniskaia](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Novadoniskaia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Arkhangel'sk-county/Novadoniskaia|Novadoniskaia]] 
 
-### [Novadoniskaia.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Novadoniskaia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Arkhangel'sk-county/Novadoniskaia.public|Novadoniskaia.public]] 
 
-### [Novadoniskaia.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Novadoniskaia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Arkhangel'sk-county/Novadoniskaia.internal|Novadoniskaia.internal]] 
 
-### [Novadoniskaia.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Novadoniskaia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Arkhangel'sk-county/Novadoniskaia.protect|Novadoniskaia.protect]] 
 
-### [Novadoniskaia.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Novadoniskaia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Arkhangel'sk-county/Novadoniskaia.private|Novadoniskaia.private]] 
 
-### [Novadoniskaia.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Novadoniskaia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Arkhangel'sk-county/Novadoniskaia.personal|Novadoniskaia.personal]] 
 
-### [Novadoniskaia.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Novadoniskaia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Arkhangel'sk-county/Novadoniskaia.secret|Novadoniskaia.secret]] 
 

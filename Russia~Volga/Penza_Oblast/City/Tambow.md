@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 34743
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 43.33
+dv_has_place_latitude: 52.71667
+dv_name: Tambow
+dv_Country: "[[../../../../Russia]]"
+dv_StateId: 37190
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::43.33] 
-[has_place_latitude::52.71667] 
-[name::Tambow] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37190] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tambow](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Tambow.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Tambow|Tambow]] 
 
-### [Tambow.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Tambow.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Tambow.public|Tambow.public]] 
 
-### [Tambow.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Tambow.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Tambow.internal|Tambow.internal]] 
 
-### [Tambow.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Tambow.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Tambow.protect|Tambow.protect]] 
 
-### [Tambow.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Tambow.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Tambow.private|Tambow.private]] 
 
-### [Tambow.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Tambow.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Tambow.personal|Tambow.personal]] 
 
-### [Tambow.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Tambow.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Penza_Oblast/City/Tambow.secret|Tambow.secret]] 
 

@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 35066
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 36
+dv_has_place_latitude: 56.87
+dv_name: Twer=Kalinin
+dv_Country: "[[../../../../Russia]]"
+dv_StateId: 37191
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::36] 
-[has_place_latitude::56.87] 
-[name::Twer=Kalinin] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37191] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Twer=Kalinin](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Twer=Kalinin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Twer=Kalinin|Twer=Kalinin]] 
 
-### [Twer=Kalinin.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Twer=Kalinin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Twer=Kalinin.public|Twer=Kalinin.public]] 
 
-### [Twer=Kalinin.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Twer=Kalinin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Twer=Kalinin.internal|Twer=Kalinin.internal]] 
 
-### [Twer=Kalinin.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Twer=Kalinin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Twer=Kalinin.protect|Twer=Kalinin.protect]] 
 
-### [Twer=Kalinin.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Twer=Kalinin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Twer=Kalinin.private|Twer=Kalinin.private]] 
 
-### [Twer=Kalinin.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Twer=Kalinin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Twer=Kalinin.personal|Twer=Kalinin.personal]] 
 
-### [Twer=Kalinin.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Twer=Kalinin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast/City/Twer=Kalinin.secret|Twer=Kalinin.secret]] 
 

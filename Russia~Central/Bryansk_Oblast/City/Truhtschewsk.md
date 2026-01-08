@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35011
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 33.77
+dv_has_place_latitude: 52.58
+dv_name: Truhtschewsk
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::33.77] 
-[has_place_latitude::52.58] 
-[name::Truhtschewsk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Truhtschewsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Truhtschewsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Truhtschewsk|Truhtschewsk]] 
 
-### [Truhtschewsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Truhtschewsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Truhtschewsk.public|Truhtschewsk.public]] 
 
-### [Truhtschewsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Truhtschewsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Truhtschewsk.internal|Truhtschewsk.internal]] 
 
-### [Truhtschewsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Truhtschewsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Truhtschewsk.protect|Truhtschewsk.protect]] 
 
-### [Truhtschewsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Truhtschewsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Truhtschewsk.private|Truhtschewsk.private]] 
 
-### [Truhtschewsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Truhtschewsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Truhtschewsk.personal|Truhtschewsk.personal]] 
 
-### [Truhtschewsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Truhtschewsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Truhtschewsk.secret|Truhtschewsk.secret]] 
 

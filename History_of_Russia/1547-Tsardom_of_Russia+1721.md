@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Tsardom_of_Russia,186096|WD~Tsardom_of_Russia,186096]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Tsardom_of_Russia,186096|WD~Tsardom_of_Russia,186096]]"
+
 has_time_started: 1547-01-01 
 has_time_stopped: 1721-11-02 
 aliases:
@@ -72,7 +76,7 @@ coordinate_location: Point(37.6175 55.750555555)
 
 # [[1547-Tsardom_of_Russia+1721]] 
 
-#is_/same_as  :: [[../../../../../../WikiData/WD~Tsardom_of_Russia,186096|WD~Tsardom_of_Russia,186096]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -94,4 +98,21 @@ coordinate_location: Point(37.6175 55.750555555)
 > and proclaimed the Russian Empire after victory over Sweden in 1721.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tsardom%20of%20Russia) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/1547-Tsardom_of_Russia+1721|1547-Tsardom_of_Russia+1721]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/1547-Tsardom_of_Russia+1721.public|1547-Tsardom_of_Russia+1721.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/1547-Tsardom_of_Russia+1721.internal|1547-Tsardom_of_Russia+1721.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/1547-Tsardom_of_Russia+1721.protect|1547-Tsardom_of_Russia+1721.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/1547-Tsardom_of_Russia+1721.private|1547-Tsardom_of_Russia+1721.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/1547-Tsardom_of_Russia+1721.personal|1547-Tsardom_of_Russia+1721.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/1547-Tsardom_of_Russia+1721.secret|1547-Tsardom_of_Russia+1721.secret]] 
 

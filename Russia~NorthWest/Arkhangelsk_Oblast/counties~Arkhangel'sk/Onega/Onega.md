@@ -14,17 +14,22 @@ tags:
 SpocWebEntityId: 33110
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 38.15
+dv_has_place_latitude: 63.9
+dv_name: Onega
+dv_Country: "[[../../../../../Russia]]"
 ---
 
 # [[Onega]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::38.15] 
-[has_place_latitude::63.9] 
-[name::Onega] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -41,17 +46,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Onega](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Onega.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Onega/Onega|Onega]] 
 
-### [Onega.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Onega.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Onega/Onega.public|Onega.public]] 
 
-### [Onega.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Onega.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Onega/Onega.internal|Onega.internal]] 
 
-### [Onega.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Onega.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Onega/Onega.protect|Onega.protect]] 
 
-### [Onega.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Onega.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Onega/Onega.private|Onega.private]] 
 
-### [Onega.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Onega.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Onega/Onega.personal|Onega.personal]] 
 
-### [Onega.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Onega.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Onega/Onega.secret|Onega.secret]] 
 

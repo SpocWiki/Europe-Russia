@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 37066
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 44.26667
+dv_has_place_latitude: 46.31667
+dv_name: Elista
+dv_Country: "[[../../../../Russia]]"
+dv_StateId: 37044
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::44.26667] 
-[has_place_latitude::46.31667] 
-[name::Elista] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37044] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Elista](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Kalmykia~Republic/City/Elista.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Kalmykia~Republic/City/Elista|Elista]] 
 
-### [Elista.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Kalmykia~Republic/City/Elista.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Kalmykia~Republic/City/Elista.public|Elista.public]] 
 
-### [Elista.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Kalmykia~Republic/City/Elista.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Kalmykia~Republic/City/Elista.internal|Elista.internal]] 
 
-### [Elista.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Kalmykia~Republic/City/Elista.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Kalmykia~Republic/City/Elista.protect|Elista.protect]] 
 
-### [Elista.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Kalmykia~Republic/City/Elista.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Kalmykia~Republic/City/Elista.private|Elista.private]] 
 
-### [Elista.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Kalmykia~Republic/City/Elista.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Kalmykia~Republic/City/Elista.personal|Elista.personal]] 
 
-### [Elista.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Kalmykia~Republic/City/Elista.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Kalmykia~Republic/City/Elista.secret|Elista.secret]] 
 

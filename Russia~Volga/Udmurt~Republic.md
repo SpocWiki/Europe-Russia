@@ -1,4 +1,30 @@
-﻿---
+---
+dv_name: Udmurt~Republic
+dv_geo-lon: 53.23
+dv_geo-lat: 56.85
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~Udmurtia,5422]]"
+    - "[Udmurt~Republic](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.md)"
+    - "[Udmurt~Republic.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.public.md)"
+    - "[Udmurt~Republic.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.internal.md)"
+    - "[Udmurt~Republic.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.protect.md)"
+    - "[Udmurt~Republic.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.private.md)"
+    - "[Udmurt~Republic.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.personal.md)"
+    - "[Udmurt~Republic.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.secret.md)"
+dv_located-inon-physical-feature: "[[WikiData/WD~European_Russia,875134]]"
+dv_topics-main-wikimedia-portal: "[[WikiData/WD~Q9892998,9892998]]"
+dv_fips-10-4-countries-and-regions: RS80
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~Udmurtia,5422]]"
+  - "[Udmurt~Republic](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.md)"
+  - "[Udmurt~Republic.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.public.md)"
+  - "[Udmurt~Republic.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.internal.md)"
+  - "[Udmurt~Republic.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.protect.md)"
+  - "[Udmurt~Republic.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.private.md)"
+  - "[Udmurt~Republic.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.personal.md)"
+  - "[Udmurt~Republic.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.secret.md)"
+
 has_time_started: 1991-11-11 
 aliases:
   - Udmurt_Republic
@@ -74,12 +100,12 @@ official name:
   - ?????? ??????
 native label: ?????? ??????
 ---
-[name::Udmurt~Republic] 
+name = `=this.dv_name` 
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Izhevsk]]  
-[geo-lon::53.23] 
-[geo-lat::56.85] 
+geo-lon = `=this.dv_geo-lon` 
+geo-lat = `=this.dv_geo-lat` 
 [Population::] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Udmurtia,5422]] 
@@ -107,17 +133,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Udmurt~Republic](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Udmurt~Republic|Udmurt~Republic]] 
 
-### #is_/same_as :: [Udmurt~Republic.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Udmurt~Republic.public|Udmurt~Republic.public]] 
 
-### #is_/same_as :: [Udmurt~Republic.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Udmurt~Republic.internal|Udmurt~Republic.internal]] 
 
-### #is_/same_as :: [Udmurt~Republic.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Udmurt~Republic.protect|Udmurt~Republic.protect]] 
 
-### #is_/same_as :: [Udmurt~Republic.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Udmurt~Republic.private|Udmurt~Republic.private]] 
 
-### #is_/same_as :: [Udmurt~Republic.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Udmurt~Republic.personal|Udmurt~Republic.personal]] 
 
-### #is_/same_as :: [Udmurt~Republic.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Udmurt~Republic.secret|Udmurt~Republic.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35272
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 42.15
+dv_has_place_latitude: 56.25
+dv_name: Viaznicki
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::42.15] 
-[has_place_latitude::56.25] 
-[name::Viaznicki] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Viaznicki](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Viaznicki.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Viaznicki|Viaznicki]] 
 
-### [Viaznicki.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Viaznicki.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Viaznicki.public|Viaznicki.public]] 
 
-### [Viaznicki.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Viaznicki.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Viaznicki.internal|Viaznicki.internal]] 
 
-### [Viaznicki.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Viaznicki.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Viaznicki.protect|Viaznicki.protect]] 
 
-### [Viaznicki.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Viaznicki.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Viaznicki.private|Viaznicki.private]] 
 
-### [Viaznicki.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Viaznicki.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Viaznicki.personal|Viaznicki.personal]] 
 
-### [Viaznicki.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Viaznicki.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Viaznicki.secret|Viaznicki.secret]] 
 

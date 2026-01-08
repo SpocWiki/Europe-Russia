@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 35669
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 40.42
+dv_has_place_latitude: 56.13
+dv_name: Wladimier
+dv_Country: "[[../../../../Russia]]"
+dv_StateId: 37121
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::40.42] 
-[has_place_latitude::56.13] 
-[name::Wladimier] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37121] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wladimier](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Wladimier.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Wladimier|Wladimier]] 
 
-### [Wladimier.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Wladimier.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Wladimier.public|Wladimier.public]] 
 
-### [Wladimier.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Wladimier.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Wladimier.internal|Wladimier.internal]] 
 
-### [Wladimier.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Wladimier.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Wladimier.protect|Wladimier.protect]] 
 
-### [Wladimier.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Wladimier.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Wladimier.private|Wladimier.private]] 
 
-### [Wladimier.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Wladimier.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Wladimier.personal|Wladimier.personal]] 
 
-### [Wladimier.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Wladimier.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Wladimier.secret|Wladimier.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35791
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 30.4
+dv_has_place_latitude: 59.72
+dv_name: Zarskoje-Selo
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::30.4] 
-[has_place_latitude::59.72] 
-[name::Zarskoje-Selo] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zarskoje-Selo](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Zarskoje-Selo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Zarskoje-Selo|Zarskoje-Selo]] 
 
-### [Zarskoje-Selo.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Zarskoje-Selo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Zarskoje-Selo.public|Zarskoje-Selo.public]] 
 
-### [Zarskoje-Selo.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Zarskoje-Selo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Zarskoje-Selo.internal|Zarskoje-Selo.internal]] 
 
-### [Zarskoje-Selo.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Zarskoje-Selo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Zarskoje-Selo.protect|Zarskoje-Selo.protect]] 
 
-### [Zarskoje-Selo.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Zarskoje-Selo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Zarskoje-Selo.private|Zarskoje-Selo.private]] 
 
-### [Zarskoje-Selo.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Zarskoje-Selo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Zarskoje-Selo.personal|Zarskoje-Selo.personal]] 
 
-### [Zarskoje-Selo.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Zarskoje-Selo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/St.Petersburg,City/City/Zarskoje-Selo.secret|Zarskoje-Selo.secret]] 
 

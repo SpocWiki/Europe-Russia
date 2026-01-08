@@ -1,4 +1,14 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Bashkortostan,5710]]"
+dv_fips-10-4-countries-and-regions: RS08
+dv_located-inon-physical-feature: "[[WikiData/WD~Preduralye,2182693]]"
+dv_topics-main-template:
+  - "[[WikiData/WD~Template_Republic_of_Bashkortostan,6327650]]"
+  - "[[WikiData/WD~Template_Bashkir-stub,19842573]]"
+dv_topics-main-wikimedia-portal: "[[WikiData/WD~Portal_Bashkortostan,13406041]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Bashkortostan,5710]]"
+
 has_time_started: 1990-10-11 
 aliases:
   - Bashkiria
@@ -102,7 +112,7 @@ Commons gallery: Atlas of Bashkortostan
 Commons category: Bashkortostan
 ---
 
-#is_/same_as :: [[_Standards/WikiData/WD~Bashkortostan,5710]] 
+is_same_as = `=this.dv_is_same_as`
 
 
 
@@ -118,17 +128,17 @@ Commons category: Bashkortostan
 
 ## Confidential Links & Embeds: 
 
-### [Republic_of_Bashkortostan](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Bashkortostan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Bashkortostan|Republic_of_Bashkortostan]] 
 
-### [Republic_of_Bashkortostan.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Bashkortostan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Bashkortostan.public|Republic_of_Bashkortostan.public]] 
 
-### [Republic_of_Bashkortostan.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Bashkortostan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Bashkortostan.internal|Republic_of_Bashkortostan.internal]] 
 
-### [Republic_of_Bashkortostan.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Bashkortostan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Bashkortostan.protect|Republic_of_Bashkortostan.protect]] 
 
-### [Republic_of_Bashkortostan.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Bashkortostan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Bashkortostan.private|Republic_of_Bashkortostan.private]] 
 
-### [Republic_of_Bashkortostan.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Bashkortostan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Bashkortostan.personal|Republic_of_Bashkortostan.personal]] 
 
-### [Republic_of_Bashkortostan.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Bashkortostan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Bashkortostan.secret|Republic_of_Bashkortostan.secret]] 
 

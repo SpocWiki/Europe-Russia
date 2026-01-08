@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30759
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 30.87
+dv_has_place_latitude: 61.32
+dv_name: Hankipaasi
+dv_Country: "[[../../../../../Europe~North/Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::30.87] 
-[has_place_latitude::61.32] 
-[name::Hankipaasi] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hankipaasi](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Hankipaasi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Hankipaasi|Hankipaasi]] 
 
-### [Hankipaasi.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Hankipaasi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Hankipaasi.public|Hankipaasi.public]] 
 
-### [Hankipaasi.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Hankipaasi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Hankipaasi.internal|Hankipaasi.internal]] 
 
-### [Hankipaasi.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Hankipaasi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Hankipaasi.protect|Hankipaasi.protect]] 
 
-### [Hankipaasi.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Hankipaasi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Hankipaasi.private|Hankipaasi.private]] 
 
-### [Hankipaasi.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Hankipaasi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Hankipaasi.personal|Hankipaasi.personal]] 
 
-### [Hankipaasi.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Hankipaasi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/City/Hankipaasi.secret|Hankipaasi.secret]] 
 

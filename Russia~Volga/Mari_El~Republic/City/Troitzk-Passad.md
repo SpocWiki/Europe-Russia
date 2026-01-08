@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34995
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 46.47
+dv_has_place_latitude: 56.3
+dv_name: Troitzk-Passad
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::46.47] 
-[has_place_latitude::56.3] 
-[name::Troitzk-Passad] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Troitzk-Passad](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Troitzk-Passad.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Troitzk-Passad|Troitzk-Passad]] 
 
-### [Troitzk-Passad.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Troitzk-Passad.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Troitzk-Passad.public|Troitzk-Passad.public]] 
 
-### [Troitzk-Passad.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Troitzk-Passad.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Troitzk-Passad.internal|Troitzk-Passad.internal]] 
 
-### [Troitzk-Passad.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Troitzk-Passad.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Troitzk-Passad.protect|Troitzk-Passad.protect]] 
 
-### [Troitzk-Passad.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Troitzk-Passad.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Troitzk-Passad.private|Troitzk-Passad.private]] 
 
-### [Troitzk-Passad.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Troitzk-Passad.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Troitzk-Passad.personal|Troitzk-Passad.personal]] 
 
-### [Troitzk-Passad.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Troitzk-Passad.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Troitzk-Passad.secret|Troitzk-Passad.secret]] 
 

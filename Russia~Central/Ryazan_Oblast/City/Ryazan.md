@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 33838
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 39.67
+dv_has_place_latitude: 54.67
+dv_name: Ryazan
+dv_Country: "[[../../../../Russia]]"
+dv_StateId: 37182
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::39.67] 
-[has_place_latitude::54.67] 
-[name::Ryazan] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37182] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ryazan](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Ryazan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Ryazan|Ryazan]] 
 
-### [Ryazan.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Ryazan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Ryazan.public|Ryazan.public]] 
 
-### [Ryazan.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Ryazan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Ryazan.internal|Ryazan.internal]] 
 
-### [Ryazan.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Ryazan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Ryazan.protect|Ryazan.protect]] 
 
-### [Ryazan.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Ryazan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Ryazan.private|Ryazan.private]] 
 
-### [Ryazan.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Ryazan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Ryazan.personal|Ryazan.personal]] 
 
-### [Ryazan.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Ryazan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Ryazan.secret|Ryazan.secret]] 
 

@@ -73,13 +73,18 @@ bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/Brockhaus%2
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ladoga.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sortavalan%20saaristoa.jpg
 State_Water_Register_Code_Russia_: "01040300411102000010114"
-Wolfram_Language_entity_code: Entity["Lake", "LakeLadoga::fjgg6"]
+Wolfram_Language_entity_code: Entity"Lake", "LakeLadoga = `=this.dv_"Lake", "LakeLadoga`
 Commons_category: Lake Ladoga
+dv_"Lake", "LakeLadoga: fjgg6"
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Lake_Ladoga,15288]]"
+dv_lake-lakeladoga: fjgg6"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Lake_Ladoga,15288]]"
 ---
 
 # [[Lake_Ladoga]] 
 
-#is_/same_as :: [[WD~Lake_Ladoga,15288]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -102,4 +107,21 @@ markerFile: [[Lake_Ladoga]]
 > It is the largest lake located entirely in Europe, the second largest lake in Russia after Lake Baikal, and the 14th largest freshwater lake by area in the world. It is comparable in size to Lake Ontario. Ladoga Lacus, a methane lake on Saturn's moon Titan, is named after the lake.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lake%20Ladoga) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/_Lakes/Lake_Ladoga|Lake_Ladoga]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/_Lakes/Lake_Ladoga.public|Lake_Ladoga.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/_Lakes/Lake_Ladoga.internal|Lake_Ladoga.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/_Lakes/Lake_Ladoga.protect|Lake_Ladoga.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/_Lakes/Lake_Ladoga.private|Lake_Ladoga.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/_Lakes/Lake_Ladoga.personal|Lake_Ladoga.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Karelia~Republic/_Lakes/Lake_Ladoga.secret|Lake_Ladoga.secret]] 
 

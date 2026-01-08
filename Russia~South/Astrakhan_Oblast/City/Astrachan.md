@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 28909
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 48.05
+dv_has_place_latitude: 46.35
+dv_name: Astrachan
+dv_Country: "[[../../../../Russia]]"
+dv_StateId: 37118
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::48.05] 
-[has_place_latitude::46.35] 
-[name::Astrachan] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37118] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Astrachan](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Astrachan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Astrachan|Astrachan]] 
 
-### [Astrachan.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Astrachan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Astrachan.public|Astrachan.public]] 
 
-### [Astrachan.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Astrachan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Astrachan.internal|Astrachan.internal]] 
 
-### [Astrachan.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Astrachan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Astrachan.protect|Astrachan.protect]] 
 
-### [Astrachan.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Astrachan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Astrachan.private|Astrachan.private]] 
 
-### [Astrachan.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Astrachan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Astrachan.personal|Astrachan.personal]] 
 
-### [Astrachan.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Astrachan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Astrakhan_Oblast/City/Astrachan.secret|Astrachan.secret]] 
 

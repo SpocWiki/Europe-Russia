@@ -1,4 +1,13 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 44
+dv_has_place_latitude: 56.33333
+dv_name: Nizhny Novgorod
+dv_StateId: 37142
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Nizhny_Novgorod,891|WD~Nizhny_Novgorod,891]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Nizhny_Novgorod,891|WD~Nizhny_Novgorod,891]]"
+
 has_time_started: 1221-01-01 
 aliases:
   - Nizhny_Novgorod
@@ -152,16 +161,16 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Nizhny%20Novgorod%2020
 # [[Nizhny_Novgorod]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::44] 
-[has_place_latitude::56.33333] 
-[name::Nizhny Novgorod] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[Russia]]  
-[StateId::37142] 
+StateId = `=this.dv_StateId` 
 [Population::] 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Nizhny_Novgorod,891|WD~Nizhny_Novgorod,891]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -200,17 +209,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nizhny_Novgorod](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Nizhny_Novgorod.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Nizhny_Novgorod|Nizhny_Novgorod]] 
 
-### [Nizhny_Novgorod.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Nizhny_Novgorod.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Nizhny_Novgorod.public|Nizhny_Novgorod.public]] 
 
-### [Nizhny_Novgorod.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Nizhny_Novgorod.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Nizhny_Novgorod.internal|Nizhny_Novgorod.internal]] 
 
-### [Nizhny_Novgorod.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Nizhny_Novgorod.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Nizhny_Novgorod.protect|Nizhny_Novgorod.protect]] 
 
-### [Nizhny_Novgorod.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Nizhny_Novgorod.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Nizhny_Novgorod.private|Nizhny_Novgorod.private]] 
 
-### [Nizhny_Novgorod.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Nizhny_Novgorod.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Nizhny_Novgorod.personal|Nizhny_Novgorod.personal]] 
 
-### [Nizhny_Novgorod.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Nizhny_Novgorod.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Nizhny_Novgorod.secret|Nizhny_Novgorod.secret]] 
 

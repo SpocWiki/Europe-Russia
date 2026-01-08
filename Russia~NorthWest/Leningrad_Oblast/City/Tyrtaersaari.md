@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35074
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 27.2
+dv_has_place_latitude: 59.85
+dv_name: Tyrtaersaari
+dv_Country: "[[../../../../../Europe~North/Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::27.2] 
-[has_place_latitude::59.85] 
-[name::Tyrtaersaari] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tyrtaersaari](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Tyrtaersaari.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Tyrtaersaari|Tyrtaersaari]] 
 
-### [Tyrtaersaari.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Tyrtaersaari.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Tyrtaersaari.public|Tyrtaersaari.public]] 
 
-### [Tyrtaersaari.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Tyrtaersaari.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Tyrtaersaari.internal|Tyrtaersaari.internal]] 
 
-### [Tyrtaersaari.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Tyrtaersaari.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Tyrtaersaari.protect|Tyrtaersaari.protect]] 
 
-### [Tyrtaersaari.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Tyrtaersaari.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Tyrtaersaari.private|Tyrtaersaari.private]] 
 
-### [Tyrtaersaari.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Tyrtaersaari.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Tyrtaersaari.personal|Tyrtaersaari.personal]] 
 
-### [Tyrtaersaari.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Tyrtaersaari.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Tyrtaersaari.secret|Tyrtaersaari.secret]] 
 

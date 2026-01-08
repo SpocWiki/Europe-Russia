@@ -106,11 +106,14 @@ Commons_category: Ural River
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ural%20river.jpg
 route_map: http://commons.wikimedia.org/wiki/Special:FilePath/Ural%20river.png
 State_Water_Register_Code_Russia_: "12010000112112200001016"
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Ural_River,80240|WD~Ural_River,80240]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~Ural_River,80240|WD~Ural_River,80240]]"
 ---
 
 # [[Ural_River]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Ural_River,80240|WD~Ural_River,80240]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -128,4 +131,21 @@ State_Water_Register_Code_Russia_: "12010000112112200001016"
 > and around the southern end of the Urals, through Orsk where it turns west for about 300 kilometres (190 mi), to Orenburg, where the river Sakmara joins. From Orenburg it continues west, passing into Kazakhstan, then turning south again at Oral, and meandering through a broad flat plain until it reaches the Caspian a few kilometers below Atyrau, where it forms a fine 'digitate' (tree-like) delta.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ural%20(river)) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Ural_River|Ural_River]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Ural_River.public|Ural_River.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Ural_River.internal|Ural_River.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Ural_River.protect|Ural_River.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Ural_River.private|Ural_River.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Ural_River.personal|Ural_River.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Ural_River.secret|Ural_River.secret]] 
 

@@ -22,11 +22,14 @@ ISNI: "0000000106865388"
 P1015: "5004670"
 Krugosvet_article_archived_: istoriya/GULAG.html
 Commons_gallery: ГУЛАГ
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Gulag,161448|WD~Gulag,161448]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Gulag,161448|WD~Gulag,161448]]"
 ---
 
 # [[Gulag]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Gulag,161448|WD~Gulag,161448]] 
+is_same_as = `=this.dv_is_same_as`
 ## #has_/text_of_/abstract 
 
 > The **Gulag** was a system of forced labor camps in the Soviet Union. 
@@ -93,4 +96,21 @@ Commons_gallery: ГУЛАГ
 > originated as blocks of camps built by prisoners and subsequently run by ex-prisoners.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gulag) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/Gulag|Gulag]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/Gulag.public|Gulag.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/Gulag.internal|Gulag.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/Gulag.protect|Gulag.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/Gulag.private|Gulag.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/Gulag.personal|Gulag.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/History_of_Russia/Gulag.secret|Gulag.secret]] 
 

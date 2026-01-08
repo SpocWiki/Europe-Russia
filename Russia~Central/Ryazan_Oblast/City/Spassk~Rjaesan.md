@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34408
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 40.38
+dv_has_place_latitude: 54.4
+dv_name: Spassk~Rjaesan
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::40.38] 
-[has_place_latitude::54.4] 
-[name::Spassk~Rjaesan] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Spassk~Rjaesan](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Spassk~Rjaesan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Spassk~Rjaesan|Spassk~Rjaesan]] 
 
-### [Spassk~Rjaesan.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Spassk~Rjaesan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Spassk~Rjaesan.public|Spassk~Rjaesan.public]] 
 
-### [Spassk~Rjaesan.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Spassk~Rjaesan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Spassk~Rjaesan.internal|Spassk~Rjaesan.internal]] 
 
-### [Spassk~Rjaesan.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Spassk~Rjaesan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Spassk~Rjaesan.protect|Spassk~Rjaesan.protect]] 
 
-### [Spassk~Rjaesan.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Spassk~Rjaesan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Spassk~Rjaesan.private|Spassk~Rjaesan.private]] 
 
-### [Spassk~Rjaesan.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Spassk~Rjaesan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Spassk~Rjaesan.personal|Spassk~Rjaesan.personal]] 
 
-### [Spassk~Rjaesan.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Spassk~Rjaesan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Ryazan_Oblast/City/Spassk~Rjaesan.secret|Spassk~Rjaesan.secret]] 
 

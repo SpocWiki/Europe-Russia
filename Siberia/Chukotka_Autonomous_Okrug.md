@@ -1,4 +1,9 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Chukotka_Autonomous_Okrug,7984]]"
+dv_fips-10-4-countries-and-regions: RS15
+dv_is_same_as: "[[_Standards/WikiData/WD~Chukotka_Autonomous_Okrug,7984]]"
+
 has_time_started: 1930-12-10 
 aliases:
   - Chukotka Autonomous Okrug
@@ -61,7 +66,7 @@ inception: 1930-12-10T00:00:00Z
 coordinate location: Point(172.001 66.252778)
 ---
 
-#is_/same_as :: [[_Standards/WikiData/WD~Chukotka_Autonomous_Okrug,7984]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -86,17 +91,17 @@ coordinate location: Point(172.001 66.252778)
 
 ## Confidential Links & Embeds: 
 
-### [Chukotka_Autonomous_Okrug](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chukotka_Autonomous_Okrug.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chukotka_Autonomous_Okrug|Chukotka_Autonomous_Okrug]] 
 
-### [Chukotka_Autonomous_Okrug.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chukotka_Autonomous_Okrug.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chukotka_Autonomous_Okrug.public|Chukotka_Autonomous_Okrug.public]] 
 
-### [Chukotka_Autonomous_Okrug.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chukotka_Autonomous_Okrug.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chukotka_Autonomous_Okrug.internal|Chukotka_Autonomous_Okrug.internal]] 
 
-### [Chukotka_Autonomous_Okrug.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chukotka_Autonomous_Okrug.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chukotka_Autonomous_Okrug.protect|Chukotka_Autonomous_Okrug.protect]] 
 
-### [Chukotka_Autonomous_Okrug.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chukotka_Autonomous_Okrug.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chukotka_Autonomous_Okrug.private|Chukotka_Autonomous_Okrug.private]] 
 
-### [Chukotka_Autonomous_Okrug.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chukotka_Autonomous_Okrug.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chukotka_Autonomous_Okrug.personal|Chukotka_Autonomous_Okrug.personal]] 
 
-### [Chukotka_Autonomous_Okrug.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chukotka_Autonomous_Okrug.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chukotka_Autonomous_Okrug.secret|Chukotka_Autonomous_Okrug.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34397
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 40.45
+dv_has_place_latitude: 56.42
+dv_name: Souzdal
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::40.45] 
-[has_place_latitude::56.42] 
-[name::Souzdal] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Souzdal](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Souzdal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Souzdal|Souzdal]] 
 
-### [Souzdal.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Souzdal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Souzdal.public|Souzdal.public]] 
 
-### [Souzdal.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Souzdal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Souzdal.internal|Souzdal.internal]] 
 
-### [Souzdal.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Souzdal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Souzdal.protect|Souzdal.protect]] 
 
-### [Souzdal.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Souzdal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Souzdal.private|Souzdal.private]] 
 
-### [Souzdal.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Souzdal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Souzdal.personal|Souzdal.personal]] 
 
-### [Souzdal.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Souzdal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Vladimir_Oblast/City/Souzdal.secret|Souzdal.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31696
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 29.23
+dv_has_place_latitude: 66.97
+dv_name: Kuolajaervi
+dv_Country: "[[../../../../../Europe~North/Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::29.23] 
-[has_place_latitude::66.97] 
-[name::Kuolajaervi] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kuolajaervi](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kuolajaervi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kuolajaervi|Kuolajaervi]] 
 
-### [Kuolajaervi.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kuolajaervi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kuolajaervi.public|Kuolajaervi.public]] 
 
-### [Kuolajaervi.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kuolajaervi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kuolajaervi.internal|Kuolajaervi.internal]] 
 
-### [Kuolajaervi.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kuolajaervi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kuolajaervi.protect|Kuolajaervi.protect]] 
 
-### [Kuolajaervi.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kuolajaervi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kuolajaervi.private|Kuolajaervi.private]] 
 
-### [Kuolajaervi.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kuolajaervi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kuolajaervi.personal|Kuolajaervi.personal]] 
 
-### [Kuolajaervi.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kuolajaervi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Murmansk_Oblast/City/Kuolajaervi.secret|Kuolajaervi.secret]] 
 

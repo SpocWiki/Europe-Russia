@@ -12,15 +12,21 @@ tags:
 SpocWebEntityId: 37037
 isDeleted: false
 confidential: public
+dv_name: Adygea~Republic
+dv_Country: "[[../../Russia]]"
+dv_Capital: "[[Adygea~Republic/City/Maykop]]"
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 40.17
+dv_has_place_latitude: 44.58
 ---
-[name::Adygea~Republic] 
+name = `=this.dv_name` 
 [name-abbr::] 
-Country :: [[Russia]]  
-Capital :: [[Maykop]]  
+Country = `=this.dv_Country`
+Capital = `=this.dv_Capital`
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::40.17] 
-[has_place_latitude::44.58] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
 
@@ -37,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Adygea~Republic](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic|Adygea~Republic]] 
 
-### [Adygea~Republic.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic.public|Adygea~Republic.public]] 
 
-### [Adygea~Republic.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic.internal|Adygea~Republic.internal]] 
 
-### [Adygea~Republic.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic.protect|Adygea~Republic.protect]] 
 
-### [Adygea~Republic.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic.private|Adygea~Republic.private]] 
 
-### [Adygea~Republic.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic.personal|Adygea~Republic.personal]] 
 
-### [Adygea~Republic.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Adygea~Republic.secret|Adygea~Republic.secret]] 
 

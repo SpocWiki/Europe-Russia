@@ -12,15 +12,21 @@ tags:
 SpocWebEntityId: 37197
 isDeleted: false
 confidential: public
+dv_name: Yaroslavl Oblast
+dv_Country: "[[../../Russia]]"
+dv_Capital: "[[Yaroslavl_Oblast/City/Jarosla=Jaroslav]]"
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 39.87
+dv_has_place_latitude: 57.62
 ---
-[name::Yaroslavl Oblast] 
+name = `=this.dv_name` 
 [name-abbr::] 
-Country :: [[Russia]]  
-Capital :: [[Jarosla=Jaroslav]]  
+Country = `=this.dv_Country`
+Capital = `=this.dv_Capital`
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::39.87] 
-[has_place_latitude::57.62] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
 
@@ -37,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Yaroslavl_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast|Yaroslavl_Oblast]] 
 
-### [Yaroslavl_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast.public|Yaroslavl_Oblast.public]] 
 
-### [Yaroslavl_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast.internal|Yaroslavl_Oblast.internal]] 
 
-### [Yaroslavl_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast.protect|Yaroslavl_Oblast.protect]] 
 
-### [Yaroslavl_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast.private|Yaroslavl_Oblast.private]] 
 
-### [Yaroslavl_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast.personal|Yaroslavl_Oblast.personal]] 
 
-### [Yaroslavl_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast.secret|Yaroslavl_Oblast.secret]] 
 

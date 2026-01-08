@@ -1,4 +1,6 @@
-﻿---
+---
+dv_fips-10-4-countries-and-regions: RS29
+
 has_time_started: 1943-01-26 
 aliases:
   - Kemerovo_Oblast
@@ -102,17 +104,17 @@ geoshape: http://commons.wikimedia.org/data/main/Data:Russia/Kemerovo+Oblast.map
 
 ## Confidential Links & Embeds: 
 
-### [Kemerovo_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kemerovo_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kemerovo_Oblast|Kemerovo_Oblast]] 
 
-### [Kemerovo_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kemerovo_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kemerovo_Oblast.public|Kemerovo_Oblast.public]] 
 
-### [Kemerovo_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kemerovo_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kemerovo_Oblast.internal|Kemerovo_Oblast.internal]] 
 
-### [Kemerovo_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kemerovo_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kemerovo_Oblast.protect|Kemerovo_Oblast.protect]] 
 
-### [Kemerovo_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kemerovo_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kemerovo_Oblast.private|Kemerovo_Oblast.private]] 
 
-### [Kemerovo_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kemerovo_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kemerovo_Oblast.personal|Kemerovo_Oblast.personal]] 
 
-### [Kemerovo_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kemerovo_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kemerovo_Oblast.secret|Kemerovo_Oblast.secret]] 
 

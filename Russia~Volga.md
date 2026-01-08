@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[WD~Volga_Federal_District,202317]]"
+dv_is_same_as: "[[WD~Volga_Federal_District,202317]]"
+
 has_time_started: 2000-05-13 
 aliases:
   - Volga Federal District
@@ -37,7 +41,7 @@ inception: 2000-05-13T00:00:00Z
 
 # [[Russia~Volga]] 
 
-#is_/same_as :: [[WD~Volga_Federal_District,202317]] 
+is_same_as = `=this.dv_is_same_as`
 
 ```leaflet
 id: Norway
@@ -66,17 +70,17 @@ markerFolder: ./Russia~Volga/
 
 ## Confidential Links & Embeds: 
 
-### [Russia~Volga](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga|Russia~Volga]] 
 
-### [Russia~Volga.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga.public|Russia~Volga.public]] 
 
-### [Russia~Volga.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga.internal|Russia~Volga.internal]] 
 
-### [Russia~Volga.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga.protect|Russia~Volga.protect]] 
 
-### [Russia~Volga.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga.private|Russia~Volga.private]] 
 
-### [Russia~Volga.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga.personal|Russia~Volga.personal]] 
 
-### [Russia~Volga.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga.secret|Russia~Volga.secret]] 
 

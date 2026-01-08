@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 37067
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 50.81667
+dv_has_place_latitude: 61.66667
+dv_name: Syktyvkar
+dv_Country: "[[../../../../Russia]]"
+dv_StateId: 37047
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::50.81667] 
-[has_place_latitude::61.66667] 
-[name::Syktyvkar] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37047] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Syktyvkar](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syktyvkar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syktyvkar|Syktyvkar]] 
 
-### [Syktyvkar.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syktyvkar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syktyvkar.public|Syktyvkar.public]] 
 
-### [Syktyvkar.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syktyvkar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syktyvkar.internal|Syktyvkar.internal]] 
 
-### [Syktyvkar.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syktyvkar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syktyvkar.protect|Syktyvkar.protect]] 
 
-### [Syktyvkar.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syktyvkar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syktyvkar.private|Syktyvkar.private]] 
 
-### [Syktyvkar.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syktyvkar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syktyvkar.personal|Syktyvkar.personal]] 
 
-### [Syktyvkar.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syktyvkar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Komi~Republic/City/Syktyvkar.secret|Syktyvkar.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34721
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 35
+dv_has_place_latitude: 60.42
+dv_name: Saelskaer
+dv_Country: "[[../../../../../Europe~North/Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::35] 
-[has_place_latitude::60.42] 
-[name::Saelskaer] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saelskaer](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Saelskaer.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Saelskaer|Saelskaer]] 
 
-### [Saelskaer.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Saelskaer.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Saelskaer.public|Saelskaer.public]] 
 
-### [Saelskaer.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Saelskaer.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Saelskaer.internal|Saelskaer.internal]] 
 
-### [Saelskaer.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Saelskaer.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Saelskaer.protect|Saelskaer.protect]] 
 
-### [Saelskaer.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Saelskaer.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Saelskaer.private|Saelskaer.private]] 
 
-### [Saelskaer.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Saelskaer.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Saelskaer.personal|Saelskaer.personal]] 
 
-### [Saelskaer.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Saelskaer.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Leningrad_Oblast/City/Saelskaer.secret|Saelskaer.secret]] 
 

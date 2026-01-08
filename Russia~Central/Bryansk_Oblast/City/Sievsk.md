@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34260
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 34.5
+dv_has_place_latitude: 52.15
+dv_name: Sievsk
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::34.5] 
-[has_place_latitude::52.15] 
-[name::Sievsk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sievsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Sievsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Sievsk|Sievsk]] 
 
-### [Sievsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Sievsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Sievsk.public|Sievsk.public]] 
 
-### [Sievsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Sievsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Sievsk.internal|Sievsk.internal]] 
 
-### [Sievsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Sievsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Sievsk.protect|Sievsk.protect]] 
 
-### [Sievsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Sievsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Sievsk.private|Sievsk.private]] 
 
-### [Sievsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Sievsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Sievsk.personal|Sievsk.personal]] 
 
-### [Sievsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Sievsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Bryansk_Oblast/City/Sievsk.secret|Sievsk.secret]] 
 

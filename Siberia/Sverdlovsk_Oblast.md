@@ -1,4 +1,11 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Sverdlovsk_Oblast,5462]]"
+dv_topics-main-wikimedia-portal: "[[WikiData/WD~Q106463022,106463022]]"
+dv_x-twitter-username: dipgubernator96
+dv_fips-10-4-countries-and-regions: RS71
+dv_is_same_as: "[[_Standards/WikiData/WD~Sverdlovsk_Oblast,5462]]"
+
 has_time_started: 1934-01-17 
 aliases:
   - Sverdlovsk Oblast
@@ -58,7 +65,7 @@ Facebook username: Sverdlovsk.Oblast
 inception: 1934-01-17T00:00:00Z
 ---
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sverdlovsk_Oblast,5462]] 
+is_same_as = `=this.dv_is_same_as`
 
 
 
@@ -75,17 +82,17 @@ inception: 1934-01-17T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### [Sverdlovsk_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Sverdlovsk_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Sverdlovsk_Oblast|Sverdlovsk_Oblast]] 
 
-### [Sverdlovsk_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Sverdlovsk_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Sverdlovsk_Oblast.public|Sverdlovsk_Oblast.public]] 
 
-### [Sverdlovsk_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Sverdlovsk_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Sverdlovsk_Oblast.internal|Sverdlovsk_Oblast.internal]] 
 
-### [Sverdlovsk_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Sverdlovsk_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Sverdlovsk_Oblast.protect|Sverdlovsk_Oblast.protect]] 
 
-### [Sverdlovsk_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Sverdlovsk_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Sverdlovsk_Oblast.private|Sverdlovsk_Oblast.private]] 
 
-### [Sverdlovsk_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Sverdlovsk_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Sverdlovsk_Oblast.personal|Sverdlovsk_Oblast.personal]] 
 
-### [Sverdlovsk_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Sverdlovsk_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Sverdlovsk_Oblast.secret|Sverdlovsk_Oblast.secret]] 
 

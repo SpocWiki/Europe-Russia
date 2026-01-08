@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34199
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 48.8
+dv_has_place_latitude: 53.97
+dv_name: Senghilei
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::48.8] 
-[has_place_latitude::53.97] 
-[name::Senghilei] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Senghilei](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Senghilei.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Senghilei|Senghilei]] 
 
-### [Senghilei.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Senghilei.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Senghilei.public|Senghilei.public]] 
 
-### [Senghilei.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Senghilei.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Senghilei.internal|Senghilei.internal]] 
 
-### [Senghilei.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Senghilei.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Senghilei.protect|Senghilei.protect]] 
 
-### [Senghilei.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Senghilei.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Senghilei.private|Senghilei.private]] 
 
-### [Senghilei.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Senghilei.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Senghilei.personal|Senghilei.personal]] 
 
-### [Senghilei.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Senghilei.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Ulyanovsk_Oblast/City/Senghilei.secret|Senghilei.secret]] 
 

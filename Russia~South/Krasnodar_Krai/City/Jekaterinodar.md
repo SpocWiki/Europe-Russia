@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31181
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 38.97
+dv_has_place_latitude: 45.02
+dv_name: Jekaterinodar
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::38.97] 
-[has_place_latitude::45.02] 
-[name::Jekaterinodar] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jekaterinodar](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Jekaterinodar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Jekaterinodar|Jekaterinodar]] 
 
-### [Jekaterinodar.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Jekaterinodar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Jekaterinodar.public|Jekaterinodar.public]] 
 
-### [Jekaterinodar.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Jekaterinodar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Jekaterinodar.internal|Jekaterinodar.internal]] 
 
-### [Jekaterinodar.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Jekaterinodar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Jekaterinodar.protect|Jekaterinodar.protect]] 
 
-### [Jekaterinodar.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Jekaterinodar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Jekaterinodar.private|Jekaterinodar.private]] 
 
-### [Jekaterinodar.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Jekaterinodar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Jekaterinodar.personal|Jekaterinodar.personal]] 
 
-### [Jekaterinodar.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Jekaterinodar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai/City/Jekaterinodar.secret|Jekaterinodar.secret]] 
 

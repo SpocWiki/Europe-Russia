@@ -1,4 +1,9 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Amur_Oblast,6886]]"
+dv_fips-10-4-countries-and-regions: RS05
+dv_is_same_as: "[[_Standards/WikiData/WD~Amur_Oblast,6886]]"
+
 has_time_started: 1932-10-20 
 aliases:
   - Amur Oblast
@@ -86,7 +91,7 @@ population: 750083
 Commons category: Amur Oblast
 ---
 
-#is_/same_as :: [[_Standards/WikiData/WD~Amur_Oblast,6886]] 
+is_same_as = `=this.dv_is_same_as`
 
 > **Amur Oblast** () is a federal subject of Russia (an oblast), 
 > located on the banks of the Amur and Zeya rivers in the Russian Far East. 
@@ -99,17 +104,17 @@ Commons category: Amur Oblast
 
 ## Confidential Links & Embeds: 
 
-### [Amur_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Amur_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Amur_Oblast|Amur_Oblast]] 
 
-### [Amur_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Amur_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Amur_Oblast.public|Amur_Oblast.public]] 
 
-### [Amur_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Amur_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Amur_Oblast.internal|Amur_Oblast.internal]] 
 
-### [Amur_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Amur_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Amur_Oblast.protect|Amur_Oblast.protect]] 
 
-### [Amur_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Amur_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Amur_Oblast.private|Amur_Oblast.private]] 
 
-### [Amur_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Amur_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Amur_Oblast.personal|Amur_Oblast.personal]] 
 
-### [Amur_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Amur_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Amur_Oblast.secret|Amur_Oblast.secret]] 
 

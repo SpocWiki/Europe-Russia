@@ -11,15 +11,21 @@ tags:
 SpocWebEntityId: 37100
 isDeleted: false
 confidential: public
+dv_name: Krasnodar Krai
+dv_Country: "[[../../Russia]]"
+dv_Capital: "[[Krasnodar_Krai/City/Krasnodar]]"
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 39
+dv_has_place_latitude: 45.03
 ---
-[name::Krasnodar Krai] 
+name = `=this.dv_name` 
 [name-abbr::] 
-Country :: [[Russia]]  
-Capital :: [[Krasnodar]]  
+Country = `=this.dv_Country`
+Capital = `=this.dv_Capital`
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::39] 
-[has_place_latitude::45.03] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
 
@@ -36,17 +42,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Krasnodar_Krai](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai|Krasnodar_Krai]] 
 
-### [Krasnodar_Krai.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai.public|Krasnodar_Krai.public]] 
 
-### [Krasnodar_Krai.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai.internal|Krasnodar_Krai.internal]] 
 
-### [Krasnodar_Krai.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai.protect|Krasnodar_Krai.protect]] 
 
-### [Krasnodar_Krai.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai.private|Krasnodar_Krai.private]] 
 
-### [Krasnodar_Krai.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai.personal|Krasnodar_Krai.personal]] 
 
-### [Krasnodar_Krai.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Krasnodar_Krai.secret|Krasnodar_Krai.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32979
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 40.1
+dv_has_place_latitude: 47.4
+dv_name: Nowocherkassk
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::40.1] 
-[has_place_latitude::47.4] 
-[name::Nowocherkassk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nowocherkassk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Nowocherkassk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Nowocherkassk|Nowocherkassk]] 
 
-### [Nowocherkassk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Nowocherkassk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Nowocherkassk.public|Nowocherkassk.public]] 
 
-### [Nowocherkassk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Nowocherkassk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Nowocherkassk.internal|Nowocherkassk.internal]] 
 
-### [Nowocherkassk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Nowocherkassk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Nowocherkassk.protect|Nowocherkassk.protect]] 
 
-### [Nowocherkassk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Nowocherkassk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Nowocherkassk.private|Nowocherkassk.private]] 
 
-### [Nowocherkassk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Nowocherkassk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Nowocherkassk.personal|Nowocherkassk.personal]] 
 
-### [Nowocherkassk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Nowocherkassk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Rostov_Oblast/City/Nowocherkassk.secret|Nowocherkassk.secret]] 
 

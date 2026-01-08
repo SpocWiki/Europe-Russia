@@ -14,17 +14,22 @@ tags:
 SpocWebEntityId: 35533
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 42.12
+dv_has_place_latitude: 61.08
+dv_name: Welsk
+dv_Country: "[[../../../../../Russia]]"
 ---
 
 # [[Welsk]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::42.12] 
-[has_place_latitude::61.08] 
-[name::Welsk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -41,17 +46,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Welsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Welsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Vel'skiyrayon/Welsk|Welsk]] 
 
-### [Welsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Welsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Vel'skiyrayon/Welsk.public|Welsk.public]] 
 
-### [Welsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Welsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Vel'skiyrayon/Welsk.internal|Welsk.internal]] 
 
-### [Welsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Welsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Vel'skiyrayon/Welsk.protect|Welsk.protect]] 
 
-### [Welsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Welsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Vel'skiyrayon/Welsk.private|Welsk.private]] 
 
-### [Welsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Welsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Vel'skiyrayon/Welsk.personal|Welsk.personal]] 
 
-### [Welsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/City/Welsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Arkhangelsk_Oblast/counties~Arkhangel'sk/Vel'skiyrayon/Welsk.secret|Welsk.secret]] 
 

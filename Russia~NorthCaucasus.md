@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~North_Caucasian_Federal_District,485161]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~North_Caucasian_Federal_District,485161]]"
+
 has_time_started: 2010-01-19 
 aliases:
   - North Caucasian Federal District
@@ -30,7 +34,7 @@ inception: 2010-01-19T00:00:00Z
 
 # [[Russia~NorthCaucasus]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~North_Caucasian_Federal_District,485161]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -50,4 +54,21 @@ inception: 2010-01-19T00:00:00Z
 > The current Envoy is Yury Chaika.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/North%20Caucasian%20Federal%20District)  
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus|Russia~NorthCaucasus]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus.public|Russia~NorthCaucasus.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus.internal|Russia~NorthCaucasus.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus.protect|Russia~NorthCaucasus.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus.private|Russia~NorthCaucasus.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus.personal|Russia~NorthCaucasus.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus.secret|Russia~NorthCaucasus.secret]] 
 

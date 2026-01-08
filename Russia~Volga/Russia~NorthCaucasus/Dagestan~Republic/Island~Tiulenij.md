@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34888
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 47.5
+dv_has_place_latitude: 44.47
+dv_name: Tiulenij
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::47.5] 
-[has_place_latitude::44.47] 
-[name::Tiulenij] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Island~Tiulenij](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/Island~Tiulenij.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/Island~Tiulenij|Island~Tiulenij]] 
 
-### [Island~Tiulenij.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/Island~Tiulenij.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/Island~Tiulenij.public|Island~Tiulenij.public]] 
 
-### [Island~Tiulenij.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/Island~Tiulenij.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/Island~Tiulenij.internal|Island~Tiulenij.internal]] 
 
-### [Island~Tiulenij.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/Island~Tiulenij.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/Island~Tiulenij.protect|Island~Tiulenij.protect]] 
 
-### [Island~Tiulenij.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/Island~Tiulenij.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/Island~Tiulenij.private|Island~Tiulenij.private]] 
 
-### [Island~Tiulenij.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/Island~Tiulenij.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/Island~Tiulenij.personal|Island~Tiulenij.personal]] 
 
-### [Island~Tiulenij.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Dagestan~Republic/Island~Tiulenij.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Dagestan~Republic/Island~Tiulenij.secret|Island~Tiulenij.secret]] 
 

@@ -11,15 +11,21 @@ tags:
 SpocWebEntityId: 37119
 isDeleted: false
 confidential: public
+dv_name: Belgorod Oblast
+dv_Country: "[[../../Russia]]"
+dv_Capital: "[[Belgorod_Oblast/City/Belgorod]]"
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 36.57
+dv_has_place_latitude: 50.6
 ---
-[name::Belgorod Oblast] 
+name = `=this.dv_name` 
 [name-abbr::] 
-Country :: [[Russia]]  
-Capital :: [[Belgorod]]  
+Country = `=this.dv_Country`
+Capital = `=this.dv_Capital`
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::36.57] 
-[has_place_latitude::50.6] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
 
@@ -36,17 +42,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Belgorod_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast|Belgorod_Oblast]] 
 
-### [Belgorod_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast.public|Belgorod_Oblast.public]] 
 
-### [Belgorod_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast.internal|Belgorod_Oblast.internal]] 
 
-### [Belgorod_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast.protect|Belgorod_Oblast.protect]] 
 
-### [Belgorod_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast.private|Belgorod_Oblast.private]] 
 
-### [Belgorod_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast.personal|Belgorod_Oblast.personal]] 
 
-### [Belgorod_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Belgorod_Oblast.secret|Belgorod_Oblast.secret]] 
 

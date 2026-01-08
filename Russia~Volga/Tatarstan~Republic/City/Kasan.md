@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31334
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 49.12
+dv_has_place_latitude: 55.75
+dv_name: Kasan
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::49.12] 
-[has_place_latitude::55.75] 
-[name::Kasan] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kasan](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic/City/Kasan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic/City/Kasan|Kasan]] 
 
-### [Kasan.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic/City/Kasan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic/City/Kasan.public|Kasan.public]] 
 
-### [Kasan.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic/City/Kasan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic/City/Kasan.internal|Kasan.internal]] 
 
-### [Kasan.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic/City/Kasan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic/City/Kasan.protect|Kasan.protect]] 
 
-### [Kasan.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic/City/Kasan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic/City/Kasan.private|Kasan.private]] 
 
-### [Kasan.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic/City/Kasan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic/City/Kasan.personal|Kasan.personal]] 
 
-### [Kasan.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic/City/Kasan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Tatarstan~Republic/City/Kasan.secret|Kasan.secret]] 
 

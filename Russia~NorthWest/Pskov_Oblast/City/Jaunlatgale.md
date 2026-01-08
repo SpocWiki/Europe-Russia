@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31177
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 27.93
+dv_has_place_latitude: 57.07
+dv_name: Jaunlatgale
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::27.93] 
-[has_place_latitude::57.07] 
-[name::Jaunlatgale] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jaunlatgale](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Jaunlatgale.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Jaunlatgale|Jaunlatgale]] 
 
-### [Jaunlatgale.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Jaunlatgale.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Jaunlatgale.public|Jaunlatgale.public]] 
 
-### [Jaunlatgale.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Jaunlatgale.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Jaunlatgale.internal|Jaunlatgale.internal]] 
 
-### [Jaunlatgale.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Jaunlatgale.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Jaunlatgale.protect|Jaunlatgale.protect]] 
 
-### [Jaunlatgale.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Jaunlatgale.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Jaunlatgale.private|Jaunlatgale.private]] 
 
-### [Jaunlatgale.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Jaunlatgale.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Jaunlatgale.personal|Jaunlatgale.personal]] 
 
-### [Jaunlatgale.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Jaunlatgale.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Jaunlatgale.secret|Jaunlatgale.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31989
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 30.17
+dv_has_place_latitude: 58.5
+dv_name: Lidkoeping
+dv_Country: "[[../../../../../Europe~North/Sweden]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::30.17] 
-[has_place_latitude::58.5] 
-[name::Lidkoeping] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Sweden]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lidkoeping](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Lidkoeping.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Lidkoeping|Lidkoeping]] 
 
-### [Lidkoeping.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Lidkoeping.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Lidkoeping.public|Lidkoeping.public]] 
 
-### [Lidkoeping.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Lidkoeping.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Lidkoeping.internal|Lidkoeping.internal]] 
 
-### [Lidkoeping.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Lidkoeping.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Lidkoeping.protect|Lidkoeping.protect]] 
 
-### [Lidkoeping.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Lidkoeping.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Lidkoeping.private|Lidkoeping.private]] 
 
-### [Lidkoeping.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Lidkoeping.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Lidkoeping.personal|Lidkoeping.personal]] 
 
-### [Lidkoeping.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Lidkoeping.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Novgorod_Oblast/City/Lidkoeping.secret|Lidkoeping.secret]] 
 

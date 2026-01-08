@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35527
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 30.52
+dv_has_place_latitude: 56.35
+dv_name: Welikija-Luki
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::30.52] 
-[has_place_latitude::56.35] 
-[name::Welikija-Luki] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Welikija-Luki](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Welikija-Luki.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Welikija-Luki|Welikija-Luki]] 
 
-### [Welikija-Luki.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Welikija-Luki.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Welikija-Luki.public|Welikija-Luki.public]] 
 
-### [Welikija-Luki.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Welikija-Luki.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Welikija-Luki.internal|Welikija-Luki.internal]] 
 
-### [Welikija-Luki.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Welikija-Luki.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Welikija-Luki.protect|Welikija-Luki.protect]] 
 
-### [Welikija-Luki.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Welikija-Luki.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Welikija-Luki.private|Welikija-Luki.private]] 
 
-### [Welikija-Luki.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Welikija-Luki.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Welikija-Luki.personal|Welikija-Luki.personal]] 
 
-### [Welikija-Luki.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Welikija-Luki.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast/City/Welikija-Luki.secret|Welikija-Luki.secret]] 
 

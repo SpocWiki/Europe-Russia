@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 32724
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 43.62
+dv_has_place_latitude: 43.5
+dv_name: Nalchik
+dv_Country: "[[../../../../../Russia]]"
+dv_StateId: 37043
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::43.62] 
-[has_place_latitude::43.5] 
-[name::Nalchik] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37043] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nalchik](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Kabardino-Balkar~Republic/City/Nalchik.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Kabardino-Balkar~Republic/City/Nalchik|Nalchik]] 
 
-### [Nalchik.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Kabardino-Balkar~Republic/City/Nalchik.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Kabardino-Balkar~Republic/City/Nalchik.public|Nalchik.public]] 
 
-### [Nalchik.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Kabardino-Balkar~Republic/City/Nalchik.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Kabardino-Balkar~Republic/City/Nalchik.internal|Nalchik.internal]] 
 
-### [Nalchik.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Kabardino-Balkar~Republic/City/Nalchik.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Kabardino-Balkar~Republic/City/Nalchik.protect|Nalchik.protect]] 
 
-### [Nalchik.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Kabardino-Balkar~Republic/City/Nalchik.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Kabardino-Balkar~Republic/City/Nalchik.private|Nalchik.private]] 
 
-### [Nalchik.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Kabardino-Balkar~Republic/City/Nalchik.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Kabardino-Balkar~Republic/City/Nalchik.personal|Nalchik.personal]] 
 
-### [Nalchik.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Kabardino-Balkar~Republic/City/Nalchik.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Kabardino-Balkar~Republic/City/Nalchik.secret|Nalchik.secret]] 
 

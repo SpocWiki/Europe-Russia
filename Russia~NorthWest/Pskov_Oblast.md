@@ -12,15 +12,21 @@ tags:
 SpocWebEntityId: 37150
 isDeleted: false
 confidential: public
+dv_name: Pskov Oblast
+dv_Country: "[[../../Russia]]"
+dv_Capital: "[[Pskov_Oblast/City/Pskow]]"
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 28.33
+dv_has_place_latitude: 57.83
 ---
-[name::Pskov Oblast] 
+name = `=this.dv_name` 
 [name-abbr::] 
-Country :: [[Russia]]  
-Capital :: [[Pskow]]  
+Country = `=this.dv_Country`
+Capital = `=this.dv_Capital`
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::28.33] 
-[has_place_latitude::57.83] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
 
@@ -37,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pskov_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast|Pskov_Oblast]] 
 
-### [Pskov_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast.public|Pskov_Oblast.public]] 
 
-### [Pskov_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast.internal|Pskov_Oblast.internal]] 
 
-### [Pskov_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast.protect|Pskov_Oblast.protect]] 
 
-### [Pskov_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast.private|Pskov_Oblast.private]] 
 
-### [Pskov_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast.personal|Pskov_Oblast.personal]] 
 
-### [Pskov_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/Pskov_Oblast.secret|Pskov_Oblast.secret]] 
 

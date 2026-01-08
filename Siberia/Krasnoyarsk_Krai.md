@@ -20,17 +20,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Krasnoyarsk_Krai](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Krasnoyarsk_Krai.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Krasnoyarsk_Krai|Krasnoyarsk_Krai]] 
 
-### [Krasnoyarsk_Krai.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Krasnoyarsk_Krai.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Krasnoyarsk_Krai.public|Krasnoyarsk_Krai.public]] 
 
-### [Krasnoyarsk_Krai.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Krasnoyarsk_Krai.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Krasnoyarsk_Krai.internal|Krasnoyarsk_Krai.internal]] 
 
-### [Krasnoyarsk_Krai.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Krasnoyarsk_Krai.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Krasnoyarsk_Krai.protect|Krasnoyarsk_Krai.protect]] 
 
-### [Krasnoyarsk_Krai.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Krasnoyarsk_Krai.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Krasnoyarsk_Krai.private|Krasnoyarsk_Krai.private]] 
 
-### [Krasnoyarsk_Krai.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Krasnoyarsk_Krai.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Krasnoyarsk_Krai.personal|Krasnoyarsk_Krai.personal]] 
 
-### [Krasnoyarsk_Krai.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Krasnoyarsk_Krai.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Krasnoyarsk_Krai.secret|Krasnoyarsk_Krai.secret]] 
 

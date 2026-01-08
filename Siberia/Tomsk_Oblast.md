@@ -1,4 +1,9 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Tomsk_Oblast,5884]]"
+dv_fips-10-4-countries-and-regions: RS75
+dv_is_same_as: "[[_Standards/WikiData/WD~Tomsk_Oblast,5884]]"
+
 has_time_started: 1944-08-13 
 aliases:
   - Tomsk Oblast
@@ -52,7 +57,7 @@ HASC: RU.TO
 coordinate location: Point(82.133333333 58.75)
 ---
 
-#is_/same_as :: [[_Standards/WikiData/WD~Tomsk_Oblast,5884]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract  
 
@@ -74,17 +79,17 @@ coordinate location: Point(82.133333333 58.75)
 
 ## Confidential Links & Embeds: 
 
-### [Tomsk_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tomsk_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tomsk_Oblast|Tomsk_Oblast]] 
 
-### [Tomsk_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tomsk_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tomsk_Oblast.public|Tomsk_Oblast.public]] 
 
-### [Tomsk_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tomsk_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tomsk_Oblast.internal|Tomsk_Oblast.internal]] 
 
-### [Tomsk_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tomsk_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tomsk_Oblast.protect|Tomsk_Oblast.protect]] 
 
-### [Tomsk_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tomsk_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tomsk_Oblast.private|Tomsk_Oblast.private]] 
 
-### [Tomsk_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tomsk_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tomsk_Oblast.personal|Tomsk_Oblast.personal]] 
 
-### [Tomsk_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tomsk_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tomsk_Oblast.secret|Tomsk_Oblast.secret]] 
 

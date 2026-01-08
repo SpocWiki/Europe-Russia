@@ -1,4 +1,9 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Irkutsk_Oblast,6585]]"
+dv_fips-10-4-countries-and-regions: RS20
+dv_is_same_as: "[[_Standards/WikiData/WD~Irkutsk_Oblast,6585]]"
+
 has_time_started: 1937-09-26 
 aliases:
   - Irkutsk Oblast
@@ -103,7 +108,7 @@ coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Irkutsk%20Oblast.svg
 ---
 
-#is_/same_as :: [[_Standards/WikiData/WD~Irkutsk_Oblast,6585]] 
+is_same_as = `=this.dv_is_same_as`
 
 
 > **Irkutsk Oblast** (Russian: Ирку́тская о́бласть, romanized: Irkutskaya oblastʹ; Buryat: Эрхүү можо, 
@@ -116,17 +121,17 @@ flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Irkut
 
 ## Confidential Links & Embeds: 
 
-### [Irkutsk_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Irkutsk_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Irkutsk_Oblast|Irkutsk_Oblast]] 
 
-### [Irkutsk_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Irkutsk_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Irkutsk_Oblast.public|Irkutsk_Oblast.public]] 
 
-### [Irkutsk_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Irkutsk_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Irkutsk_Oblast.internal|Irkutsk_Oblast.internal]] 
 
-### [Irkutsk_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Irkutsk_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Irkutsk_Oblast.protect|Irkutsk_Oblast.protect]] 
 
-### [Irkutsk_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Irkutsk_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Irkutsk_Oblast.private|Irkutsk_Oblast.private]] 
 
-### [Irkutsk_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Irkutsk_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Irkutsk_Oblast.personal|Irkutsk_Oblast.personal]] 
 
-### [Irkutsk_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Irkutsk_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Irkutsk_Oblast.secret|Irkutsk_Oblast.secret]] 
 

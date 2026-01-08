@@ -1,4 +1,9 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Magadan_Oblast,7971]]"
+dv_fips-10-4-countries-and-regions: RS44
+dv_is_same_as: "[[_Standards/WikiData/WD~Magadan_Oblast,7971]]"
+
 has_time_started: 1953-12-03 
 aliases:
   - Magadan Oblast
@@ -63,7 +68,7 @@ coordinate location: Point(153.7 62.9)
 
 # [[Magadan_Oblast]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Magadan_Oblast,7971]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -88,17 +93,17 @@ coordinate location: Point(153.7 62.9)
 
 ## Confidential Links & Embeds: 
 
-### [Magadan_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Magadan_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Magadan_Oblast|Magadan_Oblast]] 
 
-### [Magadan_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Magadan_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Magadan_Oblast.public|Magadan_Oblast.public]] 
 
-### [Magadan_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Magadan_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Magadan_Oblast.internal|Magadan_Oblast.internal]] 
 
-### [Magadan_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Magadan_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Magadan_Oblast.protect|Magadan_Oblast.protect]] 
 
-### [Magadan_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Magadan_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Magadan_Oblast.private|Magadan_Oblast.private]] 
 
-### [Magadan_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Magadan_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Magadan_Oblast.personal|Magadan_Oblast.personal]] 
 
-### [Magadan_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Magadan_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Magadan_Oblast.secret|Magadan_Oblast.secret]] 
 

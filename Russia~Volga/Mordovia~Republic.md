@@ -1,4 +1,12 @@
-﻿---
+---
+dv_name: Mordovia~Republic
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 45.1833
+dv_has_place_latitude: 54.18
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Mordovia,5340]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Mordovia,5340]]"
+
 has_time_started: 1993-12-25 
 aliases:
   - Mordovia Republic
@@ -86,16 +94,16 @@ coordinate_location: Point(44.45 54.433333333)
 
 # [[Mordovia~Republic]] 
 
-[name::Mordovia~Republic] 
+name = `=this.dv_name` 
 [name-abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Saransk]]  
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::45.1833] 
-[has_place_latitude::54.18] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
-#is_/same_as :: [[_Standards/WikiData/WD~Mordovia,5340]] 
+is_same_as = `=this.dv_is_same_as`
 
 
 ```leaflet
@@ -110,17 +118,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mordovia~Republic](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic|Mordovia~Republic]] 
 
-### [Mordovia~Republic.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic.public|Mordovia~Republic.public]] 
 
-### [Mordovia~Republic.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic.internal|Mordovia~Republic.internal]] 
 
-### [Mordovia~Republic.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic.protect|Mordovia~Republic.protect]] 
 
-### [Mordovia~Republic.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic.private|Mordovia~Republic.private]] 
 
-### [Mordovia~Republic.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic.personal|Mordovia~Republic.personal]] 
 
-### [Mordovia~Republic.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mordovia~Republic.secret|Mordovia~Republic.secret]] 
 

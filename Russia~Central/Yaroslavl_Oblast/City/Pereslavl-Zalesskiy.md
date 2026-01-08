@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33303
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 38.87
+dv_has_place_latitude: 56.73
+dv_name: Pereslavl-Zalesskiy
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::38.87] 
-[has_place_latitude::56.73] 
-[name::Pereslavl-Zalesskiy] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pereslavl-Zalesskiy](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Pereslavl-Zalesskiy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Pereslavl-Zalesskiy|Pereslavl-Zalesskiy]] 
 
-### [Pereslavl-Zalesskiy.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Pereslavl-Zalesskiy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Pereslavl-Zalesskiy.public|Pereslavl-Zalesskiy.public]] 
 
-### [Pereslavl-Zalesskiy.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Pereslavl-Zalesskiy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Pereslavl-Zalesskiy.internal|Pereslavl-Zalesskiy.internal]] 
 
-### [Pereslavl-Zalesskiy.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Pereslavl-Zalesskiy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Pereslavl-Zalesskiy.protect|Pereslavl-Zalesskiy.protect]] 
 
-### [Pereslavl-Zalesskiy.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Pereslavl-Zalesskiy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Pereslavl-Zalesskiy.private|Pereslavl-Zalesskiy.private]] 
 
-### [Pereslavl-Zalesskiy.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Pereslavl-Zalesskiy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Pereslavl-Zalesskiy.personal|Pereslavl-Zalesskiy.personal]] 
 
-### [Pereslavl-Zalesskiy.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Pereslavl-Zalesskiy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Yaroslavl_Oblast/City/Pereslavl-Zalesskiy.secret|Pereslavl-Zalesskiy.secret]] 
 

@@ -9,22 +9,44 @@ SpocWebEntityId: 37102
 isDeleted: false
 confidential: public
 aliases:
-  - Perm Krai 
+  - Perm Krai
   - Пе́рмский край
   - Permskiy kray
   - Перем ладор
   - Perem lador
   - Perm region
+dv_name: Perm Krai
+dv_Country: "[[../../Russia]]"
+dv_Capital: "[[Perm_Krai/counties~Perm'/Perm'gorsovet/Perm,City]]"
+dv_geo-lon: 56.3167
+dv_geo-lat: 58
+dv_is_:
+  same_as:
+    - "[Perm_Krai](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.md)"
+    - "[Perm_Krai.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.public.md)"
+    - "[Perm_Krai.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.internal.md)"
+    - "[Perm_Krai.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.protect.md)"
+    - "[Perm_Krai.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.private.md)"
+    - "[Perm_Krai.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.personal.md)"
+    - "[Perm_Krai.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.secret.md)"
+dv_is_same_as:
+  - "[Perm_Krai](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.md)"
+  - "[Perm_Krai.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.public.md)"
+  - "[Perm_Krai.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.internal.md)"
+  - "[Perm_Krai.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.protect.md)"
+  - "[Perm_Krai.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.private.md)"
+  - "[Perm_Krai.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.personal.md)"
+  - "[Perm_Krai.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.secret.md)"
 ---
 
 # [[Perm_Krai]] 
 
-[name::Perm Krai] 
+name = `=this.dv_name` 
 [name-abbr::] 
-Country :: [[Russia]]  
-Capital :: [[Perm_Krai/counties~Perm'/Perm'gorsovet/Perm,City]]  
-[geo-lon::56.3167] 
-[geo-lat::58] 
+Country = `=this.dv_Country`
+Capital = `=this.dv_Capital`
+geo-lon = `=this.dv_geo-lon` 
+geo-lat = `=this.dv_geo-lat` 
 [Population::] 
 
 ## #has_/map 
@@ -65,19 +87,20 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Perm%20Krai)  
 > 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Perm_Krai](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Perm_Krai|Perm_Krai]] 
 
-### #is_/same_as :: [Perm_Krai.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Perm_Krai.public|Perm_Krai.public]] 
 
-### #is_/same_as :: [Perm_Krai.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Perm_Krai.internal|Perm_Krai.internal]] 
 
-### #is_/same_as :: [Perm_Krai.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Perm_Krai.protect|Perm_Krai.protect]] 
 
-### #is_/same_as :: [Perm_Krai.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Perm_Krai.private|Perm_Krai.private]] 
 
-### #is_/same_as :: [Perm_Krai.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Perm_Krai.personal|Perm_Krai.personal]] 
 
-### #is_/same_as :: [Perm_Krai.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Perm_Krai.secret|Perm_Krai.secret]] 
 

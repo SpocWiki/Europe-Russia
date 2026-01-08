@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35469
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 46
+dv_has_place_latitude: 56.13
+dv_name: Wassil
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::46] 
-[has_place_latitude::56.13] 
-[name::Wassil] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wassil](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Wassil.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Wassil|Wassil]] 
 
-### [Wassil.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Wassil.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Wassil.public|Wassil.public]] 
 
-### [Wassil.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Wassil.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Wassil.internal|Wassil.internal]] 
 
-### [Wassil.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Wassil.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Wassil.protect|Wassil.protect]] 
 
-### [Wassil.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Wassil.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Wassil.private|Wassil.private]] 
 
-### [Wassil.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Wassil.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Wassil.personal|Wassil.personal]] 
 
-### [Wassil.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Wassil.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Nizhny_Novgorod_Oblast/City/Wassil.secret|Wassil.secret]] 
 

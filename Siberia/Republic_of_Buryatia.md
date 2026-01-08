@@ -1,4 +1,9 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Buryatia,6809]]"
+dv_fips-10-4-countries-and-regions: RS11
+dv_is_same_as: "[[_Standards/WikiData/WD~Buryatia,6809]]"
+
 has_time_started: 1992-04-21 
 aliases:
   - Republic_of_Buryatia
@@ -62,7 +67,7 @@ native label:
   - Республика Бурятия
 ---
 
-#is_/same_as :: [[_Standards/WikiData/WD~Buryatia,6809]] 
+is_same_as = `=this.dv_is_same_as`
 
 
 
@@ -84,17 +89,17 @@ native label:
 
 ## Confidential Links & Embeds: 
 
-### [Republic_of_Buryatia](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Buryatia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Buryatia|Republic_of_Buryatia]] 
 
-### [Republic_of_Buryatia.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Buryatia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Buryatia.public|Republic_of_Buryatia.public]] 
 
-### [Republic_of_Buryatia.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Buryatia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Buryatia.internal|Republic_of_Buryatia.internal]] 
 
-### [Republic_of_Buryatia.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Buryatia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Buryatia.protect|Republic_of_Buryatia.protect]] 
 
-### [Republic_of_Buryatia.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Buryatia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Buryatia.private|Republic_of_Buryatia.private]] 
 
-### [Republic_of_Buryatia.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Buryatia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Buryatia.personal|Republic_of_Buryatia.personal]] 
 
-### [Republic_of_Buryatia.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Buryatia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Republic_of_Buryatia.secret|Republic_of_Buryatia.secret]] 
 

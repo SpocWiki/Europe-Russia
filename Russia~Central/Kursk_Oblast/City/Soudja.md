@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34390
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 35.18
+dv_has_place_latitude: 51.33
+dv_name: Soudja
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::35.18] 
-[has_place_latitude::51.33] 
-[name::Soudja] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Soudja](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Soudja.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Soudja|Soudja]] 
 
-### [Soudja.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Soudja.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Soudja.public|Soudja.public]] 
 
-### [Soudja.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Soudja.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Soudja.internal|Soudja.internal]] 
 
-### [Soudja.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Soudja.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Soudja.protect|Soudja.protect]] 
 
-### [Soudja.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Soudja.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Soudja.private|Soudja.private]] 
 
-### [Soudja.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Soudja.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Soudja.personal|Soudja.personal]] 
 
-### [Soudja.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Soudja.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Soudja.secret|Soudja.secret]] 
 

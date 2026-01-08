@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35709
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 41.97
+dv_has_place_latitude: 45.05
+dv_name: Woroschilowsk
+dv_Country: "[[../../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::41.97] 
-[has_place_latitude::45.05] 
-[name::Woroschilowsk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Woroschilowsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Woroschilowsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai/City/Woroschilowsk|Woroschilowsk]] 
 
-### [Woroschilowsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Woroschilowsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai/City/Woroschilowsk.public|Woroschilowsk.public]] 
 
-### [Woroschilowsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Woroschilowsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai/City/Woroschilowsk.internal|Woroschilowsk.internal]] 
 
-### [Woroschilowsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Woroschilowsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai/City/Woroschilowsk.protect|Woroschilowsk.protect]] 
 
-### [Woroschilowsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Woroschilowsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai/City/Woroschilowsk.private|Woroschilowsk.private]] 
 
-### [Woroschilowsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Woroschilowsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai/City/Woroschilowsk.personal|Woroschilowsk.personal]] 
 
-### [Woroschilowsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Stavropol_Krai/City/Woroschilowsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Stavropol_Krai/City/Woroschilowsk.secret|Woroschilowsk.secret]] 
 

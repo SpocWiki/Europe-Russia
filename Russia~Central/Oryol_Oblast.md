@@ -11,15 +11,21 @@ tags:
 SpocWebEntityId: 37147
 isDeleted: false
 confidential: public
+dv_name: Oryol Oblast
+dv_Country: "[[../../Russia]]"
+dv_Capital: "[[Oryol_Oblast/City/Oryol]]"
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 36.0667
+dv_has_place_latitude: 52.9667
 ---
-[name::Oryol Oblast] 
+name = `=this.dv_name` 
 [name-abbr::] 
-Country :: [[Russia]]  
-Capital :: [[Oryol]]  
+Country = `=this.dv_Country`
+Capital = `=this.dv_Capital`
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::36.0667] 
-[has_place_latitude::52.9667] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
 
@@ -36,17 +42,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oryol_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Oryol_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Oryol_Oblast|Oryol_Oblast]] 
 
-### [Oryol_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Oryol_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Oryol_Oblast.public|Oryol_Oblast.public]] 
 
-### [Oryol_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Oryol_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Oryol_Oblast.internal|Oryol_Oblast.internal]] 
 
-### [Oryol_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Oryol_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Oryol_Oblast.protect|Oryol_Oblast.protect]] 
 
-### [Oryol_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Oryol_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Oryol_Oblast.private|Oryol_Oblast.private]] 
 
-### [Oryol_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Oryol_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Oryol_Oblast.personal|Oryol_Oblast.personal]] 
 
-### [Oryol_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Oryol_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Oryol_Oblast.secret|Oryol_Oblast.secret]] 
 

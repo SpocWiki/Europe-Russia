@@ -1,22 +1,44 @@
 ---
-location: [53.62,55.97] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 53.62
+  - 55.97
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34563
 isDeleted: false
 confidential: public
-
+dv_geo-lon: 55.97
+dv_geo-lat: 53.62
+dv_name: Sterlitamak
+dv_Country: "[[../../../../Russia]]"
+dv_is_:
+  same_as:
+    - "[Sterlitamak](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Sterlitamak.md)"
+    - "[Sterlitamak.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Sterlitamak.public.md)"
+    - "[Sterlitamak.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Sterlitamak.internal.md)"
+    - "[Sterlitamak.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Sterlitamak.protect.md)"
+    - "[Sterlitamak.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Sterlitamak.private.md)"
+    - "[Sterlitamak.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Sterlitamak.personal.md)"
+    - "[Sterlitamak.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Sterlitamak.secret.md)"
+dv_is_same_as:
+  - "[Sterlitamak](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Sterlitamak.md)"
+  - "[Sterlitamak.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Sterlitamak.public.md)"
+  - "[Sterlitamak.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Sterlitamak.internal.md)"
+  - "[Sterlitamak.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Sterlitamak.protect.md)"
+  - "[Sterlitamak.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Sterlitamak.private.md)"
+  - "[Sterlitamak.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Sterlitamak.personal.md)"
+  - "[Sterlitamak.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Sterlitamak.secret.md)"
 ---
-[geo-lon::55.97] 
-[geo-lat::53.62] 
-[name::Sterlitamak] 
+geo-lon = `=this.dv_geo-lon` 
+geo-lat = `=this.dv_geo-lat` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -33,17 +55,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sterlitamak](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Sterlitamak.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Bashkortostan~Republic/City/Sterlitamak|Sterlitamak]] 
 
-### #is_/same_as :: [Sterlitamak.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Sterlitamak.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Bashkortostan~Republic/City/Sterlitamak.public|Sterlitamak.public]] 
 
-### #is_/same_as :: [Sterlitamak.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Sterlitamak.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Bashkortostan~Republic/City/Sterlitamak.internal|Sterlitamak.internal]] 
 
-### #is_/same_as :: [Sterlitamak.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Sterlitamak.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Bashkortostan~Republic/City/Sterlitamak.protect|Sterlitamak.protect]] 
 
-### #is_/same_as :: [Sterlitamak.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Sterlitamak.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Bashkortostan~Republic/City/Sterlitamak.private|Sterlitamak.private]] 
 
-### #is_/same_as :: [Sterlitamak.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Sterlitamak.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Bashkortostan~Republic/City/Sterlitamak.personal|Sterlitamak.personal]] 
 
-### #is_/same_as :: [Sterlitamak.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Sterlitamak.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Bashkortostan~Republic/City/Sterlitamak.secret|Sterlitamak.secret]] 
 

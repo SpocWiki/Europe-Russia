@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 31591
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 40.93
+dv_has_place_latitude: 57.77
+dv_name: Kostroma
+dv_Country: "[[../../../../Russia]]"
+dv_StateId: 37132
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::40.93] 
-[has_place_latitude::57.77] 
-[name::Kostroma] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37132] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kostroma](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Kostroma.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Kostroma|Kostroma]] 
 
-### [Kostroma.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Kostroma.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Kostroma.public|Kostroma.public]] 
 
-### [Kostroma.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Kostroma.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Kostroma.internal|Kostroma.internal]] 
 
-### [Kostroma.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Kostroma.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Kostroma.protect|Kostroma.protect]] 
 
-### [Kostroma.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Kostroma.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Kostroma.private|Kostroma.private]] 
 
-### [Kostroma.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Kostroma.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Kostroma.personal|Kostroma.personal]] 
 
-### [Kostroma.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Kostroma.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kostroma_Oblast/City/Kostroma.secret|Kostroma.secret]] 
 

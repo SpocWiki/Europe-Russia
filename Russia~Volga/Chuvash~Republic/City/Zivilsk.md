@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35840
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 47.47
+dv_has_place_latitude: 55.87
+dv_name: Zivilsk
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::47.47] 
-[has_place_latitude::55.87] 
-[name::Zivilsk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zivilsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Zivilsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Zivilsk|Zivilsk]] 
 
-### [Zivilsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Zivilsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Zivilsk.public|Zivilsk.public]] 
 
-### [Zivilsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Zivilsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Zivilsk.internal|Zivilsk.internal]] 
 
-### [Zivilsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Zivilsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Zivilsk.protect|Zivilsk.protect]] 
 
-### [Zivilsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Zivilsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Zivilsk.private|Zivilsk.private]] 
 
-### [Zivilsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Zivilsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Zivilsk.personal|Zivilsk.personal]] 
 
-### [Zivilsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Zivilsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Chuvash~Republic/City/Zivilsk.secret|Zivilsk.secret]] 
 

@@ -12,15 +12,21 @@ tags:
 SpocWebEntityId: 37042
 isDeleted: false
 confidential: public
+dv_name: Ingushetia~Republic
+dv_Country: "[[../../../Russia]]"
+dv_Capital: "[[Ingushetia~Republic/City/Magas]]"
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: 44.8167
+dv_has_place_latitude: 43.1667
 ---
-[name::Ingushetia~Republic] 
+name = `=this.dv_name` 
 [name-abbr::] 
-Country :: [[Russia]]  
-Capital :: [[Magas]]  
+Country = `=this.dv_Country`
+Capital = `=this.dv_Capital`
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::44.8167] 
-[has_place_latitude::43.1667] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
 
@@ -37,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ingushetia~Republic](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Ingushetia~Republic|Ingushetia~Republic]] 
 
-### [Ingushetia~Republic.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Ingushetia~Republic.public|Ingushetia~Republic.public]] 
 
-### [Ingushetia~Republic.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Ingushetia~Republic.internal|Ingushetia~Republic.internal]] 
 
-### [Ingushetia~Republic.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Ingushetia~Republic.protect|Ingushetia~Republic.protect]] 
 
-### [Ingushetia~Republic.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Ingushetia~Republic.private|Ingushetia~Republic.private]] 
 
-### [Ingushetia~Republic.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Ingushetia~Republic.personal|Ingushetia~Republic.personal]] 
 
-### [Ingushetia~Republic.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/Ingushetia~Republic.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Russia~NorthCaucasus/Ingushetia~Republic.secret|Ingushetia~Republic.secret]] 
 

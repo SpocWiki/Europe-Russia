@@ -1,4 +1,9 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Tyumen_Oblast,5824]]"
+dv_fips-10-4-countries-and-regions: RS78
+dv_is_same_as: "[[_Standards/WikiData/WD~Tyumen_Oblast,5824]]"
+
 has_time_started: 1944-08-14 
 aliases:
   - Tyumen Oblast
@@ -81,7 +86,7 @@ inception: 1944-08-14T00:00:00Z
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tyumen%20Oblast.svg
 ---
 
-#is_/same_as :: [[_Standards/WikiData/WD~Tyumen_Oblast,5824]] 
+is_same_as = `=this.dv_is_same_as`
 
 
 ## #has_/text_of_/abstract 
@@ -107,17 +112,17 @@ flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tyume
 
 ## Confidential Links & Embeds: 
 
-### [Tyumen_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tyumen_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tyumen_Oblast|Tyumen_Oblast]] 
 
-### [Tyumen_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tyumen_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tyumen_Oblast.public|Tyumen_Oblast.public]] 
 
-### [Tyumen_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tyumen_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tyumen_Oblast.internal|Tyumen_Oblast.internal]] 
 
-### [Tyumen_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tyumen_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tyumen_Oblast.protect|Tyumen_Oblast.protect]] 
 
-### [Tyumen_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tyumen_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tyumen_Oblast.private|Tyumen_Oblast.private]] 
 
-### [Tyumen_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tyumen_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tyumen_Oblast.personal|Tyumen_Oblast.personal]] 
 
-### [Tyumen_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tyumen_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tyumen_Oblast.secret|Tyumen_Oblast.secret]] 
 

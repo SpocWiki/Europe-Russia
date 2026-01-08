@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35668
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 49.68
+dv_has_place_latitude: 58.6
+dv_name: Wjaetka
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::49.68] 
-[has_place_latitude::58.6] 
-[name::Wjaetka] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wjaetka](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Kirov_Oblast/City/Wjaetka.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Kirov_Oblast/City/Wjaetka|Wjaetka]] 
 
-### [Wjaetka.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Kirov_Oblast/City/Wjaetka.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Kirov_Oblast/City/Wjaetka.public|Wjaetka.public]] 
 
-### [Wjaetka.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Kirov_Oblast/City/Wjaetka.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Kirov_Oblast/City/Wjaetka.internal|Wjaetka.internal]] 
 
-### [Wjaetka.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Kirov_Oblast/City/Wjaetka.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Kirov_Oblast/City/Wjaetka.protect|Wjaetka.protect]] 
 
-### [Wjaetka.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Kirov_Oblast/City/Wjaetka.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Kirov_Oblast/City/Wjaetka.private|Wjaetka.private]] 
 
-### [Wjaetka.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Kirov_Oblast/City/Wjaetka.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Kirov_Oblast/City/Wjaetka.personal|Wjaetka.personal]] 
 
-### [Wjaetka.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Kirov_Oblast/City/Wjaetka.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Kirov_Oblast/City/Wjaetka.secret|Wjaetka.secret]] 
 

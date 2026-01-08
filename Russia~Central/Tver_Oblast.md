@@ -11,15 +11,21 @@ tags:
 SpocWebEntityId: 37191
 isDeleted: false
 confidential: public
+dv_name: Tver Oblast
+dv_Country: "[[../../Russia]]"
+dv_Capital: "[[Tver_Oblast/City/Twer=Kalinin]]"
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 36
+dv_has_place_latitude: 56.87
 ---
-[name::Tver Oblast] 
+name = `=this.dv_name` 
 [name-abbr::] 
-Country :: [[Russia]]  
-Capital :: [[Twer=Kalinin]]  
+Country = `=this.dv_Country`
+Capital = `=this.dv_Capital`
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::36] 
-[has_place_latitude::56.87] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
 
@@ -36,17 +42,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tver_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast|Tver_Oblast]] 
 
-### [Tver_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast.public|Tver_Oblast.public]] 
 
-### [Tver_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast.internal|Tver_Oblast.internal]] 
 
-### [Tver_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast.protect|Tver_Oblast.protect]] 
 
-### [Tver_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast.private|Tver_Oblast.private]] 
 
-### [Tver_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast.personal|Tver_Oblast.personal]] 
 
-### [Tver_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Tver_Oblast.secret|Tver_Oblast.secret]] 
 

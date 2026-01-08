@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33141
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 58.55
+dv_has_place_latitude: 51.2
+dv_name: Orsk
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::58.55] 
-[has_place_latitude::51.2] 
-[name::Orsk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Orsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Orsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Orsk|Orsk]] 
 
-### [Orsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Orsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Orsk.public|Orsk.public]] 
 
-### [Orsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Orsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Orsk.internal|Orsk.internal]] 
 
-### [Orsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Orsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Orsk.protect|Orsk.protect]] 
 
-### [Orsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Orsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Orsk.private|Orsk.private]] 
 
-### [Orsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Orsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Orsk.personal|Orsk.personal]] 
 
-### [Orsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Orsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Orenburg_Oblast/City/Orsk.secret|Orsk.secret]] 
 

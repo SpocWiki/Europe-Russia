@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35768
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 38.92
+dv_has_place_latitude: 52.38
+dv_name: Zadowsk
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::38.92] 
-[has_place_latitude::52.38] 
-[name::Zadowsk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zadowsk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Zadowsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Zadowsk|Zadowsk]] 
 
-### [Zadowsk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Zadowsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Zadowsk.public|Zadowsk.public]] 
 
-### [Zadowsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Zadowsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Zadowsk.internal|Zadowsk.internal]] 
 
-### [Zadowsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Zadowsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Zadowsk.protect|Zadowsk.protect]] 
 
-### [Zadowsk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Zadowsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Zadowsk.private|Zadowsk.private]] 
 
-### [Zadowsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Zadowsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Zadowsk.personal|Zadowsk.personal]] 
 
-### [Zadowsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Zadowsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Lipetsk_Oblast/City/Zadowsk.secret|Zadowsk.secret]] 
 

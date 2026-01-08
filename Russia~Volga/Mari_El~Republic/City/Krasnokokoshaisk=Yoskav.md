@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31625
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 47.92
+dv_has_place_latitude: 56.67
+dv_name: Krasnokokoshaisk=Yoskav
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::47.92] 
-[has_place_latitude::56.67] 
-[name::Krasnokokoshaisk=Yoskav] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Krasnokokoshaisk=Yoskav](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Krasnokokoshaisk=Yoskav.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Krasnokokoshaisk=Yoskav|Krasnokokoshaisk=Yoskav]] 
 
-### [Krasnokokoshaisk=Yoskav.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Krasnokokoshaisk=Yoskav.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Krasnokokoshaisk=Yoskav.public|Krasnokokoshaisk=Yoskav.public]] 
 
-### [Krasnokokoshaisk=Yoskav.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Krasnokokoshaisk=Yoskav.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Krasnokokoshaisk=Yoskav.internal|Krasnokokoshaisk=Yoskav.internal]] 
 
-### [Krasnokokoshaisk=Yoskav.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Krasnokokoshaisk=Yoskav.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Krasnokokoshaisk=Yoskav.protect|Krasnokokoshaisk=Yoskav.protect]] 
 
-### [Krasnokokoshaisk=Yoskav.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Krasnokokoshaisk=Yoskav.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Krasnokokoshaisk=Yoskav.private|Krasnokokoshaisk=Yoskav.private]] 
 
-### [Krasnokokoshaisk=Yoskav.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Krasnokokoshaisk=Yoskav.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Krasnokokoshaisk=Yoskav.personal|Krasnokokoshaisk=Yoskav.personal]] 
 
-### [Krasnokokoshaisk=Yoskav.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Krasnokokoshaisk=Yoskav.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Mari_El~Republic/City/Krasnokokoshaisk=Yoskav.secret|Krasnokokoshaisk=Yoskav.secret]] 
 

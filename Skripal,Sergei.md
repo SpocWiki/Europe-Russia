@@ -1,5 +1,11 @@
+---
+dv_has_:
+  time_:
+    started: 1951-06-23T00:00:00.000+01:00
+dv_has_time_started: 1951-06-23
+---
 
-#has_/time_/started :: 1951-06-23 
+has_time_started = `=this.dv_has_time_started`
 
 ## #has_/text_of_/abstract 
 
@@ -28,17 +34,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Skripal,Sergei](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Skripal,Sergei.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Skripal,Sergei|Skripal,Sergei]] 
 
-### [Skripal,Sergei.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Skripal,Sergei.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Skripal,Sergei.public|Skripal,Sergei.public]] 
 
-### [Skripal,Sergei.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Skripal,Sergei.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Skripal,Sergei.internal|Skripal,Sergei.internal]] 
 
-### [Skripal,Sergei.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Skripal,Sergei.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Skripal,Sergei.protect|Skripal,Sergei.protect]] 
 
-### [Skripal,Sergei.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Skripal,Sergei.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Skripal,Sergei.private|Skripal,Sergei.private]] 
 
-### [Skripal,Sergei.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Skripal,Sergei.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Skripal,Sergei.personal|Skripal,Sergei.personal]] 
 
-### [Skripal,Sergei.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Skripal,Sergei.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Skripal,Sergei.secret|Skripal,Sergei.secret]] 
 

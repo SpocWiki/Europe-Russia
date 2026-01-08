@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Chelyabinsk_Oblast,5714]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Chelyabinsk_Oblast,5714]]"
+
 has_time_started: 1934-01-17 
 aliases:
   - Chelyabinsk_Oblast
@@ -68,7 +72,7 @@ coordinate_location: Point(61.4 55.16)
 
 # [[Chelyabinsk_Oblast]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~Chelyabinsk_Oblast,5714]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -82,17 +86,17 @@ coordinate_location: Point(61.4 55.16)
 
 ## Confidential Links & Embeds: 
 
-### [Chelyabinsk_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chelyabinsk_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chelyabinsk_Oblast|Chelyabinsk_Oblast]] 
 
-### [Chelyabinsk_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chelyabinsk_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chelyabinsk_Oblast.public|Chelyabinsk_Oblast.public]] 
 
-### [Chelyabinsk_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chelyabinsk_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chelyabinsk_Oblast.internal|Chelyabinsk_Oblast.internal]] 
 
-### [Chelyabinsk_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chelyabinsk_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chelyabinsk_Oblast.protect|Chelyabinsk_Oblast.protect]] 
 
-### [Chelyabinsk_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chelyabinsk_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chelyabinsk_Oblast.private|Chelyabinsk_Oblast.private]] 
 
-### [Chelyabinsk_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chelyabinsk_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chelyabinsk_Oblast.personal|Chelyabinsk_Oblast.personal]] 
 
-### [Chelyabinsk_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chelyabinsk_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chelyabinsk_Oblast.secret|Chelyabinsk_Oblast.secret]] 
 

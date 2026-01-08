@@ -12,15 +12,21 @@ tags:
 SpocWebEntityId: 37129
 isDeleted: false
 confidential: public
+dv_name: Kaluga Oblast
+dv_Country: "[[../../Russia]]"
+dv_Capital: "[[Kaluga_Oblast/City/Kaluga]]"
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 36.3
+dv_has_place_latitude: 54.52
 ---
-[name::Kaluga Oblast] 
+name = `=this.dv_name` 
 [name-abbr::] 
-Country :: [[Russia]]  
-Capital :: [[Kaluga]]  
+Country = `=this.dv_Country`
+Capital = `=this.dv_Capital`
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::36.3] 
-[has_place_latitude::54.52] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
 
@@ -37,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kaluga_Oblast](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast|Kaluga_Oblast]] 
 
-### [Kaluga_Oblast.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast.public|Kaluga_Oblast.public]] 
 
-### [Kaluga_Oblast.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast.internal|Kaluga_Oblast.internal]] 
 
-### [Kaluga_Oblast.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast.protect|Kaluga_Oblast.protect]] 
 
-### [Kaluga_Oblast.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast.private|Kaluga_Oblast.private]] 
 
-### [Kaluga_Oblast.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast.personal|Kaluga_Oblast.personal]] 
 
-### [Kaluga_Oblast.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kaluga_Oblast.secret|Kaluga_Oblast.secret]] 
 

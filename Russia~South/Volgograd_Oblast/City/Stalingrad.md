@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34510
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 44.32
+dv_has_place_latitude: 48.72
+dv_name: Stalingrad
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::44.32] 
-[has_place_latitude::48.72] 
-[name::Stalingrad] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stalingrad](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Stalingrad.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Stalingrad|Stalingrad]] 
 
-### [Stalingrad.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Stalingrad.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Stalingrad.public|Stalingrad.public]] 
 
-### [Stalingrad.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Stalingrad.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Stalingrad.internal|Stalingrad.internal]] 
 
-### [Stalingrad.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Stalingrad.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Stalingrad.protect|Stalingrad.protect]] 
 
-### [Stalingrad.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Stalingrad.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Stalingrad.private|Stalingrad.private]] 
 
-### [Stalingrad.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Stalingrad.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Stalingrad.personal|Stalingrad.personal]] 
 
-### [Stalingrad.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Stalingrad.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~South/Volgograd_Oblast/City/Stalingrad.secret|Stalingrad.secret]] 
 

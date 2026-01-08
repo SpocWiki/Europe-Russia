@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 31707
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 36.22
+dv_has_place_latitude: 51.73
+dv_name: Kursk
+dv_Country: "[[../../../../Russia]]"
+dv_StateId: 37134
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::36.22] 
-[has_place_latitude::51.73] 
-[name::Kursk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
-[StateId::37134] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kursk](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Kursk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Kursk|Kursk]] 
 
-### [Kursk.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Kursk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Kursk.public|Kursk.public]] 
 
-### [Kursk.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Kursk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Kursk.internal|Kursk.internal]] 
 
-### [Kursk.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Kursk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Kursk.protect|Kursk.protect]] 
 
-### [Kursk.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Kursk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Kursk.private|Kursk.private]] 
 
-### [Kursk.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Kursk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Kursk.personal|Kursk.personal]] 
 
-### [Kursk.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Kursk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Central/Kursk_Oblast/City/Kursk.secret|Kursk.secret]] 
 

@@ -127,11 +127,14 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Seagull%20in%20the%20W
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Visual-Laterality-of-Calf%E2%80%93Mother-Interactions-in-Wild-Whales-pone.0013787.s001.ogv
 panoramic_view: http://commons.wikimedia.org/wiki/Special:FilePath/White%20Sea%20at%20Belomorsk.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/White%20Sea%20in%20its%20region.svg
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~White_Sea,44133|WD~White_Sea,44133]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~White_Sea,44133|WD~White_Sea,44133]]"
 ---
 
 # [[White_Sea]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~White_Sea,44133|WD~White_Sea,44133]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -142,4 +145,21 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/White%20Se
 > The White Sea is one of the four seas named (not only in English) after common colour terms—the others being the Black, Red and Yellow seas.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/White%20Sea) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/White_Sea|White_Sea]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/White_Sea.public|White_Sea.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/White_Sea.internal|White_Sea.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/White_Sea.protect|White_Sea.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/White_Sea.private|White_Sea.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/White_Sea.personal|White_Sea.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~NorthWest/White_Sea.secret|White_Sea.secret]] 
 

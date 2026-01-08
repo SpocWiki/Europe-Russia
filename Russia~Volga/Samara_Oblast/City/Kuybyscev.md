@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31719
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 50.15
+dv_has_place_latitude: 53.2
+dv_name: Kuybyscev
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::50.15] 
-[has_place_latitude::53.2] 
-[name::Kuybyscev] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kuybyscev](/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Kuybyscev.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Kuybyscev|Kuybyscev]] 
 
-### [Kuybyscev.public](/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Kuybyscev.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Kuybyscev.public|Kuybyscev.public]] 
 
-### [Kuybyscev.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Kuybyscev.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Kuybyscev.internal|Kuybyscev.internal]] 
 
-### [Kuybyscev.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Kuybyscev.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Kuybyscev.protect|Kuybyscev.protect]] 
 
-### [Kuybyscev.private](/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Kuybyscev.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Kuybyscev.private|Kuybyscev.private]] 
 
-### [Kuybyscev.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Kuybyscev.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Kuybyscev.personal|Kuybyscev.personal]] 
 
-### [Kuybyscev.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Kuybyscev.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Russia~Volga/Samara_Oblast/City/Kuybyscev.secret|Kuybyscev.secret]] 
 
