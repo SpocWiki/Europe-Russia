@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 36
 dv_has_place_latitude: 56.87
-dv_name: Twer=Kalinin
+dv_has_name_: Twer=Kalinin
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37191
 ---

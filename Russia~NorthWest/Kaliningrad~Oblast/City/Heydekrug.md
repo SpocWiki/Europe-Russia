@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.67
 dv_has_place_latitude: 54.67
-dv_name: Heydekrug
+dv_has_name_: Heydekrug
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 35.83
 dv_has_place_latitude: 55.48
-dv_name: Borodino
+dv_has_name_: Borodino
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

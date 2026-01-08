@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 47.17
 dv_has_place_latitude: 42.83
-dv_name: Temir-chan-schura
+dv_has_name_: Temir-chan-schura
 dv_Country: "[[../../../../../Russia]]"
 ---
 #is_a_/Place  

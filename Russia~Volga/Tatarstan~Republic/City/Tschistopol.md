@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 50.63
 dv_has_place_latitude: 55.35
-dv_name: Tschistopol
+dv_has_name_: Tschistopol
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

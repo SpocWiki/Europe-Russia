@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 40
 dv_has_place_latitude: 59.23
-dv_name: Wologda
+dv_has_name_: Wologda
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37124
 ---

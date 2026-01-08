@@ -11,7 +11,7 @@ tags:
 SpocWebEntityId: 37121
 isDeleted: false
 confidential: public
-dv_name: Vladimir Oblast
+dv_has_name_: Vladimir Oblast
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[Vladimir_Oblast/City/Wladimier]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
@@ -19,7 +19,7 @@ dv_has_place_longitude: 40.42
 dv_has_place_latitude: 56.13
 ---
 name = `=this.dv_name` 
-[name-abbr::] 
+[has_name_abbr::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 52.43
 dv_has_place_latitude: 53.18
-dv_name: Samara
+dv_has_name_: Samara
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37184
 ---

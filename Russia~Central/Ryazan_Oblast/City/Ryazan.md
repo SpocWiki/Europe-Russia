@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 39.67
 dv_has_place_latitude: 54.67
-dv_name: Ryazan
+dv_has_name_: Ryazan
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37182
 ---

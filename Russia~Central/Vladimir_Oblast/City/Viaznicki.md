@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 42.15
 dv_has_place_latitude: 56.25
-dv_name: Viaznicki
+dv_has_name_: Viaznicki
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

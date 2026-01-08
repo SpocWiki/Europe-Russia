@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 31.05
 dv_has_place_latitude: 59.95
-dv_name: Petrokrepost=Schluesselburg
+dv_has_name_: Petrokrepost=Schluesselburg
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

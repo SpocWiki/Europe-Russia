@@ -12,7 +12,7 @@ tags:
 SpocWebEntityId: 37117
 isDeleted: false
 confidential: public
-dv_name: Arkhangelsk Oblast
+dv_has_name_: Arkhangelsk Oblast
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[Arkhangelsk_Oblast/counties~Arkhangel'sk/Arkhangel'sk-county/Archangelsk]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
@@ -23,7 +23,7 @@ dv_has_place_latitude: 64.53
 # [[Arkhangelsk_Oblast]] 
 
 name = `=this.dv_name` 
-[name-abbr::] 
+[has_name_abbr::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  

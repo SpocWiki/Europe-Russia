@@ -12,7 +12,7 @@ tags:
 SpocWebEntityId: 37118
 isDeleted: false
 confidential: public
-dv_name: Astrakhan Oblast
+dv_has_name_: Astrakhan Oblast
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[Astrakhan_Oblast/City/Astrachan]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
@@ -20,7 +20,7 @@ dv_has_place_longitude: 48.05
 dv_has_place_latitude: 46.35
 ---
 name = `=this.dv_name` 
-[name-abbr::] 
+[has_name_abbr::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  

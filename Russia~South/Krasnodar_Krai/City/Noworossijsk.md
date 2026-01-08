@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 37.83
 dv_has_place_latitude: 44.73
-dv_name: Noworossijsk
+dv_has_name_: Noworossijsk
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

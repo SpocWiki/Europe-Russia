@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 45.4
 dv_has_place_latitude: 50.08
-dv_name: Kamyschin
+dv_has_name_: Kamyschin
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

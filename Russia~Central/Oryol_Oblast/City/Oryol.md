@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 36.06667
 dv_has_place_latitude: 52.96667
-dv_name: Oryol
+dv_has_name_: Oryol
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37147
 ---

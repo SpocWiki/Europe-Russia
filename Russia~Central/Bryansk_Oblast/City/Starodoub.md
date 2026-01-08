@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 32.77
 dv_has_place_latitude: 52.58
-dv_name: Starodoub
+dv_has_name_: Starodoub
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

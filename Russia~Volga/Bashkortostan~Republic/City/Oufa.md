@@ -14,7 +14,7 @@ isDeleted: false
 confidential: public
 dv_geo-lon: 55.93
 dv_geo-lat: 54.72
-dv_name: Oufa
+dv_has_name_: Oufa
 dv_Country: "[[../../../../Russia]]"
 dv_is_:
   same_as:

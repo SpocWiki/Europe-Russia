@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 39.88
 dv_has_place_latitude: 47.25
-dv_name: Rostow=Rostov-na-Donu
+dv_has_name_: Rostow=Rostov-na-Donu
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

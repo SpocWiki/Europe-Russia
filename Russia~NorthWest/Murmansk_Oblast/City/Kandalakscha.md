@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 32.43
 dv_has_place_latitude: 67.13
-dv_name: Kandalakscha
+dv_has_name_: Kandalakscha
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

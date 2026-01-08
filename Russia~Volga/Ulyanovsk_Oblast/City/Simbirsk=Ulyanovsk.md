@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 48.4
 dv_has_place_latitude: 54.32
-dv_name: Simbirsk=Ulyanovsk
+dv_has_name_: Simbirsk=Ulyanovsk
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

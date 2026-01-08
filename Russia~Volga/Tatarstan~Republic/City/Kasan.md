@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 49.12
 dv_has_place_latitude: 55.75
-dv_name: Kasan
+dv_has_name_: Kasan
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

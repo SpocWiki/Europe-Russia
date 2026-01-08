@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.5
 dv_has_place_latitude: 54.72
-dv_name: Kaliningrad
+dv_has_name_: Kaliningrad
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 36942
 ---

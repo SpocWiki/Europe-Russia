@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 30.33
 dv_has_place_latitude: 59.77
-dv_name: Pulkowa
+dv_has_name_: Pulkowa
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

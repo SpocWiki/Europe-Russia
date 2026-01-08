@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 50.85
 dv_has_place_latitude: 61.67
-dv_name: Syklyvkar=List Sysolske
+dv_has_name_: Syklyvkar=List Sysolske
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

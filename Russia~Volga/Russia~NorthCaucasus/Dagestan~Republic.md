@@ -12,7 +12,7 @@ tags:
 SpocWebEntityId: 37041
 isDeleted: false
 confidential: public
-dv_name: Dagestan~Republic
+dv_has_name_: Dagestan~Republic
 dv_Country: "[[../../../Russia]]"
 dv_Capital: "[[../../Russia~South/Rostov_Oblast/City/Makhachkala]]"
 dv_is_a_: "[[../../../../../../Geography/Place]]"
@@ -20,7 +20,7 @@ dv_has_place_longitude: 42.97
 dv_has_place_latitude: 47.5
 ---
 name = `=this.dv_name` 
-[name-abbr::] 
+[has_name_abbr::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  

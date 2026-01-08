@@ -14,7 +14,7 @@ isDeleted: false
 confidential: public
 dv_geo-lon: 52.68
 dv_geo-lat: 58.13
-dv_name: Glaswo
+dv_has_name_: Glaswo
 dv_Country: "[[../../../../Russia]]"
 dv_is_:
   same_as:

@@ -11,7 +11,7 @@ tags:
 SpocWebEntityId: 37120
 isDeleted: false
 confidential: public
-dv_name: Bryansk Oblast
+dv_has_name_: Bryansk Oblast
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[Bryansk_Oblast/City/Bryansk]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
@@ -19,7 +19,7 @@ dv_has_place_longitude: 34.33
 dv_has_place_latitude: 53.25
 ---
 name = `=this.dv_name` 
-[name-abbr::] 
+[has_name_abbr::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  

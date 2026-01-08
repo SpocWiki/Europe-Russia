@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 43.33
 dv_has_place_latitude: 52.71667
-dv_name: Tambow
+dv_has_name_: Tambow
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37190
 ---

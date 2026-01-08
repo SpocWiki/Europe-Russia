@@ -11,7 +11,7 @@ tags:
 SpocWebEntityId: 37193
 isDeleted: false
 confidential: public
-dv_name: Tula Oblast
+dv_has_name_: Tula Oblast
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[Tula_Oblast/City/Tula]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
@@ -19,7 +19,7 @@ dv_has_place_longitude: 37.62
 dv_has_place_latitude: 54.2
 ---
 name = `=this.dv_name` 
-[name-abbr::] 
+[has_name_abbr::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  

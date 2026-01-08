@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.9
 dv_has_place_latitude: 55.08
-dv_name: Tilsit
+dv_has_name_: Tilsit
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

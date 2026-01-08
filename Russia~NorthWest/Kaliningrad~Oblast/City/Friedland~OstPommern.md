@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21
 dv_has_place_latitude: 54.43
-dv_name: Friedland~OstPommern
+dv_has_name_: Friedland~OstPommern
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 36942
 ---

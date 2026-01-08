@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 31.25
 dv_has_place_latitude: 69.55
-dv_name: Petsamo
+dv_has_name_: Petsamo
 dv_Country: "[[../../../../../Europe~North/Finland]]"
 ---
 #is_a_/Place  

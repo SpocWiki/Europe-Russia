@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 40.38
 dv_has_place_latitude: 54.4
-dv_name: Spassk~Rjaesan
+dv_has_name_: Spassk~Rjaesan
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

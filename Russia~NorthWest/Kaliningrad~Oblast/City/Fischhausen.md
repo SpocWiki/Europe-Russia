@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.02
 dv_has_place_latitude: 54.73
-dv_name: Fischhausen
+dv_has_name_: Fischhausen
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 36942
 ---

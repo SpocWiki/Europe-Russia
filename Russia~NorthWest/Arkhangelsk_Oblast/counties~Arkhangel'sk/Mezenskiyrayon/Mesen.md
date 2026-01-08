@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 44.27
 dv_has_place_latitude: 65.83
-dv_name: Mesen
+dv_has_name_: Mesen
 dv_Country: "[[../../../../../Russia]]"
 ---
 

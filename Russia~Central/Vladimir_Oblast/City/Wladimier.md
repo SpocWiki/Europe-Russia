@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 40.42
 dv_has_place_latitude: 56.13
-dv_name: Wladimier
+dv_has_name_: Wladimier
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37121
 ---

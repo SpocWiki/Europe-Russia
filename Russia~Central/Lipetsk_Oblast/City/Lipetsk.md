@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 39.6
 dv_has_place_latitude: 52.61666
-dv_name: Lipetsk
+dv_has_name_: Lipetsk
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37136
 ---

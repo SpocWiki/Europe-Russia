@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 38.97
 dv_has_place_latitude: 45.02
-dv_name: Jekaterinodar
+dv_has_name_: Jekaterinodar
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

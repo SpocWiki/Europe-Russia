@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 33.65
 dv_has_place_latitude: 67.6
-dv_name: Kirovsk
+dv_has_name_: Kirovsk
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

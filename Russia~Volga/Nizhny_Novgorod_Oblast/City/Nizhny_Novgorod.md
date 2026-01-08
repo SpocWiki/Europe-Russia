@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 44
 dv_has_place_latitude: 56.33333
-dv_name: Nizhny Novgorod
+dv_has_name_: Nizhny Novgorod
 dv_StateId: 37142
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Nizhny_Novgorod,891|WD~Nizhny_Novgorod,891]]"

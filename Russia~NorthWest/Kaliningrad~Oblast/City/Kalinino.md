@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.58
 dv_has_place_latitude: 54.45
-dv_name: Kalinino
+dv_has_name_: Kalinino
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 36942
 ---

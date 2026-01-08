@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.12
 dv_has_place_latitude: 55.02
-dv_name: Ober-Eisseln
+dv_has_name_: Ober-Eisseln
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

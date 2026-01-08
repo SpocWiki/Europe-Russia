@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 30.42
 dv_has_place_latitude: 59.7
-dv_name: Detskoje Selo
+dv_has_name_: Detskoje Selo
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

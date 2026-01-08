@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 44.57
 dv_has_place_latitude: 48.5
-dv_name: Sarepta
+dv_has_name_: Sarepta
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

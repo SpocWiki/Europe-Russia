@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 36.3
 dv_has_place_latitude: 54.52
-dv_name: Kaluga
+dv_has_name_: Kaluga
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37129
 ---

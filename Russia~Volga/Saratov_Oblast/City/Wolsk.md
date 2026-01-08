@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 47.75
 dv_has_place_latitude: 52.05
-dv_name: Wolsk
+dv_has_name_: Wolsk
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

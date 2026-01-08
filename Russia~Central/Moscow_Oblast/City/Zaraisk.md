@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 38.88
 dv_has_place_latitude: 54.77
-dv_name: Zaraisk
+dv_has_name_: Zaraisk
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

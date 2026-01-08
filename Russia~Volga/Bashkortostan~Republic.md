@@ -8,7 +8,7 @@ tags:
 SpocWebEntityId: 37038
 isDeleted: false
 confidential: public
-dv_name: Bashkortostan~Republic
+dv_has_name_: Bashkortostan~Republic
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[Bashkortostan~Republic/City/Ufa]]"
 dv_geo-lon: 55.92
@@ -32,7 +32,7 @@ dv_is_same_as:
   - "[Bashkortostan~Republic.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic.secret.md)"
 ---
 name = `=this.dv_name` 
-[name-abbr::] 
+[has_name_abbr::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 geo-lon = `=this.dv_geo-lon` 

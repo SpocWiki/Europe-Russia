@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 36.92
 dv_has_place_latitude: 53.45
-dv_name: Tschern
+dv_has_name_: Tschern
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

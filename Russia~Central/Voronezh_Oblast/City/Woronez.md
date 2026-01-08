@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 39.2
 dv_has_place_latitude: 51.67
-dv_name: Woronez
+dv_has_name_: Woronez
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37125
 ---

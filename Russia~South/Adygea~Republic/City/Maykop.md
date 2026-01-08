@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 40.17
 dv_has_place_latitude: 44.58
-dv_name: Maykop
+dv_has_name_: Maykop
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37037
 ---

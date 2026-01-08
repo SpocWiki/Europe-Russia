@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 32.78
 dv_has_place_latitude: 60.98
-dv_name: Olonetz
+dv_has_name_: Olonetz
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

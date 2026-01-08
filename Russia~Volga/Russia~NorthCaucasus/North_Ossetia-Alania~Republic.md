@@ -1,5 +1,5 @@
 ---
-dv_name: North Ossetia-Alania~Republic
+dv_has_name_: North Ossetia-Alania~Republic
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: 44.65
 dv_has_place_latitude: 43.0167
@@ -84,7 +84,7 @@ native_label:
 # [[North_Ossetia-Alania~Republic]]
 
 name = `=this.dv_name` 
-[name-abbr::] 
+[has_name_abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Vladikavkaz]]  
 #is_a_/Place  

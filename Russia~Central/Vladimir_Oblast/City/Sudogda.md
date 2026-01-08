@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 40.87
 dv_has_place_latitude: 55.95
-dv_name: Sudogda
+dv_has_name_: Sudogda
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

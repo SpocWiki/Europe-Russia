@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 29.77
 dv_has_place_latitude: 59.98
-dv_name: Kronstadt
+dv_has_name_: Kronstadt
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

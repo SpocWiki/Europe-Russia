@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 49.16667
 dv_has_place_latitude: 55.78333
-dv_name: Kazan
+dv_has_name_: Kazan
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37052
 ---

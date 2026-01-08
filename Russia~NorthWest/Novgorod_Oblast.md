@@ -12,7 +12,7 @@ tags:
 SpocWebEntityId: 37143
 isDeleted: false
 confidential: public
-dv_name: Novgorod Oblast
+dv_has_name_: Novgorod Oblast
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[../Russia~Central/Tver_Oblast/City/Nowgorod]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
@@ -20,7 +20,7 @@ dv_has_place_longitude: 31.27
 dv_has_place_latitude: 56.52
 ---
 name = `=this.dv_name` 
-[name-abbr::] 
+[has_name_abbr::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  

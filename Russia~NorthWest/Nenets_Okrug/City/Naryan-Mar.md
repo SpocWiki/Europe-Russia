@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 53.05
 dv_has_place_latitude: 67.63333
-dv_name: Naryan-Mar
+dv_has_name_: Naryan-Mar
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37034
 ---

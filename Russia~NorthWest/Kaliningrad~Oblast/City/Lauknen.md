@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.43
 dv_has_place_latitude: 54.97
-dv_name: Lauknen
+dv_has_name_: Lauknen
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 36942
 ---

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 38.22
 dv_has_place_latitude: 55.57
-dv_name: Ramenskoje
+dv_has_name_: Ramenskoje
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

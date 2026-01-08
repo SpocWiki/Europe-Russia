@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 39.32
 dv_has_place_latitude: 47.07
-dv_name: Kagalnik
+dv_has_name_: Kagalnik
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

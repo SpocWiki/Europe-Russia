@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 37.62
 dv_has_place_latitude: 54.2
-dv_name: Tula
+dv_has_name_: Tula
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37193
 ---

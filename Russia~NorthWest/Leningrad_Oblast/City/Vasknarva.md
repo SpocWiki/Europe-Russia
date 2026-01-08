@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 27.88
 dv_has_place_latitude: 59.03
-dv_name: Vasknarva
+dv_has_name_: Vasknarva
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

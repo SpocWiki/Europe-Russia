@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 40.98195
 dv_has_place_latitude: 56.99667
-dv_name: Ivanovo
+dv_has_name_: Ivanovo
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37126
 ---

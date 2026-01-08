@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.95
 dv_has_place_latitude: 54.45
-dv_name: Heiligenbeil
+dv_has_name_: Heiligenbeil
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 36942
 ---

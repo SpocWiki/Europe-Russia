@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 45.1833
 dv_has_place_latitude: 54.18
-dv_name: Saransk
+dv_has_name_: Saransk
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37049
 ---

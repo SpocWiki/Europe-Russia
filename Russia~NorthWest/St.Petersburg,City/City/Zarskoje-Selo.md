@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 30.4
 dv_has_place_latitude: 59.72
-dv_name: Zarskoje-Selo
+dv_has_name_: Zarskoje-Selo
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

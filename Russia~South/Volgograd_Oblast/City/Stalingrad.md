@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 44.32
 dv_has_place_latitude: 48.72
-dv_name: Stalingrad
+dv_has_name_: Stalingrad
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

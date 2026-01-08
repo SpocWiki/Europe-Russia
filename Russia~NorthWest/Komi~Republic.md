@@ -12,7 +12,7 @@ tags:
 SpocWebEntityId: 37047
 isDeleted: false
 confidential: public
-dv_name: Komi~Republic
+dv_has_name_: Komi~Republic
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[Komi~Republic/City/Syktyvkar]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
@@ -23,7 +23,7 @@ dv_has_place_latitude: 61.6667
 # [[Komi~Republic]] 
 
 name = `=this.dv_name` 
-[name-abbr::] 
+[has_name_abbr::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  

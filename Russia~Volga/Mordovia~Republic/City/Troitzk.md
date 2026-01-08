@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 43.67
 dv_has_place_latitude: 54.2
-dv_name: Troitzk
+dv_has_name_: Troitzk
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

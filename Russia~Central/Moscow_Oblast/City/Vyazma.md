@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 37.3
 dv_has_place_latitude: 55.22
-dv_name: Vyazma
+dv_has_name_: Vyazma
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

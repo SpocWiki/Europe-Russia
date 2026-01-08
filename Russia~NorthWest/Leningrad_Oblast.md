@@ -12,7 +12,7 @@ tags:
 SpocWebEntityId: 37135
 isDeleted: false
 confidential: public
-dv_name: Leningrad Oblast
+dv_has_name_: Leningrad Oblast
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[St.Petersburg,City/City/Leningrad]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
@@ -26,7 +26,7 @@ dv_is_same_as: "[[_Standards/WikiData/WD~Leningrad_Oblast,2191]]"
 # [[Leningrad_Oblast]]
 
 name = `=this.dv_name` 
-[name-abbr::] 
+[has_name_abbr::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  

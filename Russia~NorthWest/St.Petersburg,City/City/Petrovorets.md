@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 29.9
 dv_has_place_latitude: 59.88
-dv_name: Petrovorets
+dv_has_name_: Petrovorets
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

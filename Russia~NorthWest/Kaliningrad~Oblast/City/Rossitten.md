@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.85
 dv_has_place_latitude: 55.15
-dv_name: Rossitten
+dv_has_name_: Rossitten
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 36942
 ---

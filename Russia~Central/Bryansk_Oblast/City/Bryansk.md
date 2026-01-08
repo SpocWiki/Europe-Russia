@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 34.33
 dv_has_place_latitude: 53.25
-dv_name: Bryansk
+dv_has_name_: Bryansk
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37120
 ---

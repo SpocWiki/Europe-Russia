@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 43.62
 dv_has_place_latitude: 43.5
-dv_name: Nalchik
+dv_has_name_: Nalchik
 dv_Country: "[[../../../../../Russia]]"
 dv_StateId: 37043
 ---

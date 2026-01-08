@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 27.77
 dv_has_place_latitude: 56.93
-dv_name: Punduri
+dv_has_name_: Punduri
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

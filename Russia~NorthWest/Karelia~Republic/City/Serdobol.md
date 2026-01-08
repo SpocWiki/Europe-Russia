@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 30.7
 dv_has_place_latitude: 61.7
-dv_name: Serdobol
+dv_has_name_: Serdobol
 dv_Country: "[[../../../../../Europe~North/Finland]]"
 ---
 #is_a_/Place  

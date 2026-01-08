@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 30.47
 dv_has_place_latitude: 60.83
-dv_name: Sortanlahti
+dv_has_name_: Sortanlahti
 dv_Country: "[[../../../../../Europe~North/Finland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 39.53
 dv_has_place_latitude: 53.82
-dv_name: Skopin
+dv_has_name_: Skopin
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

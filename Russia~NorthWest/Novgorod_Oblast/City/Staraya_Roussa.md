@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 31.38
 dv_has_place_latitude: 57.98
-dv_name: Staraya Roussa
+dv_has_name_: Staraya Roussa
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

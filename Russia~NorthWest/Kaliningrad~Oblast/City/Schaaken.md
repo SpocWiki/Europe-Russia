@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.7
 dv_has_place_latitude: 54.9
-dv_name: Schaaken
+dv_has_name_: Schaaken
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 36942
 ---

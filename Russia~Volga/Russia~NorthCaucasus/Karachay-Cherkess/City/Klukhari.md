@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 41.9
 dv_has_place_latitude: 43.78
-dv_name: Klukhari
+dv_has_name_: Klukhari
 dv_Country: "[[../../../../../Russia]]"
 ---
 #is_a_/Place  

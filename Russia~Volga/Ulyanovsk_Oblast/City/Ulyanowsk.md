@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 48.48
 dv_has_place_latitude: 54.33
-dv_name: Ulyanowsk
+dv_has_name_: Ulyanowsk
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37195
 ---

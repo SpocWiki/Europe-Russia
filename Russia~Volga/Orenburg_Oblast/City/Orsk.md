@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 58.55
 dv_has_place_latitude: 51.2
-dv_name: Orsk
+dv_has_name_: Orsk
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

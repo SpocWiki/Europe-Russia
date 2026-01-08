@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 28.33
 dv_has_place_latitude: 57.83
-dv_name: Pskow
+dv_has_name_: Pskow
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37150
 ---

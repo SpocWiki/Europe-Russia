@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 43.48
 dv_has_place_latitude: 44.15
-dv_name: Georgiewsk
+dv_has_name_: Georgiewsk
 dv_Country: "[[../../../../../Russia]]"
 ---
 #is_a_/Place  

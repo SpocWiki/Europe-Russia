@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 40.93
 dv_has_place_latitude: 57.77
-dv_name: Kostroma
+dv_has_name_: Kostroma
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37132
 ---

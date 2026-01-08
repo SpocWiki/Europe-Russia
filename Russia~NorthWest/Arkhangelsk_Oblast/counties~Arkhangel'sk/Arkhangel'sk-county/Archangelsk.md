@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 40.57
 dv_has_place_latitude: 64.53
-dv_name: Archangelsk
+dv_has_name_: Archangelsk
 dv_Country: "[[../../../../../Russia]]"
 dv_StateId: 37117
 ---

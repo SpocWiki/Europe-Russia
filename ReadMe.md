@@ -66,15 +66,15 @@ dv_ISO4217-currency_country_name: RUSSIAN FEDERATION
 dv_Telephone: 7
 dv_Global: true
 dv_Global_Name: World
-dv_name: Russia
-dv_name-en:
+dv_has_name_: Russia
+dv_has_name_en:
   - Russian Federation
   - Russia
-dv_name-es: Federación de Rusia
-dv_name-fr: Fédération de Russie
-dv_name-cn: 俄罗斯联邦
-dv_name-ar: الاتحاد الروسي
-dv_name-ru: Российская Федерация
+dv_has_name_es: Federación de Rusia
+dv_has_name_fr: Fédération de Russie
+dv_has_name_cn: 俄罗斯联邦
+dv_has_name_ar: الاتحاد الروسي
+dv_has_name_ru: Российская Федерация
 dv_CLDR_display_name: Russia
 dv_UNTERM_English: Russian Federation (the)
 dv_UNTERM_English_Formal: the Russian Federation
@@ -111,7 +111,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 643
 dv_ISO2: RU
 dv_ISO3: RUS
-dv_name-de: Russland
+dv_has_name_de: Russland
 dv_Area-Total: "1.71E+07"
 dv_Area-Land: "1.69958E+07"
 dv_Continent: "[[../../../Europe]]"
@@ -137,12 +137,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Russian Federation ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Russian Federation ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -202,8 +202,8 @@ geojsonFolder: .//
 markerFolder: .////
 ```
 
-[name-en::Russia] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Russia] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

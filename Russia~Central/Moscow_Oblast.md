@@ -12,7 +12,7 @@ tags:
 SpocWebEntityId: 37140
 isDeleted: false
 confidential: public
-dv_name: Moscow Oblast
+dv_has_name_: Moscow Oblast
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[Moscow_Oblast/City/Moscow,City]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
@@ -23,7 +23,7 @@ dv_has_place_latitude: 55.75
 # [[Moscow_Oblast]]  
 
 name = `=this.dv_name` 
-[name-abbr::] 
+[has_name_abbr::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  

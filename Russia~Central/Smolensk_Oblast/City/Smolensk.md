@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 32.05
 dv_has_place_latitude: 54.78
-dv_name: Smolensk
+dv_has_name_: Smolensk
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37189
 ---

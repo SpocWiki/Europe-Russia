@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 44.65
 dv_has_place_latitude: 43.01667
-dv_name: Vladikavkaz
+dv_has_name_: Vladikavkaz
 dv_Country: "[[../../../../../Russia]]"
 dv_StateId: 37051
 ---

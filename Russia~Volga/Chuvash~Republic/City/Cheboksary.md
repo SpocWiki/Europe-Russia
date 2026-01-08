@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 47.25
 dv_has_place_latitude: 56.15
-dv_name: Cheboksary
+dv_has_name_: Cheboksary
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37057
 ---

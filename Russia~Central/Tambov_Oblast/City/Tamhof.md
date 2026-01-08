@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 41.47
 dv_has_place_latitude: 52.73
-dv_name: Tamhof
+dv_has_name_: Tamhof
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

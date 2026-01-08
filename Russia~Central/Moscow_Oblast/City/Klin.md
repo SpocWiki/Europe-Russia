@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 36.73
 dv_has_place_latitude: 56.33
-dv_name: Klin
+dv_has_name_: Klin
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

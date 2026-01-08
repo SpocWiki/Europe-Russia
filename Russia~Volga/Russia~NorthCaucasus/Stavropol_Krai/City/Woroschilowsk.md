@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 41.97
 dv_has_place_latitude: 45.05
-dv_name: Woroschilowsk
+dv_has_name_: Woroschilowsk
 dv_Country: "[[../../../../../Russia]]"
 ---
 #is_a_/Place  

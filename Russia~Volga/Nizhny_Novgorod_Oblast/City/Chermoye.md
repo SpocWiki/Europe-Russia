@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 43.42
 dv_has_place_latitude: 56.25
-dv_name: Chermoye
+dv_has_name_: Chermoye
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

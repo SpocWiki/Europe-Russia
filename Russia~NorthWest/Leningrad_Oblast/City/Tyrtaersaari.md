@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 27.2
 dv_has_place_latitude: 59.85
-dv_name: Tyrtaersaari
+dv_has_name_: Tyrtaersaari
 dv_Country: "[[../../../../../Europe~North/Finland]]"
 ---
 #is_a_/Place  

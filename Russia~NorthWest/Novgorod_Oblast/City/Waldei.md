@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 33.25
 dv_has_place_latitude: 57.98
-dv_name: Waldei
+dv_has_name_: Waldei
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

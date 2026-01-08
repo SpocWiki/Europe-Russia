@@ -20,7 +20,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 44.51667
 dv_has_place_latitude: 48.7
-dv_name: Volgograd
+dv_has_name_: Volgograd
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37122
 dv_is_:

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.5
 dv_has_place_latitude: 54.78
-dv_name: Pillkallen
+dv_has_name_: Pillkallen
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

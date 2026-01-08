@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 30.25
 dv_has_place_latitude: 59.92
-dv_name: Leningrad
+dv_has_name_: Leningrad
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37135
 ---

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 29.83
 dv_has_place_latitude: 58.73
-dv_name: Luga
+dv_has_name_: Luga
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

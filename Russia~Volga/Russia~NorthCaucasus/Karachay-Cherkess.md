@@ -10,7 +10,7 @@ tags:
 SpocWebEntityId: 37045
 isDeleted: false
 confidential: public
-dv_name: Karachay-Cherkess
+dv_has_name_: Karachay-Cherkess
 dv_Country: "[[../../../Russia]]"
 dv_Capital: "[[Karachay-Cherkess/City/Cherkessk]]"
 dv_is_a_: "[[../../../../../../Geography/Place]]"
@@ -18,7 +18,7 @@ dv_has_place_longitude: 42.05
 dv_has_place_latitude: 44.23
 ---
 name = `=this.dv_name` 
-[name-abbr::] 
+[has_name_abbr::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  

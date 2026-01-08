@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.28
 dv_has_place_latitude: 55.2
-dv_name: Karkeln
+dv_has_name_: Karkeln
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 36942
 ---

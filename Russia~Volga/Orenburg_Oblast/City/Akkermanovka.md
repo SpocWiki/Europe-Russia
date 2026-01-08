@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 58.25
 dv_has_place_latitude: 51.23
-dv_name: Akkermanovka
+dv_has_name_: Akkermanovka
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

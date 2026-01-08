@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.57
 dv_has_place_latitude: 54.83
-dv_name: Fritzen
+dv_has_name_: Fritzen
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 36942
 ---

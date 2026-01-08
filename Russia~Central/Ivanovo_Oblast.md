@@ -11,7 +11,7 @@ tags:
 SpocWebEntityId: 37126
 isDeleted: false
 confidential: public
-dv_name: Ivanovo Oblast
+dv_has_name_: Ivanovo Oblast
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[Ivanovo_Oblast/City/Ivanovo]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
@@ -19,7 +19,7 @@ dv_has_place_longitude: 40.9819
 dv_has_place_latitude: 56.9967
 ---
 name = `=this.dv_name` 
-[name-abbr::] 
+[has_name_abbr::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  

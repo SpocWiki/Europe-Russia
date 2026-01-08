@@ -14,7 +14,7 @@ isDeleted: false
 confidential: public
 dv_geo-lon: 56.8
 dv_geo-lat: 59.65
-dv_name: Solikamsk
+dv_has_name_: Solikamsk
 dv_Country: "[[../../../../Russia]]"
 dv_is_:
   same_as:

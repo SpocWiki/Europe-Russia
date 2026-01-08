@@ -1,5 +1,5 @@
 ---
-dv_name: Mordovia~Republic
+dv_has_name_: Mordovia~Republic
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 45.1833
 dv_has_place_latitude: 54.18
@@ -95,7 +95,7 @@ coordinate_location: Point(44.45 54.433333333)
 # [[Mordovia~Republic]] 
 
 name = `=this.dv_name` 
-[name-abbr::] 
+[has_name_abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Saransk]]  
 #is_a_/Place  

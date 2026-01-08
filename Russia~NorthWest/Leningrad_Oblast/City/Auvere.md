@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 27.87
 dv_has_place_latitude: 59.18
-dv_name: Auvere
+dv_has_name_: Auvere
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 35.95
 dv_has_place_latitude: 56.03
-dv_name: Wolokolamsk
+dv_has_name_: Wolokolamsk
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

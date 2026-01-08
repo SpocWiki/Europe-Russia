@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 42.28
 dv_has_place_latitude: 59.08
-dv_name: Soligalitsch
+dv_has_name_: Soligalitsch
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

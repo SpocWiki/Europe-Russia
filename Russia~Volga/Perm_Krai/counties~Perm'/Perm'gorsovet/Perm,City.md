@@ -19,7 +19,7 @@ aliases:
   - Molotow
 dv_geo-lon: 56.31667
 dv_geo-lat: 58
-dv_name: Perm
+dv_has_name_: Perm
 dv_Country: "[[../../../../../Russia]]"
 dv_StateId: 37102
 dv_is_:

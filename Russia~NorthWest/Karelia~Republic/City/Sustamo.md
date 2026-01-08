@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 31.73
 dv_has_place_latitude: 61.98
-dv_name: Sustamo
+dv_has_name_: Sustamo
 dv_Country: "[[../../../../../Europe~North/Finland]]"
 ---
 #is_a_/Place  

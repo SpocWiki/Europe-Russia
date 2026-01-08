@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 33.08
 dv_has_place_latitude: 68.97
-dv_name: Murmansk
+dv_has_name_: Murmansk
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37141
 ---

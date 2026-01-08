@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 28.23
 dv_has_place_latitude: 59.38
-dv_name: Narwa
+dv_has_name_: Narwa
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

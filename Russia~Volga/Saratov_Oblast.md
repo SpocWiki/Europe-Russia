@@ -1,5 +1,5 @@
 ---
-dv_name: Saratov Oblast
+dv_has_name_: Saratov Oblast
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 51.57
 dv_has_place_latitude: 46.2
@@ -87,7 +87,7 @@ coordinate_location: Point(46.733333333 51.783333333)
 # [[Saratov_Oblast]]
 
 name = `=this.dv_name` 
-[name-abbr::] 
+[has_name_abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Saratow]]  
 #is_a_/Place  

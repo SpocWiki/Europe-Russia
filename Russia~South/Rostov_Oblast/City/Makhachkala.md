@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 42.97
 dv_has_place_latitude: 47.5
-dv_name: Makhachkala
+dv_has_name_: Makhachkala
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37041
 ---

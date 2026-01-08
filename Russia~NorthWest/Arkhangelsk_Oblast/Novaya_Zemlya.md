@@ -45,7 +45,7 @@ Libris_URI: vs68741d3n4ffdc
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: 57
 dv_has_place_latitude: 74
-dv_name: Nowaja-Semlja
+dv_has_name_: Nowaja-Semlja
 dv_is_:
   same_as: "[[../../../../../../../WikiData/WD~Novaya_Zemlya,80413]]"
 dv_is_same_as: "[[../../../../../../../WikiData/WD~Novaya_Zemlya,80413]]"

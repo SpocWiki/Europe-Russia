@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 29.43
 dv_has_place_latitude: 60.35
-dv_name: Uusikirko
+dv_has_name_: Uusikirko
 dv_Country: "[[../../../../../Europe~North/Finland]]"
 ---
 #is_a_/Place  

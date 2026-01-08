@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 45.02
 dv_has_place_latitude: 53.18
-dv_name: Penza
+dv_has_name_: Penza
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37149
 ---

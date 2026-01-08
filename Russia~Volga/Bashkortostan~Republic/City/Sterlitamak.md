@@ -14,7 +14,7 @@ isDeleted: false
 confidential: public
 dv_geo-lon: 55.97
 dv_geo-lat: 53.62
-dv_name: Sterlitamak
+dv_has_name_: Sterlitamak
 dv_Country: "[[../../../../Russia]]"
 dv_is_:
   same_as:

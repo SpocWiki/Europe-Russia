@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 51.17
 dv_has_place_latitude: 53.85
-dv_name: Sergijewsk
+dv_has_name_: Sergijewsk
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

@@ -13,7 +13,7 @@ tags:
 SpocWebEntityId: 37142
 isDeleted: false
 confidential: public
-dv_name: Nizhny Novgorod Oblast
+dv_has_name_: Nizhny Novgorod Oblast
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[Nizhny_Novgorod_Oblast/City/Nizhny_Novgorod]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
@@ -27,7 +27,7 @@ dv_is_same_as: "[[_Standards/WikiData/WD~Nizhny_Novgorod_Oblast,2246]]"
 # [[Nizhny_Novgorod_Oblast]] 
 
 name = `=this.dv_name` 
-[name-abbr::] 
+[has_name_abbr::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 37.9
 dv_has_place_latitude: 59.13
-dv_name: Cherepovets
+dv_has_name_: Cherepovets
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 28.73
 dv_has_place_latitude: 60.72
-dv_name: Viipuri
+dv_has_name_: Viipuri
 dv_Country: "[[../../../../../Europe~North/Finland]]"
 ---
 #is_a_/Place  

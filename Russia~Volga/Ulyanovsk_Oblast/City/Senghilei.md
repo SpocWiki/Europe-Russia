@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 48.8
 dv_has_place_latitude: 53.97
-dv_name: Senghilei
+dv_has_name_: Senghilei
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 36.22
 dv_has_place_latitude: 51.73
-dv_name: Kursk
+dv_has_name_: Kursk
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37134
 ---

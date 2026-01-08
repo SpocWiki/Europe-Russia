@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 40
 dv_has_place_latitude: 56.87
-dv_name: Kalinin=Tver
+dv_has_name_: Kalinin=Tver
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

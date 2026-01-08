@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.58
 dv_has_place_latitude: 55.15
-dv_name: Kaukehnen
+dv_has_name_: Kaukehnen
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 36942
 ---

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 46.9
 dv_has_place_latitude: 61.33
-dv_name: Solnytschégodsk
+dv_has_name_: Solnytschégodsk
 dv_Country: "[[../../../../../Russia]]"
 ---
 

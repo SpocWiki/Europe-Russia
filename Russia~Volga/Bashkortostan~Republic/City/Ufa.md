@@ -14,7 +14,7 @@ isDeleted: false
 confidential: public
 dv_geo-lon: 55.92
 dv_geo-lat: 54.72
-dv_name: Ufa
+dv_has_name_: Ufa
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37038
 dv_is_:

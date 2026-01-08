@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 44.26667
 dv_has_place_latitude: 46.31667
-dv_name: Elista
+dv_has_name_: Elista
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37044
 ---

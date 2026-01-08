@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 47.5
 dv_has_place_latitude: 44.47
-dv_name: Tiulenij
+dv_has_name_: Tiulenij
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

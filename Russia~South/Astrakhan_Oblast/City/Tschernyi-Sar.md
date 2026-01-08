@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 46.1
 dv_has_place_latitude: 48.07
-dv_name: Tschernyi-Sar
+dv_has_name_: Tschernyi-Sar
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

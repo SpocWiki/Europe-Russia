@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 37.32
 dv_has_place_latitude: 55.83
-dv_name: Krasnogorsk
+dv_has_name_: Krasnogorsk
 dv_Country: "[[../../../../Russia]]"
 ---
 

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 38.87
 dv_has_place_latitude: 56.73
-dv_name: Pereslavl-Zalesskiy
+dv_has_name_: Pereslavl-Zalesskiy
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

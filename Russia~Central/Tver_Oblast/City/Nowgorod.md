@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 31.27
 dv_has_place_latitude: 56.52
-dv_name: Nowgorod
+dv_has_name_: Nowgorod
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37143
 ---

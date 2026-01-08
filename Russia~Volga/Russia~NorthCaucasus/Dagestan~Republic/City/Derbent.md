@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 48.22
 dv_has_place_latitude: 42.03
-dv_name: Derbent
+dv_has_name_: Derbent
 dv_Country: "[[../../../../../Russia]]"
 ---
 #is_a_/Place  

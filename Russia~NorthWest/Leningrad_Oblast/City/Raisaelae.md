@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 29.82
 dv_has_place_latitude: 60.95
-dv_name: Raisaelae
+dv_has_name_: Raisaelae
 dv_Country: "[[../../../../../Europe~North/Finland]]"
 ---
 #is_a_/Place  

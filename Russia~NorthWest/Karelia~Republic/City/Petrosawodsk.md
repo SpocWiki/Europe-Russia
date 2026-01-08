@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 34.4
 dv_has_place_latitude: 61.78
-dv_name: Petrosawodsk
+dv_has_name_: Petrosawodsk
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37046
 ---

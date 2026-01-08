@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 38.1
 dv_has_place_latitude: 50.22
-dv_name: Waluiki
+dv_has_name_: Waluiki
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

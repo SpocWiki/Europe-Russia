@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.58
 dv_has_place_latitude: 54.65
-dv_name: Stallupoenen
+dv_has_name_: Stallupoenen
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 36942
 ---

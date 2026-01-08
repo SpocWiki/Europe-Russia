@@ -14,7 +14,7 @@ isDeleted: false
 confidential: public
 dv_geo-lon: 53.23
 dv_geo-lat: 56.85
-dv_name: Izhevsk
+dv_has_name_: Izhevsk
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37054
 dv_is_:

@@ -14,7 +14,7 @@ isDeleted: false
 confidential: public
 dv_geo-lon: 56.52
 dv_geo-lat: 60.4
-dv_name: Tscheidyn
+dv_has_name_: Tscheidyn
 dv_Country: "[[../../../../Russia]]"
 dv_is_:
   same_as:

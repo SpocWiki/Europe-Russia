@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 49.37
 dv_has_place_latitude: 55.05
-dv_name: Spassk~Wjaetka
+dv_has_name_: Spassk~Wjaetka
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

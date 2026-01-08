@@ -1,5 +1,5 @@
 ---
-dv_name: Penza Oblast
+dv_has_name_: Penza Oblast
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 45.02
 dv_has_place_latitude: 53.18
@@ -74,7 +74,7 @@ HASC: RU.PZ
 # [[Penza_Oblast]] 
 
 name = `=this.dv_name` 
-[name-abbr::] 
+[has_name_abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Penza]]  
 #is_a_/Place  

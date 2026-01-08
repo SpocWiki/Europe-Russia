@@ -1,5 +1,5 @@
 ---
-dv_name: Kirov Oblast
+dv_has_name_: Kirov Oblast
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 49.7
 dv_has_place_latitude: 58.55
@@ -129,7 +129,7 @@ HASC: RU.KV
 # [[Kirov_Oblast]]
 
 name = `=this.dv_name` 
-[name-abbr::] 
+[has_name_abbr::] 
 Country :: [[Russia]]  
 Capital :: [[Kirov=Jvanov]]  
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 50.81667
 dv_has_place_latitude: 61.66667
-dv_name: Syktyvkar
+dv_has_name_: Syktyvkar
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37047
 ---

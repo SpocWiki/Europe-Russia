@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 30.18
 dv_has_place_latitude: 60.53
-dv_name: Raubu
+dv_has_name_: Raubu
 dv_Country: "[[../../../../../Europe~North/Finland]]"
 ---
 #is_a_/Place  

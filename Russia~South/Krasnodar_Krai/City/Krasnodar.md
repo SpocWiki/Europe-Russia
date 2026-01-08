@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 39
 dv_has_place_latitude: 45.03
-dv_name: Krasnodar
+dv_has_name_: Krasnodar
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37100
 ---

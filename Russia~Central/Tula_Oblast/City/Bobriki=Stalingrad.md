@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 38.25
 dv_has_place_latitude: 54.07
-dv_name: Bobriki=Stalingrad
+dv_has_name_: Bobriki=Stalingrad
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

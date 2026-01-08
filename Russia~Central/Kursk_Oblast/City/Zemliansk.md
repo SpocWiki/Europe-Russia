@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 38.4
 dv_has_place_latitude: 51.9
-dv_name: Zemliansk
+dv_has_name_: Zemliansk
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

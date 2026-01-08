@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 35.33
 dv_has_place_latitude: 54.08
-dv_name: Sukhinitchi
+dv_has_name_: Sukhinitchi
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

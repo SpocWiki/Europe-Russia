@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 41.98333
 dv_has_place_latitude: 45.05
-dv_name: Stavropol
+dv_has_name_: Stavropol
 dv_Country: "[[../../../../../Russia]]"
 dv_StateId: 37104
 ---

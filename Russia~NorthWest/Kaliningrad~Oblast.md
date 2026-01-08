@@ -11,7 +11,7 @@ tags:
 SpocWebEntityId: 36942
 isDeleted: false
 confidential: public
-dv_name: Oblast Kaliningrad
+dv_has_name_: Oblast Kaliningrad
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[Kaliningrad~Oblast/City/Kaliningrad]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
@@ -19,7 +19,7 @@ dv_has_place_longitude: 20.8889
 dv_has_place_latitude: 54.6432
 ---
 name = `=this.dv_name` 
-[name-abbr::] 
+[has_name_abbr::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  

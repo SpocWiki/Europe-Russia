@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 29.12
 dv_has_place_latitude: 60.35
-dv_name: Halila
+dv_has_name_: Halila
 dv_Country: "[[../../../../../Europe~North/Finland]]"
 ---
 #is_a_/Place  

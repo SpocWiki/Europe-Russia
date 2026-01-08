@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 43.2
 dv_has_place_latitude: 54.63
-dv_name: Temmikof
+dv_has_name_: Temmikof
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
