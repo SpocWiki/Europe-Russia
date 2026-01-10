@@ -1,5 +1,5 @@
 ---
-dv_has_name_: Mari El~Republic
+dv_has_name: Mari El~Republic
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 47.92
 dv_has_place_latitude: 56.67
@@ -109,8 +109,8 @@ ISO_3166_2_code: RU-ME
 
 # [[Mari_El~Republic]] 
 
-name = `=this.dv_name` 
-[has_name_abbr::] 
+name = `=this.dv_has_name` 
+[has_name_abbreviated::] 
 Country :: [[Russia]]  
 Capital :: [[Yoshkar-Ola]]  
 #is_a_/Place  

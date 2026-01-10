@@ -14,7 +14,7 @@ isDeleted: false
 confidential: public
 dv_geo-lon: 53.23
 dv_geo-lat: 56.85
-dv_has_name_: Izhevsk
+dv_has_name: Izhevsk
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37054
 dv_is_:
@@ -37,7 +37,7 @@ dv_is_same_as:
 ---
 geo-lon = `=this.dv_geo-lon` 
 geo-lat = `=this.dv_geo-lat` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 StateId = `=this.dv_StateId` 

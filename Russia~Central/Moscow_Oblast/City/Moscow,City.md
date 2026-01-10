@@ -408,7 +408,7 @@ WOEID: 2346910
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 37.57
 dv_has_place_latitude: 55.75
-dv_has_name_: Moskwa
+dv_has_name: Moskwa
 dv_StateId: 37140
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Moscow,649|WD~Moscow,649]]"
@@ -419,7 +419,7 @@ dv_is_same_as: "[[../../../../../../../../WikiData/WD~Moscow,649|WD~Moscow,649]]
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[Russia]]  
 StateId = `=this.dv_StateId` 

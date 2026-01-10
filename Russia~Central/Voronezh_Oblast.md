@@ -12,15 +12,15 @@ tags:
 SpocWebEntityId: 37125
 isDeleted: false
 confidential: public
-dv_has_name_: Voronezh Oblast
+dv_has_name: Voronezh Oblast
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[Voronezh_Oblast/City/Woronez]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 39.2
 dv_has_place_latitude: 51.67
 ---
-name = `=this.dv_name` 
-[has_name_abbr::] 
+name = `=this.dv_has_name` 
+[has_name_abbreviated::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  

@@ -1,5 +1,5 @@
 ---
-dv_has_name_: Samara Oblast
+dv_has_name: Samara Oblast
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 52.43
 dv_has_place_latitude: 53.18
@@ -121,8 +121,8 @@ Dewey_Decimal_Classification: 2--4744
 
 # [[Samara_Oblast]] 
 
-name = `=this.dv_name` 
-[has_name_abbr::] 
+name = `=this.dv_has_name` 
+[has_name_abbreviated::] 
 Country :: [[Russia]]  
 Capital :: [[Samara]]  
 #is_a_/Place  

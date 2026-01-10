@@ -19,7 +19,7 @@ aliases:
   - Molotow
 dv_geo-lon: 56.31667
 dv_geo-lat: 58
-dv_has_name_: Perm
+dv_has_name: Perm
 dv_Country: "[[../../../../../Russia]]"
 dv_StateId: 37102
 dv_is_:
@@ -45,7 +45,7 @@ dv_is_same_as:
 
 geo-lon = `=this.dv_geo-lon` 
 geo-lat = `=this.dv_geo-lat` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 StateId = `=this.dv_StateId` 

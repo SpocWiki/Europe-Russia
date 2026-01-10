@@ -11,15 +11,15 @@ tags:
 SpocWebEntityId: 37189
 isDeleted: false
 confidential: public
-dv_has_name_: Smolensk Oblast
+dv_has_name: Smolensk Oblast
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[Smolensk_Oblast/City/Smolensk]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 32.05
 dv_has_place_latitude: 54.78
 ---
-name = `=this.dv_name` 
-[has_name_abbr::] 
+name = `=this.dv_has_name` 
+[has_name_abbreviated::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  

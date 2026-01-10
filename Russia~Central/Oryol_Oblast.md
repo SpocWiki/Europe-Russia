@@ -11,15 +11,15 @@ tags:
 SpocWebEntityId: 37147
 isDeleted: false
 confidential: public
-dv_has_name_: Oryol Oblast
+dv_has_name: Oryol Oblast
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[Oryol_Oblast/City/Oryol]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 36.0667
 dv_has_place_latitude: 52.9667
 ---
-name = `=this.dv_name` 
-[has_name_abbr::] 
+name = `=this.dv_has_name` 
+[has_name_abbreviated::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  

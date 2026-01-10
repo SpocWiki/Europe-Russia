@@ -1,5 +1,5 @@
 ---
-dv_has_name_: Tatarstan~Republic
+dv_has_name: Tatarstan~Republic
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 49.1667
 dv_has_place_latitude: 55.7833
@@ -157,8 +157,8 @@ short_name: Татарская ССР
 
 # [[Tatarstan~Republic]] 
 
-name = `=this.dv_name` 
-[has_name_abbr::] 
+name = `=this.dv_has_name` 
+[has_name_abbreviated::] 
 Country :: [[Russia]]  
 Capital :: [[Kazan]]  
 #is_a_/Place  

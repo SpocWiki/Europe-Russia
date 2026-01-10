@@ -12,15 +12,15 @@ tags:
 SpocWebEntityId: 37150
 isDeleted: false
 confidential: public
-dv_has_name_: Pskov Oblast
+dv_has_name: Pskov Oblast
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[Pskov_Oblast/City/Pskow]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 28.33
 dv_has_place_latitude: 57.83
 ---
-name = `=this.dv_name` 
-[has_name_abbr::] 
+name = `=this.dv_has_name` 
+[has_name_abbreviated::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  

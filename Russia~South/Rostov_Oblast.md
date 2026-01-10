@@ -12,13 +12,13 @@ tags:
 SpocWebEntityId: 37151
 isDeleted: false
 confidential: public
-dv_has_name_: Rostov Oblast
+dv_has_name: Rostov Oblast
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[Rostov_Oblast/City/Rostow=Rostov-na-Donu]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
-name = `=this.dv_name` 
-[has_name_abbr::] 
+name = `=this.dv_has_name` 
+[has_name_abbreviated::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  

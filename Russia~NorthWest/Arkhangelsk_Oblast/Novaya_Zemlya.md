@@ -45,7 +45,7 @@ Libris_URI: vs68741d3n4ffdc
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: 57
 dv_has_place_latitude: 74
-dv_has_name_: Nowaja-Semlja
+dv_has_name: Nowaja-Semlja
 dv_is_:
   same_as: "[[../../../../../../../WikiData/WD~Novaya_Zemlya,80413]]"
 dv_is_same_as: "[[../../../../../../../WikiData/WD~Novaya_Zemlya,80413]]"
@@ -57,7 +57,7 @@ dv_is_same_as: "[[../../../../../../../WikiData/WD~Novaya_Zemlya,80413]]"
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[Russia]]  
 

@@ -1,5 +1,5 @@
 ---
-dv_has_name_: Udmurt~Republic
+dv_has_name: Udmurt~Republic
 dv_geo-lon: 53.23
 dv_geo-lat: 56.85
 dv_is_:
@@ -100,8 +100,8 @@ official name:
   - ?????? ??????
 native label: ?????? ??????
 ---
-name = `=this.dv_name` 
-[has_name_abbr::] 
+name = `=this.dv_has_name` 
+[has_name_abbreviated::] 
 Country :: [[Russia]]  
 Capital :: [[Izhevsk]]  
 geo-lon = `=this.dv_geo-lon` 

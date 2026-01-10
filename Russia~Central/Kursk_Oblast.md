@@ -12,15 +12,15 @@ tags:
 SpocWebEntityId: 37134
 isDeleted: false
 confidential: public
-dv_has_name_: Kursk Oblast
+dv_has_name: Kursk Oblast
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[Kursk_Oblast/City/Kursk]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 36.22
 dv_has_place_latitude: 51.73
 ---
-name = `=this.dv_name` 
-[has_name_abbr::] 
+name = `=this.dv_has_name` 
+[has_name_abbreviated::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  

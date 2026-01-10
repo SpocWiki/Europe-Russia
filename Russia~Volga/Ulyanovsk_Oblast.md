@@ -1,5 +1,5 @@
 ---
-dv_has_name_: Ulyanovsk Oblast
+dv_has_name: Ulyanovsk Oblast
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 48.48
 dv_has_place_latitude: 54.33
@@ -80,8 +80,8 @@ official_website: https://ulgov.gosuslugi.ru/
 
 # [[Ulyanovsk_Oblast]] 
 
-name = `=this.dv_name` 
-[has_name_abbr::] 
+name = `=this.dv_has_name` 
+[has_name_abbreviated::] 
 Country :: [[Russia]]  
 Capital :: [[Ulyanowsk]]  
 #is_a_/Place  

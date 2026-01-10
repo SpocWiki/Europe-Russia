@@ -12,7 +12,7 @@ tags:
 SpocWebEntityId: 37046
 isDeleted: false
 confidential: public
-dv_has_name_: Karelia~Republic
+dv_has_name: Karelia~Republic
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[Karelia~Republic/City/Petrosawodsk]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
@@ -22,8 +22,8 @@ dv_has_place_latitude: 61.78
 
 # [[Karelia~Republic]]
 
-name = `=this.dv_name` 
-[has_name_abbr::] 
+name = `=this.dv_has_name` 
+[has_name_abbreviated::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  

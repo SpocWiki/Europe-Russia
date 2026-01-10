@@ -12,7 +12,7 @@ tags:
 SpocWebEntityId: 37124
 isDeleted: false
 confidential: public
-dv_has_name_: Vologda Oblast
+dv_has_name: Vologda Oblast
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[Vologda_Oblast/City/Wologda]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
@@ -22,8 +22,8 @@ dv_has_place_latitude: 59.23
 
 # [[Vologda_Oblast]] 
 
-name = `=this.dv_name` 
-[has_name_abbr::] 
+name = `=this.dv_has_name` 
+[has_name_abbreviated::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  

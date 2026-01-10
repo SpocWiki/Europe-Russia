@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 44
 dv_has_place_latitude: 56.33333
-dv_has_name_: Nizhny Novgorod
+dv_has_name: Nizhny Novgorod
 dv_StateId: 37142
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Nizhny_Novgorod,891|WD~Nizhny_Novgorod,891]]"
@@ -164,7 +164,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Nizhny%20Novgorod%2020
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[Russia]]  
 StateId = `=this.dv_StateId` 

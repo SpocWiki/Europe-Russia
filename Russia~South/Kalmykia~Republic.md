@@ -12,15 +12,15 @@ tags:
 SpocWebEntityId: 37044
 isDeleted: false
 confidential: public
-dv_has_name_: Kalmykia~Republic
+dv_has_name: Kalmykia~Republic
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[Kalmykia~Republic/City/Elista]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 44.2667
 dv_has_place_latitude: 46.3167
 ---
-name = `=this.dv_name` 
-[has_name_abbr::] 
+name = `=this.dv_has_name` 
+[has_name_abbreviated::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  

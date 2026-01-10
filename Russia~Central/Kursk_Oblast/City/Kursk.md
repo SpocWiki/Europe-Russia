@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 36.22
 dv_has_place_latitude: 51.73
-dv_has_name_: Kursk
+dv_has_name: Kursk
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37134
 ---
@@ -25,7 +25,7 @@ dv_StateId: 37134
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 StateId = `=this.dv_StateId` 

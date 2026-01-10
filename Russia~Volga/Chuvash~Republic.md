@@ -71,7 +71,7 @@ Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/CHUVASHSKI_YAZIK.htm
 GOST_7_75_97_code: чув 795
 entry_in_abbreviations_table: чуваш.
 native_label: Чăваш чĕлхи
-dv_has_name_: Chuvash~Republic
+dv_has_name: Chuvash~Republic
 dv_Capital: "[[Chuvash~Republic/City/Cheboksary]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 47.25
@@ -83,8 +83,8 @@ dv_is_same_as: "[[_Standards/WikiData/WD~Chuvash,33348]]"
 
 # [[Chuvash~Republic]] 
 
-name = `=this.dv_name` 
-[has_name_abbr::] 
+name = `=this.dv_has_name` 
+[has_name_abbreviated::] 
 Country :: [[Russia]]  
 Capital = `=this.dv_Capital`
 #is_a_/Place  

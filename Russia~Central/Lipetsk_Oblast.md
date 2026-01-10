@@ -12,15 +12,15 @@ tags:
 SpocWebEntityId: 37136
 isDeleted: false
 confidential: public
-dv_has_name_: Lipetsk Oblast
+dv_has_name: Lipetsk Oblast
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[Lipetsk_Oblast/City/Lipetsk]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 39.6
 dv_has_place_latitude: 52.6167
 ---
-name = `=this.dv_name` 
-[has_name_abbr::] 
+name = `=this.dv_has_name` 
+[has_name_abbreviated::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  

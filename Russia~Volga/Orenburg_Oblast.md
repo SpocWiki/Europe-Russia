@@ -1,5 +1,5 @@
 ---
-dv_has_name_: Orenburg Oblast
+dv_has_name: Orenburg Oblast
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 55.1
 dv_has_place_latitude: 51.77
@@ -112,8 +112,8 @@ official_website: https://orenburg-gov.ru/
 
 # [[Orenburg_Oblast]] 
 
-name = `=this.dv_name` 
-[has_name_abbr::] 
+name = `=this.dv_has_name` 
+[has_name_abbreviated::] 
 Country :: [[Russia]]  
 Capital :: [[Orenburg=Chkalov]]  
 #is_a_/Place  

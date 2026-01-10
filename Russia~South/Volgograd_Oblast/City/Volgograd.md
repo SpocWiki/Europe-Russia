@@ -20,7 +20,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 44.51667
 dv_has_place_latitude: 48.7
-dv_has_name_: Volgograd
+dv_has_name: Volgograd
 dv_Country: "[[../../../../Russia]]"
 dv_StateId: 37122
 dv_is_:
@@ -34,7 +34,7 @@ dv_is_same_as: "[[../../../../../../../../WikiData/WD~Volgograd,914|WD~Volgograd
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 StateId = `=this.dv_StateId` 

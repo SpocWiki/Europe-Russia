@@ -11,15 +11,15 @@ tags:
 SpocWebEntityId: 37182
 isDeleted: false
 confidential: public
-dv_has_name_: Ryazan Oblast
+dv_has_name: Ryazan Oblast
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[Ryazan_Oblast/City/Ryazan]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 39.67
 dv_has_place_latitude: 54.67
 ---
-name = `=this.dv_name` 
-[has_name_abbr::] 
+name = `=this.dv_has_name` 
+[has_name_abbreviated::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  

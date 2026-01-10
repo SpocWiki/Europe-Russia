@@ -15,7 +15,7 @@ aliases:
   - Перем ладор
   - Perem lador
   - Perm region
-dv_has_name_: Perm Krai
+dv_has_name: Perm Krai
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[Perm_Krai/counties~Perm'/Perm'gorsovet/Perm,City]]"
 dv_geo-lon: 56.3167
@@ -41,8 +41,8 @@ dv_is_same_as:
 
 # [[Perm_Krai]] 
 
-name = `=this.dv_name` 
-[has_name_abbr::] 
+name = `=this.dv_has_name` 
+[has_name_abbreviated::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 geo-lon = `=this.dv_geo-lon` 

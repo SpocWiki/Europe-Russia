@@ -12,15 +12,15 @@ tags:
 SpocWebEntityId: 37034
 isDeleted: false
 confidential: public
-dv_has_name_: Nenets Okrug
+dv_has_name: Nenets Okrug
 dv_Country: "[[../../Russia]]"
 dv_Capital: "[[Nenets_Okrug/City/Naryan-Mar]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 53.05
 dv_has_place_latitude: 67.6333
 ---
-name = `=this.dv_name` 
-[has_name_abbr::] 
+name = `=this.dv_has_name` 
+[has_name_abbreviated::] 
 Country = `=this.dv_Country`
 Capital = `=this.dv_Capital`
 #is_a_/Place  
