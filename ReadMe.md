@@ -375,7 +375,7 @@ dv_has_:
     zh_sg: 俄罗斯
     zh_tw: 俄羅斯
     zu: IRashiya
-  previous_item: "[[../../Asia/USSR|USSR]]"
+  previous_item: "[[../../../Asia/USSR|USSR]]"
   telephone_:
     Prefix_:
       country: 7
@@ -414,9 +414,9 @@ dv_UNTERM_Chinese_Formal: 俄罗斯联邦
 dv_UNTERM_French_Formal: la Fédération de Russie
 dv_UNTERM_Russian: Российская Федерация
 dv_UNTERM_Russian_Formal: Российская Федерация
-dv_Region_Name: "[Europe](Europe)"
-dv_Intermediate_Region_Name: "[Russia](Russia)"
-dv_Sub-region_Name: "[Eastern Europe](Eastern%20Europe)"
+dv_Region_Name: "[Europe](../Europe)"
+dv_Intermediate_Region_Name: "[Russia](../Russia)"
+dv_Sub-region_Name: "[Eastern Europe](../Eastern%20Europe)"
 dv_Region: 150
 dv_Sub-region: 151
 dv_Geoname-ID: 2017370
@@ -439,7 +439,7 @@ dv_ISO2: RU
 dv_ISO3: RUS
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Russia,159|WD~Russia,159]]"
+    - "[[../../../../../WikiData/WD~Russia,159|WD~Russia,159]]"
     - "[[/_Standards/Earth/Continent/Europe/Europe~East/Russia|Russia]]"
     - "[[/_public/Earth/Continent/Europe/Europe~East/Russia.public|Russia.public]]"
     - "[[/_internal/Earth/Continent/Europe/Europe~East/Russia.internal|Russia.internal]]"
@@ -450,14 +450,14 @@ dv_is_:
 dv_has_name_de: Russland
 dv_Area-Total: 17100000
 dv_Area-Land: 16995800
-dv_has_place_continent: "[Europe](Europe)"
-dv_Capital: "[Moscow,City](Russia/Russia~Central/Moscow_Oblast/City/Moscow,City)"
+dv_has_place_continent: "[Europe](../Europe)"
+dv_Capital: "[Moscow,City](Russia~Central/Moscow_Oblast/City/Moscow,City)"
 dv_Alcohol-l: 15.8
 dv_Language-Id: 469
-dv_is_a_: "[place](../../../Geography/Place)"
+dv_is_a_: "[place](../../../../Geography/Place)"
 dv_has_place_longitude: 47.4574
 dv_has_place_latitude: 52.6418
-dv_has_previous_item: "[[../../Asia/USSR|USSR]]"
+dv_has_previous_item: "[[../../../Asia/USSR|USSR]]"
 dv_has_telephone_prefix_country: 7
 dv_has_telephone_prefix_international:
   - 8
@@ -465,7 +465,7 @@ dv_has_telephone_prefix_international:
   - 10
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Russia,159|WD~Russia,159]]"
+  - "[[../../../../../WikiData/WD~Russia,159|WD~Russia,159]]"
   - "[[/_Standards/Earth/Continent/Europe/Europe~East/Russia|Russia]]"
   - "[[/_public/Earth/Continent/Europe/Europe~East/Russia.public|Russia.public]]"
   - "[[/_internal/Earth/Continent/Europe/Europe~East/Russia.internal|Russia.internal]]"
@@ -726,7 +726,7 @@ Languages:
   - nog
 icon: flag-ru
 member_of:
-  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[/_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]"
   - "[[/_Standards/WikiData/WD~Union_State,166110|WD~Union_State,166110]]"
   - "[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]"
@@ -963,7 +963,7 @@ ethnic_group:
   - http://www.wikidata.org/.well-known/genid/3a65f1185da367f2f1b35714e6fd2706
 described_by_source:
   - "[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[/_Standards/WikiData/WD~Draft_History_of_Qing,1374339|WD~Draft_History_of_Qing,1374339]]"
   - "[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
@@ -1612,7 +1612,7 @@ is_a = `=this.dv_is_a_`
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Russia)
-into a Subfolder named `Russia`, so that this Link into the Sub-Repository works: [[Russia/ReadMe|ReadMe]] 
+into a Subfolder named `Russia`, so that this Link into the Sub-Repository works: [[ReadMe|ReadMe]] 
 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
@@ -1627,76 +1627,76 @@ and cities of federal significance. Numbers are of 2022-06
 
 | Federal Subject                                                                                 | Pop/k |   kkm² | GRP/GRUB | GRPpP/kRUB | HDI   | Notable Properties                                                     |
 | ----------------------------------------------------------------------------------------------- | ----: | -----: | -------: | ---------: | ----- | ---------------------------------------------------------------------- |
-| [[Russia/Russia~South/Adygea~Republic\|Republic of Adygea]]                                     |   467 |    7.6 |    136.7 |      292.5 | 0.821 | Rich in natural landscapes,  populated by Adyghe people                |
-| [[Russia/Siberia/Altai_Republic\|Altai Republic]]                                                              |   218 |   92.9 |     57.1 |      260.6 | 0.775 | Mountainous, sparsely populated, cultural richness                     |
-| [[Russia/Siberia/Republic_of_Bashkortostan\|Republic of Bashkortostan]]                                        |  4000 |  143.6 |     2084 |      521.0 | 0.861 | Strong industrial base, multicultural population                       |
-| [[Russia/Siberia/Republic_of_Buryatia\|Republic of Buryatia]]                                                  |   978 |  351.3 |      333 |      340.1 | 0.838 | Lake Baikal, developed mining industry                                 |
-| [[Russia/Russia~NorthCaucasus/Dagestan~Republic\|Republic of Dagestan]]                         |  3100 |   50.3 |      761 |      245.1 | 0.78  | High ethnic diversity, vibrant cultural heritage                       |
-| [[Russia/Russia~NorthCaucasus/Ingushetia~Republic\|Republic of Ingushetia]]                     |   509 |    3.6 |       55 |      108.0 | 0.77  | Traditional highlander culture, mountainous terrain                    |
-| [[Russia/Russia~NorthCaucasus/Kabardino-Balkar~Republic\|Kabardino-Balkar Republic]]            |   860 |   12.5 |      180 |      208.1 | 0.82  | Elbrus Mountain, diverse ethnic composition                            |
-| [[Russia/Russia~South/Kalmykia~Republic\|Republic of Kalmykia]]                                 |   272 |   74.7 |       58 |      213.2 | 0.76  | Only Buddhist-majority region in Europe                                |
-| [[Russia/Russia~NorthCaucasus/Karachay-Cherkess\|Karachay-Cherkess]] Republic                   |   467 |   14.1 |      102 |      218.4 | 0.81  | Mountainous territories, rich in flora and fauna                       |
-| [[Russia/Russia~NorthWest/Karelia~Republic\|Republic of Karelia]]                               |   604 |  180.5 |      362 |      598.6 | 0.853 | Abundant water resources, large forest cover                           |
-| [[Russia/Russia~NorthWest/Komi~Republic\|Komi Republic]]                                        |   822 |  415.9 |      640 |      778.7 | 0.855 | Rich in oil and gas, extensive timber resources                        |
-| [[Russia/Russia~Volga/Mari_El~Republic\|Mari El Republic]]                                      |   678 |   23.2 |      150 |      221.8 | 0.82  | Rich historical background, culturally diverse                         |
-| [[Russia/Russia~Volga/Mordovia~Republic\|Republic of Mordovia]]                                 |   775 |   26.2 |      204 |      263.2 | 0.85  | Strong agricultural sector, ethnically mixed population                |
-| [[Russia/Siberia/Republic_of_Sakha\|Republic of Sakha]] (Yakutia)                                              |   977 | 3083.5 |     1116 |     1141.4 | 0.864 | Large territories, extreme climatic conditions                         |
-| [[Russia/Russia~NorthCaucasus/North_Ossetia-Alania~Republic\|Republic of North Ossetia-Alania]] |   694 |    8.0 |      186 |      268.1 | 0.844 | Mountainous and culturally rich                                        |
-| [[Russia/Russia~Volga/Tatarstan~Republic\|Republic of Tatarstan]]                               |  3900 |   68.0 |     3831 |      981.5 | 0.899 | Economic powerhouse, industrial hub                                    |
-| [[Russia/Siberia/Tuva_Republic\|Tuva Republic]]                                                                |   328 |  168.6 |       56 |      170.7 | 0.76  | Rich cultural traditions, mountainous regions                          |
-| [[Russia/Russia~Volga/Udmurt~Republic\|Udmurt Republic]]                                                            |  1500 |   42.1 |      554 |      369.3 | 0.864 | Industrially developed, diverse population                             |
-| [[Russia/Siberia/Khanty-Mansi_Autonomous_Okrug\|Khanty-Mansi Autonomous Okrug]]                                |  1600 |  534.8 |     4373 |     2733.1 | 0.871 | Oil-rich, sparsely populated                                           |
-| [[Russia/Siberia/Chukotka_Autonomous_Okrug\|Chukotka Autonomous Okrug]]                                        |    50 |  721.5 |      103 |     2060.0 | 0.865 | Extreme northern climate, sparsely populated                           |
-| [[Russia/Siberia/Yamalo-Nenets_Autonomous_Okrug\|Yamalo-Nenets Autonomous Okrug]]                              |   538 |  769.3 |     4822 |     8961.9 | 0.882 | Key natural gas production area                                        |
-| [[Russia/Russia~NorthWest/Nenets_Okrug\|Nenets Autonomous Okrug]]                                            |    44 |  176.7 |       95 |     2148.6 | 0.861 | Located in the Arctic, rich in natural resources                       |
-| [[Russia/Siberia/Amur_Oblast\|Amur Oblast]]                                                                    |   792 |  361.9 |      515 |      650.4 | 0.84  | Rich natural resources, diverse geography                              |
-| [[Russia/Russia~NorthWest/Arkhangelsk_Oblast\|Arkhangelsk Oblast]]                              |  1100 |  587.4 |      462 |      420.0 | 0.857 | Forestry and shipbuilding are vital industries                         |
-| [[Russia/Russia~South/Astrakhan_Oblast\|Astrakhan Oblast]]                                      |  1000 |   44.8 |      425 |      425.0 | 0.83  | Fishery industry plays a crucial role                                  |
-| [[Russia/Russia~Central/Belgorod_Oblast\|Belgorod Oblast]]                                      |  1500 |   27.1 |      747 |      498.0 | 0.864 | Strong agricultural sector, key industrial area                        |
-| [[Russia/Russia~Central/Bryansk_Oblast\|Bryansk Oblast]]                                        |  1200 |   34.9 |      492 |      410.0 | 0.845 | Forest zones and agriculture are prominent                             |
-| [[Russia/Siberia/Chelyabinsk_Oblast\|Chelyabinsk Oblast]]                                                      |  3500 |   88.5 |     1819 |      520.0 | 0.878 | Heavy industry and rich mineral resources                              |
-| [[Russia/Siberia/Irkutsk_Oblast\|Irkutsk Oblast]]                                                              |  2400 |  768.1 |     1340 |      558.3 | 0.87  | [[../../Asia/Asia~Central/Lake_Baikal\|Lake Baikal]], rich in minerals |
-| [[Russia/Russia~Central/Ivanovo_Oblast\|Ivanovo Oblast]]                                        |   990 |   21.4 |      317 |      320.2 | 0.85  | Known for textile industries, historical architecture                  |
-| [[Russia/Russia~NorthWest/Kaliningrad~Oblast\|Kaliningrad Oblast]]                              |  1000 |   15.1 |      489 |      489.0 | 0.875 | Enclave between Poland and Lithuania, key port area                    |
-| [[Russia/Russia~Central/Kaluga_Oblast\|Kaluga Oblast]]                                          |  1000 |   29.9 |      381 |      381.0 | 0.871 | Diverse industrial sector, economic development                        |
-| [[Russia/Siberia/Kemerovo_Oblast\|Kemerovo Oblast]]                                                            |  2500 |   95.7 |     1217 |      486.8 | 0.872 | Rich in coal, strong metallurgical industry                            |
-| [[Russia/Russia~Volga/Kirov_Oblast\|Kirov Oblast]]                                              |  1200 |  120.4 |      455 |      379.1 | 0.84  | Diverse natural landscapes, forestry and agriculture                   |
-| [[Russia/Russia~Central/Kostroma_Oblast\|Kostroma Oblast]]                                      |   630 |   60.2 |      199 |      315.8 | 0.83  | Forestry plays a significant role                                      |
-| [[Russia/Siberia/Kurgan_Oblast\|Kurgan Oblast]]                                                                |   820 |   71.5 |      221 |      269.5 | 0.82  | Predominantly agricultural, less industrialized                        |
-| [[Russia/Russia~Central/Kursk_Oblast\|Kursk Oblast]]                                            |  1100 |   29.9 |      473 |      430.0 | 0.86  | Rich in iron ore, strong agricultural sector                           |
-| [[Russia/Russia~Central/Lipetsk_Oblast\|Lipetsk Oblast]]                                        |  1100 |   24.1 |      445 |      404.5 | 0.832 | Strong industrial base, known for steel production                     |
-| [[Russia/Siberia/Magadan_Oblast\|Magadan Oblast]]                                                              |   140 |  461.4 |      206 |     1471.4 | 0.869 | Rich in gold and silver, harsh climate                                 |
-| [[Russia/Russia~Central/Moscow_Oblast\|Moscow Oblast]]                                          |  7200 |   44.3 |     3022 |      419.7 | 0.888 | Suburban area around the capital                                       |
-| [[Russia/Russia~NorthWest/Murmansk_Oblast\|Murmansk Oblast]]                                    |   670 |  144.9 |      551 |      822.3 | 0.871 | Key strategic location, rich mineral resources                         |
-| [[Russia/Russia~Volga/Nizhny_Novgorod_Oblast\|Nizhny Novgorod Oblast]]                          |  3200 |   76.6 |     1439 |      449.6 | 0.879 | Important industrial and cultural center                               |
-| [[Russia/Russia~NorthWest/Novgorod_Oblast\|Novgorod Oblast]]                                    |   620 |   55.3 |      289 |      466.1 | 0.861 | Known for its cultural heritage                                        |
-| [[Russia/Siberia/Novosibirsk_Oblast|Novosibirsk_Oblast]]                                                                          |  2800 |  178.2 |     1599 |      570.3 | 0.878 | Major transport and logistics hub                                      |
-| [[Russia/Siberia/Omsk_Oblast|Omsk_Oblast]]                                                                                 |  1922 |  139.7 |      865 |      450.0 | 0.86  | Key agricultural region, diverse industries                            |
-| [[Russia/Russia~Central/Oryol_Oblast\|Oryol Oblast]]                                            |   716 |   24.7 |      190 |      265.9 | 0.841 | Rich agricultural heritage and historical sites                        |
-| [[Russia/Russia~Volga/Orenburg_Oblast\|Orenburg Oblast]]                                        |  1970 |  124.0 |     1056 |      531.1 | 0.865 | Oil and gas are vital for the economy                                  |
-| [[Russia/Russia~Volga/Penza_Oblast\|Penza Oblast]]                                              |  1300 |   43.2 |      381 |      293.0 | 0.859 | Known for machine-building and agricultural sectors                    |
-| [[Russia/Russia~NorthWest/Pskov_Oblast\|Pskov Oblast]]                                          |   625 |   55.3 |      206 |      329.6 | 0.844 | Historic significance, rich in heritage sites                          |
-| [[Russia/Russia~South/Rostov_Oblast\|Rostov Oblast]]                                            |  4200 |  100.8 |     1747 |      415.0 | 0.862 | Economically diverse, rich agricultural output                         |
-| [[Russia/Russia~Central/Ryazan_Oblast\|Ryazan Oblast]]                                          |  1100 |   39.6 |      451 |      410.0 | 0.859 | Agriculture and machine building are prominent                         |
-| [[Russia/Russia~Volga/Samara_Oblast\|Samara Oblast]]                                            |  3200 |   53.6 |     1861 |      591.5 | 0.891 | Strong industrial sector, major automobile production                  |
-| [[Russia/Russia~Volga/Saratov_Oblast\|Saratov Oblast]]                                          |  2400 |  100.2 |      819 |      341.2 | 0.86  | Diverse economy, key role in agriculture                               |
-| [[Russia/Siberia/Sakhalin_Oblast\|Sakhalin Oblast]]                                                            |   496 |   87.1 |      476 |      959.6 | 0.883 | Oil and gas reserves, strategically located island                     |
-| [[Russia/Russia~Central/Smolensk_Oblast\|Smolensk Oblast]]                                      |   927 |   49.8 |      365 |      393.5 | 0.87  | Known for its sacred sites and historical significance                 |
-| [[Russia/Siberia/Sverdlovsk_Oblast\|Sverdlovsk Oblast]]                                                        |  4300 |  194.3 |     2395 |      556.9 | 0.882 | Industrial powerhouse, rich minerally                                  |
-| [[Russia/Russia~Central/Tambov_Oblast\|Tambov Oblast]]                                          |  1000 |   34.3 |      322 |      322.0 | 0.87  | Predominantly agricultural                                             |
-| [[Russia/Siberia/Tomsk_Oblast|Tomsk_Oblast]]                                                                                |  1030 |  316.9 |      954 |      926.2 | 0.874 | Key educational and scientific center                                  |
-| [[Russia/Russia~Central/Tula_Oblast\|Tula Oblast]]                                              |  1400 |   25.7 |      581 |      415.0 | 0.872 | Known for its weapon manufacturing                                     |
-| [[Russia/Russia~Central/Tver_Oblast\|Tver Oblast]]                                              |  1300 |   84.2 |      473 |      364.6 | 0.862 | Rich in historical sites, diverse agricultural output                  |
-| [[Russia/Siberia/Tyumen_Oblast\|Tyumen Oblast]]                                                                |  3700 | 1435.2 |     2514 |      679.4 | 0.891 | Rich in oil and gas resources                                          |
-| [[Russia/Russia~Volga/Ulyanovsk_Oblast\|Ulyanovsk Oblast]]                                      |  1300 |   37.3 |      504 |      387.6 | 0.864 | Strategically important, industrially developed                        |
-| [[Russia/Russia~Central/Vladimir_Oblast\|Vladimir Oblast]]                                      |  1400 |   29.0 |      618 |      441.4 | 0.874 | Rich in cultural heritage, diverse industry                            |
-| [[Russia/Russia~South/Volgograd_Oblast\|Volgograd Oblast]]                                      |  2500 |  113.9 |     1129 |      451.6 | 0.866 | Economically important region, diverse industries                      |
-| [[Russia/Russia~NorthWest/Vologda_Oblast\|Vologda Oblast]]                                      |  1200 |  145.7 |      503 |      419.1 | 0.856 | Strong industrial basis, rich in natural resources                     |
-| [[Russia/Russia~Central/Voronezh_Oblast\|Voronezh Oblast]]                                      |  2300 |   52.4 |     1186 |      515.6 | 0.869 | Key agricultural region and economic hub                               |
-| [[Russia/Russia~Central/Yaroslavl_Oblast\|Yaroslavl Oblast]]                                    |  1300 |   36.2 |      527 |      405.3 | 0.875 | Rich in history, developed industries                                  |
-| [[Russia/Russia~NorthWest/St.Petersburg,City\|St.Petersburg]]                                   |  5400 |    1.4 |     4889 |      905.3 | 0.934 | Historical and cultural capital of Russia                              |
-| [[Russia/Russia~Central/Moscow_Oblast\|Moscow]]                                                 | 12600 |    2.5 |    23396 |     1857.6 | 0.957 | Capital of Russia, largest economic and political center               |
-| [[Ukraine/Regions~Ukraine/Sevastopol\|Sevastopol]]                                              |   497 |     .8 |       50 |      100.8 | -     | Strategic location in Crimea, naval base                               |
+| [[Russia~South/Adygea~Republic/|Republic of Adygea]]                                     |   467 |    7.6 |    136.7 |      292.5 | 0.821 | Rich in natural landscapes,  populated by Adyghe people                |
+| [[Siberia/Altai_Republic/|Altai Republic]]                                                              |   218 |   92.9 |     57.1 |      260.6 | 0.775 | Mountainous, sparsely populated, cultural richness                     |
+| [[Siberia/Republic_of_Bashkortostan/|Republic of Bashkortostan]]                                        |  4000 |  143.6 |     2084 |      521.0 | 0.861 | Strong industrial base, multicultural population                       |
+| [[Siberia/Republic_of_Buryatia/|Republic of Buryatia]]                                                  |   978 |  351.3 |      333 |      340.1 | 0.838 | Lake Baikal, developed mining industry                                 |
+| [[Russia~NorthCaucasus/Dagestan~Republic/|Republic of Dagestan]]                         |  3100 |   50.3 |      761 |      245.1 | 0.78  | High ethnic diversity, vibrant cultural heritage                       |
+| [[Russia~NorthCaucasus/Ingushetia~Republic/|Republic of Ingushetia]]                     |   509 |    3.6 |       55 |      108.0 | 0.77  | Traditional highlander culture, mountainous terrain                    |
+| [[Russia~NorthCaucasus/Kabardino-Balkar~Republic/|Kabardino-Balkar Republic]]            |   860 |   12.5 |      180 |      208.1 | 0.82  | Elbrus Mountain, diverse ethnic composition                            |
+| [[Russia~South/Kalmykia~Republic/|Republic of Kalmykia]]                                 |   272 |   74.7 |       58 |      213.2 | 0.76  | Only Buddhist-majority region in Europe                                |
+| [[Russia~NorthCaucasus/Karachay-Cherkess/|Karachay-Cherkess]] Republic                   |   467 |   14.1 |      102 |      218.4 | 0.81  | Mountainous territories, rich in flora and fauna                       |
+| [[Russia~NorthWest/Karelia~Republic/|Republic of Karelia]]                               |   604 |  180.5 |      362 |      598.6 | 0.853 | Abundant water resources, large forest cover                           |
+| [[Russia~NorthWest/Komi~Republic/|Komi Republic]]                                        |   822 |  415.9 |      640 |      778.7 | 0.855 | Rich in oil and gas, extensive timber resources                        |
+| [[Russia~Volga/Mari_El~Republic/|Mari El Republic]]                                      |   678 |   23.2 |      150 |      221.8 | 0.82  | Rich historical background, culturally diverse                         |
+| [[Russia~Volga/Mordovia~Republic/|Republic of Mordovia]]                                 |   775 |   26.2 |      204 |      263.2 | 0.85  | Strong agricultural sector, ethnically mixed population                |
+| [[Siberia/Republic_of_Sakha/|Republic of Sakha]] (Yakutia)                                              |   977 | 3083.5 |     1116 |     1141.4 | 0.864 | Large territories, extreme climatic conditions                         |
+| [[Russia~NorthCaucasus/North_Ossetia-Alania~Republic/|Republic of North Ossetia-Alania]] |   694 |    8.0 |      186 |      268.1 | 0.844 | Mountainous and culturally rich                                        |
+| [[Russia~Volga/Tatarstan~Republic/|Republic of Tatarstan]]                               |  3900 |   68.0 |     3831 |      981.5 | 0.899 | Economic powerhouse, industrial hub                                    |
+| [[Siberia/Tuva_Republic/|Tuva Republic]]                                                                |   328 |  168.6 |       56 |      170.7 | 0.76  | Rich cultural traditions, mountainous regions                          |
+| [[Russia~Volga/Udmurt~Republic/|Udmurt Republic]]                                                            |  1500 |   42.1 |      554 |      369.3 | 0.864 | Industrially developed, diverse population                             |
+| [[Siberia/Khanty-Mansi_Autonomous_Okrug/|Khanty-Mansi Autonomous Okrug]]                                |  1600 |  534.8 |     4373 |     2733.1 | 0.871 | Oil-rich, sparsely populated                                           |
+| [[Siberia/Chukotka_Autonomous_Okrug/|Chukotka Autonomous Okrug]]                                        |    50 |  721.5 |      103 |     2060.0 | 0.865 | Extreme northern climate, sparsely populated                           |
+| [[Siberia/Yamalo-Nenets_Autonomous_Okrug/|Yamalo-Nenets Autonomous Okrug]]                              |   538 |  769.3 |     4822 |     8961.9 | 0.882 | Key natural gas production area                                        |
+| [[Russia~NorthWest/Nenets_Okrug/|Nenets Autonomous Okrug]]                                            |    44 |  176.7 |       95 |     2148.6 | 0.861 | Located in the Arctic, rich in natural resources                       |
+| [[Siberia/Amur_Oblast/|Amur Oblast]]                                                                    |   792 |  361.9 |      515 |      650.4 | 0.84  | Rich natural resources, diverse geography                              |
+| [[Russia~NorthWest/Arkhangelsk_Oblast/|Arkhangelsk Oblast]]                              |  1100 |  587.4 |      462 |      420.0 | 0.857 | Forestry and shipbuilding are vital industries                         |
+| [[Russia~South/Astrakhan_Oblast/|Astrakhan Oblast]]                                      |  1000 |   44.8 |      425 |      425.0 | 0.83  | Fishery industry plays a crucial role                                  |
+| [[Russia~Central/Belgorod_Oblast/|Belgorod Oblast]]                                      |  1500 |   27.1 |      747 |      498.0 | 0.864 | Strong agricultural sector, key industrial area                        |
+| [[Russia~Central/Bryansk_Oblast/|Bryansk Oblast]]                                        |  1200 |   34.9 |      492 |      410.0 | 0.845 | Forest zones and agriculture are prominent                             |
+| [[Siberia/Chelyabinsk_Oblast/|Chelyabinsk Oblast]]                                                      |  3500 |   88.5 |     1819 |      520.0 | 0.878 | Heavy industry and rich mineral resources                              |
+| [[Siberia/Irkutsk_Oblast/|Irkutsk Oblast]]                                                              |  2400 |  768.1 |     1340 |      558.3 | 0.87  | [[../../../Asia/Asia~Central/Lake_Baikal/|Lake Baikal]], rich in minerals |
+| [[Russia~Central/Ivanovo_Oblast/|Ivanovo Oblast]]                                        |   990 |   21.4 |      317 |      320.2 | 0.85  | Known for textile industries, historical architecture                  |
+| [[Russia~NorthWest/Kaliningrad~Oblast/|Kaliningrad Oblast]]                              |  1000 |   15.1 |      489 |      489.0 | 0.875 | Enclave between Poland and Lithuania, key port area                    |
+| [[Russia~Central/Kaluga_Oblast/|Kaluga Oblast]]                                          |  1000 |   29.9 |      381 |      381.0 | 0.871 | Diverse industrial sector, economic development                        |
+| [[Siberia/Kemerovo_Oblast/|Kemerovo Oblast]]                                                            |  2500 |   95.7 |     1217 |      486.8 | 0.872 | Rich in coal, strong metallurgical industry                            |
+| [[Russia~Volga/Kirov_Oblast/|Kirov Oblast]]                                              |  1200 |  120.4 |      455 |      379.1 | 0.84  | Diverse natural landscapes, forestry and agriculture                   |
+| [[Russia~Central/Kostroma_Oblast/|Kostroma Oblast]]                                      |   630 |   60.2 |      199 |      315.8 | 0.83  | Forestry plays a significant role                                      |
+| [[Siberia/Kurgan_Oblast/|Kurgan Oblast]]                                                                |   820 |   71.5 |      221 |      269.5 | 0.82  | Predominantly agricultural, less industrialized                        |
+| [[Russia~Central/Kursk_Oblast/|Kursk Oblast]]                                            |  1100 |   29.9 |      473 |      430.0 | 0.86  | Rich in iron ore, strong agricultural sector                           |
+| [[Russia~Central/Lipetsk_Oblast/|Lipetsk Oblast]]                                        |  1100 |   24.1 |      445 |      404.5 | 0.832 | Strong industrial base, known for steel production                     |
+| [[Siberia/Magadan_Oblast/|Magadan Oblast]]                                                              |   140 |  461.4 |      206 |     1471.4 | 0.869 | Rich in gold and silver, harsh climate                                 |
+| [[Russia~Central/Moscow_Oblast/|Moscow Oblast]]                                          |  7200 |   44.3 |     3022 |      419.7 | 0.888 | Suburban area around the capital                                       |
+| [[Russia~NorthWest/Murmansk_Oblast/|Murmansk Oblast]]                                    |   670 |  144.9 |      551 |      822.3 | 0.871 | Key strategic location, rich mineral resources                         |
+| [[Russia~Volga/Nizhny_Novgorod_Oblast/|Nizhny Novgorod Oblast]]                          |  3200 |   76.6 |     1439 |      449.6 | 0.879 | Important industrial and cultural center                               |
+| [[Russia~NorthWest/Novgorod_Oblast/|Novgorod Oblast]]                                    |   620 |   55.3 |      289 |      466.1 | 0.861 | Known for its cultural heritage                                        |
+| [[Siberia/Novosibirsk_Oblast|Novosibirsk_Oblast]]                                                                          |  2800 |  178.2 |     1599 |      570.3 | 0.878 | Major transport and logistics hub                                      |
+| [[Siberia/Omsk_Oblast|Omsk_Oblast]]                                                                                 |  1922 |  139.7 |      865 |      450.0 | 0.86  | Key agricultural region, diverse industries                            |
+| [[Russia~Central/Oryol_Oblast/|Oryol Oblast]]                                            |   716 |   24.7 |      190 |      265.9 | 0.841 | Rich agricultural heritage and historical sites                        |
+| [[Russia~Volga/Orenburg_Oblast/|Orenburg Oblast]]                                        |  1970 |  124.0 |     1056 |      531.1 | 0.865 | Oil and gas are vital for the economy                                  |
+| [[Russia~Volga/Penza_Oblast/|Penza Oblast]]                                              |  1300 |   43.2 |      381 |      293.0 | 0.859 | Known for machine-building and agricultural sectors                    |
+| [[Russia~NorthWest/Pskov_Oblast/|Pskov Oblast]]                                          |   625 |   55.3 |      206 |      329.6 | 0.844 | Historic significance, rich in heritage sites                          |
+| [[Russia~South/Rostov_Oblast/|Rostov Oblast]]                                            |  4200 |  100.8 |     1747 |      415.0 | 0.862 | Economically diverse, rich agricultural output                         |
+| [[Russia~Central/Ryazan_Oblast/|Ryazan Oblast]]                                          |  1100 |   39.6 |      451 |      410.0 | 0.859 | Agriculture and machine building are prominent                         |
+| [[Russia~Volga/Samara_Oblast/|Samara Oblast]]                                            |  3200 |   53.6 |     1861 |      591.5 | 0.891 | Strong industrial sector, major automobile production                  |
+| [[Russia~Volga/Saratov_Oblast/|Saratov Oblast]]                                          |  2400 |  100.2 |      819 |      341.2 | 0.86  | Diverse economy, key role in agriculture                               |
+| [[Siberia/Sakhalin_Oblast/|Sakhalin Oblast]]                                                            |   496 |   87.1 |      476 |      959.6 | 0.883 | Oil and gas reserves, strategically located island                     |
+| [[Russia~Central/Smolensk_Oblast/|Smolensk Oblast]]                                      |   927 |   49.8 |      365 |      393.5 | 0.87  | Known for its sacred sites and historical significance                 |
+| [[Siberia/Sverdlovsk_Oblast/|Sverdlovsk Oblast]]                                                        |  4300 |  194.3 |     2395 |      556.9 | 0.882 | Industrial powerhouse, rich minerally                                  |
+| [[Russia~Central/Tambov_Oblast/|Tambov Oblast]]                                          |  1000 |   34.3 |      322 |      322.0 | 0.87  | Predominantly agricultural                                             |
+| [[Siberia/Tomsk_Oblast|Tomsk_Oblast]]                                                                                |  1030 |  316.9 |      954 |      926.2 | 0.874 | Key educational and scientific center                                  |
+| [[Russia~Central/Tula_Oblast/|Tula Oblast]]                                              |  1400 |   25.7 |      581 |      415.0 | 0.872 | Known for its weapon manufacturing                                     |
+| [[Russia~Central/Tver_Oblast/|Tver Oblast]]                                              |  1300 |   84.2 |      473 |      364.6 | 0.862 | Rich in historical sites, diverse agricultural output                  |
+| [[Siberia/Tyumen_Oblast/|Tyumen Oblast]]                                                                |  3700 | 1435.2 |     2514 |      679.4 | 0.891 | Rich in oil and gas resources                                          |
+| [[Russia~Volga/Ulyanovsk_Oblast/|Ulyanovsk Oblast]]                                      |  1300 |   37.3 |      504 |      387.6 | 0.864 | Strategically important, industrially developed                        |
+| [[Russia~Central/Vladimir_Oblast/|Vladimir Oblast]]                                      |  1400 |   29.0 |      618 |      441.4 | 0.874 | Rich in cultural heritage, diverse industry                            |
+| [[Russia~South/Volgograd_Oblast/|Volgograd Oblast]]                                      |  2500 |  113.9 |     1129 |      451.6 | 0.866 | Economically important region, diverse industries                      |
+| [[Russia~NorthWest/Vologda_Oblast/|Vologda Oblast]]                                      |  1200 |  145.7 |      503 |      419.1 | 0.856 | Strong industrial basis, rich in natural resources                     |
+| [[Russia~Central/Voronezh_Oblast/|Voronezh Oblast]]                                      |  2300 |   52.4 |     1186 |      515.6 | 0.869 | Key agricultural region and economic hub                               |
+| [[Russia~Central/Yaroslavl_Oblast/|Yaroslavl Oblast]]                                    |  1300 |   36.2 |      527 |      405.3 | 0.875 | Rich in history, developed industries                                  |
+| [[Russia~NorthWest/St.Petersburg,City/|St.Petersburg]]                                   |  5400 |    1.4 |     4889 |      905.3 | 0.934 | Historical and cultural capital of Russia                              |
+| [[Russia~Central/Moscow_Oblast/|Moscow]]                                                 | 12600 |    2.5 |    23396 |     1857.6 | 0.957 | Capital of Russia, largest economic and political center               |
+| [[../Ukraine/Regions~Ukraine/Sevastopol/|Sevastopol]]                                              |   497 |     .8 |       50 |      100.8 | -     | Strategic location in Crimea, naval base                               |
 
 This table contains statistical data compiled from various sources as of 2021/22, including population estimates, gross regional product (GRP), and other economic indicators. Please verify this information using credible government and statistical sources, given the dynamic nature of demographic and economic data. 
 
@@ -1729,9 +1729,9 @@ Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 [VehicleCode::]
 Capital = `=this.dv_Capital`
-![350](Coat_of_arms_of_Russia.svg)
-![Anthem-Russia.mp3](../../../../../_public/xLarge.public/National-Anthem/Anthem-Russia.mp3)
-![350](Flag_of_Russia.svg)
+![350](../Coat_of_arms_of_Russia.svg)
+![Anthem-Russia.mp3](../../../../../../_public/xLarge.public/National-Anthem/Anthem-Russia.mp3)
+![350](../Flag_of_Russia.svg)
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
 
@@ -1752,15 +1752,15 @@ has_place_latitude = `=this.dv_has_place_latitude`
 | 2022-10    | Germany, Norway    | Undersea Cables & Pipelines     | Nord Stream pipeline explosions                                                                |           |
 | 2023-02    | Poland & Lithuania | Railways                        | Cyberattacks causing disruptions in rail systems                   |           |
 | 2023-05    | Various Europe     | Cyber Infrastructure            | Increased phishing/cyber espionage activities attributed to Russia |           |
-| 2024-02-16 |                    | Dissident                       | [[../../../../../_private/Society/Communication/Media/Podcast/Navalny,Alexei\|Navalny,Alexei]]    |           |
-| 2018-03    |                    | [[Double-Agent]]                | [[Russia/Skripal,Sergei|Skripal,Sergei]]                                                 |           |
+| 2024-02-16 |                    | Dissident                       | [[../../../../../../_private/Society/Communication/Media/Podcast/Navalny,Alexei/|Navalny,Alexei]]    |           |
+| 2018-03    |                    | [[Double-Agent]]                | [[Skripal,Sergei|Skripal,Sergei]]                                                 |           |
 | 2006-11-23 |                    | [[Double-Agent]]                | [[Alexander Litwinenko]]                                           |           |
-|            |                    |                                 | [[../../Arctica/Arctic-Russian-Islands/Krasikov,Vadim|Krasikov,Vadim]]                                                |           |
+|            |                    |                                 | [[../../../Arctica/Arctic-Russian-Islands/Krasikov,Vadim|Krasikov,Vadim]]                                                |           |
 
 
   
  
-[[../../media/Podcast/Navalny,Alexei|Navalny,Alexei]]  
+[[../../../media/Podcast/Navalny,Alexei|Navalny,Alexei]]  
 [Alexander Walterowitsch Litwinenko](https://de.wikipedia.org/wiki/Alexander_Walterowitsch_Litwinenko "Alexander Walterowitsch Litwinenko"), ehemaliger russischer [FSB](https://de.wikipedia.org/wiki/FSB_\(Geheimdienst\) "FSB (Geheimdienst)")-Agent, Buchautor und [Putin](https://de.wikipedia.org/wiki/Wladimir_Wladimirowitsch_Putin "Wladimir Wladimirowitsch Putin")-Kritiker, wurde am 1. November 2006 im Exil in London mit [Polonium-210](https://de.wikipedia.org/wiki/Polonium-210 "Polonium-210") vergiftet 
 
 
