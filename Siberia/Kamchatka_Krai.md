@@ -7,6 +7,8 @@ has_time_started: 2007-01-01
 aliases:
   - Kamchatka Krai
   - Kamchatka_Krai
+  - Камча́тский край
+  - Kamchatskiy kray
 has_id_wikidata: Q7948
 contains_the_administrative_territorial_entity:
   - "[[_Standards/WikiData/WD~Koryak_Okrug,204809]]"
@@ -24,23 +26,46 @@ contains_the_administrative_territorial_entity:
   - "[[_Standards/WikiData/WD~Petropavlovsk_Kamchatsky_Urban_Okrug,27559915]]"
   - "[[_Standards/WikiData/WD~Vilyuchinsk_Urban_Okrug,27559913]]"
   - "[[_Standards/WikiData/WD~Palana_Village,27559918]]"
+  - "[[/_Standards/WikiData/WD~Koryak_Okrug,204809|WD~Koryak_Okrug,204809]]"
+  - "[[/_Standards/WikiData/WD~Ust_Kamchatsky_District,263933|WD~Ust_Kamchatsky_District,263933]]"
+  - "[[/_Standards/WikiData/WD~Milkovsky_District,539619|WD~Milkovsky_District,539619]]"
+  - "[[/_Standards/WikiData/WD~Bystrinsky_District,542009|WD~Bystrinsky_District,542009]]"
+  - "[[/_Standards/WikiData/WD~Aleutsky_District,621449|WD~Aleutsky_District,621449]]"
+  - "[[/_Standards/WikiData/WD~Olyutorsky_District,690756|WD~Olyutorsky_District,690756]]"
+  - "[[/_Standards/WikiData/WD~Penzhinsky_District,747718|WD~Penzhinsky_District,747718]]"
+  - "[[/_Standards/WikiData/WD~Ust_Bolsheretsky_District,766227|WD~Ust_Bolsheretsky_District,766227]]"
+  - "[[/_Standards/WikiData/WD~Sobolevsky_District,918203|WD~Sobolevsky_District,918203]]"
+  - "[[/_Standards/WikiData/WD~Yelizovsky_District,1042558|WD~Yelizovsky_District,1042558]]"
+  - "[[/_Standards/WikiData/WD~Karaginsky_District,1042648|WD~Karaginsky_District,1042648]]"
+  - "[[/_Standards/WikiData/WD~Tigilsky_District,1042950|WD~Tigilsky_District,1042950]]"
+  - "[[/_Standards/WikiData/WD~Petropavlovsk_Kamchatsky_Urban_Okrug,27559915|WD~Petropavlovsk_Kamchatsky_Urban_Okrug,27559915]]"
+  - "[[/_Standards/WikiData/WD~Vilyuchinsk_Urban_Okrug,27559913|WD~Vilyuchinsk_Urban_Okrug,27559913]]"
+  - "[[/_Standards/WikiData/WD~Palana_Village,27559918|WD~Palana_Village,27559918]]"
 replaces:
   - "[[_Standards/WikiData/WD~Kamchatka_Oblast,208308]]"
   - "[[_Standards/WikiData/WD~Koryak_Autonomous_Okrug,17094638]]"
+  - "[[/_Standards/WikiData/WD~Kamchatka_Oblast,208308|WD~Kamchatka_Oblast,208308]]"
+  - "[[/_Standards/WikiData/WD~Koryak_Autonomous_Okrug,17094638|WD~Koryak_Autonomous_Okrug,17094638]]"
 highest_point: "[[_Standards/WikiData/WD~Klyuchevskaya_Sopka,210252]]"
 instance_of:
   - "[[_Standards/WikiData/WD~krai_of_Russia,831740]]"
   - "[[_Standards/WikiData/WD~federal_subject_of_Russia,43263]]"
+  - "[[/_Standards/WikiData/WD~krai_of_Russia,831740|WD~krai_of_Russia,831740]]"
+  - "[[/_Standards/WikiData/WD~federal_subject_of_Russia,43263|WD~federal_subject_of_Russia,43263]]"
 flag: "[[_Standards/WikiData/WD~flag_of_Kamchatka_Krai,1987636]]"
 located_in_time_zone:
   - "[[_Standards/WikiData/WD~Kamchatka_Time,2620414]]"
   - "[[_Standards/WikiData/WD~UTC+12_00,7105]]"
+  - "[[/_Standards/WikiData/WD~Kamchatka_Time,2620414|WD~Kamchatka_Time,2620414]]"
+  - "[[/_Standards/WikiData/WD~UTC+12_00,7105|WD~UTC+12_00,7105]]"
 coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Kamchatka_Krai,4136404]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Governor_of_Kamchatka_Krai,4151332]]"
 legislative_body: "[[_Standards/WikiData/WD~Legislative_Assembly_of_Kamchatka_Krai,4184914]]"
 head_of_government:
   - "[[_Standards/WikiData/WD~Vladimir_Ilyukhin,4200054]]"
   - "[[_Standards/WikiData/WD~Vladimir_Solodov,56307085]]"
+  - "[[/_Standards/WikiData/WD~Vladimir_Ilyukhin,4200054|WD~Vladimir_Ilyukhin,4200054]]"
+  - "[[/_Standards/WikiData/WD~Vladimir_Solodov,56307085|WD~Vladimir_Solodov,56307085]]"
 category_for_people_buried_here: "[[_Standards/WikiData/WD~Q7976201,7976201]]"
 category_for_people_born_here: "[[_Standards/WikiData/WD~Q8056148,8056148]]"
 anthem: "[[_Standards/WikiData/WD~Anthem_of_Kamchatka_Krai,16558820]]"
@@ -52,10 +77,15 @@ shares_border_with:
   - "[[_Standards/WikiData/WD~Sakhalin_Oblast,7797]]"
   - "[[_Standards/WikiData/WD~Magadan_Oblast,7971]]"
   - "[[_Standards/WikiData/WD~Chukotka_Autonomous_Okrug,7984]]"
+  - "[[/_Standards/WikiData/WD~Sakhalin_Oblast,7797|WD~Sakhalin_Oblast,7797]]"
+  - "[[/_Standards/WikiData/WD~Magadan_Oblast,7971|WD~Magadan_Oblast,7971]]"
+  - "[[/_Standards/WikiData/WD~Chukotka_Autonomous_Okrug,7984|WD~Chukotka_Autonomous_Okrug,7984]]"
 capital: "[[_Standards/WikiData/WD~Petropavlovsk_Kamchatsky,7951]]"
 language_used:
   - "[[_Standards/WikiData/WD~Alyutor,28213]]"
   - "[[_Standards/WikiData/WD~Koryak,36199]]"
+  - "[[/_Standards/WikiData/WD~Alyutor,28213|WD~Alyutor,28213]]"
+  - "[[/_Standards/WikiData/WD~Koryak,36199|WD~Koryak,36199]]"
 continent: "[[_Standards/WikiData/WD~Asia,48]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Russia,159]]"
 country: "[[_Standards/WikiData/WD~Russia,159]]"
@@ -77,6 +107,15 @@ FIPS_10_4_countries_and_regions_: RS92
 ISO_3166_2_code: RU-KAM
 HASC: RU.KQ
 native_label: Камчатский край
+location:
+  - 53.02
+  - 158.72
+type: State
+tags:
+  - geo/State
+SpocWebEntityId: 37099
+isDeleted: false
+confidential: public
 ---
 
 # [[Kamchatka_Krai]] 
@@ -119,3 +158,24 @@ is_same_as = `=this.dv_is_same_as`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kamchatka_Krai.secret|Kamchatka_Krai.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai.md`
+
+[name::Kamchatka Krai]
+[name-abbr::]
+Country :: [[Russia]]
+Capital :: [[../../Asia~Central/Counties/North_Kazakhstan/City/Petropawlowsk|Petropawlowsk]]
+[geo-lon::158.72]
+[geo-lat::53.02]
+[Population::]
+
+## #has_/map
+
+```leaflet
+id: Kamchatka_Krai
+geojsonFolder: ./Kamchatka_Krai/
+markerFolder: ./Kamchatka_Krai/
+zoomFeatures: true
+minZoom: 4
+maxZoom: 18
+```

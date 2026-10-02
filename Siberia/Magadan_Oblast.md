@@ -64,6 +64,15 @@ area: 465464
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fires%20in%20Magadan%20Region%2C%20Russia%E2%80%99s%20Kolyma%20Mountains%20%28cropped%29.jpg
 inception: 1953-12-03T00:00:00Z
 coordinate location: Point(153.7 62.9)
+location:
+  - 59.5667
+  - 150.8
+type: State
+tags:
+  - geo/State
+SpocWebEntityId: 37138
+isDeleted: false
+confidential: public
 ---
 
 # [[Magadan_Oblast]] 
@@ -107,3 +116,24 @@ is_same_as = `=this.dv_is_same_as`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Magadan_Oblast.secret|Magadan_Oblast.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Magadan_Oblast.md`
+
+[name::Magadan Oblast]
+[name-abbr::]
+Country :: [[Russia]]
+Capital :: [[Magadan]]
+[geo-lon::150.8]
+[geo-lat::59.5667]
+[Population::]
+
+## #has_/map
+
+```leaflet
+id: Magadan_Oblast
+geojsonFolder: ./Magadan_Oblast/
+markerFolder: ./Magadan_Oblast/
+zoomFeatures: true
+minZoom: 2
+maxZoom: 18
+```
