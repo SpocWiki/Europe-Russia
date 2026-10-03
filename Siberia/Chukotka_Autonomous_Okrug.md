@@ -64,6 +64,16 @@ FIPS 10-4 (countries and regions): RS15
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Chukotka.svg
 inception: 1930-12-10T00:00:00Z
 coordinate location: Point(172.001 66.252778)
+location: [64.7333,177.517] 
+type: State
+tags:
+- geo/State
+
+
+SpocWebEntityId: 37200
+isDeleted: false
+confidential: public
+
 ---
 
 is_same_as = `=this.dv_is_same_as`
@@ -105,3 +115,22 @@ is_same_as = `=this.dv_is_same_as`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chukotka_Autonomous_Okrug.secret|Chukotka_Autonomous_Okrug.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug.md`
+
+[name::Chukotka Autonomous Okrug]
+[name-abbr::]
+Country :: [[Russia]]
+Capital :: [[Anadyr]]
+[geo-lon::177.517]
+[geo-lat::64.7333]
+[Population::]
+
+```leaflet
+id: Chukotka_Autonomous_Okrug
+geojsonFolder: ./Chukotka_Autonomous_Okrug/
+markerFolder: ./Chukotka_Autonomous_Okrug/
+zoomFeatures: true
+minZoom: 2
+maxZoom: 18
+```

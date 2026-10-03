@@ -56,6 +56,16 @@ FIPS 10-4 (countries and regions): RS64
 ISO 3166-2 code: RU-SAK
 HASC: RU.SL
 inception: 1932-10-20T00:00:00Z
+location: [46.9667,142.733] 
+type: State
+tags:
+- geo/State
+
+
+SpocWebEntityId: 37186
+isDeleted: false
+confidential: public
+
 ---
 
 is_same_as = `=this.dv_is_same_as`
@@ -97,3 +107,26 @@ is_same_as = `=this.dv_is_same_as`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Sakhalin_Oblast.secret|Sakhalin_Oblast.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast.md`
+
+# [[Sakhalin_Oblast]]
+
+[name::Sakhalin Oblast]
+[name-abbr::]
+Country :: [[Russia]]
+Capital :: [[Yuzhno-Sakhalinsk]]
+[geo-lon::142.733]
+[geo-lat::46.9667]
+[Population::]
+
+## #has_/map
+
+```leaflet
+id: Sakhalin_Oblast
+geojsonFolder: ./Sakhalin_Oblast//
+markerFolder: ./Sakhalin_Oblast/
+zoomFeatures: true
+minZoom: 2
+maxZoom: 18
+```

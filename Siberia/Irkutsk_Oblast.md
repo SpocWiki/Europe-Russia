@@ -106,6 +106,16 @@ geoshape: http://commons.wikimedia.org/data/main/Data:Russia/Irkutsk.map
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D1%8B%D1%81%20%D0%91%D1%83%D1%80%D1%85%D0%B0%D0%BD%20%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B5%202.jpg
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Irkutsk%20Oblast.svg
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Irkutsk%20Oblast.svg
+location: [52.28,104.37] 
+type: State
+tags:
+- geo/State
+
+
+SpocWebEntityId: 37128
+isDeleted: false
+confidential: public
+
 ---
 
 is_same_as = `=this.dv_is_same_as`
@@ -135,3 +145,22 @@ is_same_as = `=this.dv_is_same_as`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Irkutsk_Oblast.secret|Irkutsk_Oblast.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast.md`
+
+[name::Irkutsk Oblast]
+[name-abbr::]
+Country :: [[Russia]]
+Capital :: [[Irkutsk]]
+[geo-lon::104.37]
+[geo-lat::52.28]
+[Population::]
+
+```leaflet
+id: Irkutsk_Oblast
+geojsonFolder: ./Irkutsk_Oblast/
+markerFolder: ./Irkutsk_Oblast/
+zoomFeatures: true
+minZoom: 2
+maxZoom: 18
+```

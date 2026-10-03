@@ -90,6 +90,16 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Novosibirsk%20Glavny%2
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Novosibirskaya%20oblast%20banner.JPG
 official_website: http://www.nso.ru/
 Commons_category: Novosibirsk Oblast
+location: [55.03,82.88] 
+type: State
+tags:
+- geo/State
+
+
+SpocWebEntityId: 37144
+isDeleted: false
+confidential: public
+
 ---
 
 # [[Novosibirsk_Oblast]] 
@@ -124,3 +134,24 @@ is_same_as = `=this.dv_is_same_as`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Novosibirsk_Oblast.secret|Novosibirsk_Oblast.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast.md`
+
+[name::Novosibirsk Oblast]
+[name-abbr::]
+Country :: [[Russia]]
+Capital :: [[Novosibirsk_Oblast/counties~Novosibirsk/Novosibirskiy,Rayon/Novosibirsk|Novosibirsk]]
+[geo-lon::82.88]
+[geo-lat::55.03]
+[Population::]
+
+## #has_/map
+
+```leaflet
+id: Novosibirsk_Oblast
+geojsonFolder: ./Novosibirsk_Oblast/
+markerFolder: ./Novosibirsk_Oblast/
+zoomFeatures: true
+minZoom: 2
+maxZoom: 18
+```

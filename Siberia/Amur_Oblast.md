@@ -89,6 +89,16 @@ licence plate code: 28
 area: 361913
 population: 750083
 Commons category: Amur Oblast
+location: [50.3667,127.517] 
+type: State
+tags:
+- geo/State
+
+
+SpocWebEntityId: 37109
+isDeleted: false
+confidential: public
+
 ---
 
 is_same_as = `=this.dv_is_same_as`
@@ -118,3 +128,22 @@ is_same_as = `=this.dv_is_same_as`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Amur_Oblast.secret|Amur_Oblast.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast.md`
+
+[name::Amur Oblast]
+[name-abbr::]
+Country :: [[Russia]]
+Capital :: [[Blagoveshchensk]]
+[geo-lon::127.517]
+[geo-lat::50.3667]
+[Population::]
+
+```leaflet
+id: Amur_Oblast
+geojsonFolder: ./Amur_Oblast/
+markerFolder: ./Amur_Oblast/
+zoomFeatures: true
+minZoom: 2
+maxZoom: 18
+```

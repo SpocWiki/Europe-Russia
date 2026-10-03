@@ -63,6 +63,16 @@ ISO 3166-2 code: RU-SVE
 HASC: RU.SV
 Facebook username: Sverdlovsk.Oblast
 inception: 1934-01-17T00:00:00Z
+location: [56.83,60.63] 
+type: State
+tags:
+- geo/State
+
+
+SpocWebEntityId: 37188
+isDeleted: false
+confidential: public
+
 ---
 
 is_same_as = `=this.dv_is_same_as`
@@ -96,3 +106,26 @@ is_same_as = `=this.dv_is_same_as`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Sverdlovsk_Oblast.secret|Sverdlovsk_Oblast.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast.md`
+
+# [[Sverdlovsk_Oblast]]
+
+[name::Sverdlovsk Oblast]
+[name-abbr::]
+Country :: [[Russia]]
+Capital :: [[Sverdlovsk_Oblast/counties~Sverdlovsk/Ekaterinburggorsovet/Yekaterinburg|Yekaterinburg]]
+[geo-lon::60.63]
+[geo-lat::56.83]
+[Population::]
+
+## #has_/map
+
+```leaflet
+id: Sverdlovsk_Oblast
+geojsonFolder: ./Sverdlovsk_Oblast//
+markerFolder: ./Sverdlovsk_Oblast//
+zoomFeatures: true
+minZoom: 2
+maxZoom: 18
+```

@@ -68,6 +68,16 @@ ISO_3166_2_code: RU-CHE
 HASC: RU.CL
 P1015: "97035449"
 coordinate_location: Point(61.4 55.16)
+location: [55.17,61.4] 
+type: State
+tags:
+- geo/State
+
+
+SpocWebEntityId: 37196
+isDeleted: false
+confidential: public
+
 ---
 
 # [[Chelyabinsk_Oblast]]
@@ -100,3 +110,22 @@ is_same_as = `=this.dv_is_same_as`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Chelyabinsk_Oblast.secret|Chelyabinsk_Oblast.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast.md`
+
+[name::Chelyabinsk Oblast]
+[name-abbr::]
+Country :: [[Russia]]
+Capital :: [[Chelyabinsk]]
+[geo-lon::61.4]
+[geo-lat::55.17]
+[Population::]
+
+```leaflet
+id: Chelyabinsk_Oblast
+geojsonFolder: ./Chelyabinsk_Oblast/
+markerFolder: ./Chelyabinsk_Oblast/
+zoomFeatures: true
+minZoom: 2
+maxZoom: 18
+```

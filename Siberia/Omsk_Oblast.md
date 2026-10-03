@@ -55,6 +55,16 @@ FIPS 10-4 (countries and regions): RS54
 ISO 3166-2 code: RU-OMS
 HASC: RU.OM
 inception: 1934-12-07T00:00:00Z
+location: [54.98,73.3] 
+type: State
+tags:
+- geo/State
+
+
+SpocWebEntityId: 37145
+isDeleted: false
+confidential: public
+
 ---
 
 is_same_as = `=this.dv_is_same_as`
@@ -94,3 +104,22 @@ is_same_as = `=this.dv_is_same_as`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Omsk_Oblast.secret|Omsk_Oblast.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast.md`
+
+[name::Omsk Oblast]
+[name-abbr::]
+Country :: [[Russia]]
+Capital :: [[Omsk]]
+[geo-lon::73.3]
+[geo-lat::54.98]
+[Population::]
+
+```leaflet
+id: Omsk_Oblast
+geojsonFolder: ./Omsk_Oblast/
+markerFolder: ./Omsk_Oblast/
+zoomFeatures: true
+minZoom: 2
+maxZoom: 18
+```

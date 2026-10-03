@@ -55,6 +55,16 @@ FIPS 10-4 (countries and regions): RS75
 ISO 3166-2 code: RU-TOM
 HASC: RU.TO
 coordinate location: Point(82.133333333 58.75)
+location: [56.5,84.95] 
+type: State
+tags:
+- geo/State
+
+
+SpocWebEntityId: 37192
+isDeleted: false
+confidential: public
+
 ---
 
 is_same_as = `=this.dv_is_same_as`
@@ -93,3 +103,22 @@ is_same_as = `=this.dv_is_same_as`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tomsk_Oblast.secret|Tomsk_Oblast.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tomsk_Oblast.md`
+
+[name::Tomsk Oblast]
+[name-abbr::]
+Country :: [[Russia]]
+Capital :: [[Tomsk]]
+[geo-lon::84.95]
+[geo-lat::56.5]
+[Population::]
+
+```leaflet
+id: Tomsk_Oblast
+geojsonFolder: ./Tomsk_Oblast/
+markerFolder: ./Tomsk_Oblast/
+zoomFeatures: true
+minZoom: 2
+maxZoom: 18
+```

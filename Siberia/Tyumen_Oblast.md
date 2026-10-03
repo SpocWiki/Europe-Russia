@@ -84,6 +84,16 @@ population: 3890800
 Commons category: Tyumen Oblast
 inception: 1944-08-14T00:00:00Z
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tyumen%20Oblast.svg
+location: [57.18,65.5] 
+type: State
+tags:
+- geo/State
+
+
+SpocWebEntityId: 37194
+isDeleted: false
+confidential: public
+
 ---
 
 is_same_as = `=this.dv_is_same_as`
@@ -126,3 +136,22 @@ is_same_as = `=this.dv_is_same_as`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Tyumen_Oblast.secret|Tyumen_Oblast.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast.md`
+
+[name::Tyumen Oblast]
+[name-abbr::]
+Country :: [[Russia]]
+Capital :: [[Tyumen]]
+[geo-lon::65.5]
+[geo-lat::57.18]
+[Population::]
+
+```leaflet
+id: Tyumen_Oblast
+geojsonFolder: ./Tyumen_Oblast/
+markerFolder: ./Tyumen_Oblast/
+zoomFeatures: true
+minZoom: 2
+maxZoom: 18
+```

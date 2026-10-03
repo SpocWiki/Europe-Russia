@@ -93,6 +93,16 @@ inception: 1943-01-26T00:00:00Z
 coordinate location: Point(86.09 55.355)
 official website: http://ako.ru
 geoshape: http://commons.wikimedia.org/data/main/Data:Russia/Kemerovo+Oblast.map
+location: [55.33,86.08] 
+type: State
+tags:
+- geo/State
+
+
+SpocWebEntityId: 37130
+isDeleted: false
+confidential: public
+
 ---
 
 
@@ -118,3 +128,22 @@ geoshape: http://commons.wikimedia.org/data/main/Data:Russia/Kemerovo+Oblast.map
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kemerovo_Oblast.secret|Kemerovo_Oblast.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast.md`
+
+[name::Kemerovo Oblast]
+[name-abbr::]
+Country :: [[Russia]]
+Capital :: [[Kemerove]]
+[geo-lon::86.08]
+[geo-lat::55.33]
+[Population::]
+
+```leaflet
+id: Kemerovo_Oblast
+geojsonFolder: ./Kemerovo_Oblast/
+markerFolder: ./Kemerovo_Oblast/
+zoomFeatures: true
+minZoom: 2
+maxZoom: 18
+```

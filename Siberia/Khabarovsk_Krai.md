@@ -2,6 +2,16 @@
 aliases:
   - Khabarovsk Krai
   - Khabarovsk_Krai
+location: [48.47,135.12] 
+type: State
+tags:
+- geo/State
+
+
+SpocWebEntityId: 37105
+isDeleted: false
+confidential: public
+
 ---
 
 > **Khabarovsk Krai** (Russian: Хабаровский край, romanized: Khabarovskiy kray, IPA: [xɐˈbarəfskʲɪj kraj]) 
@@ -49,3 +59,22 @@ aliases:
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Khabarovsk_Krai.secret|Khabarovsk_Krai.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai.md`
+
+[name::Khabarovsk Krai]
+[name-abbr::]
+Country :: [[Russia]]
+Capital :: [[Chabarowsk]]
+[geo-lon::135.12]
+[geo-lat::48.47]
+[Population::]
+
+```leaflet
+id: Khabarovsk_Krai
+geojsonFolder: ./Khabarovsk_Krai/
+markerFolder: ./Khabarovsk_Krai/
+zoomFeatures: true
+minZoom: 2
+maxZoom: 18
+```

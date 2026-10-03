@@ -68,6 +68,16 @@ native label:
   - Ямало-Ненецкий автономный округ
 short name:
   - ЯНАО
+location: [66.5333,66.6] 
+type: State
+tags:
+- geo/State
+
+
+SpocWebEntityId: 37202
+isDeleted: false
+confidential: public
+
 ---
 
 is_same_as = `=this.dv_is_same_as`
@@ -102,3 +112,26 @@ is_same_as = `=this.dv_is_same_as`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Yamalo-Nenets_Autonomous_Okrug.secret|Yamalo-Nenets_Autonomous_Okrug.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug.md`
+
+# [[Yamalo-Nenets_Autonomous_Okrug]]
+
+[name::Yamalo-Nenets Autonomous Okrug]
+[name-abbr::]
+Country :: [[Russia]]
+Capital :: [[Salekhard]]
+[geo-lon::66.6]
+[geo-lat::66.5333]
+[Population::]
+
+## #has_/map
+
+```leaflet
+id: Yamalo-Nenets_Autonomous_Okrug
+geojsonFolder: ./Yamalo-Nenets_Autonomous_Okrug/
+markerFolder: ./Yamalo-Nenets_Autonomous_Okrug/
+zoomFeatures: true
+minZoom: 2
+maxZoom: 18
+```

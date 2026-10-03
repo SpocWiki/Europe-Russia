@@ -76,6 +76,16 @@ FIPS 10-4 (countries and regions): RS40
 ISO 3166-2 code: RU-KGN
 HASC: RU.KU
 inception: 1943-02-06T00:00:00Z
+location: [55.43,65.38] 
+type: State
+tags:
+- geo/State
+
+
+SpocWebEntityId: 37133
+isDeleted: false
+confidential: public
+
 ---
 
 is_same_as = `=this.dv_is_same_as`
@@ -107,3 +117,22 @@ is_same_as = `=this.dv_is_same_as`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia/Siberia/Kurgan_Oblast.secret|Kurgan_Oblast.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Kurgan_Oblast.md`
+
+[name::Kurgan Oblast]
+[name-abbr::]
+Country :: [[Russia]]
+Capital :: [[Kurgan]]
+[geo-lon::65.38]
+[geo-lat::55.43]
+[Population::]
+
+```leaflet
+id: Kurgan_Oblast
+geojsonFolder: ./Kurgan_Oblast/
+markerFolder: ./Kurgan_Oblast/
+zoomFeatures: true
+minZoom: 2
+maxZoom: 18
+```
