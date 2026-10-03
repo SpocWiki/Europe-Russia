@@ -161,14 +161,6 @@ is_same_as = `=this.dv_is_same_as`
 
 ## Merged from `_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai.md`
 
-[name::Kamchatka Krai]
-[name-abbr::]
-Country :: [[Russia]]
-Capital :: [[../../Asia~Central/Counties/North_Kazakhstan/City/Petropawlowsk|Petropawlowsk]]
-[geo-lon::158.72]
-[geo-lat::53.02]
-[Population::]
-
 ## #has_/map
 
 ```leaflet
